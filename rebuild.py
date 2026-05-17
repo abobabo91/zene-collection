@@ -30,6 +30,14 @@ def has_changes(since: float) -> bool:
                         return True
                 except OSError:
                     continue
+    # Also check if any cataloged files have been moved/deleted
+    catalog_path = HERE / "genre_catalog.json"
+    if catalog_path.exists():
+        import json
+        catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+        for entry in catalog:
+            if not (ZENE / entry["file"]).exists():
+                return True
     return False
 
 
