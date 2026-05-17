@@ -14,10 +14,8 @@ OUTPUT = Path(__file__).parent / "genre_catalog.json"
 
 SKIP_ROOTS = {"new", "new good", "_music_scripts", "_playlists"}
 
-# Files to exclude from the catalog (relative to ZENE, using backslash separators)
-BLOCKLIST = {
-    r"_other\_elektro\hardcore_hardstyle\Bizarring 360_ Dj Hitler - Sieg heil.mp3",
-}
+# Keywords in file paths to exclude (case-insensitive)
+BLOCKLIST_KEYWORDS = {"bizarring"}
 
 REGION_NORM = {
     "_usa other": "usa",
@@ -180,7 +178,7 @@ def main():
             rel = full.relative_to(ZENE)
             if rel.parts[0] in SKIP_ROOTS:
                 continue
-            if str(rel) in BLOCKLIST:
+            if any(kw in str(rel).lower() for kw in BLOCKLIST_KEYWORDS):
                 continue
 
             main_genre, sub_genre = classify(str(rel))
