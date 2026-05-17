@@ -1,0 +1,106 @@
+"""Rebuild genre catalog and mp3 timeline. Only rebuilds if files changed since last run."""
+import csv
+import os
+import subprocess
+import sys
+import time
+from pathlib import Path
+
+HERE = Path(__file__).parent
+ZENE = Path(r"C:\Users\abele\Desktop\zene")
+STATE_FILE = HERE / ".last_rebuild"
+SKIP = {"new", "new good", "_music_scripts", "_playlists"}
+
+
+def get_last_rebuild() -> float:
+    if STATE_FILE.exists():
+        return float(STATE_FILE.read_text().strip())
+    return 0.0
+
+
+def has_changes(since: float) -> bool:
+    for dirpath, dirs, files in os.walk(ZENE):
+        rel = Path(dirpath).relative_to(ZENE)
+        if rel.parts and rel.parts[0] in SKIP:
+            continue
+        for f in files:
+            if f.lower().endswith(".mp3"):
+                try:
+                    if (Path(dirpath) / f).stat().st_mtime > since:
+                        return True
+                except OSError:
+                    continue
+    return False
+
+
+def rebuild_catalog():
+    print("  Rebuilding genre catalog...")
+    r = subprocess.run([sys.executable, "build_catalog.py"], cwd=str(HERE), capture_output=True, text=True)
+    first = r.stdout.strip().split("\n")[0] if r.stdout.strip() else "done"
+    print(f"    {first}")
+
+
+def rebuild_csv():
+    print("  Rebuilding mp3_sorted_filtered.csv...")
+    # PowerShell to scan and sort all mp3s
+    ps_cmd = (
+        "Get-ChildItem -Path 'C:\\Users\\abele\\Desktop\\zene' -Filter *.mp3 -Recurse | "
+        "Where-Object { $_.FullName -notlike 'C:\\Users\\abele\\Desktop\\zene\\new\\*' "
+        "-and $_.FullName -notlike 'C:\\Users\\abele\\Desktop\\zene\\new good\\*' "
+        "-and $_.FullName -notlike 'C:\\Users\\abele\\Desktop\\zene\\_music_scripts\\*' } | "
+        "Sort-Object LastWriteTime -Descending | "
+        "Select-Object FullName, @{Name='LastWriteTime';Expression={$_.LastWriteTime.ToString('yyyy. MM. dd. H:mm:ss')}} | "
+        "Export-Csv -Path '" + str(HERE / "mp3_sorted_filtered_raw.csv") + "' -NoTypeInformation -Encoding UTF8"
+    )
+    subprocess.run(["powershell.exe", "-Command", ps_cmd], capture_output=True)
+
+    # Clean BOM and normalize quoting
+    raw = HERE / "mp3_sorted_filtered_raw.csv"
+    out = HERE / "mp3_sorted_filtered.csv"
+    if raw.exists():
+        text = raw.read_text(encoding="utf-8-sig")
+        lines = text.strip().split("\n")
+        reader = csv.reader(lines)
+        rows = list(reader)
+        with open(out, "w", encoding="utf-8", newline="") as f:
+            writer = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
+            for row in rows:
+                writer.writerow(row)
+        raw.unlink()
+        print(f"    {len(rows)-1} entries")
+
+
+def main():
+    last = get_last_rebuild()
+    now = time.time()
+
+    if last > 0:
+        from datetime import datetime
+        print(f"Last rebuild: {datetime.fromtimestamp(last).strftime('%Y-%m-%d %H:%M')}")
+    else:
+        print("First run — rebuilding everything.")
+
+    if last > 0 and not has_changes(last):
+        print("No new mp3s since last rebuild. Nothing to do.")
+        return
+
+    print("Changes detected. Rebuilding...")
+    rebuild_catalog()
+    rebuild_csv()
+
+    STATE_FILE.write_text(str(now))
+
+    # Git commit + push
+    r = subprocess.run(["git", "status", "--porcelain"], cwd=str(HERE), capture_output=True, text=True)
+    if r.stdout.strip():
+        print("\nCommitting and pushing...")
+        subprocess.run(["git", "add", "-A"], cwd=str(HERE))
+        subprocess.run(["git", "commit", "-m", "Rebuild: new music added"], cwd=str(HERE))
+        subprocess.run(["git", "push"], cwd=str(HERE))
+        print("Pushed to GitHub Pages.")
+    else:
+        print("\nNo data changes to commit.")
+
+
+if __name__ == "__main__":
+    main()
