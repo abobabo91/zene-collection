@@ -19,24 +19,33 @@ def get_last_rebuild() -> float:
 
 
 def has_changes(since: float) -> bool:
+    import json
+    catalog_path = HERE / "genre_catalog.json"
+    cataloged = set()
+    if catalog_path.exists():
+        catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+        cataloged = {entry["file"] for entry in catalog}
+        # Cataloged file moved/deleted from disk → rebuild
+        for f in cataloged:
+            if not (ZENE / f).exists():
+                return True
+
     for dirpath, dirs, files in os.walk(ZENE):
         rel = Path(dirpath).relative_to(ZENE)
         if rel.parts and rel.parts[0] in SKIP:
             continue
         for f in files:
-            if f.lower().endswith(".mp3"):
-                try:
-                    if (Path(dirpath) / f).stat().st_mtime > since:
-                        return True
-                except OSError:
-                    continue
-    # Also check if any cataloged files have been moved/deleted
-    catalog_path = HERE / "genre_catalog.json"
-    if catalog_path.exists():
-        import json
-        catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
-        for entry in catalog:
-            if not (ZENE / entry["file"]).exists():
+            if not f.lower().endswith(".mp3"):
+                continue
+            full = Path(dirpath) / f
+            try:
+                if full.stat().st_mtime > since:
+                    return True
+            except OSError:
+                continue
+            # On-disk mp3 missing from catalog (moved in with old mtime) → rebuild
+            rel_str = str(full.relative_to(ZENE))
+            if cataloged and rel_str not in cataloged:
                 return True
     return False
 
