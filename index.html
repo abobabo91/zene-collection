@@ -72,6 +72,17 @@
     .pill,.rgenre,.rsub{cursor:pointer}
     .rgenre:hover,.rsub:hover{text-decoration:underline}
 
+    .plrow{display:grid;grid-template-columns:90px 1fr 70px 80px;gap:12px;padding:9px 0;
+           border-bottom:1px solid var(--bd);font-size:13px;align-items:center}
+    .plrow:last-child{border-bottom:none}
+    .pldate{color:var(--mt);font-variant-numeric:tabular-nums}
+    .plname{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:500}
+    .plcount{color:var(--mt);font-size:12px;text-align:right}
+    .pllink{text-align:right}
+    .pllink a{color:#ef4444;text-decoration:none;font-size:12px;font-weight:500;
+              padding:3px 10px;border:1px solid #ef444466;border-radius:6px;transition:all .15s}
+    .pllink a:hover{background:#ef444422;border-color:#ef4444}
+
     /* modal */
     .modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:100;justify-content:center;align-items:center}
     .modal-bg.open{display:flex}
@@ -152,6 +163,12 @@
         <div class="empty" id="subE" style="display:none">No sub-genre breakdown for this selection</div>
       </div>
     </div>
+  </div>
+
+  <div class="card" id="playlistsCard" style="display:none">
+    <h2>Recently Liked playlists <span style="font-size:12px;color:var(--mt);font-weight:400">— YouTube playlists from iPhone sync runs</span></h2>
+    <div class="plrow rhead"><span>Date</span><span>Playlist</span><span>Songs</span><span></span></div>
+    <div id="playlists"></div>
   </div>
 
   <div class="card">
@@ -253,6 +270,24 @@ fetch('./genre_catalog.json')
   })
   .catch(e=>{document.querySelector('.wrap').innerHTML=
     `<p style="color:#ef4444">Failed to load genre_catalog.json: ${e.message}<br>Run <code>python serve.py</code> to rebuild &amp; serve.</p>`});
+
+/* ── recently liked playlists ── */
+fetch('./recent_playlists.json')
+  .then(r=>r.ok?r.json():[])
+  .then(list=>{
+    if(!Array.isArray(list)||!list.length)return;
+    list.sort((a,b)=>a.date<b.date?1:-1);
+    $('playlistsCard').style.display='block';
+    $('playlists').innerHTML=list.map(p=>`
+      <div class="plrow">
+        <span class="pldate">${esc(p.date)}</span>
+        <span class="plname" title="${esc(p.name)}">${esc(p.name)}</span>
+        <span class="plcount">${p.songs||'-'}</span>
+        <span class="pllink"><a href="${esc(p.url)}" target="_blank" rel="noopener">Open ▸</a></span>
+      </div>
+    `).join('');
+  })
+  .catch(()=>{});
 
 /* ── pills ── */
 function buildPills(){
