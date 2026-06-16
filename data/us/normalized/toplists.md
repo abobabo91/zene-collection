@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6766`
+Songs: `6787`
 Persons: `1119`
 Groups: `17`
 Labels: `25`
@@ -15,12 +15,12 @@ Unattributed songs: `579`
 | 2 | YoungBoy Never Broke Again | 153 | 150.3 | 151.5 | 150 | 3 | 0 | Louisiana | - | - |
 | 3 | Lil Wayne | 141 | 127.2 | 131.9 | 123 | 18 | 0 | Louisiana | - | - |
 | 4 | Kodak Black | 117 | 113.8 | 115.5 | 113 | 4 | 0 | Florida | - | - |
-| 5 | Future | 107 | 91.6 | 99.7 | 92 | 15 | 0 | Atlanta | - | - |
+| 5 | Future | 110 | 93.9 | 102.0 | 94 | 16 | 0 | Atlanta | - | - |
 | 6 | XXXTentacion | 97 | 96.5 | 97.0 | 97 | 0 | 0 | Florida | - | - |
 | 7 | Young Thug | 108 | 91.8 | 96.0 | 84 | 24 | 0 | Atlanta | YSL | - |
 | 8 | Lil Peep | 89 | 86.5 | 87.0 | 85 | 4 | 0 | California | - | - |
 | 9 | Rich The Kid | 89 | 76.0 | 86.8 | 85 | 4 | 0 | Atlanta | - | - |
-| 10 | Drake | 75 | 64.8 | 67.8 | 62 | 13 | 0 | Toronto | - | - |
+| 10 | Drake | 93 | 81.7 | 85.8 | 80 | 13 | 0 | Toronto | - | - |
 | 11 | 2Pac | 67 | 65.8 | 66.2 | 65 | 2 | 0 | California | - | - |
 | 12 | Jedi Mind Tricks / Vinnie Paz | 66 | 66.0 | 66.0 | 66 | 48 | 0 | Philadelphia | - | - |
 | 13 | Rich Homie Quan | 69 | 64.3 | 64.3 | 59 | 10 | 0 | Atlanta | - | - |
@@ -270,44 +270,44 @@ Unattributed songs: `579`
 | 257 | becky g | 5 | 4.5 | 5.0 | 5 | 0 | 0 | USA | - | - |
 | 258 | Blueface | 5 | 5.0 | 5.0 | 5 | 0 | 0 | California | - | - |
 | 259 | Dame D.O.L.L.A. | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA Other | - | - |
-| 260 | DPONTHEBEAT VOL 3 | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
-| 261 | Flo Rida | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
-| 262 | foolio | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
-| 263 | GloRilla | 5 | 4.2 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
-| 264 | Koopsta Knicca | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
-| 265 | Logic | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
-| 266 | Manage | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA Other | - | - |
-| 267 | Naughty By Nature | 5 | 5.0 | 5.0 | 5 | 0 | 0 | New York | - | - |
-| 268 | No Savage | 5 | 5.0 | 5.0 | 5 | 0 | 0 | DC | - | - |
-| 269 | Paper Route EMPIRE | 5 | 2.0 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
-| 270 | Reo Cragun | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
-| 271 | Rich Gang | 5 | 4.3 | 5.0 | 5 | 0 | 0 | Atlanta | - | - |
-| 272 | Tear Da Club Up Thugs | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
-| 273 | Trapaholics Presents | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Chicago | - | - |
-| 274 | Yo Gotti Mike WiLL Made It | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Memphis | Yo Gotti | - |
-| 275 | Yung Bans | 5 | 4.5 | 5.0 | 5 | 0 | 0 | USA | - | - |
-| 276 | Trey Songz | 6 | 4.2 | 4.8 | 3 | 3 | 0 | USA | - | - |
-| 277 | Wale | 6 | 3.2 | 4.7 | 3 | 3 | 0 | USA | - | - |
-| 278 | Jim Jones | 5 | 3.5 | 4.5 | 4 | 1 | 0 | USA | - | - |
-| 279 | Rocko | 5 | 2.5 | 4.5 | 4 | 1 | 0 | USA | - | - |
-| 280 | Smooky MarGielaa | 5 | 4.5 | 4.5 | 4 | 1 | 0 | USA | - | - |
-| 281 | Styles P | 6 | 4.5 | 4.5 | 3 | 3 | 0 | USA Other | - | - |
-| 282 | Coca Vango | 5 | 3.3 | 4.3 | 4 | 1 | 0 | USA | - | - |
-| 283 | C-Murder | 5 | 4.3 | 4.3 | 4 | 1 | 0 | Louisiana | - | - |
-| 284 | Lil Yachty | 5 | 3.6 | 4.3 | 4 | 1 | 0 | USA | - | - |
-| 285 | $teven Cannon | 5 | 3.8 | 4.2 | 4 | 1 | 0 | California | - | - |
-| 286 | A$AP Ferg | 5 | 4.2 | 4.2 | 3 | 2 | 0 | New York | - | - |
-| 287 | Cormega | 5 | 4.2 | 4.2 | 4 | 1 | 0 | USA Other | - | - |
-| 288 | Travi$ Scott | 5 | 4.2 | 4.2 | 4 | 1 | 0 | USA | - | - |
-| 289 | Ty Dolla $ign | 6 | 4.1 | 4.1 | 3 | 3 | 0 | USA | - | - |
-| 290 | Bahamadia | 4 | 4.0 | 4.0 | 4 | 0 | 0 | New York | - | - |
-| 291 | Black Moon | 4 | 4.0 | 4.0 | 4 | 0 | 0 | New York | - | - |
-| 292 | Bone Thugs-N-Harmony | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA Other | - | - |
-| 293 | Casper TNG | 4 | 2.8 | 4.0 | 4 | 0 | 0 | Toronto | - | - |
-| 294 | Cassie | 4 | 2.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
-| 295 | Common | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA Other | - | - |
-| 296 | Cypress Hill | 4 | 4.0 | 4.0 | 4 | 0 | 0 | California | - | - |
-| 297 | DDG Songs | 4 | 4.0 | 4.0 | 4 | 0 | 0 | Detroit | - | - |
+| 260 | DDG Songs | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Detroit | - | - |
+| 261 | DPONTHEBEAT VOL 3 | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
+| 262 | Flo Rida | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
+| 263 | foolio | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
+| 264 | GloRilla | 5 | 4.2 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
+| 265 | Koopsta Knicca | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
+| 266 | Logic | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
+| 267 | Manage | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA Other | - | - |
+| 268 | Naughty By Nature | 5 | 5.0 | 5.0 | 5 | 0 | 0 | New York | - | - |
+| 269 | No Savage | 5 | 5.0 | 5.0 | 5 | 0 | 0 | DC | - | - |
+| 270 | Paper Route EMPIRE | 5 | 2.0 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
+| 271 | Reo Cragun | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
+| 272 | Rich Gang | 5 | 4.3 | 5.0 | 5 | 0 | 0 | Atlanta | - | - |
+| 273 | Tear Da Club Up Thugs | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
+| 274 | Trapaholics Presents | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Chicago | - | - |
+| 275 | Yo Gotti Mike WiLL Made It | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Memphis | Yo Gotti | - |
+| 276 | Yung Bans | 5 | 4.5 | 5.0 | 5 | 0 | 0 | USA | - | - |
+| 277 | Trey Songz | 6 | 4.2 | 4.8 | 3 | 3 | 0 | USA | - | - |
+| 278 | Wale | 6 | 3.2 | 4.7 | 3 | 3 | 0 | USA | - | - |
+| 279 | Jim Jones | 5 | 3.5 | 4.5 | 4 | 1 | 0 | USA | - | - |
+| 280 | Rocko | 5 | 2.5 | 4.5 | 4 | 1 | 0 | USA | - | - |
+| 281 | Smooky MarGielaa | 5 | 4.5 | 4.5 | 4 | 1 | 0 | USA | - | - |
+| 282 | Styles P | 6 | 4.5 | 4.5 | 3 | 3 | 0 | USA Other | - | - |
+| 283 | Coca Vango | 5 | 3.3 | 4.3 | 4 | 1 | 0 | USA | - | - |
+| 284 | C-Murder | 5 | 4.3 | 4.3 | 4 | 1 | 0 | Louisiana | - | - |
+| 285 | Lil Yachty | 5 | 3.6 | 4.3 | 4 | 1 | 0 | USA | - | - |
+| 286 | $teven Cannon | 5 | 3.8 | 4.2 | 4 | 1 | 0 | California | - | - |
+| 287 | A$AP Ferg | 5 | 4.2 | 4.2 | 3 | 2 | 0 | New York | - | - |
+| 288 | Cormega | 5 | 4.2 | 4.2 | 4 | 1 | 0 | USA Other | - | - |
+| 289 | Travi$ Scott | 5 | 4.2 | 4.2 | 4 | 1 | 0 | USA | - | - |
+| 290 | Ty Dolla $ign | 6 | 4.1 | 4.1 | 3 | 3 | 0 | USA | - | - |
+| 291 | Bahamadia | 4 | 4.0 | 4.0 | 4 | 0 | 0 | New York | - | - |
+| 292 | Black Moon | 4 | 4.0 | 4.0 | 4 | 0 | 0 | New York | - | - |
+| 293 | Bone Thugs-N-Harmony | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA Other | - | - |
+| 294 | Casper TNG | 4 | 2.8 | 4.0 | 4 | 0 | 0 | Toronto | - | - |
+| 295 | Cassie | 4 | 2.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
+| 296 | Common | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA Other | - | - |
+| 297 | Cypress Hill | 4 | 4.0 | 4.0 | 4 | 0 | 0 | California | - | - |
 | 298 | Destroy Lonely | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
 | 299 | EPMD | 4 | 4.0 | 4.0 | 4 | 0 | 0 | New York | - | - |
 | 300 | Famous Dex | 5 | 3.5 | 4.0 | 3 | 2 | 0 | Atlanta | - | - |
@@ -1189,15 +1189,15 @@ Unattributed songs: `579`
 |---|--------|-------|---------|--------|--------|---------|
 | 1 | New York | 1063 | 161 | 4 | 6 | _rap, _trap |
 | 2 | USA | 1008 | 438 | 4 | 5 | _trap |
-| 3 | Atlanta | 944 | 152 | 3 | 8 | _rap, _trap |
+| 3 | Atlanta | 946 | 152 | 3 | 8 | _rap, _trap |
 | 4 | USA Other | 819 | 212 | 6 | 3 | _rap |
 | 5 | California | 574 | 122 | 3 | 1 | _rap, _trap |
 | 6 | Louisiana | 469 | 59 | 1 | 5 | _rap, _trap |
 | 7 | Florida | 454 | 58 | 0 | 2 | _rap, _trap |
 | 8 | Chicago | 362 | 64 | 0 | 3 | _trap |
-| 9 | Detroit | 307 | 18 | 1 | 1 | _rap, _trap |
+| 9 | Detroit | 308 | 18 | 1 | 1 | _rap, _trap |
 | 10 | Memphis | 263 | 52 | 1 | 4 | _rap, _trap |
-| 11 | Toronto | 192 | 26 | 0 | 1 | _trap |
+| 11 | Toronto | 210 | 26 | 0 | 1 | _trap |
 | 12 | Philadelphia | 164 | 14 | 0 | 2 | _rap, _trap |
 | 13 | Texas | 131 | 21 | 3 | 1 | _rap |
 | 14 | DC | 16 | 3 | 1 | 1 | _trap |
