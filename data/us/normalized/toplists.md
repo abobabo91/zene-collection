@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6776`
+Songs: `6787`
 Persons: `1119`
 Groups: `17`
 Labels: `25`
@@ -15,12 +15,12 @@ Unattributed songs: `579`
 | 2 | YoungBoy Never Broke Again | 153 | 150.3 | 151.5 | 150 | 3 | 0 | Louisiana | - | - |
 | 3 | Lil Wayne | 141 | 127.2 | 131.9 | 123 | 18 | 0 | Louisiana | - | - |
 | 4 | Kodak Black | 117 | 113.8 | 115.5 | 113 | 4 | 0 | Florida | - | - |
-| 5 | Future | 109 | 93.6 | 101.7 | 94 | 15 | 0 | Atlanta | - | - |
+| 5 | Future | 110 | 93.9 | 102.0 | 94 | 16 | 0 | Atlanta | - | - |
 | 6 | XXXTentacion | 97 | 96.5 | 97.0 | 97 | 0 | 0 | Florida | - | - |
 | 7 | Young Thug | 108 | 91.8 | 96.0 | 84 | 24 | 0 | Atlanta | YSL | - |
 | 8 | Lil Peep | 89 | 86.5 | 87.0 | 85 | 4 | 0 | California | - | - |
 | 9 | Rich The Kid | 89 | 76.0 | 86.8 | 85 | 4 | 0 | Atlanta | - | - |
-| 10 | Drake | 82 | 71.3 | 74.8 | 69 | 13 | 0 | Toronto | - | - |
+| 10 | Drake | 93 | 81.7 | 85.8 | 80 | 13 | 0 | Toronto | - | - |
 | 11 | 2Pac | 67 | 65.8 | 66.2 | 65 | 2 | 0 | California | - | - |
 | 12 | Jedi Mind Tricks / Vinnie Paz | 66 | 66.0 | 66.0 | 66 | 48 | 0 | Philadelphia | - | - |
 | 13 | Rich Homie Quan | 69 | 64.3 | 64.3 | 59 | 10 | 0 | Atlanta | - | - |
@@ -1197,7 +1197,7 @@ Unattributed songs: `579`
 | 8 | Chicago | 362 | 64 | 0 | 3 | _trap |
 | 9 | Detroit | 308 | 18 | 1 | 1 | _rap, _trap |
 | 10 | Memphis | 263 | 52 | 1 | 4 | _rap, _trap |
-| 11 | Toronto | 199 | 26 | 0 | 1 | _trap |
+| 11 | Toronto | 210 | 26 | 0 | 1 | _trap |
 | 12 | Philadelphia | 164 | 14 | 0 | 2 | _rap, _trap |
 | 13 | Texas | 131 | 21 | 3 | 1 | _rap |
 | 14 | DC | 16 | 3 | 1 | 1 | _trap |
