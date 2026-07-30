@@ -45,6 +45,7 @@ The core challenge: extract structured artist credits from messy, inconsistent f
 - **Feature extraction**: `Drake feat. Rihanna - Take Care.mp3` → primary: Drake, featuring: Rihanna
 - **Folder context**: files in `_trap/atlanta/Young Thug/Punk/` inherit "Young Thug" as artist context
 - **Compilation detection**: folders like `HIPHOPTXL`, `_random`, `Billboard`, `DatPiff` are recognized as compilations where each file's artist comes from the filename, not the folder
+- **Scene-release naming**: `02-bad_meets_evil-fast_lane-fum.mp3` → artist: "Bad Meets Evil", title: "Fast Lane". The generic dash rule reads the leading track number as the artist, rejects it as numeric, and falls back to folder context — which credited a whole Bad Meets Evil EP to Eminem. Only names already known as a group or alias are accepted here, because dashes double as spaces in this style: `15-reel-why-sut` would otherwise invent an artist called "reel", and a bare `d12` would become a person entry competing with the D12 group.
 - **YouTube artifact cleanup**: strip "(Official Video)", "[HD]", "WSHH Exclusive", "- YouTube" suffixes
 - **Billboard catalog prefixes**: strip `2006-005 Shakira` → "Shakira"
 - **Accent normalization**: Hungarian characters (á→a, ő→o, ű→u) for consistent matching
@@ -70,6 +71,8 @@ Each area has a mappings file (`data/<area>/<area>_mappings.md`) that defines:
 Two scoring methods for artist rankings:
 - **Normalized**: each song's credit is split equally among all credited persons (1/N per song)
 - **Adjusted**: solo primary artists get full credit (1.0), group members divide, features get 1/N. Weight overrides customize this per artist-group pair (e.g., Eminem gets 1/3 for D12 songs, 50 Cent gets 1/2 for G-Unit songs)
+
+Overrides live in `GROUP_WEIGHT_OVERRIDES` in `build_toplists.py` and only apply to declared **members** of that group. `Eminem: {D12: 1/3}` sat there inert from the initial commit until 2026-07-30, because the D12 line in the mappings listed Kuniva, Proof, Kon Artis, Bizarre and Swifty but not Eminem — so he had 0 group songs and the override had nothing to weight. When adding an override, check the member list actually contains that person.
 
 ## Scripts
 

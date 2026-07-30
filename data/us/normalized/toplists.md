@@ -2,16 +2,16 @@
 
 Songs: `6832`
 Persons: `1127`
-Groups: `17`
+Groups: `18`
 Labels: `25`
 Regions: `14`
-Unattributed songs: `582`
+Unattributed songs: `581`
 
 ## Persons
 
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
-| 1 | Eminem | 187 | 182.2 | 185.0 | 183 | 4 | 0 | Detroit | - | - |
+| 1 | Eminem | 237 | 188.0 | 199.2 | 178 | 4 | 55 | Detroit | - | Bad Meets Evil, D12 |
 | 2 | YoungBoy Never Broke Again | 153 | 150.3 | 151.5 | 150 | 3 | 0 | Louisiana | - | - |
 | 3 | Lil Wayne | 141 | 127.2 | 131.9 | 123 | 18 | 0 | Louisiana | - | - |
 | 4 | Kodak Black | 118 | 114.2 | 115.8 | 113 | 5 | 0 | Florida | - | - |
@@ -74,18 +74,18 @@ Unattributed songs: `582`
 | 61 | Playboi Carti | 24 | 19.4 | 22.1 | 21 | 3 | 0 | Atlanta | Opium | - |
 | 62 | Havoc | 39 | 21.0 | 22.0 | 5 | 0 | 34 | New York | - | Mobb Deep |
 | 63 | Prodigy | 39 | 22.0 | 22.0 | 4 | 1 | 34 | New York | - | Mobb Deep |
-| 64 | Kevin Gates | 22 | 20.8 | 21.5 | 21 | 1 | 0 | Louisiana | - | - |
-| 65 | Kendrick Lamar | 24 | 21.3 | 21.3 | 19 | 5 | 0 | California | - | - |
-| 66 | King Von | 22 | 20.3 | 21.3 | 21 | 1 | 0 | Chicago | OTF | - |
-| 67 | Rick Ross | 25 | 20.7 | 21.2 | 17 | 8 | 0 | Florida | - | - |
-| 68 | Pop Smoke | 21 | 20.5 | 21.0 | 21 | 0 | 0 | New York | - | - |
-| 69 | The Roots | 21 | 21.0 | 21.0 | 21 | 0 | 0 | USA Other | - | - |
-| 70 | Jadakiss | 24 | 20.1 | 20.6 | 18 | 6 | 0 | New York | - | - |
-| 71 | Xzibit | 21 | 19.3 | 20.3 | 20 | 1 | 0 | California | - | - |
-| 72 | Fetty Wap | 22 | 19.0 | 20.0 | 18 | 4 | 0 | New York | - | - |
-| 73 | The Notorious B.I.G. | 20 | 19.5 | 20.0 | 19 | 1 | 0 | New York | - | - |
-| 74 | Offset | 43 | 19.4 | 19.9 | 9 | 2 | 32 | Atlanta | - | Migos |
-| 75 | Royce Da 5'9" | 20 | 19.2 | 19.2 | 18 | 2 | 0 | Detroit | - | - |
+| 64 | Royce Da 5'9" | 25 | 21.7 | 21.7 | 18 | 2 | 5 | Detroit | - | Bad Meets Evil |
+| 65 | Kevin Gates | 22 | 20.8 | 21.5 | 21 | 1 | 0 | Louisiana | - | - |
+| 66 | Kendrick Lamar | 24 | 21.3 | 21.3 | 19 | 5 | 0 | California | - | - |
+| 67 | King Von | 22 | 20.3 | 21.3 | 21 | 1 | 0 | Chicago | OTF | - |
+| 68 | Rick Ross | 25 | 20.7 | 21.2 | 17 | 8 | 0 | Florida | - | - |
+| 69 | Pop Smoke | 21 | 20.5 | 21.0 | 21 | 0 | 0 | New York | - | - |
+| 70 | The Roots | 21 | 21.0 | 21.0 | 21 | 0 | 0 | USA Other | - | - |
+| 71 | Jadakiss | 24 | 20.1 | 20.6 | 18 | 6 | 0 | New York | - | - |
+| 72 | Xzibit | 21 | 19.3 | 20.3 | 20 | 1 | 0 | California | - | - |
+| 73 | Fetty Wap | 22 | 19.0 | 20.0 | 18 | 4 | 0 | New York | - | - |
+| 74 | The Notorious B.I.G. | 20 | 19.5 | 20.0 | 19 | 1 | 0 | New York | - | - |
+| 75 | Offset | 43 | 19.4 | 19.9 | 9 | 2 | 32 | Atlanta | - | Migos |
 | 76 | Chris Brown | 21 | 11.5 | 19.0 | 16 | 5 | 0 | USA | - | - |
 | 77 | DJ Khaled | 19 | 17.5 | 19.0 | 19 | 0 | 0 | Florida | - | - |
 | 78 | Kool G Rap | 19 | 19.0 | 19.0 | 19 | 0 | 0 | USA Other | - | - |
@@ -120,21 +120,21 @@ Unattributed songs: `582`
 | 107 | NLE Choppa | 17 | 14.8 | 15.2 | 14 | 3 | 0 | Memphis | - | - |
 | 108 | K Camp | 16 | 14.0 | 15.0 | 14 | 2 | 0 | Atlanta | - | - |
 | 109 | Polo G | 15 | 13.8 | 15.0 | 15 | 0 | 0 | Chicago | - | - |
-| 110 | Cardi B | 17 | 14.9 | 14.9 | 14 | 3 | 0 | New York | - | - |
-| 111 | Proof | 54 | 14.8 | 14.8 | 5 | 0 | 49 | Detroit | - | D12 |
-| 112 | Pusha T | 18 | 12.8 | 14.5 | 11 | 5 | 6 | USA Other | - | Clipse |
-| 113 | Quavo | 37 | 14.0 | 14.5 | 3 | 2 | 32 | Atlanta | - | Migos |
-| 114 | AZ | 15 | 14.2 | 14.2 | 14 | 1 | 0 | New York | - | - |
-| 115 | YG | 17 | 13.0 | 14.0 | 12 | 5 | 0 | California | - | - |
-| 116 | Dugg | 14 | 13.5 | 14.0 | 14 | 0 | 0 | Detroit | - | - |
-| 117 | J Cole | 15 | 14.0 | 14.0 | 12 | 3 | 0 | USA Other | - | - |
-| 118 | Macklemore | 14 | 13.5 | 14.0 | 14 | 0 | 0 | USA Other | - | - |
+| 110 | Pusha T | 18 | 13.3 | 15.0 | 12 | 4 | 5 | USA Other | - | Clipse |
+| 111 | Cardi B | 17 | 14.9 | 14.9 | 14 | 3 | 0 | New York | - | - |
+| 112 | Quavo | 37 | 14.0 | 14.5 | 3 | 2 | 32 | Atlanta | - | Migos |
+| 113 | AZ | 15 | 14.2 | 14.2 | 14 | 1 | 0 | New York | - | - |
+| 114 | YG | 17 | 13.0 | 14.0 | 12 | 5 | 0 | California | - | - |
+| 115 | Dugg | 14 | 13.5 | 14.0 | 14 | 0 | 0 | Detroit | - | - |
+| 116 | J Cole | 15 | 14.0 | 14.0 | 12 | 3 | 0 | USA Other | - | - |
+| 117 | Macklemore | 14 | 13.5 | 14.0 | 14 | 0 | 0 | USA Other | - | - |
+| 118 | Ice Cube | 17 | 13.3 | 13.8 | 12 | 1 | 4 | California | - | N.W.A |
 | 119 | Big Sean | 15 | 13.7 | 13.7 | 13 | 2 | 0 | USA | - | - |
 | 120 | RZA | 41 | 13.7 | 13.7 | 10 | 1 | 30 | New York | - | Wu-Tang Clan |
 | 121 | Andre 3000 | 27 | 13.5 | 13.5 | 0 | 0 | 27 | Atlanta | - | Outkast |
 | 122 | Big Boi | 27 | 13.5 | 13.5 | 0 | 0 | 27 | Atlanta | - | Outkast |
-| 123 | Ice Cube | 16 | 13.1 | 13.5 | 12 | 1 | 3 | California | - | N.W.A |
-| 124 | Lil Xan | 14 | 12.8 | 13.5 | 13 | 1 | 0 | California | - | - |
+| 123 | Lil Xan | 14 | 12.8 | 13.5 | 13 | 1 | 0 | California | - | - |
+| 124 | Proof | 55 | 13.3 | 13.3 | 5 | 0 | 50 | Detroit | - | D12 |
 | 125 | Yungeen Ace | 15 | 12.2 | 13.2 | 12 | 3 | 0 | Florida | - | - |
 | 126 | Belly | 13 | 13.0 | 13.0 | 13 | 0 | 0 | Toronto | - | - |
 | 127 | Capone | 26 | 13.0 | 13.0 | 0 | 0 | 26 | New York | - | Capone-N-Noreaga |
@@ -152,49 +152,49 @@ Unattributed songs: `582`
 | 139 | Slim Jxmmi | 24 | 12.0 | 12.0 | 0 | 0 | 24 | Atlanta | - | Rae Sremmurd |
 | 140 | YFN Lucci | 14 | 11.0 | 12.0 | 10 | 4 | 0 | Atlanta | - | - |
 | 141 | Takeoff | 34 | 11.6 | 11.6 | 1 | 1 | 32 | Atlanta | - | Migos |
-| 142 | Ghostface Killah | 38 | 11.3 | 11.3 | 8 | 0 | 30 | New York | - | Wu-Tang Clan |
-| 143 | GZA | 38 | 11.3 | 11.3 | 8 | 0 | 30 | New York | - | Wu-Tang Clan |
-| 144 | Calboy | 11 | 11.0 | 11.0 | 11 | 0 | 0 | Chicago | - | - |
-| 145 | Dr. Dre | 13 | 8.9 | 11.0 | 9 | 1 | 3 | California | - | N.W.A |
+| 142 | Dr. Dre | 14 | 9.1 | 11.3 | 9 | 1 | 4 | California | - | N.W.A |
+| 143 | Ghostface Killah | 38 | 11.3 | 11.3 | 8 | 0 | 30 | New York | - | Wu-Tang Clan |
+| 144 | GZA | 38 | 11.3 | 11.3 | 8 | 0 | 30 | New York | - | Wu-Tang Clan |
+| 145 | Calboy | 11 | 11.0 | 11.0 | 11 | 0 | 0 | Chicago | - | - |
 | 146 | Yeat | 11 | 10.5 | 11.0 | 11 | 0 | 0 | California | - | - |
-| 147 | Kuniva | 50 | 10.8 | 10.8 | 1 | 0 | 49 | Detroit | - | D12 |
+| 147 | Koopsta Knicca | 22 | 10.6 | 10.6 | 5 | 0 | 17 | Memphis | - | Three 6 Mafia |
 | 148 | Method Man | 38 | 10.1 | 10.6 | 7 | 1 | 30 | New York | - | Wu-Tang Clan |
 | 149 | Don toliver | 11 | 10.5 | 10.5 | 10 | 1 | 0 | USA | - | - |
 | 150 | iLoveMakonnen | 13 | 10.5 | 10.5 | 8 | 5 | 0 | Atlanta | - | - |
-| 151 | Juicy J | 20 | 10.3 | 10.3 | 1 | 2 | 17 | Memphis | - | Three 6 Mafia |
-| 152 | Webbie | 11 | 10.3 | 10.3 | 10 | 1 | 0 | Louisiana | - | - |
-| 153 | Big L | 10 | 10.0 | 10.0 | 10 | 0 | 0 | New York | - | - |
-| 154 | Boonk | 10 | 10.0 | 10.0 | 10 | 0 | 0 | Florida | - | - |
-| 155 | Brennan Savage | 10 | 10.0 | 10.0 | 10 | 0 | 0 | USA | - | - |
-| 156 | Dilated Peoples Discography | 10 | 10.0 | 10.0 | 10 | 0 | 0 | USA Other | - | - |
-| 157 | Dj Smokey | 10 | 9.5 | 10.0 | 10 | 0 | 0 | Memphis | - | - |
-| 158 | Mozzy | 10 | 7.2 | 10.0 | 10 | 0 | 0 | USA | - | - |
-| 159 | Shy Glizzy | 10 | 10.0 | 10.0 | 10 | 0 | 0 | DC | - | - |
-| 160 | Bizarre | 49 | 9.8 | 9.8 | 0 | 0 | 49 | Detroit | - | D12 |
-| 161 | Kon Artis | 49 | 9.8 | 9.8 | 0 | 0 | 49 | Detroit | - | D12 |
-| 162 | Swifty | 49 | 9.8 | 9.8 | 0 | 0 | 49 | Detroit | - | D12 |
-| 163 | SchoolBoy Q | 10 | 9.5 | 9.5 | 9 | 1 | 0 | USA | - | - |
-| 164 | DaBaby | 10 | 8.8 | 9.3 | 9 | 1 | 0 | USA | - | - |
-| 165 | Duvy | 9 | 8.5 | 9.0 | 9 | 0 | 0 | Toronto | - | - |
-| 166 | KYYNGG | 9 | 8.5 | 9.0 | 9 | 0 | 0 | Atlanta | - | - |
-| 167 | L A Capone | 9 | 6.8 | 9.0 | 9 | 0 | 0 | Chicago | - | - |
-| 168 | Lud Foe | 9 | 9.0 | 9.0 | 9 | 0 | 0 | Chicago | - | - |
-| 169 | MAJID JORDAN | 9 | 9.0 | 9.0 | 9 | 0 | 0 | Toronto | - | - |
-| 170 | Thugga Massina | 9 | 8.0 | 9.0 | 9 | 0 | 0 | USA | - | - |
-| 171 | Lil Gotit | 10 | 8.1 | 8.6 | 8 | 2 | 0 | Atlanta | - | - |
-| 172 | Nate Dogg | 11 | 7.8 | 8.5 | 7 | 4 | 0 | California | - | - |
-| 173 | DJ Paul | 17 | 8.3 | 8.3 | 0 | 0 | 17 | Memphis | - | Three 6 Mafia |
-| 174 | Ol' Dirty Bastard | 35 | 7.8 | 8.3 | 5 | 0 | 30 | New York | - | Wu-Tang Clan |
-| 175 | Big Pun | 8 | 8.0 | 8.0 | 8 | 0 | 0 | New York | - | - |
-| 176 | Diddy | 8 | 7.5 | 8.0 | 8 | 0 | 0 | New York | - | - |
-| 177 | Night Lovell | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
-| 178 | Philthy Rich | 8 | 8.0 | 8.0 | 8 | 0 | 0 | California | - | - |
-| 179 | Rakim | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA Other | - | - |
-| 180 | Saint Jhn | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
-| 181 | SpaceGhostPurrp | 8 | 8.0 | 8.0 | 8 | 0 | 0 | Florida | - | - |
-| 182 | Bushwick Bill | 24 | 8.0 | 8.0 | 0 | 0 | 24 | Texas | - | Geto Boys |
-| 183 | Willie D | 24 | 8.0 | 8.0 | 0 | 0 | 24 | Texas | - | Geto Boys |
-| 184 | Kurupt | 9 | 7.7 | 7.7 | 7 | 2 | 0 | USA Other | - | - |
+| 151 | Webbie | 11 | 10.3 | 10.3 | 10 | 1 | 0 | Louisiana | - | - |
+| 152 | Big L | 10 | 10.0 | 10.0 | 10 | 0 | 0 | New York | - | - |
+| 153 | Boonk | 10 | 10.0 | 10.0 | 10 | 0 | 0 | Florida | - | - |
+| 154 | Brennan Savage | 10 | 10.0 | 10.0 | 10 | 0 | 0 | USA | - | - |
+| 155 | Dilated Peoples Discography | 10 | 10.0 | 10.0 | 10 | 0 | 0 | USA Other | - | - |
+| 156 | Dj Smokey | 10 | 9.5 | 10.0 | 10 | 0 | 0 | Memphis | - | - |
+| 157 | Mozzy | 10 | 7.2 | 10.0 | 10 | 0 | 0 | USA | - | - |
+| 158 | Shy Glizzy | 10 | 10.0 | 10.0 | 10 | 0 | 0 | DC | - | - |
+| 159 | SchoolBoy Q | 10 | 9.5 | 9.5 | 9 | 1 | 0 | USA | - | - |
+| 160 | Kuniva | 51 | 9.3 | 9.3 | 1 | 0 | 50 | Detroit | - | D12 |
+| 161 | DaBaby | 10 | 8.8 | 9.3 | 9 | 1 | 0 | USA | - | - |
+| 162 | Duvy | 9 | 8.5 | 9.0 | 9 | 0 | 0 | Toronto | - | - |
+| 163 | KYYNGG | 9 | 8.5 | 9.0 | 9 | 0 | 0 | Atlanta | - | - |
+| 164 | L A Capone | 9 | 6.8 | 9.0 | 9 | 0 | 0 | Chicago | - | - |
+| 165 | Lud Foe | 9 | 9.0 | 9.0 | 9 | 0 | 0 | Chicago | - | - |
+| 166 | MAJID JORDAN | 9 | 9.0 | 9.0 | 9 | 0 | 0 | Toronto | - | - |
+| 167 | Thugga Massina | 9 | 8.0 | 9.0 | 9 | 0 | 0 | USA | - | - |
+| 168 | Lil Gotit | 10 | 8.1 | 8.6 | 8 | 2 | 0 | Atlanta | - | - |
+| 169 | Nate Dogg | 11 | 7.8 | 8.5 | 7 | 4 | 0 | California | - | - |
+| 170 | Bizarre | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
+| 171 | Kon Artis | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
+| 172 | Swifty | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
+| 173 | Ol' Dirty Bastard | 35 | 7.8 | 8.3 | 5 | 0 | 30 | New York | - | Wu-Tang Clan |
+| 174 | Big Pun | 8 | 8.0 | 8.0 | 8 | 0 | 0 | New York | - | - |
+| 175 | Diddy | 8 | 7.5 | 8.0 | 8 | 0 | 0 | New York | - | - |
+| 176 | Night Lovell | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
+| 177 | Philthy Rich | 8 | 8.0 | 8.0 | 8 | 0 | 0 | California | - | - |
+| 178 | Rakim | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA Other | - | - |
+| 179 | Saint Jhn | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
+| 180 | SpaceGhostPurrp | 8 | 8.0 | 8.0 | 8 | 0 | 0 | Florida | - | - |
+| 181 | Bushwick Bill | 24 | 8.0 | 8.0 | 0 | 0 | 24 | Texas | - | Geto Boys |
+| 182 | Willie D | 24 | 8.0 | 8.0 | 0 | 0 | 24 | Texas | - | Geto Boys |
+| 183 | Kurupt | 9 | 7.7 | 7.7 | 7 | 2 | 0 | USA Other | - | - |
+| 184 | Juicy J | 20 | 7.6 | 7.6 | 1 | 2 | 17 | Memphis | - | Three 6 Mafia |
 | 185 | Chinx Drugz | 8 | 7.5 | 7.5 | 7 | 1 | 0 | New York | - | - |
 | 186 | Juelz santana | 8 | 7.5 | 7.5 | 7 | 1 | 0 | USA Other | - | - |
 | 187 | Lil Keke | 8 | 7.5 | 7.5 | 7 | 1 | 0 | Texas | - | - |
@@ -210,22 +210,22 @@ Unattributed songs: `582`
 | 197 | A$AP Mob | 7 | 7.0 | 7.0 | 7 | 0 | 0 | New York | - | - |
 | 198 | Anno Domini Beats | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
 | 199 | Chamillionaire | 7 | 6.5 | 7.0 | 7 | 0 | 0 | Texas | - | - |
-| 200 | Eazy-E | 9 | 6.6 | 7.0 | 6 | 0 | 3 | California | - | N.W.A |
-| 201 | Goodie Mob | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
-| 202 | Internet Money | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
-| 203 | J Dilla | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
-| 204 | Jackboy | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Florida | - | - |
-| 205 | KRS-One | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
-| 206 | LL Cool J | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
-| 207 | PMD | 7 | 2.3 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
-| 208 | Ralo | 7 | 6.5 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
-| 209 | Soulja Slim | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Louisiana | - | - |
-| 210 | Tommy Richman | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
-| 211 | RondoNumbaNine | 8 | 5.8 | 6.8 | 6 | 2 | 0 | Chicago | - | - |
-| 212 | Soulja Boy | 8 | 5.3 | 6.8 | 6 | 2 | 0 | Atlanta | - | - |
-| 213 | Blac Youngsta | 8 | 6.5 | 6.5 | 5 | 3 | 0 | Memphis | - | - |
-| 214 | G Herbo | 7 | 4.8 | 6.5 | 6 | 1 | 0 | Chicago | - | - |
-| 215 | Doja Cat | 7 | 5.8 | 6.3 | 6 | 1 | 0 | USA | - | - |
+| 200 | Goodie Mob | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
+| 201 | Internet Money | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
+| 202 | J Dilla | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
+| 203 | Jackboy | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Florida | - | - |
+| 204 | KRS-One | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
+| 205 | LL Cool J | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
+| 206 | PMD | 7 | 2.3 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
+| 207 | Ralo | 7 | 6.5 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
+| 208 | Soulja Slim | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Louisiana | - | - |
+| 209 | Tommy Richman | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
+| 210 | RondoNumbaNine | 8 | 5.8 | 6.8 | 6 | 2 | 0 | Chicago | - | - |
+| 211 | Soulja Boy | 8 | 5.3 | 6.8 | 6 | 2 | 0 | Atlanta | - | - |
+| 212 | Blac Youngsta | 8 | 6.5 | 6.5 | 5 | 3 | 0 | Memphis | - | - |
+| 213 | G Herbo | 7 | 4.8 | 6.5 | 6 | 1 | 0 | Chicago | - | - |
+| 214 | Doja Cat | 7 | 5.8 | 6.3 | 6 | 1 | 0 | USA | - | - |
+| 215 | Eazy-E | 9 | 5.8 | 6.3 | 5 | 0 | 4 | California | - | N.W.A |
 | 216 | Waka Flocka Flame | 8 | 6.2 | 6.2 | 5 | 3 | 0 | Atlanta | - | - |
 | 217 | 8Ball MJG | 6 | 6.0 | 6.0 | 6 | 0 | 0 | Memphis | 8Ball & MJG | - |
 | 218 | Asap Rocky | 6 | 5.5 | 6.0 | 6 | 0 | 0 | USA | - | - |
@@ -254,29 +254,29 @@ Unattributed songs: `582`
 | 241 | Yung Lean | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
 | 242 | YBN Nahmir | 7 | 5.8 | 5.8 | 5 | 2 | 0 | USA | - | - |
 | 243 | Metro Boomin | 10 | 5.1 | 5.6 | 2 | 8 | 0 | Atlanta | - | - |
-| 244 | 50 Cent | 11 | 2.8 | 5.5 | 0 | 0 | 11 | New York | - | G-Unit |
-| 245 | FBG Duck | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Chicago | - | - |
-| 246 | Jim Jones | 6 | 4.5 | 5.5 | 4 | 2 | 0 | USA | - | - |
-| 247 | M-1 | 11 | 5.5 | 5.5 | 0 | 0 | 11 | USA Other | - | Dead Prez |
-| 248 | Mannie Fresh | 9 | 5.5 | 5.5 | 2 | 0 | 7 | Louisiana | - | Big Tymers |
-| 249 | Nav | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Toronto | - | - |
-| 250 | Smokepurpp | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Florida | - | - |
-| 251 | stic.man | 11 | 5.5 | 5.5 | 0 | 0 | 11 | USA Other | - | Dead Prez |
-| 252 | Tabius Tate | 6 | 4.0 | 5.5 | 5 | 1 | 0 | USA | - | - |
-| 253 | Jeremih | 7 | 3.8 | 5.3 | 3 | 4 | 0 | USA | - | - |
-| 254 | Masta Killa | 32 | 5.3 | 5.3 | 2 | 0 | 30 | New York | - | Wu-Tang Clan |
-| 255 | $NOT | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
-| 256 | 22Gz | 5 | 5.0 | 5.0 | 5 | 0 | 0 | New York | - | - |
-| 257 | becky g | 5 | 4.5 | 5.0 | 5 | 0 | 0 | USA | - | - |
-| 258 | Blueface | 5 | 5.0 | 5.0 | 5 | 0 | 0 | California | - | - |
-| 259 | Dame D.O.L.L.A. | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA Other | - | - |
-| 260 | DDG Songs | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Detroit | - | - |
-| 261 | Denzel Curry | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
-| 262 | DPONTHEBEAT VOL 3 | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
-| 263 | Flo Rida | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
-| 264 | foolio | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
-| 265 | GloRilla | 5 | 4.2 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
-| 266 | Koopsta Knicca | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
+| 244 | DJ Paul | 17 | 5.6 | 5.6 | 0 | 0 | 17 | Memphis | - | Three 6 Mafia |
+| 245 | 50 Cent | 11 | 2.8 | 5.5 | 0 | 0 | 11 | New York | - | G-Unit |
+| 246 | FBG Duck | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Chicago | - | - |
+| 247 | Jim Jones | 6 | 4.5 | 5.5 | 4 | 2 | 0 | USA | - | - |
+| 248 | M-1 | 11 | 5.5 | 5.5 | 0 | 0 | 11 | USA Other | - | Dead Prez |
+| 249 | Mannie Fresh | 9 | 5.5 | 5.5 | 2 | 0 | 7 | Louisiana | - | Big Tymers |
+| 250 | Nav | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Toronto | - | - |
+| 251 | Smokepurpp | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Florida | - | - |
+| 252 | stic.man | 11 | 5.5 | 5.5 | 0 | 0 | 11 | USA Other | - | Dead Prez |
+| 253 | Tabius Tate | 6 | 4.0 | 5.5 | 5 | 1 | 0 | USA | - | - |
+| 254 | Jeremih | 7 | 3.8 | 5.3 | 3 | 4 | 0 | USA | - | - |
+| 255 | Masta Killa | 32 | 5.3 | 5.3 | 2 | 0 | 30 | New York | - | Wu-Tang Clan |
+| 256 | $NOT | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
+| 257 | 22Gz | 5 | 5.0 | 5.0 | 5 | 0 | 0 | New York | - | - |
+| 258 | becky g | 5 | 4.5 | 5.0 | 5 | 0 | 0 | USA | - | - |
+| 259 | Blueface | 5 | 5.0 | 5.0 | 5 | 0 | 0 | California | - | - |
+| 260 | Dame D.O.L.L.A. | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA Other | - | - |
+| 261 | DDG Songs | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Detroit | - | - |
+| 262 | Denzel Curry | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
+| 263 | DPONTHEBEAT VOL 3 | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
+| 264 | Flo Rida | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
+| 265 | foolio | 5 | 5.0 | 5.0 | 5 | 0 | 0 | Florida | - | - |
+| 266 | GloRilla | 5 | 4.2 | 5.0 | 5 | 0 | 0 | Memphis | - | - |
 | 267 | Logic | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA | - | - |
 | 268 | Manage | 5 | 5.0 | 5.0 | 5 | 0 | 0 | USA Other | - | - |
 | 269 | Naughty By Nature | 5 | 5.0 | 5.0 | 5 | 0 | 0 | New York | - | - |
@@ -385,24 +385,24 @@ Unattributed songs: `582`
 | 372 | Moneybagg Yo NBA Youngboy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Louisiana | Moneybagg Yo | - |
 | 373 | morray | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
 | 374 | Mos Def | 3 | 2.3 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 375 | No Malice | 6 | 3.0 | 3.0 | 0 | 0 | 6 | USA Other | - | Clipse |
-| 376 | Pooh Shiesty | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Atlanta | - | - |
-| 377 | SD | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
-| 378 | Shawty Lo | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 379 | Skillz | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 380 | Warren G | 3 | 2.5 | 3.0 | 3 | 0 | 0 | California | - | - |
-| 381 | Young M.a | 4 | 3.0 | 3.0 | 2 | 2 | 0 | USA | - | - |
-| 382 | Young Pappy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
-| 383 | The Weeknd | 4 | 2.3 | 2.8 | 2 | 2 | 0 | USA | - | - |
-| 384 | Dave East | 4 | 2.8 | 2.8 | 2 | 2 | 0 | USA | - | - |
-| 385 | $crim | 9 | 2.7 | 2.7 | 0 | 0 | 9 | California | - | $uicideboy$ |
-| 386 | $UICIDEBOY$ | 9 | 2.7 | 2.7 | 9 | 0 | 0 | California | - | - |
-| 387 | Ruby da Cherry | 9 | 2.7 | 2.7 | 0 | 0 | 9 | California | - | $uicideboy$ |
-| 388 | Big Boogie | 3 | 2.5 | 2.5 | 2 | 1 | 0 | Memphis | - | - |
-| 389 | Chance The Rapper | 3 | 2.0 | 2.5 | 2 | 1 | 0 | USA | - | - |
-| 390 | Edai | 3 | 2.5 | 2.5 | 2 | 1 | 0 | Chicago | - | - |
-| 391 | Julia Alexa | 4 | 2.0 | 2.5 | 1 | 3 | 0 | USA | - | - |
-| 392 | Lil Tracy | 3 | 2.0 | 2.5 | 2 | 1 | 0 | California | - | - |
+| 375 | Pooh Shiesty | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Atlanta | - | - |
+| 376 | SD | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
+| 377 | Shawty Lo | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 378 | Skillz | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 379 | Warren G | 3 | 2.5 | 3.0 | 3 | 0 | 0 | California | - | - |
+| 380 | Young M.a | 4 | 3.0 | 3.0 | 2 | 2 | 0 | USA | - | - |
+| 381 | Young Pappy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
+| 382 | The Weeknd | 4 | 2.3 | 2.8 | 2 | 2 | 0 | USA | - | - |
+| 383 | Dave East | 4 | 2.8 | 2.8 | 2 | 2 | 0 | USA | - | - |
+| 384 | $crim | 9 | 2.7 | 2.7 | 0 | 0 | 9 | California | - | $uicideboy$ |
+| 385 | $UICIDEBOY$ | 9 | 2.7 | 2.7 | 9 | 0 | 0 | California | - | - |
+| 386 | Ruby da Cherry | 9 | 2.7 | 2.7 | 0 | 0 | 9 | California | - | $uicideboy$ |
+| 387 | Big Boogie | 3 | 2.5 | 2.5 | 2 | 1 | 0 | Memphis | - | - |
+| 388 | Chance The Rapper | 3 | 2.0 | 2.5 | 2 | 1 | 0 | USA | - | - |
+| 389 | Edai | 3 | 2.5 | 2.5 | 2 | 1 | 0 | Chicago | - | - |
+| 390 | Julia Alexa | 4 | 2.0 | 2.5 | 1 | 3 | 0 | USA | - | - |
+| 391 | Lil Tracy | 3 | 2.0 | 2.5 | 2 | 1 | 0 | California | - | - |
+| 392 | No Malice | 5 | 2.5 | 2.5 | 0 | 0 | 5 | USA Other | - | Clipse |
 | 393 | The-Dream | 3 | 1.5 | 2.5 | 2 | 1 | 0 | USA | - | - |
 | 394 | Troy Ave | 3 | 2.5 | 2.5 | 2 | 1 | 0 | USA | - | - |
 | 395 | Jae Millz | 4 | 1.9 | 2.4 | 2 | 2 | 0 | USA | - | - |
@@ -1136,14 +1136,14 @@ Unattributed songs: `582`
 | 1123 | Zae NumbaFive | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
 | 1124 | Zoey Dollaz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
 | 1125 | Zonnique | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1126 | DJ Yella | 3 | 0.6 | 0.6 | 0 | 0 | 3 | USA Other | - | N.W.A |
-| 1127 | MC Ren | 3 | 0.6 | 0.6 | 0 | 0 | 3 | USA Other | - | N.W.A |
+| 1126 | DJ Yella | 4 | 0.8 | 0.8 | 0 | 0 | 4 | USA Other | - | N.W.A |
+| 1127 | MC Ren | 4 | 0.8 | 0.8 | 0 | 0 | 4 | USA Other | - | N.W.A |
 
 ## Groups
 
 | # | Group | Songs | Members | Top Region | Labels |
 |---|-------|-------|---------|------------|--------|
-| 1 | D12 | 49 | Bizarre, Kon Artis, Kuniva, Proof, Swifty | Detroit | - |
+| 1 | D12 | 50 | Bizarre, Eminem, Kon Artis, Kuniva, Proof, Swifty | Detroit | - |
 | 2 | Mobb Deep | 34 | Havoc, Prodigy | New York | - |
 | 3 | Migos | 32 | Offset, Quavo, Takeoff | Atlanta | QC |
 | 4 | Wu-Tang Clan | 30 | Ghostface Killah, GZA, Inspectah Deck, Masta Killa, Method Man, Ol' Dirty Bastard, Raekwon, RZA, U-God | New York | - |
@@ -1151,15 +1151,16 @@ Unattributed songs: `582`
 | 6 | Capone-N-Noreaga | 26 | Capone, N.O.R.E. | New York | - |
 | 7 | Geto Boys | 24 | Bushwick Bill, Scarface, Willie D | Texas | - |
 | 8 | Rae Sremmurd | 24 | Slim Jxmmi, Swae Lee | Atlanta | - |
-| 9 | Three 6 Mafia | 17 | DJ Paul, Juicy J | Memphis | - |
+| 9 | Three 6 Mafia | 17 | DJ Paul, Juicy J, Koopsta Knicca | Memphis | - |
 | 10 | Dead Prez | 11 | M-1, stic.man | USA Other | - |
 | 11 | G-Unit | 11 | 50 Cent, Lloyd Banks, Tony Yayo, Young Buck | New York | - |
 | 12 | UGK | 11 | Bun B, Pimp C | Texas | - |
 | 13 | $uicideboy$ | 9 | $crim, Ruby da Cherry | California | - |
 | 14 | Big Tymers | 7 | Birdman, Mannie Fresh | Louisiana | - |
-| 15 | Clipse | 6 | No Malice, Pusha T | USA Other | - |
-| 16 | N.W.A | 3 | DJ Yella, Dr. Dre, Eazy-E, Ice Cube, MC Ren | USA Other | - |
-| 17 | D-Block Europe | 0 | Dirtbike LB, Young Adz | - | - |
+| 15 | Bad Meets Evil | 5 | Eminem, Royce Da 5'9" | Detroit | - |
+| 16 | Clipse | 5 | No Malice, Pusha T | USA Other | - |
+| 17 | N.W.A | 4 | DJ Yella, Dr. Dre, Eazy-E, Ice Cube, MC Ren | USA Other | - |
+| 18 | D-Block Europe | 0 | Dirtbike LB, Young Adz | - | - |
 
 ## Labels
 
@@ -1203,7 +1204,7 @@ Unattributed songs: `582`
 | 6 | Louisiana | 469 | 59 | 1 | 5 | _rap, _trap |
 | 7 | Florida | 453 | 58 | 0 | 2 | _rap, _trap |
 | 8 | Chicago | 366 | 65 | 0 | 3 | _trap |
-| 9 | Detroit | 314 | 20 | 1 | 2 | _rap, _trap |
+| 9 | Detroit | 314 | 20 | 2 | 2 | _rap, _trap |
 | 10 | Memphis | 263 | 52 | 1 | 4 | _rap, _trap |
 | 11 | Toronto | 212 | 27 | 0 | 1 | _trap |
 | 12 | Philadelphia | 164 | 14 | 0 | 2 | _rap, _trap |

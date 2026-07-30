@@ -139,13 +139,14 @@ Starter examples:
 - `Clipse: Pusha T, No Malice`
 - `Mobb Deep: Prodigy, Havoc`
 - `D12: Eminem, Kuniva, Proof, Kon Artis, Bizarre, Swifty`
+- `Bad Meets Evil: Eminem, Royce Da 5'9"`
 - `Wu-Tang Clan: RZA, GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, Masta Killa`
 - `Geto Boys: Scarface, Willie D, Bushwick Bill`
 - `N.W.A: Ice Cube, Dr. Dre, Eazy-E, MC Ren, DJ Yella`
 - `Big Tymers: Birdman, Mannie Fresh`
 - `Outkast: Andre 3000, Big Boi`
 - `UGK: Bun B, Pimp C`
-- `Three 6 Mafia: Juicy J, DJ Paul`
+- `Three 6 Mafia: Juicy J, DJ Paul, Koopsta Knicca`
 - `Dead Prez: stic.man, M-1`
 - `$uicideboy$: Ruby da Cherry, $crim`
 

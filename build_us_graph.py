@@ -287,8 +287,45 @@ def first_artist_context(path_parts: list[str], mappings: dict) -> str | None:
     return None
 
 
-def infer_credit_from_loose_stem(filename: str) -> tuple[str | None, str | None]:
+def infer_credit_from_scene_stem(stem: str, mappings: dict) -> tuple[str | None, str | None]:
+    """Scene-release naming: 'NN-artist-title-releasegroup'.
+
+    '02-bad_meets_evil-fast_lane-fum' is Bad Meets Evil, not the folder's artist. The
+    generic dash rule cannot read these: it takes the leading track number as the artist,
+    rejects it as numeric, and falls through to folder context - which is how a whole
+    Bad Meets Evil EP ended up credited to Eminem.
+
+    Only names already known as a group or an alias are accepted. In this naming style
+    dashes double as spaces, so any word can look like the artist slot: '15-reel-why-sut'
+    would otherwise invent an artist called "reel", and a bare 'd12' would become a
+    person entry competing with the D12 group.
+    """
+    segments = [segment.strip() for segment in stem.split("-")]
+    if len(segments) < 4 or not segments[0].isdigit():
+        return None, None
+    if not re.fullmatch(r"[a-z0-9]{2,6}", segments[-1], re.IGNORECASE):
+        return None, None
+    left = clean_artist_text(segments[1])
+    right = clean_title(" ".join(segment for segment in segments[2:-1] if segment))
+    left_key = normalize_key(left)
+    if not left or not right or left_key.isdigit():
+        return None, None
+
+    group_name = mappings["group_lookup"].get(left_key)
+    if group_name:
+        return group_name, right
+    alias_name = mappings["alias_lookup"].get(left_key)
+    if alias_name:
+        return alias_name, right
+    return None, None
+
+
+def infer_credit_from_loose_stem(filename: str, mappings: dict) -> tuple[str | None, str | None]:
     stem = UNICODE_DASH_RE.sub("-", Path(filename).stem).replace("_", " ").strip()
+
+    scene_left, scene_right = infer_credit_from_scene_stem(stem, mappings)
+    if scene_left:
+        return scene_left, scene_right
 
     compact_dash = re.match(r"^([^-\[\(]{2,80}?)\s*-\s*(.+)$", stem)
     if compact_dash:
@@ -325,7 +362,7 @@ def infer_credit_and_title(path_parts: list[str], filename: str, mappings: dict)
         if artist_context and normalize_key(prefix_clean) == normalize_key(artist_context):
             return artist_context, suffix_clean
 
-    loose_credit, loose_title = infer_credit_from_loose_stem(filename)
+    loose_credit, loose_title = infer_credit_from_loose_stem(filename, mappings)
     if loose_credit and loose_title:
         return loose_credit, loose_title
 

@@ -37,6 +37,35 @@
     ],
     "feature_song_ids": []
   },
+  "Bad Meets Evil": {
+    "type": "group",
+    "members": [
+      "Eminem",
+      "Royce Da 5'9\""
+    ],
+    "labels": [],
+    "regions": [
+      "Detroit"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-01261",
+      "u-01262",
+      "u-01263",
+      "u-01264",
+      "u-01265"
+    ],
+    "primary_song_ids": [
+      "u-01261",
+      "u-01262",
+      "u-01263",
+      "u-01264",
+      "u-01265"
+    ],
+    "feature_song_ids": []
+  },
   "Big Tymers": {
     "type": "group",
     "members": [
@@ -160,16 +189,14 @@
       "u-00446",
       "u-00447",
       "u-00457",
-      "u-00458",
-      "u-00459"
+      "u-00458"
     ],
     "primary_song_ids": [
       "u-00445",
       "u-00446",
       "u-00447",
       "u-00457",
-      "u-00458",
-      "u-00459"
+      "u-00458"
     ],
     "feature_song_ids": []
   },
@@ -221,6 +248,7 @@
       "u-01223",
       "u-01224",
       "u-01225",
+      "u-01226",
       "u-01227",
       "u-01228",
       "u-01229",
@@ -272,6 +300,7 @@
       "u-01223",
       "u-01224",
       "u-01225",
+      "u-01226",
       "u-01227",
       "u-01228",
       "u-01229",
@@ -658,12 +687,14 @@
     "song_ids": [
       "u-00312",
       "u-00315",
-      "u-01024"
+      "u-01024",
+      "u-01071"
     ],
     "primary_song_ids": [
       "u-00312",
       "u-00315",
-      "u-01024"
+      "u-01024",
+      "u-01071"
     ],
     "feature_song_ids": []
   },
@@ -813,7 +844,8 @@
     "type": "group",
     "members": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "labels": [],
     "regions": [

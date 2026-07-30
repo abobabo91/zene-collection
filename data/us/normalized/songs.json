@@ -9742,27 +9742,21 @@
   {
     "song_id": "u-00459",
     "file": "_rap/_usa other/Clipse, pusha t/Pusha T King Push  Darkest Before Dawn The Prelude [2015] 320/Pusha_T-King_Push__Darkest_Before_Dawn_The_Prelude-WEB-2015-ESG/03-pusha_t-m.f.t.r._(feat._the-dream)-150fa2.mp3",
-    "title": "pusha t-m.f.t.r. (feat. the-dream)-150fa2",
+    "title": "m.f.t.r. (feat",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
-    "featuring_artists": [
+    "primary_artists": [
       "Pusha T"
     ],
+    "featuring_artists": [],
     "artists": [
-      "No Malice",
       "Pusha T"
     ],
     "credits": [
       {
-        "entity": "Clipse",
-        "entity_type": "group",
-        "role": "primary"
-      },
-      {
         "entity": "Pusha T",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ],
     "attribution_status": "attributed"
@@ -23097,20 +23091,22 @@
   {
     "song_id": "u-01071",
     "file": "_rap/california/Eazy E Discography/N.W.A-Straight_Outta_Compton-(Retail)-1990-OSM/01-n.w.a.-straight_outta_compton-osm.mp3",
-    "title": "n.w.a.-straight outta compton-osm",
+    "title": "straight outta compton",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Eazy-E"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
     "artists": [
-      "Eazy-E"
+      "DJ Yella",
+      "Dr. Dre",
+      "Eazy-E",
+      "Ice Cube",
+      "MC Ren"
     ],
     "credits": [
       {
-        "entity": "Eazy-E",
-        "entity_type": "person",
+        "entity": "N.W.A",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -26039,7 +26035,7 @@
   {
     "song_id": "u-01199",
     "file": "_rap/california/Xzibit/2004 - Weapons Of Mass Destruction/14-xzibit-scent_of_a_woman-esc.mp3",
-    "title": "xzibit-scent of a woman-esc",
+    "title": "scent of a woman",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -26245,7 +26241,7 @@
   {
     "song_id": "u-01208",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/01-d12-git_up-fum.mp3",
-    "title": "d12-git up-fum",
+    "title": "git up",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26295,7 +26291,7 @@
   {
     "song_id": "u-01210",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/03-d12-just_like_u-fum.mp3",
-    "title": "d12-just like u-fum",
+    "title": "just like u",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26320,7 +26316,7 @@
   {
     "song_id": "u-01211",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/06-d12-my_band-fum.mp3",
-    "title": "d12-my band-fum",
+    "title": "my band",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26345,7 +26341,7 @@
   {
     "song_id": "u-01212",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/08-d12-6_in_the_morning-fum.mp3",
-    "title": "d12-6 in the morning-fum",
+    "title": "in the morning",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26370,7 +26366,7 @@
   {
     "song_id": "u-01213",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/09-d12-how_come-fum.mp3",
-    "title": "d12-how come-fum",
+    "title": "how come",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26420,7 +26416,7 @@
   {
     "song_id": "u-01215",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/11-d12-get_my_gun-fum.mp3",
-    "title": "d12-get my gun-fum",
+    "title": "get my gun",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26445,7 +26441,7 @@
   {
     "song_id": "u-01216",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/15-d12-d-12_world-fum.mp3",
-    "title": "d12-d-12 world-fum",
+    "title": "d 12 world",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26470,7 +26466,7 @@
   {
     "song_id": "u-01217",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/16-d12-40_oz-fum.mp3",
-    "title": "d12-40 oz-fum",
+    "title": "oz",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26495,7 +26491,7 @@
   {
     "song_id": "u-01218",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/18-d12-american_psycho_ii_(feat._b-real)-fum.mp3",
-    "title": "d12-american psycho ii (feat. b-real)-fum",
+    "title": "american psycho ii (feat",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26557,7 +26553,7 @@
   {
     "song_id": "u-01221",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/20-d12-good_die_young-fum.mp3",
-    "title": "d12-good die young-fum",
+    "title": "good die young",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26582,7 +26578,7 @@
   {
     "song_id": "u-01222",
     "file": "_rap/detroit/D12/D12-D12_World-2004-FUM/21-d12-keep_talkin_(bonus_track)-fum.mp3",
-    "title": "d12-keep talkin (bonus track)-fum",
+    "title": "keep talkin (bonus track)",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26657,7 +26653,7 @@
   {
     "song_id": "u-01225",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/103-d12-pistol_pistol-fum.mp3",
-    "title": "d12-pistol pistol-fum",
+    "title": "pistol pistol",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26682,19 +26678,32 @@
   {
     "song_id": "u-01226",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/106-d12-ain_t_nuttin__but_music_(feat._dr._dre)-fum.mp3",
-    "title": "but music (feat. dr",
+    "title": "ain t nuttin but music (feat. dr",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Bizarre",
+      "Eminem",
+      "Kon Artis",
+      "Kuniva",
+      "Proof",
+      "Swifty"
+    ],
+    "credits": [
+      {
+        "entity": "D12",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01227",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/110-d12-purple_pills-fum.mp3",
-    "title": "d12-purple pills-fum",
+    "title": "purple pills",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26719,7 +26728,7 @@
   {
     "song_id": "u-01228",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/111-d12-fight_music-fum.mp3",
-    "title": "d12-fight music-fum",
+    "title": "fight music",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26744,7 +26753,7 @@
   {
     "song_id": "u-01229",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/112-d12-instigator-fum.mp3",
-    "title": "d12-instigator-fum",
+    "title": "instigator",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26769,7 +26778,7 @@
   {
     "song_id": "u-01230",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/113-d12-pimp_like_me_(feat._dina_rae)-fum.mp3",
-    "title": "d12-pimp like me (feat. dina rae)-fum",
+    "title": "pimp like me (feat",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26794,7 +26803,7 @@
   {
     "song_id": "u-01231",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/116-d12-devils_night-fum.mp3",
-    "title": "d12-devils night-fum",
+    "title": "devils night",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26819,7 +26828,7 @@
   {
     "song_id": "u-01232",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/118-d12-revelation-fum.mp3",
-    "title": "d12-revelation-fum",
+    "title": "revelation",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26844,7 +26853,7 @@
   {
     "song_id": "u-01233",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/119-d12-girls_(bonus_track)-fum.mp3",
-    "title": "d12-girls (bonus track)-fum",
+    "title": "girls (bonus track)",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26919,7 +26928,7 @@
   {
     "song_id": "u-01236",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/203-d12-shit_on_you-fum.mp3",
-    "title": "d12-shit on you-fum",
+    "title": "shit on you",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -27213,7 +27222,7 @@
   {
     "song_id": "u-01248",
     "file": "_rap/detroit/D12/The Underground EP/01-d12-6_reasons-fum.mp3",
-    "title": "d12-6 reasons-fum",
+    "title": "reasons",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -27313,7 +27322,7 @@
   {
     "song_id": "u-01252",
     "file": "_rap/detroit/D12/The Underground EP/05-d12-activity_as_phuctivity-fum.mp3",
-    "title": "d12-activity as phuctivity-fum",
+    "title": "activity as phuctivity",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -27539,20 +27548,19 @@
   {
     "song_id": "u-01261",
     "file": "_rap/detroit/Eminem/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/02-bad_meets_evil-fast_lane-fum.mp3",
-    "title": "bad meets evil-fast lane-fum",
+    "title": "fast lane",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [
-      "Eminem"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
     "artists": [
-      "Eminem"
+      "Eminem",
+      "Royce Da 5'9\""
     ],
     "credits": [
       {
-        "entity": "Eminem",
-        "entity_type": "person",
+        "entity": "Bad Meets Evil",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -27561,20 +27569,19 @@
   {
     "song_id": "u-01262",
     "file": "_rap/detroit/Eminem/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/04-bad_meets_evil-above_the_law-fum.mp3",
-    "title": "bad meets evil-above the law-fum",
+    "title": "above the law",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [
-      "Eminem"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
     "artists": [
-      "Eminem"
+      "Eminem",
+      "Royce Da 5'9\""
     ],
     "credits": [
       {
-        "entity": "Eminem",
-        "entity_type": "person",
+        "entity": "Bad Meets Evil",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -27583,20 +27590,19 @@
   {
     "song_id": "u-01263",
     "file": "_rap/detroit/Eminem/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/07-bad_meets_evil-lighters_(feat_bruno_mars)-fum.mp3",
-    "title": "bad meets evil-lighters (feat bruno mars)-fum",
+    "title": "lighters (feat bruno mars)",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [
-      "Eminem"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
     "artists": [
-      "Eminem"
+      "Eminem",
+      "Royce Da 5'9\""
     ],
     "credits": [
       {
-        "entity": "Eminem",
-        "entity_type": "person",
+        "entity": "Bad Meets Evil",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -27605,20 +27611,19 @@
   {
     "song_id": "u-01264",
     "file": "_rap/detroit/Eminem/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/08-bad_meets_evil-take_from_me-fum.mp3",
-    "title": "bad meets evil-take from me-fum",
+    "title": "take from me",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [
-      "Eminem"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
     "artists": [
-      "Eminem"
+      "Eminem",
+      "Royce Da 5'9\""
     ],
     "credits": [
       {
-        "entity": "Eminem",
-        "entity_type": "person",
+        "entity": "Bad Meets Evil",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -27627,20 +27632,19 @@
   {
     "song_id": "u-01265",
     "file": "_rap/detroit/Eminem/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/11-bad_meets_evil-echo_(bonus)-fum.mp3",
-    "title": "bad meets evil-echo (bonus)-fum",
+    "title": "echo (bonus)",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [
-      "Eminem"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
     "artists": [
-      "Eminem"
+      "Eminem",
+      "Royce Da 5'9\""
     ],
     "credits": [
       {
-        "entity": "Eminem",
-        "entity_type": "person",
+        "entity": "Bad Meets Evil",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -40810,7 +40814,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -40831,7 +40836,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -40852,7 +40858,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -40939,7 +40946,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -40960,7 +40968,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -40993,7 +41002,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41014,7 +41024,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41035,7 +41046,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41144,7 +41156,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41187,7 +41200,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41208,7 +41222,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41273,7 +41288,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41294,7 +41310,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41315,7 +41332,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -41336,7 +41354,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -58648,7 +58667,7 @@
   {
     "song_id": "u-02676",
     "file": "_rap/philly/Jedi Mind Tricks/Jedi_Mind_Tricks-Legacy_Of_Blood_(RETAIL)-2004-C4/03-jedi_mind_tricks-scars_of_the_crucifix-c4.mp3",
-    "title": "jedi mind tricks-scars of the crucifix-c4",
+    "title": "scars of the crucifix",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
     "primary_artists": [
@@ -58677,7 +58696,7 @@
   {
     "song_id": "u-02677",
     "file": "_rap/philly/Jedi Mind Tricks/Jedi_Mind_Tricks-Legacy_Of_Blood_(RETAIL)-2004-C4/05-jedi_mind_tricks-saviorself_feat._killah_priest-c4.mp3",
-    "title": "jedi mind tricks-saviorself feat. killah priest-c4",
+    "title": "saviorself feat",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
     "primary_artists": [
@@ -58706,7 +58725,7 @@
   {
     "song_id": "u-02678",
     "file": "_rap/philly/Jedi Mind Tricks/Jedi_Mind_Tricks-Legacy_Of_Blood_(RETAIL)-2004-C4/09-jedi_mind_tricks-verses_of_the_bleeding_feat._des_devious-c4.mp3",
-    "title": "jedi mind tricks-verses of the bleeding feat. des devious-c4",
+    "title": "verses of the bleeding feat",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
     "primary_artists": [
@@ -58735,7 +58754,7 @@
   {
     "song_id": "u-02679",
     "file": "_rap/philly/Jedi Mind Tricks/Jedi_Mind_Tricks-Legacy_Of_Blood_(RETAIL)-2004-C4/10-jedi_mind_tricks-beyond_the_gates_of_pain_feat._sean_price-c4.mp3",
-    "title": "jedi mind tricks-beyond the gates of pain feat. sean price-c4",
+    "title": "beyond the gates of pain feat",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
     "primary_artists": [
@@ -58764,7 +58783,7 @@
   {
     "song_id": "u-02680",
     "file": "_rap/philly/Jedi Mind Tricks/Jedi_Mind_Tricks-Legacy_Of_Blood_(RETAIL)-2004-C4/12-jedi_mind_tricks-and_so_it_burns-c4.mp3",
-    "title": "jedi mind tricks-and so it burns-c4",
+    "title": "and so it burns",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
     "primary_artists": [
@@ -58793,7 +58812,7 @@
   {
     "song_id": "u-02681",
     "file": "_rap/philly/Jedi Mind Tricks/Jedi_Mind_Tricks-Legacy_Of_Blood_(RETAIL)-2004-C4/15-jedi_mind_tricks-on_the_eve_of_war_feat._gza-c4.mp3",
-    "title": "jedi mind tricks-on the eve of war feat. gza-c4",
+    "title": "on the eve of war feat",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
     "primary_artists": [
@@ -58822,7 +58841,7 @@
   {
     "song_id": "u-02682",
     "file": "_rap/philly/Jedi Mind Tricks/Jedi_Mind_Tricks-Legacy_Of_Blood_(RETAIL)-2004-C4/19-jedi_mind_tricks-before_the_great_collapse-c4.mp3",
-    "title": "jedi mind tricks-before the great collapse-c4",
+    "title": "before the great collapse",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
     "primary_artists": [
@@ -59842,7 +59861,8 @@
     "featuring_artists": [],
     "artists": [
       "DJ Paul",
-      "Juicy J"
+      "Juicy J",
+      "Koopsta Knicca"
     ],
     "credits": [
       {
@@ -61824,6 +61844,7 @@
     "artists": [
       "DJ Paul",
       "Juicy J",
+      "Koopsta Knicca",
       "UGK"
     ],
     "credits": [
