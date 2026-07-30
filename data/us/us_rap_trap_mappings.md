@@ -138,7 +138,7 @@ Starter examples:
 - `Capone-N-Noreaga: Capone, N.O.R.E.`
 - `Clipse: Pusha T, No Malice`
 - `Mobb Deep: Prodigy, Havoc`
-- D12: Kuniva, Proof, Kon Artis, Bizarre, Swifty
+- `D12: Eminem, Kuniva, Proof, Kon Artis, Bizarre, Swifty`
 - `Wu-Tang Clan: RZA, GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, Masta Killa`
 - `Geto Boys: Scarface, Willie D, Bushwick Bill`
 - `N.W.A: Ice Cube, Dr. Dre, Eazy-E, MC Ren, DJ Yella`
