@@ -10,67 +10,67 @@ Regions: `0`
 
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
-| 1 | Essemm | 102 | 75.5 | 78.1 | 86 | 16 | 0 | Kapuvár | Garage | BeatMarket, Majmok Bolygója |
+| 1 | Essemm | 102 | 75.5 | 78.1 | 86 | 16 | 32 | Kapuvár | Garage | BeatMarket, Majmok Bolygója |
 | 2 | Fankadeli | 79 | 70.8 | 71.2 | 75 | 4 | 0 | Kecskemét | - | - |
-| 3 | Ketioz | 107 | 45.6 | 63.2 | 92 | 15 | 0 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
+| 3 | Ketioz | 107 | 45.6 | 63.2 | 92 | 15 | 44 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
 | 4 | 2arc | 65 | 61.7 | 63.2 | 62 | 3 | 0 | - | - | - |
 | 5 | Mr.Busta | 63 | 48.3 | 60.0 | 60 | 3 | 0 | - | RTM | - |
-| 6 | Tkyd | 72 | 53.4 | 54.6 | 65 | 7 | 0 | Pápa | Bloose Broavaz | Dreamerz, Rydu |
+| 6 | Tkyd | 73 | 53.4 | 54.6 | 65 | 7 | 17 | Pápa | Bloose Broavaz | Dreamerz, Rydu |
 | 7 | Azahriah | 45 | 37.8 | 37.8 | 44 | 1 | 0 | Budapest | - | - |
-| 8 | Tibbah | 74 | 36.0 | 37.5 | 69 | 5 | 0 | Győr | Bloose Broavaz | Barbárfivérek |
-| 9 | Deego | 60 | 33.8 | 34.4 | 52 | 8 | 0 | Győr | Bloose Broavaz | Barbárfivérek |
+| 8 | Tibbah | 74 | 36.0 | 37.5 | 69 | 5 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
+| 9 | Deego | 60 | 33.8 | 34.4 | 52 | 8 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
 | 10 | Mr. Missh | 41 | 27.0 | 33.8 | 36 | 5 | 0 | Almásfüzitő | - | - |
-| 11 | The Steve | 38 | 29.3 | 32.8 | 36 | 2 | 0 | - | - | Fhészek |
+| 11 | The Steve | 38 | 29.3 | 32.8 | 36 | 2 | 8 | - | - | Fhészek |
 | 12 | Turha | 35 | 26.8 | 31.5 | 32 | 3 | 0 | Tatabánya | SCBP | - |
-| 13 | Smile of Hell | 39 | 28.2 | 29.3 | 38 | 1 | 0 | Szeged | IFS | IFS |
-| 14 | Filo | 40 | 26.3 | 26.8 | 33 | 7 | 0 | Szeged | IFS | IFS |
-| 15 | Siska Finuccsi | 46 | 25.7 | 26.2 | 41 | 5 | 0 | Tatabánya | Bloose Broavaz | Alakváltók, Egyenlők, Gruppen Family, Vészkijárat |
+| 13 | Smile of Hell | 39 | 28.2 | 29.3 | 38 | 1 | 19 | Szeged | IFS | IFS |
+| 14 | Filo | 40 | 26.3 | 26.8 | 33 | 7 | 19 | Szeged | IFS | IFS |
+| 15 | Siska Finuccsi | 49 | 25.7 | 26.2 | 41 | 5 | 32 | Tatabánya | Bloose Broavaz | Alakváltók, Egyenlők, Gruppen Family, Vészkijárat |
 | 16 | Rico | 32 | 19.6 | 25.6 | 24 | 8 | 0 | Gyöngyös | goldsoul | - |
 | 17 | Riddler | 29 | 21.2 | 25.3 | 26 | 3 | 0 | - | - | - |
-| 18 | Eckü | 47 | 23.9 | 24.5 | 38 | 9 | 0 | Veszprém | Bloose Broavaz | Gruppen Family, Hősök |
+| 18 | Eckü | 48 | 23.9 | 24.5 | 38 | 9 | 34 | Veszprém | Bloose Broavaz | Gruppen Family, Hősök |
 | 19 | Day | 30 | 22.8 | 24.3 | 20 | 10 | 0 | Eger | - | Sectah |
 | 20 | DESH | 30 | 23.8 | 23.8 | 30 | 0 | 0 | Budapest | - | - |
-| 21 | Rambo | 72 | 23.8 | 23.8 | 60 | 12 | 0 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
-| 22 | Fura Csé | 57 | 21.4 | 22.6 | 51 | 6 | 0 | Tatabánya | Garage | Furakor, Káva |
-| 23 | Hiro | 38 | 21.3 | 21.3 | 35 | 3 | 0 | Surány | RTM | AK26 |
+| 21 | Rambo | 72 | 23.8 | 23.8 | 60 | 12 | 44 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
+| 22 | Fura Csé | 57 | 21.4 | 22.6 | 51 | 6 | 45 | Tatabánya | Garage | Furakor, Káva |
+| 23 | Hiro | 38 | 21.3 | 21.3 | 35 | 3 | 28 | Surány | RTM | AK26 |
 | 24 | El Bago | 21 | 21.0 | 21.0 | 21 | 0 | 0 | Surány | - | - |
 | 25 | Grasa | 21 | 21.0 | 21.0 | 21 | 0 | 0 | Budapest | - | - |
 | 26 | Krella Padre | 21 | 21.0 | 21.0 | 19 | 2 | 0 | - | - | - |
-| 27 | Mentha | 34 | 19.8 | 19.8 | 33 | 1 | 0 | Veszprém | - | Hősök |
+| 27 | Mentha | 34 | 19.8 | 19.8 | 33 | 1 | 27 | Veszprém | - | Hősök |
 | 28 | Anonim MC | 19 | 19.0 | 19.0 | 19 | 0 | 0 | - | - | - |
-| 29 | Odupla | 26 | 17.5 | 19.0 | 23 | 3 | 0 | - | - | Fhészek, New Fhészek |
-| 30 | Akr | 50 | 18.2 | 18.2 | 46 | 4 | 0 | Tatabánya | Garage | Furakor, Káva |
+| 29 | Odupla | 26 | 17.5 | 19.0 | 23 | 3 | 8 | - | - | Fhészek, New Fhészek |
+| 30 | Akr | 50 | 18.2 | 18.2 | 46 | 4 | 45 | Tatabánya | Garage | Furakor, Káva |
 | 31 | Deniz | 18 | 17.5 | 17.5 | 17 | 1 | 0 | - | - | - |
 | 32 | LAzy | 18 | 16.5 | 17.5 | 17 | 1 | 0 | Pápa | - | - |
 | 33 | Majka | 20 | 16.9 | 17.4 | 20 | 0 | 0 | Ózd | - | - |
-| 34 | Gaben | 36 | 17.4 | 17.4 | 32 | 4 | 0 | Somogy | - | BSW |
-| 35 | Mettyú | 36 | 17.4 | 17.4 | 32 | 4 | 0 | Somogy | - | BSW |
-| 36 | Phat | 36 | 17.4 | 17.4 | 31 | 5 | 0 | - | Bloose Broavaz | Egyenlők, Rydu, Vészkijárat |
+| 34 | Gaben | 36 | 17.4 | 17.4 | 32 | 4 | 36 | Somogy | - | BSW |
+| 35 | Mettyú | 36 | 17.4 | 17.4 | 32 | 4 | 36 | Somogy | - | BSW |
+| 36 | Phat | 38 | 17.4 | 17.4 | 31 | 5 | 27 | - | Bloose Broavaz | Egyenlők, Rydu, Vészkijárat |
 | 37 | SP | 18 | 16.0 | 17.0 | 16 | 2 | 0 | - | - | - |
-| 38 | Süti | 32 | 16.2 | 16.2 | 25 | 7 | 0 | - | Garage | Majmok Bolygója |
-| 39 | eSGé | 33 | 15.2 | 15.2 | 32 | 1 | 0 | Budapest | - | Makaronin |
-| 40 | Sosa | 33 | 15.2 | 15.2 | 32 | 1 | 0 | Budapest | - | Makaronin |
-| 41 | Saiid | 29 | 15.0 | 15.0 | 23 | 6 | 0 | Budapest | - | Akkezdet Phiai |
+| 38 | Süti | 32 | 16.2 | 16.2 | 25 | 7 | 22 | - | Garage | Majmok Bolygója |
+| 39 | eSGé | 33 | 15.2 | 15.2 | 32 | 1 | 33 | Budapest | - | Makaronin |
+| 40 | Sosa | 33 | 15.2 | 15.2 | 32 | 1 | 33 | Budapest | - | Makaronin |
+| 41 | Saiid | 29 | 15.0 | 15.0 | 23 | 6 | 25 | Budapest | - | Akkezdet Phiai |
 | 42 | Bobakrome | 22 | 13.7 | 14.2 | 15 | 7 | 0 | - | - | - |
 | 43 | Bobafett | 18 | 14.2 | 14.2 | 17 | 1 | 0 | - | - | - |
-| 44 | Tirpa | 26 | 12.7 | 14.0 | 22 | 4 | 0 | Budapest | SCBP | Killakikitt |
-| 45 | Giajenno | 29 | 13.3 | 13.8 | 29 | 0 | 0 | Surány | RTM | AK26 |
-| 46 | Fullánk | 42 | 13.8 | 13.8 | 33 | 9 | 0 | Győr | Vicc Beatz | Jam Balaya |
-| 47 | Szimat | 31 | 12.7 | 13.7 | 27 | 4 | 0 | Tatabánya | Garage | Káva |
-| 48 | AZA | 26 | 12.9 | 13.6 | 23 | 3 | 0 | Budapest | SCBP | Killakikitt |
-| 49 | San | 19 | 13.5 | 13.5 | 17 | 2 | 0 | - | Bloose Broavaz | Dreamerz |
-| 50 | Nomagróf | 19 | 12.8 | 12.8 | 18 | 1 | 0 | - | Bloose Broavaz | Samurai Flow |
+| 44 | Tirpa | 26 | 12.7 | 14.0 | 22 | 4 | 17 | Budapest | SCBP | Killakikitt |
+| 45 | Giajenno | 29 | 13.3 | 13.8 | 29 | 0 | 28 | Surány | RTM | AK26 |
+| 46 | Fullánk | 42 | 13.8 | 13.8 | 33 | 9 | 37 | Győr | Vicc Beatz | Jam Balaya |
+| 47 | Szimat | 31 | 12.7 | 13.7 | 27 | 4 | 20 | Tatabánya | Garage | Káva |
+| 48 | AZA | 26 | 12.9 | 13.6 | 23 | 3 | 17 | Budapest | SCBP | Killakikitt |
+| 49 | San | 20 | 13.5 | 13.5 | 17 | 2 | 12 | - | Bloose Broavaz | Dreamerz |
+| 50 | Nomagróf | 19 | 12.8 | 12.8 | 18 | 1 | 8 | - | Bloose Broavaz | Samurai Flow |
 | 51 | P_s | 14 | 11.0 | 12.7 | 13 | 1 | 0 | - | AuthenticBeats Records | - |
-| 52 | Újonc Peti | 25 | 12.2 | 12.2 | 23 | 2 | 0 | Budapest | - | Akkezdet Phiai |
+| 52 | Újonc Peti | 25 | 12.2 | 12.2 | 23 | 2 | 25 | Budapest | - | Akkezdet Phiai |
 | 53 | MIKEE MYKANIC | 13 | 12.1 | 12.1 | 12 | 1 | 0 | - | - | - |
-| 54 | Bom | 27 | 12.0 | 12.0 | 22 | 5 | 0 | Budapest | Bloose Broavaz | DSP |
+| 54 | Bom | 27 | 12.0 | 12.0 | 22 | 5 | 25 | Budapest | Bloose Broavaz | DSP |
 | 55 | Fluor | 12 | 8.3 | 12.0 | 12 | 0 | 0 | - | - | - |
 | 56 | G.w.M | 17 | 10.0 | 12.0 | 13 | 4 | 0 | Budapest | - | - |
 | 57 | KalashniKnow | 12 | 12.0 | 12.0 | 12 | 0 | 0 | - | SCBP | - |
 | 58 | Plasztik Planéta | 12 | 11.0 | 12.0 | 12 | 0 | 0 | - | - | - |
-| 59 | Bankos | 22 | 10.8 | 11.9 | 17 | 5 | 0 | Budapest | Criminal | Az Idő Urai |
+| 59 | Bankos | 22 | 10.8 | 11.9 | 17 | 5 | 6 | Budapest | Criminal | Az Idő Urai |
 | 60 | Déó | 12 | 8.8 | 11.3 | 11 | 1 | 0 | - | RTM | - |
-| 61 | Dipa | 25 | 11.2 | 11.2 | 21 | 4 | 0 | Budapest | Bloose Broavaz | DSP |
+| 61 | Dipa | 25 | 11.2 | 11.2 | 21 | 4 | 25 | Budapest | Bloose Broavaz | DSP |
 | 62 | Co Lee | 11 | 11.0 | 11.0 | 9 | 2 | 0 | - | - | - |
 | 63 | Antal | 12 | 10.5 | 10.5 | 9 | 3 | 0 | - | - | - |
 | 64 | ekhoe | 11 | 10.5 | 10.5 | 10 | 1 | 0 | - | - | - |
@@ -83,18 +83,18 @@ Regions: `0`
 | 71 | BigMek | 10 | 7.9 | 9.3 | 10 | 0 | 0 | - | - | - |
 | 72 | Pixa | 12 | 8.1 | 9.1 | 10 | 2 | 0 | - | - | - |
 | 73 | Illegalvoice | 10 | 8.5 | 9.0 | 9 | 1 | 0 | - | - | New Fhészek |
-| 74 | Zenk | 25 | 8.9 | 8.9 | 17 | 8 | 0 | - | Criminal | Az Idő Urai, NKS |
-| 75 | Ra | 19 | 8.8 | 8.8 | 12 | 7 | 0 | - | Garage | BeatMarket |
-| 76 | Hibrid | 16 | 8.2 | 8.7 | 9 | 7 | 0 | - | - | Teswér |
-| 77 | Fiatal Veterán | 10 | 8.5 | 8.5 | 10 | 0 | 0 | - | - | Teswér |
-| 78 | Máté | 17 | 8.5 | 8.5 | 17 | 0 | 0 | Pécs | - | Punnany Massif |
+| 74 | Zenk | 25 | 8.9 | 8.9 | 17 | 8 | 23 | - | Criminal | Az Idő Urai, NKS |
+| 75 | Ra | 19 | 8.8 | 8.8 | 12 | 7 | 10 | - | Garage | BeatMarket |
+| 76 | Hibrid | 16 | 8.2 | 8.7 | 9 | 7 | 3 | - | - | Teswér |
+| 77 | Fiatal Veterán | 10 | 8.5 | 8.5 | 10 | 0 | 3 | - | - | Teswér |
+| 78 | Máté | 17 | 8.5 | 8.5 | 17 | 0 | 17 | Pécs | - | Punnany Massif |
 | 79 | Utcakultúra | 9 | 8.5 | 8.5 | 8 | 1 | 0 | - | - | - |
-| 80 | Wolfie | 17 | 8.5 | 8.5 | 17 | 0 | 0 | Pécs | - | Punnany Massif |
+| 80 | Wolfie | 17 | 8.5 | 8.5 | 17 | 0 | 17 | Pécs | - | Punnany Massif |
 | 81 | Curtis | 13 | 7.9 | 8.4 | 9 | 4 | 0 | Budapest | - | - |
-| 82 | Nos'chez | 24 | 8.4 | 8.4 | 17 | 7 | 0 | - | Criminal | Az Idő Urai, NKS |
+| 82 | Nos'chez | 24 | 8.4 | 8.4 | 17 | 7 | 23 | - | Criminal | Az Idő Urai, NKS |
 | 83 | Flemm | 9 | 7.3 | 8.3 | 8 | 1 | 0 | - | - | - |
 | 84 | gyuris | 9 | 8.3 | 8.3 | 8 | 1 | 0 | - | - | - |
-| 85 | Artoscsaba | 14 | 6.4 | 8.1 | 10 | 4 | 0 | - | - | Alakváltók |
+| 85 | Artoscsaba | 14 | 6.4 | 8.1 | 10 | 4 | 3 | - | - | Alakváltók |
 | 86 | FILO | 8 | 8.0 | 8.0 | 8 | 0 | 0 | - | - | - |
 | 87 | Különvélemény | 8 | 6.5 | 8.0 | 8 | 0 | 0 | - | - | - |
 | 88 | RatB | 13 | 8.0 | 8.0 | 13 | 0 | 0 | - | - | - |
@@ -103,7 +103,7 @@ Regions: `0`
 | 91 | Dopeman | 8 | 7.3 | 7.3 | 7 | 1 | 0 | - | - | - |
 | 92 | Barhx | 10 | 7.1 | 7.1 | 6 | 4 | 0 | - | - | - |
 | 93 | Potyautas/Bothee | 7 | 4.2 | 7.0 | 7 | 0 | 0 | - | - | - |
-| 94 | El Magico | 24 | 6.9 | 6.9 | 20 | 4 | 0 | Tatabánya | Garage | Káva |
+| 94 | El Magico | 24 | 6.9 | 6.9 | 20 | 4 | 20 | Tatabánya | Garage | Káva |
 | 95 | Hírwevők | 8 | 5.5 | 6.8 | 6 | 2 | 0 | - | - | - |
 | 96 | redOne | 8 | 5.8 | 6.8 | 6 | 2 | 0 | - | RTM | - |
 | 97 | Mes | 8 | 6.2 | 6.7 | 6 | 2 | 0 | - | - | - |
@@ -132,7 +132,7 @@ Regions: `0`
 | 120 | Kontroll | 10 | 3.1 | 4.4 | 2 | 8 | 0 | - | Vicc Beatz | - |
 | 121 | Krúbi | 5 | 3.8 | 4.3 | 5 | 0 | 0 | - | - | - |
 | 122 | P.G. | 8 | 3.8 | 4.3 | 3 | 5 | 0 | - | goldsoul | - |
-| 123 | Drezzick | 9 | 4.3 | 4.3 | 8 | 1 | 0 | - | Bloose Broavaz | Samurai Flow |
+| 123 | Drezzick | 9 | 4.3 | 4.3 | 8 | 1 | 8 | - | Bloose Broavaz | Samurai Flow |
 | 124 | Bezzi | 4 | 4.0 | 4.0 | 4 | 0 | 0 | - | - | - |
 | 125 | Gerola | 4 | 4.0 | 4.0 | 4 | 0 | 0 | - | - | - |
 | 126 | Mohaman | 4 | 3.3 | 4.0 | 4 | 0 | 0 | - | - | - |
@@ -162,10 +162,10 @@ Regions: `0`
 | 150 | SCBP | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
 | 151 | SteK | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |
 | 152 | Susa | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 153 | Szalai | 6 | 3.0 | 3.0 | 3 | 3 | 0 | - | - | ibbigang |
+| 153 | Szalai | 6 | 3.0 | 3.0 | 3 | 3 | 6 | - | - | ibbigang |
 | 154 | Tactica | 3 | 2.5 | 3.0 | 3 | 0 | 0 | - | SCBP | - |
 | 155 | Unknown | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 156 | Valter | 6 | 3.0 | 3.0 | 3 | 3 | 0 | - | - | ibbigang |
+| 156 | Valter | 6 | 3.0 | 3.0 | 3 | 3 | 6 | - | - | ibbigang |
 | 157 | YoungBoy Rallo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
 | 158 | Szókratesz | 6 | 2.7 | 2.7 | 1 | 5 | 0 | - | - | - |
 | 159 | Des | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
@@ -176,7 +176,7 @@ Regions: `0`
 | 164 | Mr.Siid | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
 | 165 | Potyautas | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
 | 166 | Duffchy | 3 | 1.8 | 2.3 | 3 | 0 | 0 | - | - | - |
-| 167 | Bruno | 4 | 2.2 | 2.2 | 3 | 1 | 0 | - | - | Bruno X Spacc |
+| 167 | Bruno | 4 | 2.2 | 2.2 | 3 | 1 | 3 | - | - | Bruno X Spacc |
 | 168 | Komander | 3 | 1.1 | 2.2 | 3 | 0 | 0 | - | - | - |
 | 169 | Dhok | 3 | 2.1 | 2.1 | 2 | 1 | 0 | - | - | - |
 | 170 | Argon | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
@@ -235,7 +235,7 @@ Regions: `0`
 | 223 | Zsola | 3 | 1.3 | 1.3 | 2 | 1 | 0 | - | - | - |
 | 224 | Erru | 2 | 0.8 | 1.2 | 1 | 1 | 0 | - | - | - |
 | 225 | Miss Business | 3 | 1.2 | 1.2 | 0 | 3 | 0 | - | Vicc Beatz | - |
-| 226 | Spacc | 3 | 1.2 | 1.2 | 2 | 1 | 0 | - | - | Bruno X Spacc |
+| 226 | Spacc | 3 | 1.2 | 1.2 | 2 | 1 | 3 | - | - | Bruno X Spacc |
 | 227 | Diaz | 3 | 1.2 | 1.2 | 2 | 1 | 0 | - | - | - |
 | 228 | FMaN | 3 | 1.2 | 1.2 | 0 | 3 | 0 | - | - | - |
 | 229 | Szikra | 3 | 1.2 | 1.2 | 0 | 3 | 0 | - | - | - |
