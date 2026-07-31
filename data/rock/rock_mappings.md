@@ -6,6 +6,7 @@
 - `Green Day: GreenDay, Green Day - Discography`
 - `Linkin Park: Linkin Park Discography, Burning In The Skies, Bleed It Out, Given Up, Leave Out All The Rest, No More Sorrow, What I've Done, Wastelands`
 - `Limp Bizkit: Limp Bizkit - Greatest Hitz`
+- `Deftones: Deftones Greatest Hits 2022`
 - `The Cranberries: The Cranberries - Discography`
 - `Placebo: Placebo - Greatest Hits`
 - `Red Hot Chili Peppers: red hot chilli peppers`

@@ -34,6 +34,10 @@ Format:
 
 `canonical: alias 1, alias 2, alias 3`
 
+One line per canonical name. A second line with the same canonical name does **not** merge -
+the parser builds a dict, so the later line silently replaces the earlier one and its aliases
+are lost. Add new aliases to the existing line.
+
 Examples to expand later:
 
 - `G-Eazy: G Eazy`
@@ -93,7 +97,7 @@ Examples to expand later:
 - `Royce Da 5'9": Royce Da 5 9`
 - `SchoolBoy Q: Schoolboy Q`
 - `A$AP Rocky: A$AP`
-- `Dilated Peoples: Dilated Peoples Discography @320, Dilated Peoples - 20 20, Dilated Peoples - Expansion Team, Dilated Peoples - The Platform`
+- `Dilated Peoples: Dilated Peoples Discography, Dilated Peoples Discography @320, Dilated Peoples - 20 20, Dilated Peoples - Expansion Team, Dilated Peoples - The Platform`
 - `Chief Keef: Cheif Keef`
 - `A$AP Ferg: AAP Ferg`
 - `DJ Clue: DJ Clue - The Professional, DJ Clue - The Professional 2, DJ Clue Backstage Mixtape`

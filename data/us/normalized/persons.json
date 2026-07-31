@@ -6569,27 +6569,6 @@
       "_rap"
     ],
     "song_ids": [
-      "u-00490",
-      "u-00491"
-    ],
-    "primary_song_ids": [
-      "u-00490",
-      "u-00491"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Dilated Peoples Discography": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
       "u-00479",
       "u-00480",
       "u-00481",
@@ -6599,7 +6578,9 @@
       "u-00486",
       "u-00487",
       "u-00488",
-      "u-00489"
+      "u-00489",
+      "u-00490",
+      "u-00491"
     ],
     "primary_song_ids": [
       "u-00479",
@@ -6611,7 +6592,9 @@
       "u-00486",
       "u-00487",
       "u-00488",
-      "u-00489"
+      "u-00489",
+      "u-00490",
+      "u-00491"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
