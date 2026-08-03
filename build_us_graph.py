@@ -9,7 +9,7 @@ from common import (
     AUDIO_EXTS, DATA_ROOT, UNICODE_DASH_RE, ZENE,
     clean_artist_text, clean_title, extract_primary_and_features,
     folder_artist, is_junk_name, normalize_key, parse_mapping_block,
-    split_artists,
+    split_artists, squashed_lookup,
 )
 
 DATA_DIR = DATA_ROOT / "us"
@@ -231,6 +231,7 @@ def load_mappings() -> dict:
 
     return {
         "alias_lookup": alias_lookup,
+        "alias_lookup_squashed": squashed_lookup(alias_lookup),
         "groups": canonical_groups,
         "group_lookup": group_lookup,
         "labels": canonical_labels,
@@ -242,7 +243,13 @@ def canonicalize_artist(name: str, mappings: dict) -> str:
     cleaned = clean_artist_text(name)
     if not cleaned:
         return cleaned
-    return mappings["alias_lookup"].get(normalize_key(cleaned), cleaned)
+    key = normalize_key(cleaned)
+    canonical = mappings["alias_lookup"].get(key)
+    if canonical:
+        return canonical
+    # Folders that drop the spaces: `50cent` is `50 Cent`. Only unambiguous squashed
+    # keys are in this map, so it can add a match but never move one artist onto another.
+    return mappings.get("alias_lookup_squashed", {}).get(key.replace(" ", ""), cleaned)
 
 
 def is_yo_gotti_cmg_compilation(path_parts: list[str]) -> bool:
@@ -277,10 +284,16 @@ def first_artist_context(path_parts: list[str], mappings: dict) -> str | None:
         return None
     first_group = canonical_group_name(first, mappings)
     if first_group:
-        members = {normalize_key(member): member for member in mappings["groups"].get(first_group, [])}
+        group_members = mappings["groups"].get(first_group, [])
+        members = {normalize_key(member): member for member in group_members}
+        # Same spaceless-folder problem as canonicalize_artist: a `50cent` folder inside
+        # `G-Unit` has to find the member `50 Cent`, or the whole subtree is credited to
+        # the group and its five solo albums disappear.
+        squashed = squashed_lookup(members)
         for candidate in candidates[1:]:
             canonical_candidate = canonicalize_artist(candidate, mappings)
-            member = members.get(normalize_key(canonical_candidate))
+            key = normalize_key(canonical_candidate)
+            member = members.get(key) or squashed.get(key.replace(" ", ""))
             if member:
                 return member
     return first
@@ -421,9 +434,24 @@ def canonical_group_name(name: str, mappings: dict) -> str | None:
     return mappings["group_lookup"].get(normalize_key(cleaned))
 
 
+def is_known_artist(name: str, mappings: dict) -> bool:
+    """Is this a person/alias the mappings file names explicitly?"""
+    key = normalize_key(clean_artist_text(name))
+    if not key:
+        return False
+    return key in mappings["alias_lookup"] or key.replace(" ", "") in mappings.get("alias_lookup_squashed", {})
+
+
 def prefer_display_name(name: str, mappings: dict) -> str:
     canonical = canonicalize_artist(name, mappings)
     if canonical:
+        # A name the mappings file lists is never junk, whatever the heuristics think.
+        # `is_junk_name` rejects `^\d{1,3}\s+` to stop track numbers ("04 Something")
+        # becoming artists - which also silently discarded every artist whose name starts
+        # with a number: 50 Cent, 21 Savage, 2 Chainz. Five 50 Cent albums were credited
+        # to nobody because of this, and the same rule was hiding the others.
+        if is_known_artist(name, mappings) or is_known_artist(canonical, mappings):
+            return canonical
         if is_junk_name(canonical, normalize_key(canonical), BLOCKLIST_ARTISTS):
             return UNKNOWN_ARTIST
         return canonical

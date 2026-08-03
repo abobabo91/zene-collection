@@ -12,7 +12,7 @@ from pathlib import Path
 from common import (
     AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE,
     clean_artist_text, clean_title, extract_primary_and_features,
-    folder_artist, is_junk_name, normalize_key, parse_mapping_block,
+    folder_artist, is_junk_name, normalize_key, parse_mapping_block, squashed_lookup,
 )
 
 # ─── Per-area config ───
@@ -271,6 +271,7 @@ def load_mappings(area: str) -> dict:
 
     return {
         "alias_lookup": alias_lookup,
+        "alias_lookup_squashed": squashed_lookup(alias_lookup),
         "groups": canonical_groups,
         "group_lookup": {normalize_key(g): g for g in canonical_groups},
     }
@@ -288,7 +289,19 @@ def canonicalize(name: str, mappings: dict) -> str:
     cleaned = clean_artist_text(name)
     if not cleaned:
         return cleaned
-    return mappings["alias_lookup"].get(normalize_key(cleaned), cleaned)
+    key = normalize_key(cleaned)
+    canonical = mappings["alias_lookup"].get(key)
+    if canonical:
+        return canonical
+    # Folders that drop the spaces, e.g. `50cent` for `50 Cent`. Only unambiguous keys.
+    return mappings.get("alias_lookup_squashed", {}).get(key.replace(" ", ""), cleaned)
+
+
+def is_known(name: str, mappings: dict) -> bool:
+    key = normalize_key(clean_artist_text(name))
+    if not key:
+        return False
+    return key in mappings["alias_lookup"] or key.replace(" ", "") in mappings.get("alias_lookup_squashed", {})
 
 
 def _normalized_blocklist(config: dict) -> set[str]:
@@ -298,7 +311,14 @@ def _normalized_blocklist(config: dict) -> set[str]:
 def prefer_display(name: str, mappings: dict, config: dict) -> str:
     bl = _normalized_blocklist(config)
     c = canonicalize(name, mappings)
-    if c and not is_junk_name(c, normalize_key(c), bl):
+    if not c:
+        return "N/A"
+    # A name the mappings file lists is never junk. `is_junk_name` rejects `^\d{1,3}\s+`
+    # to stop track numbers becoming artists, which also discards every artist whose name
+    # begins with a number - 3 Doors Down, 5 Seconds of Summer, 98 Degrees.
+    if is_known(name, mappings) or is_known(c, mappings):
+        return c
+    if not is_junk_name(c, normalize_key(c), bl):
         return c
     return "N/A"
 
@@ -311,7 +331,11 @@ def first_artist_context(path_parts: list[str], mappings: dict, config: dict) ->
         if not candidate:
             continue
         canonical = canonicalize(candidate, mappings)
-        if canonical and not is_junk_name(canonical, normalize_key(canonical), _normalized_blocklist(config)):
+        if not canonical:
+            continue
+        if is_known(candidate, mappings) or is_known(canonical, mappings):
+            return canonical
+        if not is_junk_name(canonical, normalize_key(canonical), _normalized_blocklist(config)):
             return canonical
     return None
 

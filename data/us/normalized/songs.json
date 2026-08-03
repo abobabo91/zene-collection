@@ -22842,14 +22842,14 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "X-Zibit"
+      "Xzibit"
     ],
     "featuring_artists": [
       "Snoop Dogg"
     ],
     "artists": [
       "Snoop Dogg",
-      "X-Zibit"
+      "Xzibit"
     ],
     "credits": [
       {
@@ -22858,7 +22858,7 @@
         "role": "feature"
       },
       {
-        "entity": "X-Zibit",
+        "entity": "Xzibit",
         "entity_type": "person",
         "role": "primary"
       }
@@ -22871,11 +22871,21 @@
     "title": "Heat",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01063",
@@ -25581,15 +25591,15 @@
       "The Game"
     ],
     "featuring_artists": [
-      "N/A"
+      "50 Cent"
     ],
     "artists": [
-      "N/A",
+      "50 Cent",
       "The Game"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "50 Cent",
         "entity_type": "person",
         "role": "feature"
       },
@@ -27986,11 +27996,21 @@
     "title": "Places To Go",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01282",
@@ -28023,11 +28043,21 @@
     "title": "Wanksta",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01284",
@@ -46144,11 +46174,21 @@
     "title": "You Already Know",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02097",
@@ -46156,11 +46196,21 @@
     "title": "Have a Party Ft",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02098",
@@ -46168,11 +46218,21 @@
     "title": "I Don t Know Officer Ft",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02099",
@@ -46180,11 +46240,21 @@
     "title": "Best Friend",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02100",
@@ -46192,11 +46262,14 @@
     "title": "Part 2 & Bump Heads",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [
       "G-Unit"
     ],
     "artists": [
+      "50 Cent",
       "G-Unit"
     ],
     "credits": [
@@ -46204,9 +46277,14 @@
         "entity": "G-Unit",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02101",
@@ -46214,11 +46292,21 @@
     "title": "Corner Bodega (Coke Spot)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02102",
@@ -46226,11 +46314,21 @@
     "title": "Ghetto Qu ran (Forgive Me Pt 1)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02103",
@@ -46238,11 +46336,21 @@
     "title": "Power Of The Dollar",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02104",
@@ -46250,11 +46358,21 @@
     "title": "I m A Hustler",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02105",
@@ -46262,11 +46380,21 @@
     "title": "How To Rob A Industry Nigga",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02106",
@@ -46274,11 +46402,21 @@
     "title": "Clue-50",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02107",
@@ -46286,11 +46424,21 @@
     "title": "A Lil Bit Of Everything U.T.P",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02108",
@@ -46298,11 +46446,21 @@
     "title": "Bad News",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02109",
@@ -46310,11 +46468,21 @@
     "title": "Short Stay",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02110",
@@ -46322,11 +46490,21 @@
     "title": "What Up Gangsta",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02111",
@@ -46334,11 +46512,21 @@
     "title": "Patiently Waiting (feat. Eminem)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02112",
@@ -46346,11 +46534,21 @@
     "title": "Many Man (Wish Death)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02113",
@@ -46358,11 +46556,21 @@
     "title": "In Da Club",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02114",
@@ -46370,11 +46578,21 @@
     "title": "High All The Time",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02115",
@@ -46382,11 +46600,21 @@
     "title": "If I Can t",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02116",
@@ -46394,11 +46622,21 @@
     "title": "Back Down",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02117",
@@ -46406,11 +46644,21 @@
     "title": "P.I.M.P",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02118",
@@ -46418,11 +46666,21 @@
     "title": "Poor Lil Rich",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02119",
@@ -46430,11 +46688,21 @@
     "title": "Questions (feat. Nate Dogg)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02120",
@@ -46442,11 +46710,21 @@
     "title": "Don t Push Me (feat. Lloyd Banks, Eminem)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02121",
@@ -46454,11 +46732,21 @@
     "title": "Wanksta",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02122",
@@ -46466,11 +46754,21 @@
     "title": "U Not Like Me",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02123",
@@ -46478,11 +46776,21 @@
     "title": "Life s On The Line",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02124",
@@ -46490,11 +46798,21 @@
     "title": "Power Of The Dollar",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02125",
@@ -46502,11 +46820,21 @@
     "title": "U Not Like Me",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02126",
@@ -46514,11 +46842,21 @@
     "title": "Untitled (freestyle)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02127",
@@ -46526,11 +46864,21 @@
     "title": "N-Banks",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02128",
@@ -46538,11 +46886,21 @@
     "title": "Life s On The Line",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02129",
@@ -46550,11 +46908,21 @@
     "title": "If Dead Men Could Talk",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02130",
@@ -46562,11 +46930,21 @@
     "title": "The Realest Killas (feat. 2pac)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02131",
@@ -46574,11 +46952,21 @@
     "title": "Follow Me Gangsta",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02132",
@@ -46586,11 +46974,21 @@
     "title": "Bang Bang (Irv Gotti Dis)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02133",
@@ -46598,11 +46996,21 @@
     "title": "Backdown (Ja Rule Dis)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02134",
@@ -46622,11 +47030,21 @@
     "title": "a Repercussions",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02136",
@@ -46634,11 +47052,21 @@
     "title": "Be A Gentleman (Jay-Z Dis)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02137",
@@ -46646,11 +47074,21 @@
     "title": "Crazy",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02138",
@@ -46658,11 +47096,21 @@
     "title": "I m Supposed To Die Tonight",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02139",
@@ -46670,11 +47118,21 @@
     "title": "Piggy Bank",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02140",
@@ -46682,11 +47140,21 @@
     "title": "Gatman And Robbin (Feat. Eminem)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02141",
@@ -46694,11 +47162,21 @@
     "title": "Candy Shop (Feat. Olivia)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02142",
@@ -46706,11 +47184,21 @@
     "title": "Outta Control",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02143",
@@ -46718,11 +47206,21 @@
     "title": "Get In My Car",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02144",
@@ -46730,11 +47228,21 @@
     "title": "Disco Inferno",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02145",
@@ -46742,11 +47250,21 @@
     "title": "Just A Lil Bit",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02146",
@@ -46754,11 +47272,21 @@
     "title": "Hate It Or Love It (G-Unit Remix) (Bonus Track) (Feat. The Game, Tony Yayo, Y",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02147",
@@ -46766,11 +47294,21 @@
     "title": "Ski Mask Way (Explicit)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02148",
@@ -46778,11 +47316,21 @@
     "title": "God Gave Me Style",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02149",
@@ -46790,11 +47338,21 @@
     "title": "My Gun Go Off",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02150",
@@ -46802,11 +47360,21 @@
     "title": "Man Down",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02151",
@@ -46814,11 +47382,21 @@
     "title": "I ll Still Kill (feat. Akon)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02152",
@@ -46826,11 +47404,21 @@
     "title": "I Get Money",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02153",
@@ -46838,11 +47426,21 @@
     "title": "Ayo Technology (feat. Justin Timberlake and Timberland)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02154",
@@ -46850,11 +47448,21 @@
     "title": "Straight To The Bank",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02155",
@@ -46862,11 +47470,21 @@
     "title": "Fully Loaded Clip",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02156",
@@ -46874,11 +47492,21 @@
     "title": "Peep Show (feat. Eminem)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02157",
@@ -46886,11 +47514,21 @@
     "title": "Touch The Sky (feat. Tony Yayo)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02158",
@@ -46898,11 +47536,21 @@
     "title": "How to Rob",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02159",
@@ -46910,11 +47558,21 @@
     "title": "Beef with me",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02160",
@@ -46922,11 +47580,21 @@
     "title": "Follow me gansta",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02161",
@@ -46934,11 +47602,21 @@
     "title": "Corner bodega",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02162",
@@ -46946,11 +47624,21 @@
     "title": "Ecstasy",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02163",
@@ -46980,11 +47668,21 @@
     "title": "I m a hustler",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02165",
@@ -46992,11 +47690,21 @@
     "title": "The realest niggaz",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02166",
@@ -47004,11 +47712,21 @@
     "title": "Irregular Heartbeat (Ft",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02167",
@@ -47016,11 +47734,21 @@
     "title": "Im The Man ft Sonny Digital (",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02168",
@@ -47028,11 +47756,21 @@
     "title": "U Not Like Me",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02169",
@@ -47040,11 +47778,21 @@
     "title": "bars",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02170",
@@ -47052,11 +47800,21 @@
     "title": "Lifes On The Line",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02171",
@@ -47064,11 +47822,21 @@
     "title": "Be A Gentleman",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02172",
@@ -47076,11 +47844,21 @@
     "title": "Too Hot feat Nas and Nature",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02173",
@@ -47088,11 +47866,21 @@
     "title": "Who U Rep With feat Nas and Bravehearts",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02174",
@@ -47100,11 +47888,21 @@
     "title": "Ghetto Qua Ran",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02175",
@@ -47112,11 +47910,21 @@
     "title": "Stretch Armstrong Freestyle",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02176",
@@ -47309,11 +48117,21 @@
     "title": "It Is What It Is (G-Unit Radio 10)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02186",
@@ -47458,21 +48276,21 @@
     "folder_region": "New York",
     "primary_artists": [],
     "featuring_artists": [
-      "Eminem",
-      "N/A"
+      "50 Cent",
+      "Eminem"
     ],
     "artists": [
-      "Eminem",
-      "N/A"
+      "50 Cent",
+      "Eminem"
     ],
     "credits": [
       {
-        "entity": "Eminem",
+        "entity": "50 Cent",
         "entity_type": "person",
         "role": "feature"
       },
       {
-        "entity": "N/A",
+        "entity": "Eminem",
         "entity_type": "person",
         "role": "feature"
       }
@@ -47929,15 +48747,15 @@
       "Lloyd Banks"
     ],
     "featuring_artists": [
-      "N/A"
+      "50 Cent"
     ],
     "artists": [
-      "Lloyd Banks",
-      "N/A"
+      "50 Cent",
+      "Lloyd Banks"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "50 Cent",
         "entity_type": "person",
         "role": "feature"
       },
@@ -48584,16 +49402,16 @@
     "folder_region": "New York",
     "primary_artists": [],
     "featuring_artists": [
-      "TI",
+      "T.I.",
       "Young Jeezy"
     ],
     "artists": [
-      "TI",
+      "T.I.",
       "Young Jeezy"
     ],
     "credits": [
       {
-        "entity": "TI",
+        "entity": "T.I.",
         "entity_type": "person",
         "role": "feature"
       },
@@ -64994,11 +65812,21 @@
     "title": "Burn Me Unreleased",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02963",
@@ -65175,11 +66003,14 @@
     "title": "Still Think I m Nothing",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [
       "Jeremih"
     ],
     "artists": [
+      "50 Cent",
       "Jeremih"
     ],
     "credits": [
@@ -65187,9 +66018,14 @@
         "entity": "Jeremih",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02971",
@@ -66816,15 +67652,15 @@
       "Doe B"
     ],
     "featuring_artists": [
-      "TI"
+      "T.I."
     ],
     "artists": [
       "Doe B",
-      "TI"
+      "T.I."
     ],
     "credits": [
       {
-        "entity": "TI",
+        "entity": "T.I.",
         "entity_type": "person",
         "role": "feature"
       },
@@ -68274,15 +69110,15 @@
       "The-Dream"
     ],
     "featuring_artists": [
-      "TI"
+      "T.I."
     ],
     "artists": [
-      "The-Dream",
-      "TI"
+      "T.I.",
+      "The-Dream"
     ],
     "credits": [
       {
-        "entity": "TI",
+        "entity": "T.I.",
         "entity_type": "person",
         "role": "feature"
       },
@@ -69042,11 +69878,21 @@
     "title": "Hip Hop TXL com",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03136",
@@ -69096,11 +69942,21 @@
     "title": "Hip Hop TXL com",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03139",
@@ -85051,11 +85907,21 @@
     "title": "Bartier Cardi (feat. 21 Savage)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03847",
@@ -85063,11 +85929,21 @@
     "title": "a lot",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03848",
@@ -85075,11 +85951,21 @@
     "title": "all my friends",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03849",
@@ -85087,11 +85973,21 @@
     "title": "can t leave without it",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03850",
@@ -85099,11 +85995,21 @@
     "title": "ball w o you",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03851",
@@ -85111,11 +86017,21 @@
     "title": "4L",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03852",
@@ -85123,11 +86039,21 @@
     "title": "Famous",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03853",
@@ -85135,11 +86061,21 @@
     "title": "Bank Account",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03854",
@@ -85147,11 +86083,21 @@
     "title": "Close My Eyes",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03855",
@@ -85159,11 +86105,21 @@
     "title": "Nothin New",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03856",
@@ -85171,11 +86127,21 @@
     "title": "Numb",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03857",
@@ -85183,11 +86149,21 @@
     "title": "Runnin",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03858",
@@ -85195,11 +86171,21 @@
     "title": "Slidin",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03859",
@@ -85207,11 +86193,21 @@
     "title": "Love Me (Unreleased)[Savage Mode 2 Deluxe]",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03860",
@@ -85219,11 +86215,21 @@
     "title": "Skrrt Skrrt",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03861",
@@ -85231,11 +86237,21 @@
     "title": "Heart So Cold Feat Freaky",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03862",
@@ -85243,11 +86259,21 @@
     "title": "Red Opps () Shot By @AZaeProduction",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03863",
@@ -85255,11 +86281,21 @@
     "title": "No Heart",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03864",
@@ -85267,11 +86303,21 @@
     "title": "X B tch (feat. Future)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03865",
@@ -85279,11 +86325,21 @@
     "title": "Savage Mode",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03866",
@@ -85313,11 +86369,21 @@
     "title": "Rough Life",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03868",
@@ -85325,11 +86391,21 @@
     "title": "Since When",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03869",
@@ -85337,11 +86413,21 @@
     "title": "Spaced Out",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03870",
@@ -85349,11 +86435,21 @@
     "title": "Zone 6 (Remix)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03871",
@@ -85361,11 +86457,21 @@
     "title": "Ric Flair Drip",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03872",
@@ -85373,11 +86479,21 @@
     "title": "My Choppa Hate Niggas",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03873",
@@ -85385,11 +86501,21 @@
     "title": "Disrespectful",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03874",
@@ -85397,11 +86523,21 @@
     "title": "Run Up the Racks",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03875",
@@ -85409,11 +86545,21 @@
     "title": "Still Serving",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03876",
@@ -85421,11 +86567,21 @@
     "title": "X ft Future ()",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03877",
@@ -85433,11 +86589,21 @@
     "title": "Shotta",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "21 Savage"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "21 Savage"
+    ],
+    "credits": [
+      {
+        "entity": "21 Savage",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03878",
@@ -101804,25 +102970,25 @@
     "folder_region": "Atlanta",
     "primary_artists": [],
     "featuring_artists": [
+      "21 Savage",
       "Duke",
-      "N/A",
       "Shad Da God",
       "Young Thug"
     ],
     "artists": [
+      "21 Savage",
       "Duke",
-      "N/A",
       "Shad Da God",
       "Young Thug"
     ],
     "credits": [
       {
-        "entity": "Duke",
+        "entity": "21 Savage",
         "entity_type": "person",
         "role": "feature"
       },
       {
-        "entity": "N/A",
+        "entity": "Duke",
         "entity_type": "person",
         "role": "feature"
       },
@@ -116964,15 +118130,15 @@
       "Lil Bibby"
     ],
     "featuring_artists": [
-      "N/A"
+      "21 Savage"
     ],
     "artists": [
-      "Lil Bibby",
-      "N/A"
+      "21 Savage",
+      "Lil Bibby"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "21 Savage",
         "entity_type": "person",
         "role": "feature"
       },
@@ -123179,13 +124345,13 @@
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
-      "Jack Boy"
+      "Jackboy"
     ],
     "featuring_artists": [
       "Kodak Black"
     ],
     "artists": [
-      "Jack Boy",
+      "Jackboy",
       "Kodak Black"
     ],
     "credits": [
@@ -123195,7 +124361,7 @@
         "role": "feature"
       },
       {
-        "entity": "Jack Boy",
+        "entity": "Jackboy",
         "entity_type": "person",
         "role": "primary"
       }

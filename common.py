@@ -46,6 +46,30 @@ def normalize_key(text: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
 
+def squash_key(text: str) -> str:
+    """normalize_key with the spaces removed, for folders that drop them.
+
+    A folder called `50cent` never matched the person `50 Cent`, so the 79 files under
+    `_rap/new york/G-Unit/50cent/` - five full solo albums - were credited to nobody and
+    were invisible to everything downstream. Its siblings `Lloyd Banks` and `Young Buck`
+    matched fine, which is why it went unnoticed: the failure is per-folder and silent.
+    """
+    return normalize_key(text).replace(" ", "")
+
+
+def squashed_lookup(lookup: dict) -> dict:
+    """Space-insensitive view of an alias lookup, ambiguous keys dropped.
+
+    Only keys that squash to exactly one canonical name are kept. Two different artists
+    collapsing onto the same spaceless string would otherwise silently reattribute one of
+    them, which is a worse failure than the missing folder this exists to fix.
+    """
+    by_squashed: dict = {}
+    for key, canonical in lookup.items():
+        by_squashed.setdefault(key.replace(" ", ""), set()).add(canonical)
+    return {key: next(iter(names)) for key, names in by_squashed.items() if len(names) == 1}
+
+
 def clean_artist_text(text: str) -> str:
     value = UNICODE_DASH_RE.sub("-", text).replace("_", " ").strip()
     value = re.sub(r"\(.*?datpiff.*?\)", "", value, flags=re.IGNORECASE)
