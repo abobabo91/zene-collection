@@ -947,15 +947,15 @@
     "file": "_other\\_pop\\_billboard\\2000\\2000-021 _N Sync - Bye Bye Bye.mp3",
     "title": "Bye Bye Bye",
     "primary_artists": [
-      "N Sync"
+      "NSYNC"
     ],
     "featuring_artists": [],
     "artists": [
-      "N Sync"
+      "NSYNC"
     ],
     "credits": [
       {
-        "entity": "N Sync",
+        "entity": "NSYNC",
         "entity_type": "person",
         "role": "primary"
       }
@@ -25571,15 +25571,15 @@
     "file": "_other\\_pop\\Backstreet Boys - Discography (1996-2010)\\Back street boys - Incomplete.mp3",
     "title": "Incomplete",
     "primary_artists": [
-      "Back street boys"
+      "Backstreet Boys"
     ],
     "featuring_artists": [],
     "artists": [
-      "Back street boys"
+      "Backstreet Boys"
     ],
     "credits": [
       {
-        "entity": "Back street boys",
+        "entity": "Backstreet Boys",
         "entity_type": "person",
         "role": "primary"
       }
@@ -28397,11 +28397,10 @@
       "NSYNC"
     ],
     "featuring_artists": [
-      "N Sync"
+      "NSYNC"
     ],
     "artists": [
-      "NSYNC",
-      "N Sync"
+      "NSYNC"
     ],
     "credits": [
       {
@@ -28410,7 +28409,7 @@
         "role": "primary"
       },
       {
-        "entity": "N Sync",
+        "entity": "NSYNC",
         "entity_type": "person",
         "role": "feature"
       }

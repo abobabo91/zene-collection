@@ -7564,15 +7564,15 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rnb_Heaven_Vol_14-(DatPiff.com)\\The WeekndDrake Future  Frank Ocean August Als (DatPiff.com)\\03 - Party Next Door - West District.mp3",
     "title": "West District",
     "primary_artists": [
-      "Party Next Door"
+      "PARTYNEXTDOOR"
     ],
     "featuring_artists": [],
     "artists": [
-      "Party Next Door"
+      "PARTYNEXTDOOR"
     ],
     "credits": [
       {
-        "entity": "Party Next Door",
+        "entity": "PARTYNEXTDOOR",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11758,15 +11758,22 @@
     "file": "_other\\_rnb\\Dreezy\\Dreezy, 2Chainz - 2nd To None.mp3",
     "title": "2nd To None",
     "primary_artists": [
-      "Dreezy"
+      "Dreezy",
+      "2 Chainz"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dreezy"
+      "Dreezy",
+      "2 Chainz"
     ],
     "credits": [
       {
         "entity": "Dreezy",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "2 Chainz",
         "entity_type": "person",
         "role": "primary"
       }

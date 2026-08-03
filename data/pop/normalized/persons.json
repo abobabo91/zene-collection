@@ -602,13 +602,22 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "N Sync": {
+  "NSYNC": {
     "song_ids": [
       "pp-00047",
-      "pp-01366"
+      "pp-00898",
+      "pp-01366",
+      "pp-01367",
+      "pp-01368",
+      "pp-01369"
     ],
     "primary_song_ids": [
-      "pp-00047"
+      "pp-00047",
+      "pp-00898",
+      "pp-01366",
+      "pp-01367",
+      "pp-01368",
+      "pp-01369"
     ],
     "feature_song_ids": [
       "pp-01366"
@@ -5580,25 +5589,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "NSYNC": {
-    "song_ids": [
-      "pp-00898",
-      "pp-01366",
-      "pp-01367",
-      "pp-01368",
-      "pp-01369"
-    ],
-    "primary_song_ids": [
-      "pp-00898",
-      "pp-01366",
-      "pp-01367",
-      "pp-01368",
-      "pp-01369"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Tom Novy": {
     "song_ids": [
       "pp-00905"
@@ -7493,6 +7483,7 @@
       "pp-01223",
       "pp-01224",
       "pp-01225",
+      "pp-01226",
       "pp-01227",
       "pp-01228",
       "pp-01229",
@@ -7505,6 +7496,7 @@
       "pp-01223",
       "pp-01224",
       "pp-01225",
+      "pp-01226",
       "pp-01227",
       "pp-01228",
       "pp-01229",
@@ -7522,17 +7514,6 @@
     ],
     "primary_song_ids": [
       "pp-01222"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Back street boys": {
-    "song_ids": [
-      "pp-01226"
-    ],
-    "primary_song_ids": [
-      "pp-01226"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

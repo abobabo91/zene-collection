@@ -1505,10 +1505,12 @@
   },
   "PARTYNEXTDOOR": {
     "song_ids": [
-      "r-00360"
+      "r-00360",
+      "r-00370"
     ],
     "primary_song_ids": [
-      "r-00360"
+      "r-00360",
+      "r-00370"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1597,17 +1599,6 @@
       "r-00720",
       "r-00721",
       "r-00722"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Party Next Door": {
-    "song_ids": [
-      "r-00370"
-    ],
-    "primary_song_ids": [
-      "r-00370"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2526,6 +2517,17 @@
       "r-00572",
       "r-00573",
       "r-00574"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "2 Chainz": {
+    "song_ids": [
+      "r-00572"
+    ],
+    "primary_song_ids": [
+      "r-00572"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
