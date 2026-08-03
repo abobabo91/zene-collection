@@ -18,6 +18,17 @@ SCAN_ROOTS = {
     "pop": [ZENE / "_other" / "_pop"],
     "alternate": [ZENE / "_other" / "_alternate"],
     "latino": [ZENE / "_other" / "_latino"],
+    # Added 2026-08-03. Missing from this list meant missing from the graph entirely -
+    # 653 files, whole genres, never scanned rather than badly attributed. A folder that
+    # is not here is invisible, and nothing reports it.
+    "african": [ZENE / "_other" / "_african music"],
+    "roman": [ZENE / "_other" / "_roman"],
+    "reggae": [ZENE / "_other" / "_reggea"],
+    "russian": [ZENE / "_other" / "_russian"],
+    "countryjazz": [ZENE / "_other" / "_country_jazz"],
+    "vilagzene": [ZENE / "_other" / "_vilagzene"],
+    "mantra": [ZENE / "_other" / "_mantra"],
+    "classical": [ZENE / "_other" / "_classical"],
 }
 
 

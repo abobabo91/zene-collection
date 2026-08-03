@@ -1,0 +1,68 @@
+{
+  "Beethoven": {
+    "song_ids": [
+      "cl-00001"
+    ],
+    "primary_song_ids": [
+      "cl-00001"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Debussy": {
+    "song_ids": [
+      "cl-00002"
+    ],
+    "primary_song_ids": [
+      "cl-00002"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Erik Satie": {
+    "song_ids": [
+      "cl-00003"
+    ],
+    "primary_song_ids": [
+      "cl-00003"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Johann Strauss II": {
+    "song_ids": [
+      "cl-00004"
+    ],
+    "primary_song_ids": [
+      "cl-00004"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Maurice Ravel": {
+    "song_ids": [
+      "cl-00005"
+    ],
+    "primary_song_ids": [
+      "cl-00005"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tchaikovsky": {
+    "song_ids": [
+      "cl-00007"
+    ],
+    "primary_song_ids": [
+      "cl-00007"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  }
+}

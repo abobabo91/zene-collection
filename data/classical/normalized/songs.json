@@ -1,0 +1,142 @@
+[
+  {
+    "song_id": "cl-00001",
+    "file": "_other\\_classical\\Beethoven - Moonlight Sonata (FULL).mp3",
+    "title": "Moonlight Sonata (FULL)",
+    "primary_artists": [
+      "Beethoven"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beethoven"
+    ],
+    "credits": [
+      {
+        "entity": "Beethoven",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cl-00002",
+    "file": "_other\\_classical\\Debussy - Rêverie.mp3",
+    "title": "Rêverie",
+    "primary_artists": [
+      "Debussy"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Debussy"
+    ],
+    "credits": [
+      {
+        "entity": "Debussy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cl-00003",
+    "file": "_other\\_classical\\Erik Satie - Gnossienne No.1.mp3",
+    "title": "Gnossienne No",
+    "primary_artists": [
+      "Erik Satie"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Erik Satie"
+    ],
+    "credits": [
+      {
+        "entity": "Erik Satie",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cl-00004",
+    "file": "_other\\_classical\\Johann Strauss II - The Blue Danube Waltz.mp3",
+    "title": "The Blue Danube Waltz",
+    "primary_artists": [
+      "Johann Strauss II"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Johann Strauss II"
+    ],
+    "credits": [
+      {
+        "entity": "Johann Strauss II",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cl-00005",
+    "file": "_other\\_classical\\Maurice Ravel - Bolero.mp3",
+    "title": "Bolero",
+    "primary_artists": [
+      "Maurice Ravel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maurice Ravel"
+    ],
+    "credits": [
+      {
+        "entity": "Maurice Ravel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cl-00006",
+    "file": "_other\\_classical\\Sibelius 13 Pieces for Piano, Op. 76 - II. Etude.mp3",
+    "title": "Sibelius 13 Pieces for Piano, Op. 76 - II. Etude",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cl-00007",
+    "file": "_other\\_classical\\Tchaikovsky - Swan Lake Op. 20, Act II No. 10, Scene.mp3",
+    "title": "Swan Lake Op. 20, Act II No",
+    "primary_artists": [
+      "Tchaikovsky"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Tchaikovsky"
+    ],
+    "credits": [
+      {
+        "entity": "Tchaikovsky",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "song_id": "mn-00001",
+    "file": "_other\\_mantra\\Curawaka - Cunaq.mp3",
+    "title": "Cunaq",
+    "primary_artists": [
+      "Curawaka"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Curawaka"
+    ],
+    "credits": [
+      {
+        "entity": "Curawaka",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "mn-00002",
+    "file": "_other\\_mantra\\Mantra of LOVE JAI RADHA MADHAVA (37min).mp3",
+    "title": "Mantra of LOVE JAI RADHA MADHAVA (37min)",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "mn-00003",
+    "file": "_other\\_mantra\\Mantras for Deep Inner Peace   8 Powerful Mantras.mp3",
+    "title": "Mantras for Deep Inner Peace 8 Powerful Mantras",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "mn-00004",
+    "file": "_other\\_mantra\\Namaste Devi Prayer, Hindu, Spiritual music, gentl.mp3",
+    "title": "Namaste Devi Prayer, Hindu, Spiritual music, gentl",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "mn-00005",
+    "file": "_other\\_mantra\\Om Asatoma Sat Gamaya - JayandJay (mantra).mp3",
+    "title": "JayandJay (mantra)",
+    "primary_artists": [
+      "Om Asatoma Sat Gamaya"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Om Asatoma Sat Gamaya"
+    ],
+    "credits": [
+      {
+        "entity": "Om Asatoma Sat Gamaya",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "mn-00006",
+    "file": "_other\\_mantra\\Pachamama - Astral Flowers.mp3",
+    "title": "Astral Flowers",
+    "primary_artists": [
+      "Pachamama"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Pachamama"
+    ],
+    "credits": [
+      {
+        "entity": "Pachamama",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "mn-00007",
+    "file": "_other\\_mantra\\Snatam Kaur - Mul Mantra - Ek Ong Kar.mp3",
+    "title": "Mul Mantra - Ek Ong Kar",
+    "primary_artists": [
+      "Snatam Kaur"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Snatam Kaur"
+    ],
+    "credits": [
+      {
+        "entity": "Snatam Kaur",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "mn-00008",
+    "file": "_other\\_mantra\\Todo Brilla-  Shimshai & Susana.mp3",
+    "title": "Todo Brilla- Shimshai & Susana",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  }
+]

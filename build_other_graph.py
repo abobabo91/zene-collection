@@ -236,6 +236,102 @@ AREA_CONFIG = {
         },
         "split_groups": set(),
     },
+
+    # Added 2026-08-03. These eight folders held 653 files that no builder scanned, so
+    # they were not misattributed - they did not exist as far as the graph was concerned.
+    # Whole genres were missing: African, reggae, Russian, Romani, classical, world.
+    # All of them are laid out as <area>/<artist>/..., which is what this builder expects.
+    "african": {
+        "scan_root": ZENE / "_other" / "_african music",
+        "id_prefix": "af",
+        "generic_folders": {
+            "_african music", "_african tribe", "_old", "_random", "_other", "random", "misc",
+            "videos", "youtube", "afrochill",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
+    "roman": {
+        "scan_root": ZENE / "_other" / "_roman",
+        "id_prefix": "rn",
+        "generic_folders": {
+            "_roman", "_manele", "_modern pop", "_old pop", "_trap", "_random", "_other",
+            "random", "misc", "videos", "youtube",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
+    "reggae": {
+        "scan_root": ZENE / "_other" / "_reggea",
+        "id_prefix": "rg",
+        "generic_folders": {
+            "_reggea", "skinhead reggae", "_random", "_other", "random", "misc", "videos", "youtube",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
+    "russian": {
+        "scan_root": ZENE / "_other" / "_russian",
+        "id_prefix": "ru",
+        "generic_folders": {
+            "_russian", "_trap", "russian rnb", "_random", "_other", "random", "misc",
+            "videos", "youtube",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
+    "countryjazz": {
+        "scan_root": ZENE / "_other" / "_country_jazz",
+        "id_prefix": "cj",
+        "generic_folders": {
+            "_country_jazz", "old-school funk", "the complete legendary sessions", "_random", "_other",
+            "random", "misc", "videos", "youtube",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
+    "vilagzene": {
+        "scan_root": ZENE / "_other" / "_vilagzene",
+        "id_prefix": "vz",
+        "generic_folders": {
+            "_vilagzene", "arab zene", "cigany zene", "ladino music", "tranquilidad",
+            "_random", "_other", "random", "misc", "videos", "youtube",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
+    "mantra": {
+        "scan_root": ZENE / "_other" / "_mantra",
+        "id_prefix": "mn",
+        "generic_folders": {"_mantra", "_random", "_other", "random", "misc", "videos", "youtube"},
+        "blocklist": {"n/a", "unknown", "various", "nothing", "lyrics", "audio"},
+        "split_groups": set(),
+    },
+    "classical": {
+        "scan_root": ZENE / "_other" / "_classical",
+        "id_prefix": "cl",
+        "generic_folders": {"_classical", "_random", "_other", "random", "misc", "videos", "youtube"},
+        "blocklist": {"n/a", "unknown", "various", "nothing", "lyrics", "audio"},
+        "split_groups": set(),
+    },
 }
 
 

@@ -1,0 +1,836 @@
+[
+  {
+    "song_id": "cj-00001",
+    "file": "_other\\_country_jazz\\Grover Washington Jr\\Can You Stop The Rain - Grover Washington Jr..mp3",
+    "title": "Grover Washington Jr",
+    "primary_artists": [
+      "Can You Stop The Rain"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Can You Stop The Rain"
+    ],
+    "credits": [
+      {
+        "entity": "Can You Stop The Rain",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00002",
+    "file": "_other\\_country_jazz\\Grover Washington Jr\\Grover Washington Jr - East River Drive (1980).mp3",
+    "title": "East River Drive (1980)",
+    "primary_artists": [
+      "Grover Washington Jr"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Grover Washington Jr"
+    ],
+    "credits": [
+      {
+        "entity": "Grover Washington Jr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00003",
+    "file": "_other\\_country_jazz\\Grover Washington Jr\\Grover Washington jr - Summer Nights.mp3",
+    "title": "Summer Nights",
+    "primary_artists": [
+      "Grover Washington Jr"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Grover Washington Jr"
+    ],
+    "credits": [
+      {
+        "entity": "Grover Washington Jr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00004",
+    "file": "_other\\_country_jazz\\Grover Washington Jr\\Grover Washington, Jr. - Love Like This.mp3",
+    "title": "Love Like This",
+    "primary_artists": [
+      "Grover Washington Jr"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Grover Washington Jr"
+    ],
+    "credits": [
+      {
+        "entity": "Grover Washington Jr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00005",
+    "file": "_other\\_country_jazz\\Just the Two of Us (feat. Bill Withers).mp3",
+    "title": "Just the Two of Us (feat. Bill Withers)",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cj-00006",
+    "file": "_other\\_country_jazz\\Leon Bridges Playlist\\Leon Bridges - Shy (Official Audio).mp3",
+    "title": "Shy ()",
+    "primary_artists": [
+      "Leon Bridges"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Leon Bridges"
+    ],
+    "credits": [
+      {
+        "entity": "Leon Bridges",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00007",
+    "file": "_other\\_country_jazz\\Leon Bridges Playlist\\River.mp3",
+    "title": "River",
+    "primary_artists": [
+      "Leon Bridges"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Leon Bridges"
+    ],
+    "credits": [
+      {
+        "entity": "Leon Bridges",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00008",
+    "file": "_other\\_country_jazz\\Leon Bridges Playlist\\Sweeter.mp3",
+    "title": "Sweeter",
+    "primary_artists": [
+      "Leon Bridges"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Leon Bridges"
+    ],
+    "credits": [
+      {
+        "entity": "Leon Bridges",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00009",
+    "file": "_other\\_country_jazz\\Nina Simone - Sinnerman.mp3",
+    "title": "Sinnerman",
+    "primary_artists": [
+      "Nina Simone"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Nina Simone"
+    ],
+    "credits": [
+      {
+        "entity": "Nina Simone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00010",
+    "file": "_other\\_country_jazz\\Old-School Funk\\02. Mtume - Juicy Fruit.mp3",
+    "title": "Juicy Fruit",
+    "primary_artists": [
+      "Mtume"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Mtume"
+    ],
+    "credits": [
+      {
+        "entity": "Mtume",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00011",
+    "file": "_other\\_country_jazz\\Old-School Funk\\09. Earth, Wind & Fire - Let_s Groove (Official HD Video).mp3",
+    "title": "Let s Groove ()",
+    "primary_artists": [
+      "Earth",
+      "Wind",
+      "Fire"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Earth",
+      "Wind",
+      "Fire"
+    ],
+    "credits": [
+      {
+        "entity": "Earth",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Wind",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Fire",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00012",
+    "file": "_other\\_country_jazz\\Old-School Funk\\12. Funky Drummer (Pt. 1 & 2).mp3",
+    "title": "Funky Drummer (Pt. 1 & 2)",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cj-00013",
+    "file": "_other\\_country_jazz\\Old-School Funk\\32. Hollywood Swinging.mp3",
+    "title": "Hollywood Swinging",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cj-00014",
+    "file": "_other\\_country_jazz\\Old-School Funk\\34. Wild Cherry - Play That Funky Music.mp3",
+    "title": "Play That Funky Music",
+    "primary_artists": [
+      "Wild Cherry"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Wild Cherry"
+    ],
+    "credits": [
+      {
+        "entity": "Wild Cherry",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00015",
+    "file": "_other\\_country_jazz\\Old-School Funk\\38. Curtis Mayfield - Pusherman (Official Audio).mp3",
+    "title": "Pusherman ()",
+    "primary_artists": [
+      "Curtis Mayfield"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Curtis Mayfield"
+    ],
+    "credits": [
+      {
+        "entity": "Curtis Mayfield",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00016",
+    "file": "_other\\_country_jazz\\Old-School Funk\\51. Let It Whip.mp3",
+    "title": "Let It Whip",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cj-00017",
+    "file": "_other\\_country_jazz\\The Complete Legendary Sessions\\Almost Like Being in Love.mp3",
+    "title": "Almost Like Being in Love",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cj-00018",
+    "file": "_other\\_country_jazz\\The Complete Legendary Sessions\\Alone Together.mp3",
+    "title": "Alone Together",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cj-00019",
+    "file": "_other\\_country_jazz\\The Complete Legendary Sessions\\You and the Night and the Music.mp3",
+    "title": "You and the Night and the Music",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "cj-00020",
+    "file": "_other\\_country_jazz\\tracy chapman\\Across the Lines.mp3",
+    "title": "Across the Lines",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00021",
+    "file": "_other\\_country_jazz\\tracy chapman\\Baby Can I Hold You (2015 Remaster).mp3",
+    "title": "Baby Can I Hold You (2015 Remaster)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00022",
+    "file": "_other\\_country_jazz\\tracy chapman\\Change (2015 Remaster).mp3",
+    "title": "Change (2015 Remaster)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00023",
+    "file": "_other\\_country_jazz\\tracy chapman\\Dolly Parton - Jolene (Audio).mp3",
+    "title": "Jolene (Audio)",
+    "primary_artists": [
+      "Dolly Parton"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dolly Parton"
+    ],
+    "credits": [
+      {
+        "entity": "Dolly Parton",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00024",
+    "file": "_other\\_country_jazz\\tracy chapman\\Fast Car (2015 Remaster).mp3",
+    "title": "Fast Car (2015 Remaster)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00025",
+    "file": "_other\\_country_jazz\\tracy chapman\\For My Lover.mp3",
+    "title": "For My Lover",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00026",
+    "file": "_other\\_country_jazz\\tracy chapman\\Heaven_s Here on Earth.mp3",
+    "title": "Heaven s Here on Earth",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00027",
+    "file": "_other\\_country_jazz\\tracy chapman\\I Am A Man Of Constant Sorrow (Radio Edit).mp3",
+    "title": "I Am A Man Of Constant Sorrow",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00028",
+    "file": "_other\\_country_jazz\\tracy chapman\\If These Are the Things.mp3",
+    "title": "If These Are the Things",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00029",
+    "file": "_other\\_country_jazz\\tracy chapman\\Remember the Tinman.mp3",
+    "title": "Remember the Tinman",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00030",
+    "file": "_other\\_country_jazz\\tracy chapman\\Smoke and Ashes (2015 Remaster).mp3",
+    "title": "Smoke and Ashes (2015 Remaster)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00031",
+    "file": "_other\\_country_jazz\\tracy chapman\\Stand by Me (Live at the Late Show with David Letterman).mp3",
+    "title": "Stand by Me (Live at the Late Show with David Letterman)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00032",
+    "file": "_other\\_country_jazz\\tracy chapman\\Tell It like It Is.mp3",
+    "title": "Tell It like It Is",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00033",
+    "file": "_other\\_country_jazz\\tracy chapman\\The Promise (2015 Remaster).mp3",
+    "title": "The Promise (2015 Remaster)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00034",
+    "file": "_other\\_country_jazz\\tracy chapman\\The Rape of the World.mp3",
+    "title": "The Rape of the World",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00035",
+    "file": "_other\\_country_jazz\\tracy chapman\\TRACY CHAPMAN  Stand By Me.mp3",
+    "title": "TRACY CHAPMAN Stand By Me",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00036",
+    "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - Broken.mp3",
+    "title": "Broken",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00037",
+    "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - Sorry (Subtitulado Castellano).mp3",
+    "title": "Sorry (Subtitulado Castellano)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00038",
+    "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - The Love That You Had.mp3",
+    "title": "The Love That You Had",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00039",
+    "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - This Time (crossroads).mp3",
+    "title": "This Time (crossroads)",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00040",
+    "file": "_other\\_country_jazz\\tracy chapman\\Why.mp3",
+    "title": "Why",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00041",
+    "file": "_other\\_country_jazz\\tracy chapman\\You_re the One.mp3",
+    "title": "You re the One",
+    "primary_artists": [
+      "tracy chapman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "tracy chapman"
+    ],
+    "credits": [
+      {
+        "entity": "tracy chapman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  }
+]

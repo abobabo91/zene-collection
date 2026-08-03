@@ -1,0 +1,46 @@
+{
+  "Curawaka": {
+    "song_ids": [
+      "mn-00001"
+    ],
+    "primary_song_ids": [
+      "mn-00001"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Om Asatoma Sat Gamaya": {
+    "song_ids": [
+      "mn-00005"
+    ],
+    "primary_song_ids": [
+      "mn-00005"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pachamama": {
+    "song_ids": [
+      "mn-00006"
+    ],
+    "primary_song_ids": [
+      "mn-00006"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Snatam Kaur": {
+    "song_ids": [
+      "mn-00007"
+    ],
+    "primary_song_ids": [
+      "mn-00007"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  }
+}

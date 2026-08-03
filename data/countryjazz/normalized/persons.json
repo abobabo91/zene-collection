@@ -1,0 +1,182 @@
+{
+  "Can You Stop The Rain": {
+    "song_ids": [
+      "cj-00001"
+    ],
+    "primary_song_ids": [
+      "cj-00001"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Grover Washington Jr": {
+    "song_ids": [
+      "cj-00002",
+      "cj-00003",
+      "cj-00004"
+    ],
+    "primary_song_ids": [
+      "cj-00002",
+      "cj-00003",
+      "cj-00004"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Leon Bridges": {
+    "song_ids": [
+      "cj-00006",
+      "cj-00007",
+      "cj-00008"
+    ],
+    "primary_song_ids": [
+      "cj-00006",
+      "cj-00007",
+      "cj-00008"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nina Simone": {
+    "song_ids": [
+      "cj-00009"
+    ],
+    "primary_song_ids": [
+      "cj-00009"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mtume": {
+    "song_ids": [
+      "cj-00010"
+    ],
+    "primary_song_ids": [
+      "cj-00010"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Earth": {
+    "song_ids": [
+      "cj-00011"
+    ],
+    "primary_song_ids": [
+      "cj-00011"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wind": {
+    "song_ids": [
+      "cj-00011"
+    ],
+    "primary_song_ids": [
+      "cj-00011"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fire": {
+    "song_ids": [
+      "cj-00011"
+    ],
+    "primary_song_ids": [
+      "cj-00011"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wild Cherry": {
+    "song_ids": [
+      "cj-00014"
+    ],
+    "primary_song_ids": [
+      "cj-00014"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Curtis Mayfield": {
+    "song_ids": [
+      "cj-00015"
+    ],
+    "primary_song_ids": [
+      "cj-00015"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "tracy chapman": {
+    "song_ids": [
+      "cj-00020",
+      "cj-00021",
+      "cj-00022",
+      "cj-00024",
+      "cj-00025",
+      "cj-00026",
+      "cj-00027",
+      "cj-00028",
+      "cj-00029",
+      "cj-00030",
+      "cj-00031",
+      "cj-00032",
+      "cj-00033",
+      "cj-00034",
+      "cj-00035",
+      "cj-00036",
+      "cj-00037",
+      "cj-00038",
+      "cj-00039",
+      "cj-00040",
+      "cj-00041"
+    ],
+    "primary_song_ids": [
+      "cj-00020",
+      "cj-00021",
+      "cj-00022",
+      "cj-00024",
+      "cj-00025",
+      "cj-00026",
+      "cj-00027",
+      "cj-00028",
+      "cj-00029",
+      "cj-00030",
+      "cj-00031",
+      "cj-00032",
+      "cj-00033",
+      "cj-00034",
+      "cj-00035",
+      "cj-00036",
+      "cj-00037",
+      "cj-00038",
+      "cj-00039",
+      "cj-00040",
+      "cj-00041"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dolly Parton": {
+    "song_ids": [
+      "cj-00023"
+    ],
+    "primary_song_ids": [
+      "cj-00023"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  }
+}

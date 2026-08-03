@@ -1,0 +1,791 @@
+{
+  "Alpha Blondy": {
+    "song_ids": [
+      "rg-00001",
+      "rg-00002"
+    ],
+    "primary_song_ids": [
+      "rg-00001",
+      "rg-00002"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Barrington Levy": {
+    "song_ids": [
+      "rg-00003",
+      "rg-00004",
+      "rg-00005",
+      "rg-00006",
+      "rg-00007",
+      "rg-00008",
+      "rg-00009",
+      "rg-00010",
+      "rg-00011"
+    ],
+    "primary_song_ids": [
+      "rg-00003",
+      "rg-00004",
+      "rg-00005",
+      "rg-00006",
+      "rg-00007",
+      "rg-00008",
+      "rg-00009",
+      "rg-00010",
+      "rg-00011"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Big Youth": {
+    "song_ids": [
+      "rg-00012"
+    ],
+    "primary_song_ids": [
+      "rg-00012"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bob Marley": {
+    "song_ids": [
+      "rg-00014",
+      "rg-00015",
+      "rg-00016",
+      "rg-00017",
+      "rg-00018",
+      "rg-00019",
+      "rg-00020",
+      "rg-00021"
+    ],
+    "primary_song_ids": [
+      "rg-00014",
+      "rg-00015",
+      "rg-00016",
+      "rg-00017",
+      "rg-00018",
+      "rg-00019",
+      "rg-00020",
+      "rg-00021"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Wailers": {
+    "song_ids": [
+      "rg-00015",
+      "rg-00016"
+    ],
+    "primary_song_ids": [
+      "rg-00015",
+      "rg-00016"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bob marley": {
+    "song_ids": [
+      "rg-00022"
+    ],
+    "primary_song_ids": [
+      "rg-00022"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bob Marley s": {
+    "song_ids": [
+      "rg-00023",
+      "rg-00025",
+      "rg-00026",
+      "rg-00027"
+    ],
+    "primary_song_ids": [
+      "rg-00023",
+      "rg-00025",
+      "rg-00026",
+      "rg-00027"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bob Marley the Wailers": {
+    "song_ids": [
+      "rg-00024"
+    ],
+    "primary_song_ids": [
+      "rg-00024"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LAURYN HILL Turn your lights down low": {
+    "song_ids": [
+      "rg-00025"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00025"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Majek Fashek": {
+    "song_ids": [
+      "rg-00028"
+    ],
+    "primary_song_ids": [
+      "rg-00028"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "War": {
+    "song_ids": [
+      "rg-00029"
+    ],
+    "primary_song_ids": [
+      "rg-00029"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Burning Spear": {
+    "song_ids": [
+      "rg-00030"
+    ],
+    "primary_song_ids": [
+      "rg-00030"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chezidek": {
+    "song_ids": [
+      "rg-00032"
+    ],
+    "primary_song_ids": [
+      "rg-00032"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dawn Penn": {
+    "song_ids": [
+      "rg-00033"
+    ],
+    "primary_song_ids": [
+      "rg-00033"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DUANE STEPHENSON": {
+    "song_ids": [
+      "rg-00034",
+      "rg-00035"
+    ],
+    "primary_song_ids": [
+      "rg-00034",
+      "rg-00035"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "FANTAN MOJAH": {
+    "song_ids": [
+      "rg-00036"
+    ],
+    "primary_song_ids": [
+      "rg-00036"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gentleman": {
+    "song_ids": [
+      "rg-00037"
+    ],
+    "primary_song_ids": [
+      "rg-00037"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gregory Isaacs": {
+    "song_ids": [
+      "rg-00038",
+      "rg-00039"
+    ],
+    "primary_song_ids": [
+      "rg-00038",
+      "rg-00039"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jah Cure": {
+    "song_ids": [
+      "rg-00040"
+    ],
+    "primary_song_ids": [
+      "rg-00040"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Don Carlos": {
+    "song_ids": [
+      "rg-00041"
+    ],
+    "primary_song_ids": [
+      "rg-00041"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alborosie": {
+    "song_ids": [
+      "rg-00042"
+    ],
+    "primary_song_ids": [
+      "rg-00042"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Culture": {
+    "song_ids": [
+      "rg-00043"
+    ],
+    "primary_song_ids": [
+      "rg-00043"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "John Holt Strange Things": {
+    "song_ids": [
+      "rg-00044"
+    ],
+    "primary_song_ids": [
+      "rg-00044"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Max Romeo": {
+    "song_ids": [
+      "rg-00045"
+    ],
+    "primary_song_ids": [
+      "rg-00045"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Protoje": {
+    "song_ids": [
+      "rg-00046"
+    ],
+    "primary_song_ids": [
+      "rg-00046"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KONSHENS": {
+    "song_ids": [
+      "rg-00047"
+    ],
+    "primary_song_ids": [
+      "rg-00047"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Liam Bailey": {
+    "song_ids": [
+      "rg-00048",
+      "rg-00072"
+    ],
+    "primary_song_ids": [
+      "rg-00048"
+    ],
+    "feature_song_ids": [
+      "rg-00072"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lutan Fyah Turbulence": {
+    "song_ids": [
+      "rg-00049"
+    ],
+    "primary_song_ids": [
+      "rg-00049"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Collie Buddz": {
+    "song_ids": [
+      "rg-00050"
+    ],
+    "primary_song_ids": [
+      "rg-00050"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Damian Jr. Gong Marley": {
+    "song_ids": [
+      "rg-00051"
+    ],
+    "primary_song_ids": [
+      "rg-00051"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Damian Marley": {
+    "song_ids": [
+      "rg-00052",
+      "rg-00053"
+    ],
+    "primary_song_ids": [
+      "rg-00052",
+      "rg-00053"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Marley family": {
+    "song_ids": [
+      "rg-00054",
+      "rg-00055",
+      "rg-00057",
+      "rg-00062",
+      "rg-00063"
+    ],
+    "primary_song_ids": [
+      "rg-00054",
+      "rg-00055",
+      "rg-00057",
+      "rg-00062",
+      "rg-00063"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kymani Marley": {
+    "song_ids": [
+      "rg-00056"
+    ],
+    "primary_song_ids": [
+      "rg-00056"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stephen RAGGA Marley": {
+    "song_ids": [
+      "rg-00058"
+    ],
+    "primary_song_ids": [
+      "rg-00058"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stephen Marley": {
+    "song_ids": [
+      "rg-00059",
+      "rg-00060"
+    ],
+    "primary_song_ids": [
+      "rg-00059",
+      "rg-00060"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stick Figure": {
+    "song_ids": [
+      "rg-00061",
+      "rg-00086",
+      "rg-00087",
+      "rg-00088",
+      "rg-00089",
+      "rg-00090",
+      "rg-00091",
+      "rg-00092",
+      "rg-00093",
+      "rg-00094",
+      "rg-00095"
+    ],
+    "primary_song_ids": [
+      "rg-00061",
+      "rg-00086",
+      "rg-00087",
+      "rg-00088",
+      "rg-00089",
+      "rg-00090",
+      "rg-00091",
+      "rg-00092",
+      "rg-00093",
+      "rg-00094",
+      "rg-00095"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ziggy Marley": {
+    "song_ids": [
+      "rg-00064"
+    ],
+    "primary_song_ids": [
+      "rg-00064"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Miyagi": {
+    "song_ids": [
+      "rg-00065"
+    ],
+    "primary_song_ids": [
+      "rg-00065"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mungo s Hi-Fi": {
+    "song_ids": [
+      "rg-00066"
+    ],
+    "primary_song_ids": [
+      "rg-00066"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Reggae Love": {
+    "song_ids": [
+      "rg-00068"
+    ],
+    "primary_song_ids": [
+      "rg-00068"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Richie Spice": {
+    "song_ids": [
+      "rg-00069"
+    ],
+    "primary_song_ids": [
+      "rg-00069"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shy FX": {
+    "song_ids": [
+      "rg-00072"
+    ],
+    "primary_song_ids": [
+      "rg-00072"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sister Nancy": {
+    "song_ids": [
+      "rg-00073"
+    ],
+    "primary_song_ids": [
+      "rg-00073"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alton Ellis": {
+    "song_ids": [
+      "rg-00074",
+      "rg-00075"
+    ],
+    "primary_song_ids": [
+      "rg-00074",
+      "rg-00075"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dreamlets": {
+    "song_ids": [
+      "rg-00076"
+    ],
+    "primary_song_ids": [
+      "rg-00076"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Glen Adams": {
+    "song_ids": [
+      "rg-00077"
+    ],
+    "primary_song_ids": [
+      "rg-00077"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Keith": {
+    "song_ids": [
+      "rg-00079"
+    ],
+    "primary_song_ids": [
+      "rg-00079"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ken": {
+    "song_ids": [
+      "rg-00079"
+    ],
+    "primary_song_ids": [
+      "rg-00079"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Laurel Aitken": {
+    "song_ids": [
+      "rg-00080"
+    ],
+    "primary_song_ids": [
+      "rg-00080"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stranger Cole": {
+    "song_ids": [
+      "rg-00081"
+    ],
+    "primary_song_ids": [
+      "rg-00081"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Paragons": {
+    "song_ids": [
+      "rg-00082"
+    ],
+    "primary_song_ids": [
+      "rg-00082"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Skatalites": {
+    "song_ids": [
+      "rg-00083"
+    ],
+    "primary_song_ids": [
+      "rg-00083"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Me Reggae Dub": {
+    "song_ids": [
+      "rg-00086"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00086"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Melodians": {
+    "song_ids": [
+      "rg-00096"
+    ],
+    "primary_song_ids": [
+      "rg-00096"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Mouse Outfit": {
+    "song_ids": [
+      "rg-00097"
+    ],
+    "primary_song_ids": [
+      "rg-00097"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fox": {
+    "song_ids": [
+      "rg-00097"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00097"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Thievery Corporation": {
+    "song_ids": [
+      "rg-00098"
+    ],
+    "primary_song_ids": [
+      "rg-00098"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "UB40": {
+    "song_ids": [
+      "rg-00099"
+    ],
+    "primary_song_ids": [
+      "rg-00099"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "VYBZ KARTEL": {
+    "song_ids": [
+      "rg-00101"
+    ],
+    "primary_song_ids": [
+      "rg-00101"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vybz Kartel": {
+    "song_ids": [
+      "rg-00102"
+    ],
+    "primary_song_ids": [
+      "rg-00102"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rvssian": {
+    "song_ids": [
+      "rg-00102"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00102"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wyclef Jean": {
+    "song_ids": [
+      "rg-00104",
+      "rg-00105"
+    ],
+    "primary_song_ids": [
+      "rg-00104",
+      "rg-00105"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Refugee All Stars": {
+    "song_ids": [
+      "rg-00105"
+    ],
+    "primary_song_ids": [
+      "rg-00105"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zamunda": {
+    "song_ids": [
+      "rg-00106",
+      "rg-00107"
+    ],
+    "primary_song_ids": [
+      "rg-00106",
+      "rg-00107"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  }
+}
