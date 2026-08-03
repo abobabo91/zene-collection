@@ -274,6 +274,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <div class="tab" data-tab="alternate">Alternative</div>
   <div class="tab" data-tab="elektro">Electronic</div>
   <div class="tab" data-tab="combined">R&B + Pop + Alt</div>
+__EXTRA_TABS__
 </div>
 
 <div id="panel-us" class="panel">
@@ -381,6 +382,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   </div>
   <div class="table-wrap"><div class="table-scroll" id="table-alternate"></div></div>
 </div>
+__EXTRA_PANELS__
 
 <div class="fm-bg" id="fmBg">
   <div class="fm">
@@ -707,6 +709,7 @@ const COMBINED = (() => {
   return Object.values(map).sort((a,b) => b.adj - a.adj);
 })();
 setupPanel('combined', COMBINED);
+__EXTRA_JS__
 buildMap('map-us-container', 'map-us-tooltip', 'region-us', US_DATA, US_REGIONS, US_COORDS, US_OUTLINE, [900, 560], '#3b82f6');
 buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS, HU_COORDS, HU_OUTLINE, [620, 260], '#dc2626');
 </script>
@@ -785,6 +788,53 @@ def _scan_dir(abs_path: Path, rel_path: str) -> dict | None:
     return {"n": Path(rel_path).name, "t": "d", "c": children}
 
 
+# Areas whose tab, panel and wiring are generated rather than written out by hand. The
+# nine originals stay bespoke - US and Hungary have maps, "combined" merges three areas -
+# but these have no regions, labels or groups, so one template covers all of them.
+# Adding the tenth area by hand would have meant ~90 edits across an HTML template.
+SIMPLE_AREAS = [
+    ("african", "African"),
+    ("intlrap", "Int'l Rap"),
+    ("intltrap", "Int'l Trap"),
+    ("reggae", "Reggae"),
+    ("roman", "Romani"),
+    ("russian", "Russian"),
+    ("countryjazz", "Country &amp; Jazz"),
+    ("vilagzene", "World"),
+    ("classical", "Classical"),
+    ("mantra", "Mantra"),
+]
+
+SIMPLE_PANEL = """<div id="panel-{area}" class="panel" style="display:none">
+  <div class="stats" id="stats-{area}"></div>
+  <div class="controls">
+    <input type="text" id="search-{area}" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-{area}"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-{area}"></div></div>
+</div>"""
+
+
+def build_simple_areas() -> tuple:
+    """(tabs html, panels html, js, folder trees) for every generated area.
+
+    An area with no data on disk is skipped rather than rendered empty - a tab that opens
+    onto nothing is worse than no tab.
+    """
+    tabs, panels, js, trees = [], [], [], {}
+    for area, label in SIMPLE_AREAS:
+        if not (DATA_ROOT / area / "normalized" / "persons.json").exists():
+            continue
+        data = export_persons(area)
+        if not data:
+            continue
+        trees.update(build_folder_trees(area, data))
+        tabs.append(f'  <div class="tab" data-tab="{area}">{label}</div>')
+        panels.append(SIMPLE_PANEL.format(area=area))
+        js.append(f"setupPanel('{area}', {json.dumps(data, ensure_ascii=False)});")
+    return "\n".join(tabs), "\n".join(panels), "\n".join(js), trees
+
+
 def main() -> int:
     us_data = export_persons("us")
     hu_data = export_persons("hungarian")
@@ -817,9 +867,14 @@ def main() -> int:
     elektro_trees = build_folder_trees("elektro", elektro_data)
     pop_trees = build_folder_trees("pop", pop_data)
     alt_trees = build_folder_trees("alternate", alt_data)
-    all_trees = {**us_trees, **hu_trees, **rnb_trees, **rock_trees, **magyar_trees, **latino_trees, **elektro_trees, **pop_trees, **alt_trees}
+    extra_tabs, extra_panels, extra_js, extra_trees = build_simple_areas()
+    all_trees = {**us_trees, **hu_trees, **rnb_trees, **rock_trees, **magyar_trees,
+                 **latino_trees, **elektro_trees, **pop_trees, **alt_trees, **extra_trees}
 
     html = HTML_TEMPLATE
+    html = html.replace("__EXTRA_TABS__", extra_tabs)
+    html = html.replace("__EXTRA_PANELS__", extra_panels)
+    html = html.replace("__EXTRA_JS__", extra_js)
     html = html.replace("__FOLDER_TREES__", json.dumps(all_trees, ensure_ascii=False, separators=(',', ':')))
     html = html.replace("__RNB_DATA__", json.dumps(rnb_data, ensure_ascii=False))
     html = html.replace("__ROCK_DATA__", json.dumps(rock_data, ensure_ascii=False))

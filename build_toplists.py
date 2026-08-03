@@ -5,8 +5,47 @@ from collections import Counter
 from pathlib import Path
 
 from common import DATA_ROOT
-AREAS = ("hungarian", "us")
-AREA_DISPLAY = {"hungarian": "Hungarian", "us": "US"}
+
+AREA_DISPLAY = {
+    "hungarian": "Hungarian", "us": "US", "rnb": "R&B", "rock": "Rock",
+    "magyar": "Magyar", "elektro": "Electronic", "pop": "Pop",
+    "alternate": "Alternative", "latino": "Latino", "african": "African",
+    "roman": "Romani", "reggae": "Reggae", "russian": "Russian",
+    "countryjazz": "Country & Jazz", "vilagzene": "World", "mantra": "Mantra",
+    "classical": "Classical", "intlrap": "International Rap",
+    "intltrap": "International Trap",
+}
+
+
+def discover_areas() -> list[str]:
+    """Every area with normalized data, found on disk rather than listed here.
+
+    This was a hardcoded ("hungarian", "us") and stayed that way while the graph grew to
+    nineteen areas, so seventeen of them had no toplist and nothing said so. Reading the
+    directory means a new area shows up the first time it is built.
+    """
+    if not DATA_ROOT.exists():
+        return []
+    found = [p.name for p in sorted(DATA_ROOT.iterdir())
+             if (p / "normalized" / "persons.json").exists()]
+    # Full-schema areas first - they carry groups, labels and regions.
+    return sorted(found, key=lambda a: (a not in ("us", "hungarian"), a))
+
+
+def area_counts(metadata: dict, persons: dict, songs: list) -> dict:
+    """Counts from either metadata shape.
+
+    build_us_graph writes {"counts": {...}}; build_other_graph writes flat song_count /
+    person_count / unattributed_count. Reading only the first shape made this crash on
+    every _other area, which is part of why they were never added.
+    """
+    if "counts" in metadata:
+        return metadata["counts"]
+    return {
+        "songs": metadata.get("song_count", len(songs)),
+        "persons": metadata.get("person_count", len(persons)),
+        "unattributed_songs": metadata.get("unattributed_count"),
+    }
 
 
 def load_json(path: Path):
@@ -265,21 +304,27 @@ def build_area_toplist(area: str) -> None:
     songs = load_json(base / "songs.json")
     song_map = {song["song_id"]: song for song in songs}
     persons = load_json(base / "persons.json")
-    groups = load_json(base / "groups.json")
-    labels = load_json(base / "labels.json")
-    regions = load_json(base / "regions.json")
+    # The _other areas have no group/label/region indexes at all - their sections are
+    # skipped rather than faked, so the file says what the area actually knows.
+    groups = load_json(base / "groups.json") if (base / "groups.json").exists() else {}
+    labels = load_json(base / "labels.json") if (base / "labels.json").exists() else {}
+    regions = load_json(base / "regions.json") if (base / "regions.json").exists() else {}
 
+    counts = area_counts(metadata, persons, songs)
     lines = [
         f"# {AREA_DISPLAY.get(area, area.capitalize())} Local Music Toplists",
         "",
-        f"Songs: `{metadata['counts']['songs']}`",
-        f"Persons: `{metadata['counts']['persons']}`",
-        f"Groups: `{metadata['counts']['groups']}`",
-        f"Labels: `{metadata['counts']['labels']}`",
-        f"Regions: `{metadata['counts']['regions']}`",
+        f"Songs: `{counts.get('songs', len(songs))}`",
+        f"Persons: `{counts.get('persons', len(persons))}`",
     ]
-    if "unattributed_songs" in metadata["counts"]:
-        lines.append(f"Unattributed songs: `{metadata['counts']['unattributed_songs']}`")
+    if groups:
+        lines.append(f"Groups: `{counts.get('groups', len(groups))}`")
+    if labels:
+        lines.append(f"Labels: `{counts.get('labels', len(labels))}`")
+    if regions:
+        lines.append(f"Regions: `{counts.get('regions', len(regions))}`")
+    if counts.get("unattributed_songs") is not None:
+        lines.append(f"Unattributed songs: `{counts['unattributed_songs']}`")
     norm_scores = compute_normalized_scores(songs, groups)
     adj_scores = compute_adjusted_scores(songs, groups)
     person_region_overrides, group_region_overrides = load_region_overrides(area)
@@ -292,43 +337,56 @@ def build_area_toplist(area: str) -> None:
             "| # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |",
             "|---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|",
             *person_rows(persons, song_map, norm_scores, adj_scores, person_region_overrides),
-            "",
-            "## Groups",
-            "",
-            "| # | Group | Songs | Members | Top Region | Labels |",
-            "|---|-------|-------|---------|------------|--------|",
-            *group_rows(groups, song_map, group_region_overrides),
-            "",
-            "## Labels",
-            "",
-            "| # | Label | Songs | Persons | Groups | Regions |",
-            "|---|-------|-------|---------|--------|---------|",
-            *label_rows(labels),
-            "",
-            "## Regions",
-            "",
         ]
     )
 
-    region_section = region_rows(regions)
-    if region_section and region_section[0].startswith("|"):
+    if groups:
         lines.extend(
             [
-                "| # | Region | Songs | Persons | Groups | Labels | Sources |",
-                "|---|--------|-------|---------|--------|--------|---------|",
-                *region_section,
+                "",
+                "## Groups",
+                "",
+                "| # | Group | Songs | Members | Top Region | Labels |",
+                "|---|-------|-------|---------|------------|--------|",
+                *group_rows(groups, song_map, group_region_overrides),
             ]
         )
-    else:
-        lines.extend(region_section)
+    if labels:
+        lines.extend(
+            [
+                "",
+                "## Labels",
+                "",
+                "| # | Label | Songs | Persons | Groups | Regions |",
+                "|---|-------|-------|---------|--------|---------|",
+                *label_rows(labels),
+            ]
+        )
+    if regions:
+        lines.extend(["", "## Regions", ""])
+        region_section = region_rows(regions)
+        if region_section and region_section[0].startswith("|"):
+            lines.extend(
+                [
+                    "| # | Region | Songs | Persons | Groups | Labels | Sources |",
+                    "|---|--------|-------|---------|--------|--------|---------|",
+                    *region_section,
+                ]
+            )
+        else:
+            lines.extend(region_section)
 
     (base / "toplists.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def main() -> int:
-    for area in AREAS:
+    areas = discover_areas()
+    if not areas:
+        print("no normalized areas found")
+        return 1
+    for area in areas:
         build_area_toplist(area)
-    print("Wrote normalized toplists for Hungarian and US.")
+    print(f"Wrote toplists for {len(areas)} areas: {', '.join(areas)}")
     return 0
 
 
