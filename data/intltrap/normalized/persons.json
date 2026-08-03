@@ -1,91 +1,4 @@
 {
-  "trap": {
-    "song_ids": [
-      "it-00001",
-      "it-00002",
-      "it-00003",
-      "it-00004",
-      "it-00013",
-      "it-00020",
-      "it-00022",
-      "it-00023",
-      "it-00024",
-      "it-00025",
-      "it-00026",
-      "it-00027",
-      "it-00030",
-      "it-00035",
-      "it-00036",
-      "it-00037",
-      "it-00038",
-      "it-00070",
-      "it-00075",
-      "it-00076",
-      "it-00082",
-      "it-00091",
-      "it-00098",
-      "it-00122",
-      "it-00124",
-      "it-00125",
-      "it-00129",
-      "it-00131",
-      "it-00145",
-      "it-00157",
-      "it-00194",
-      "it-00195",
-      "it-00196",
-      "it-00197",
-      "it-00211",
-      "it-00212",
-      "it-00222",
-      "it-00225",
-      "it-00229"
-    ],
-    "primary_song_ids": [
-      "it-00001",
-      "it-00002",
-      "it-00003",
-      "it-00004",
-      "it-00013",
-      "it-00020",
-      "it-00022",
-      "it-00023",
-      "it-00024",
-      "it-00025",
-      "it-00026",
-      "it-00027",
-      "it-00030",
-      "it-00035",
-      "it-00036",
-      "it-00037",
-      "it-00038",
-      "it-00070",
-      "it-00075",
-      "it-00076",
-      "it-00082",
-      "it-00091",
-      "it-00098",
-      "it-00122",
-      "it-00124",
-      "it-00125",
-      "it-00129",
-      "it-00131",
-      "it-00145",
-      "it-00157",
-      "it-00194",
-      "it-00195",
-      "it-00196",
-      "it-00197",
-      "it-00211",
-      "it-00212",
-      "it-00222",
-      "it-00225",
-      "it-00229"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Angel": {
     "song_ids": [
       "it-00005"
@@ -178,21 +91,20 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Central Cee": {
+  "Central cee": {
     "song_ids": [
       "it-00012",
-      "it-00014",
-      "it-00015",
-      "it-00123"
-    ],
-    "primary_song_ids": [
-      "it-00012",
+      "it-00013",
       "it-00014",
       "it-00015"
     ],
-    "feature_song_ids": [
-      "it-00123"
+    "primary_song_ids": [
+      "it-00012",
+      "it-00013",
+      "it-00014",
+      "it-00015"
     ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -230,6 +142,38 @@
     "primary_song_ids": [
       "it-00019",
       "it-00021"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "dblock europe": {
+    "song_ids": [
+      "it-00020",
+      "it-00022",
+      "it-00023",
+      "it-00024"
+    ],
+    "primary_song_ids": [
+      "it-00020",
+      "it-00022",
+      "it-00023",
+      "it-00024"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "EsDeeKid": {
+    "song_ids": [
+      "it-00025",
+      "it-00026",
+      "it-00027"
+    ],
+    "primary_song_ids": [
+      "it-00025",
+      "it-00026",
+      "it-00027"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -305,6 +249,23 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Hillside zoo": {
+    "song_ids": [
+      "it-00035",
+      "it-00036",
+      "it-00037",
+      "it-00038"
+    ],
+    "primary_song_ids": [
+      "it-00035",
+      "it-00036",
+      "it-00037",
+      "it-00038"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Kojo Funds": {
     "song_ids": [
       "it-00039"
@@ -333,17 +294,27 @@
       "it-00085",
       "it-00086",
       "it-00089",
+      "it-00091",
       "it-00092",
+      "it-00093",
+      "it-00094",
       "it-00095",
-      "it-00096"
+      "it-00096",
+      "it-00097",
+      "it-00098"
     ],
     "primary_song_ids": [
       "it-00041",
       "it-00086",
       "it-00089",
+      "it-00091",
       "it-00092",
+      "it-00093",
+      "it-00094",
       "it-00095",
-      "it-00096"
+      "it-00096",
+      "it-00097",
+      "it-00098"
     ],
     "feature_song_ids": [
       "it-00085"
@@ -744,12 +715,14 @@
   },
   "SOB": {
     "song_ids": [
+      "it-00070",
       "it-00071",
       "it-00072",
       "it-00073",
       "it-00074"
     ],
     "primary_song_ids": [
+      "it-00070",
       "it-00071",
       "it-00072",
       "it-00073",
@@ -761,18 +734,46 @@
   },
   "RBE": {
     "song_ids": [
+      "it-00070",
       "it-00071",
       "it-00072",
       "it-00073",
       "it-00074"
     ],
     "primary_song_ids": [
+      "it-00070",
       "it-00071",
       "it-00072",
       "it-00073",
       "it-00074"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stickz": {
+    "song_ids": [
+      "it-00075",
+      "it-00076",
+      "it-00077",
+      "it-00078",
+      "it-00079",
+      "it-00080",
+      "it-00081",
+      "it-00082"
+    ],
+    "primary_song_ids": [
+      "it-00075",
+      "it-00076",
+      "it-00078",
+      "it-00079",
+      "it-00080",
+      "it-00081",
+      "it-00082"
+    ],
+    "feature_song_ids": [
+      "it-00077"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -784,26 +785,6 @@
       "it-00077"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Stickz": {
-    "song_ids": [
-      "it-00077",
-      "it-00078",
-      "it-00079",
-      "it-00080",
-      "it-00081"
-    ],
-    "primary_song_ids": [
-      "it-00078",
-      "it-00079",
-      "it-00080",
-      "it-00081"
-    ],
-    "feature_song_ids": [
-      "it-00077"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -917,21 +898,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "YOUNGS TEFLON": {
-    "song_ids": [
-      "it-00093",
-      "it-00094",
-      "it-00097"
-    ],
-    "primary_song_ids": [
-      "it-00093",
-      "it-00094",
-      "it-00097"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "1da Banton": {
     "song_ids": [
       "it-00099"
@@ -969,11 +935,13 @@
     "song_ids": [
       "it-00101",
       "it-00228",
+      "it-00229",
       "it-00230",
       "it-00231"
     ],
     "primary_song_ids": [
       "it-00228",
+      "it-00229",
       "it-00230",
       "it-00231"
     ],
@@ -1082,7 +1050,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Baby Gang": {
+  "Baby gang": {
     "song_ids": [
       "it-00106",
       "it-00107",
@@ -1203,6 +1171,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Central Cee": {
+    "song_ids": [
+      "it-00123"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00123"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "KOUZ1": {
     "song_ids": [
       "it-00126"
@@ -1308,7 +1287,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "ELAI": {
+  "elai": {
     "song_ids": [
       "it-00136",
       "it-00137",
@@ -1342,24 +1321,32 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "JuL": {
+  "Jul": {
     "song_ids": [
       "it-00144",
+      "it-00145",
       "it-00146",
       "it-00147",
+      "it-00148",
       "it-00149",
       "it-00150",
       "it-00151",
-      "it-00153"
+      "it-00152",
+      "it-00153",
+      "it-00154"
     ],
     "primary_song_ids": [
       "it-00144",
+      "it-00145",
       "it-00146",
       "it-00147",
+      "it-00148",
       "it-00149",
       "it-00150",
       "it-00151",
-      "it-00153"
+      "it-00152",
+      "it-00153",
+      "it-00154"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1414,21 +1401,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Jul": {
-    "song_ids": [
-      "it-00148",
-      "it-00152",
-      "it-00154"
-    ],
-    "primary_song_ids": [
-      "it-00148",
-      "it-00152",
-      "it-00154"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Loi de la calle": {
     "song_ids": [
       "it-00155"
@@ -1453,6 +1425,7 @@
   },
   "Lithe": {
     "song_ids": [
+      "it-00157",
       "it-00158",
       "it-00159",
       "it-00160",
@@ -1489,6 +1462,7 @@
       "it-00191"
     ],
     "primary_song_ids": [
+      "it-00157",
       "it-00158",
       "it-00159",
       "it-00160",
@@ -1528,6 +1502,25 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "MORAD OFICIALES": {
+    "song_ids": [
+      "it-00194",
+      "it-00195",
+      "it-00196",
+      "it-00197",
+      "it-00211"
+    ],
+    "primary_song_ids": [
+      "it-00194",
+      "it-00195",
+      "it-00196",
+      "it-00197",
+      "it-00211"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "BABY GANG": {
     "song_ids": [
       "it-00210"
@@ -1536,6 +1529,17 @@
     "feature_song_ids": [
       "it-00210"
     ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ostdeutschlands Zukunft": {
+    "song_ids": [
+      "it-00212"
+    ],
+    "primary_song_ids": [
+      "it-00212"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1659,6 +1663,19 @@
     ],
     "primary_song_ids": [
       "it-00221"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Svensk Drill Rap": {
+    "song_ids": [
+      "it-00222",
+      "it-00225"
+    ],
+    "primary_song_ids": [
+      "it-00222",
+      "it-00225"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

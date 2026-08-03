@@ -339,8 +339,11 @@ AREA_CONFIG = {
     "intlrap": {
         "scan_root": ZENE / "_rap" / "_other",
         "id_prefix": "ir",
+        # Every ancestor folder has to be listed, not just the scan root's own name:
+        # first_artist_context walks the whole path, so an unlisted `_rap` becomes an
+        # artist called "rap" with 89 tracks.
         "generic_folders": {
-            "_other", "_german random", "_uk rap grime", "_roman", "_other random",
+            "_rap", "_other", "_german random", "_uk rap grime", "_roman", "_other random",
             "_random", "random", "misc", "videos", "youtube",
             "01 - studio albums", "studio albums", "cd1", "cd2", "cd 1", "cd 2",
         },
@@ -354,7 +357,7 @@ AREA_CONFIG = {
         "scan_root": ZENE / "_trap" / "_other country random",
         "id_prefix": "it",
         "generic_folders": {
-            "_other country random", "_uk trap", "svensk drill", "african trap",
+            "_trap", "_other country random", "_uk trap", "svensk drill", "african trap",
             "_random", "random", "misc", "videos", "youtube",
             "cd1", "cd2", "cd 1", "cd 2",
         },
