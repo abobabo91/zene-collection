@@ -29,6 +29,10 @@ SCAN_ROOTS = {
     "vilagzene": [ZENE / "_other" / "_vilagzene"],
     "mantra": [ZENE / "_other" / "_mantra"],
     "classical": [ZENE / "_other" / "_classical"],
+    # Excluded from the US graph on purpose (it is the US graph), but they still need an
+    # owner - non-US rap and trap, 472 files.
+    "intlrap": [ZENE / "_rap" / "_other"],
+    "intltrap": [ZENE / "_trap" / "_other country random"],
 }
 
 

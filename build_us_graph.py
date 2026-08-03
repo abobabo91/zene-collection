@@ -64,7 +64,16 @@ GENERIC_FOLDER_NAMES = {
     "cd 1",
     "cd 2",
     "dilated peoples discography @320",
+    # `01 - Studio Albums` and friends: a numbered wrapper around an artist's albums, an
+    # ordering device rather than a name. Left as an artist it becomes "01".
+    "01 - studio albums",
+    "studio albums",
 }
+# `_rap/_other` and `_trap/_other country random` are excluded above on purpose - this
+# graph is US rap and trap, and German, UK, French or Romani rap does not belong in it.
+# They are covered by their own areas in build_other_graph.py ("intlrap", "intltrap"),
+# because "not American" is not the same as "not worth indexing": 472 files sat in them
+# with no builder responsible for them at all.
 # Compilation/mixtape folder prefixes that should not be treated as artist names
 COMPILATION_PREFIXES = {
     "dj reddy rell",

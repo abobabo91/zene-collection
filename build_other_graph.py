@@ -332,6 +332,38 @@ AREA_CONFIG = {
         "blocklist": {"n/a", "unknown", "various", "nothing", "lyrics", "audio"},
         "split_groups": set(),
     },
+
+    # Non-US rap and trap. build_us_graph excludes these two folders on purpose - it is
+    # the US graph - but nothing else claimed them either, so 472 files had no builder
+    # responsible for them. "Not American" is not "not worth indexing".
+    "intlrap": {
+        "scan_root": ZENE / "_rap" / "_other",
+        "id_prefix": "ir",
+        "generic_folders": {
+            "_other", "_german random", "_uk rap grime", "_roman", "_other random",
+            "_random", "random", "misc", "videos", "youtube",
+            "01 - studio albums", "studio albums", "cd1", "cd2", "cd 1", "cd 2",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
+    "intltrap": {
+        "scan_root": ZENE / "_trap" / "_other country random",
+        "id_prefix": "it",
+        "generic_folders": {
+            "_other country random", "_uk trap", "svensk drill", "african trap",
+            "_random", "random", "misc", "videos", "youtube",
+            "cd1", "cd2", "cd 1", "cd 2",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+        },
+        "split_groups": set(),
+    },
 }
 
 

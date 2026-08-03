@@ -1,0 +1,4985 @@
+[
+  {
+    "song_id": "it-00001",
+    "file": "_trap\\_other country random\\_uk trap\\67 (Dimzy, ASAP, Liquez, Smallz, Monkey, LD) - Lock Arff Remix [Music Video]   GRM Daily.mp3",
+    "title": "(Dimzy, ASAP, Liquez, Smallz, Monkey, LD) - Lock Arff Remix [Music Video] GRM Daily",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00002",
+    "file": "_trap\\_other country random\\_uk trap\\67 (LD, Monkey) - Today [GRM Daily].mp3",
+    "title": "(LD, Monkey) - Today [GRM Daily]",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00003",
+    "file": "_trap\\_other country random\\_uk trap\\67 (Mental K, Dimzy, Monkey, Smallz) - Bound 4 Da Reload [Music Video]   GRM Daily.mp3",
+    "title": "(Mental K, Dimzy, Monkey, Smallz) - Bound 4 Da Reload [Music Video] GRM Daily",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00004",
+    "file": "_trap\\_other country random\\_uk trap\\67 (Monkey, LD, Dimzy _ Asap) - Take It There [Music Video]   GRM Daily.mp3",
+    "title": "(Monkey, LD, Dimzy Asap) - Take It There [Music Video] GRM Daily",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00005",
+    "file": "_trap\\_other country random\\_uk trap\\Angel - On The Low Remix Feat. Jeremih, Eric Bellinger, Wretch 32 _ Dappy.mp3",
+    "title": "On The Low Remix Feat",
+    "primary_artists": [
+      "Angel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Angel"
+    ],
+    "credits": [
+      {
+        "entity": "Angel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00006",
+    "file": "_trap\\_other country random\\_uk trap\\Blade Brown - Break Bread (Official Video) [GRM Daily].mp3",
+    "title": "Break Bread () [GRM Daily]",
+    "primary_artists": [
+      "Blade Brown"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Blade Brown"
+    ],
+    "credits": [
+      {
+        "entity": "Blade Brown",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00007",
+    "file": "_trap\\_other country random\\_uk trap\\BLADE BROWN FT JSPADES _ YOUNGS TEFLON - SHOWTIME REMIX - BAGS AND BOXES 3 OUT OCT 31ST’.mp3",
+    "title": "SHOWTIME REMIX - BAGS AND BOXES 3 OUT OCT 31ST’",
+    "primary_artists": [
+      "BLADE BROWN"
+    ],
+    "featuring_artists": [
+      "JSPADES YOUNGS TEFLON"
+    ],
+    "artists": [
+      "BLADE BROWN",
+      "JSPADES YOUNGS TEFLON"
+    ],
+    "credits": [
+      {
+        "entity": "BLADE BROWN",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "JSPADES YOUNGS TEFLON",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00008",
+    "file": "_trap\\_other country random\\_uk trap\\Blade Brown Ft. Young Spray -  Black Jeep  [GRM Daily].mp3",
+    "title": "Black Jeep [GRM Daily]",
+    "primary_artists": [
+      "Blade Brown"
+    ],
+    "featuring_artists": [
+      "Young Spray"
+    ],
+    "artists": [
+      "Blade Brown",
+      "Young Spray"
+    ],
+    "credits": [
+      {
+        "entity": "Blade Brown",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Young Spray",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00009",
+    "file": "_trap\\_other country random\\_uk trap\\Bully (Big Bullz) Ft. Yung Reeks - They Know [Music Video]   GRM Daily.mp3",
+    "title": "They Know [Music Video] GRM Daily",
+    "primary_artists": [
+      "Bully"
+    ],
+    "featuring_artists": [
+      "Yung Reeks"
+    ],
+    "artists": [
+      "Bully",
+      "Yung Reeks"
+    ],
+    "credits": [
+      {
+        "entity": "Bully",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Yung Reeks",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00010",
+    "file": "_trap\\_other country random\\_uk trap\\C Biz - I Know [GRM Daily].mp3",
+    "title": "I Know [GRM Daily]",
+    "primary_artists": [
+      "C Biz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "C Biz"
+    ],
+    "credits": [
+      {
+        "entity": "C Biz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00011",
+    "file": "_trap\\_other country random\\_uk trap\\C Biz - Tripping [Music Video]   GRM Daily.mp3",
+    "title": "Tripping [Music Video] GRM Daily",
+    "primary_artists": [
+      "C Biz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "C Biz"
+    ],
+    "credits": [
+      {
+        "entity": "C Biz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00012",
+    "file": "_trap\\_other country random\\_uk trap\\Central cee\\Central Cee -  Day In The Life [Music Video]   GRM Daily.mp3",
+    "title": "Day In The Life [Music Video] GRM Daily",
+    "primary_artists": [
+      "Central Cee"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Central Cee"
+    ],
+    "credits": [
+      {
+        "entity": "Central Cee",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00013",
+    "file": "_trap\\_other country random\\_uk trap\\Central cee\\Central Cee - CAN'T RUSH GREATNESS (Full Album)\\BAND4BAND.mp3",
+    "title": "BAND4BAND",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00014",
+    "file": "_trap\\_other country random\\_uk trap\\Central cee\\Central Cee - Doja (Directed by Cole Bennett).mp3",
+    "title": "Doja (Directed by Cole Bennett)",
+    "primary_artists": [
+      "Central Cee"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Central Cee"
+    ],
+    "credits": [
+      {
+        "entity": "Central Cee",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00015",
+    "file": "_trap\\_other country random\\_uk trap\\Central cee\\Central Cee - Obsessed With You (Official Video).mp3",
+    "title": "Obsessed",
+    "primary_artists": [
+      "Central Cee"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Central Cee"
+    ],
+    "credits": [
+      {
+        "entity": "Central Cee",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00016",
+    "file": "_trap\\_other country random\\_uk trap\\Dave\\Dave - Location (ft. Burna Boy).mp3",
+    "title": "Location (ft",
+    "primary_artists": [
+      "Dave"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dave"
+    ],
+    "credits": [
+      {
+        "entity": "Dave",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00017",
+    "file": "_trap\\_other country random\\_uk trap\\Dave\\Dave - Streatham.mp3",
+    "title": "Streatham",
+    "primary_artists": [
+      "Dave"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dave"
+    ],
+    "credits": [
+      {
+        "entity": "Dave",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00018",
+    "file": "_trap\\_other country random\\_uk trap\\Dave\\Dave x AJ Tracey - Thiago Silva.mp3",
+    "title": "Thiago Silva",
+    "primary_artists": [
+      "Dave",
+      "AJ Tracey"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dave",
+      "AJ Tracey"
+    ],
+    "credits": [
+      {
+        "entity": "Dave",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "AJ Tracey",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00019",
+    "file": "_trap\\_other country random\\_uk trap\\dblock europe\\D Block Europe (Young Adz x Dirtbike LB) - Perkosex [Live Performance]   GRM Daily.mp3",
+    "title": "Perkosex [Live Performance] GRM Daily",
+    "primary_artists": [
+      "D Block Europe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "D Block Europe"
+    ],
+    "credits": [
+      {
+        "entity": "D Block Europe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00020",
+    "file": "_trap\\_other country random\\_uk trap\\dblock europe\\Ferrari Horses.mp3",
+    "title": "Ferrari Horses",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00021",
+    "file": "_trap\\_other country random\\_uk trap\\dblock europe\\Home Alone\\D Block Europe (Young Adz x Dirtbike LB) - Kitchen Kings (Prod. Vybz Hitz) [Music Video]   GRM Daily.mp3",
+    "title": "Kitchen Kings (Prod",
+    "primary_artists": [
+      "D Block Europe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "D Block Europe"
+    ],
+    "credits": [
+      {
+        "entity": "D Block Europe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00022",
+    "file": "_trap\\_other country random\\_uk trap\\dblock europe\\Lap 5\\She_s Not Anyone.mp3",
+    "title": "She s Not Anyone",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00023",
+    "file": "_trap\\_other country random\\_uk trap\\dblock europe\\Last Night In Paris.mp3",
+    "title": "Last Night In Paris",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00024",
+    "file": "_trap\\_other country random\\_uk trap\\dblock europe\\Proud.mp3",
+    "title": "Proud",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00025",
+    "file": "_trap\\_other country random\\_uk trap\\EsDeeKid\\4 Raws.mp3",
+    "title": "Raws",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00026",
+    "file": "_trap\\_other country random\\_uk trap\\EsDeeKid\\LV Sandals.mp3",
+    "title": "LV Sandals",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00027",
+    "file": "_trap\\_other country random\\_uk trap\\EsDeeKid\\Tartan.mp3",
+    "title": "Tartan",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00028",
+    "file": "_trap\\_other country random\\_uk trap\\Figure Flows - Homage [Music Video]   GRM Daily.mp3",
+    "title": "Homage [Music Video] GRM Daily",
+    "primary_artists": [
+      "Figure Flows"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Figure Flows"
+    ],
+    "credits": [
+      {
+        "entity": "Figure Flows",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00029",
+    "file": "_trap\\_other country random\\_uk trap\\G4 Boyz - “Local Scammer” (Remix) ft. Chief Keef, G4 Choppa (Official Music Video - WSHH Exclusive).mp3",
+    "title": "“Local Scammer” (Remix) ft",
+    "primary_artists": [
+      "G4 Boyz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "G4 Boyz"
+    ],
+    "credits": [
+      {
+        "entity": "G4 Boyz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00030",
+    "file": "_trap\\_other country random\\_uk trap\\Giggs   Out There [Music Video]  SBTV.mp3",
+    "title": "Giggs Out There [Music Video] SBTV",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00031",
+    "file": "_trap\\_other country random\\_uk trap\\Giggs - Look What The Cat Dragged In (Official Video).mp3",
+    "title": "Look What The Cat Dragged In ()",
+    "primary_artists": [
+      "Giggs"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Giggs"
+    ],
+    "credits": [
+      {
+        "entity": "Giggs",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00032",
+    "file": "_trap\\_other country random\\_uk trap\\GIGGS - TALKING DA HARDEST.mp3",
+    "title": "TALKING DA HARDEST",
+    "primary_artists": [
+      "GIGGS"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "GIGGS"
+    ],
+    "credits": [
+      {
+        "entity": "GIGGS",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00033",
+    "file": "_trap\\_other country random\\_uk trap\\Giggs featuring B.o.B - Don t Go There OFFICIAL VIDEO.mp3",
+    "title": "Don t Go There",
+    "primary_artists": [
+      "Giggs"
+    ],
+    "featuring_artists": [
+      "B.o.B"
+    ],
+    "artists": [
+      "Giggs",
+      "B.o.B"
+    ],
+    "credits": [
+      {
+        "entity": "Giggs",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "B.o.B",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00034",
+    "file": "_trap\\_other country random\\_uk trap\\Giggs Ft Skepta - Look Out.mp3",
+    "title": "Look Out",
+    "primary_artists": [
+      "Giggs"
+    ],
+    "featuring_artists": [
+      "Skepta"
+    ],
+    "artists": [
+      "Giggs",
+      "Skepta"
+    ],
+    "credits": [
+      {
+        "entity": "Giggs",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Skepta",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00035",
+    "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Gyallie On Me (feat. Kwengface).mp3",
+    "title": "Gyallie On Me (feat. Kwengface)",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00036",
+    "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Intro (feat. Kwengface _ Trizzac).mp3",
+    "title": "Intro (feat. Kwengface Trizzac)",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00037",
+    "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Mad About Beef (feat. Trizzac _ Kwengface).mp3",
+    "title": "Mad About Beef (feat. Trizzac Kwengface)",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00038",
+    "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Sinbad (feat. Karma, Kwengface _ Trizzac).mp3",
+    "title": "Sinbad (feat. Karma, Kwengface Trizzac)",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00039",
+    "file": "_trap\\_other country random\\_uk trap\\Hip-Hop-TXL-UK-Vol-9\\Hip Hop TXL UK Vol 9\\12. Kojo Funds - Fear No One.mp3",
+    "title": "Fear No One",
+    "primary_artists": [
+      "Kojo Funds"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Kojo Funds"
+    ],
+    "credits": [
+      {
+        "entity": "Kojo Funds",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00040",
+    "file": "_trap\\_other country random\\_uk trap\\Hip-Hop-TXL-UK-Vol-9\\Hip Hop TXL UK Vol 9\\15. Hache - 2AM Freestyle.mp3",
+    "title": "2AM Freestyle",
+    "primary_artists": [
+      "Hache"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Hache"
+    ],
+    "credits": [
+      {
+        "entity": "Hache",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00041",
+    "file": "_trap\\_other country random\\_uk trap\\Hip-Hop-TXL-UK-Vol-9\\Hip Hop TXL UK Vol 9\\42. Youngs Teflon - Mad About Bars (MixtapeMadness).mp3",
+    "title": "Mad About Bars (MixtapeMadness)",
+    "primary_artists": [
+      "Youngs Teflon"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Youngs Teflon"
+    ],
+    "credits": [
+      {
+        "entity": "Youngs Teflon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00042",
+    "file": "_trap\\_other country random\\_uk trap\\HipHopTXLUK_Vol_6\\Various Artists - Hip Hop TXL UK Vol 6 (DatPiff.com)\\10 - Cadet - Letter To Krept.mp3",
+    "title": "Letter To Krept",
+    "primary_artists": [
+      "Cadet"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Cadet"
+    ],
+    "credits": [
+      {
+        "entity": "Cadet",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00043",
+    "file": "_trap\\_other country random\\_uk trap\\Hunter - Drake Freestyle   GRM Daily.mp3",
+    "title": "Drake Freestyle GRM Daily",
+    "primary_artists": [
+      "Hunter"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Hunter"
+    ],
+    "credits": [
+      {
+        "entity": "Hunter",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00044",
+    "file": "_trap\\_other country random\\_uk trap\\Incognito - Prays With Crasis #Moscow17\\Incognito - Blessed #Moscow17 (Prays With Crasis).mp3",
+    "title": "Blessed #Moscow17 (Prays With Crasis)",
+    "primary_artists": [
+      "Incognito"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Incognito"
+    ],
+    "credits": [
+      {
+        "entity": "Incognito",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00045",
+    "file": "_trap\\_other country random\\_uk trap\\ingilizce rap\\#TPL BM (OTP) - London View (Music Video)   Pressplay.mp3",
+    "title": "London View (Music Video) Pressplay",
+    "primary_artists": [
+      "#TPL BM"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "#TPL BM"
+    ],
+    "credits": [
+      {
+        "entity": "#TPL BM",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00046",
+    "file": "_trap\\_other country random\\_uk trap\\ingilizce rap\\Russ Millions x Tion Wayne - Keisha & Becky (Remix) ft. Aitch, JAY1, Sav_O & Swarmz [Music Video].mp3",
+    "title": "Keisha & Becky (Remix) ft",
+    "primary_artists": [
+      "Russ Millions",
+      "Tion Wayne"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Russ Millions",
+      "Tion Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Russ Millions",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Tion Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00047",
+    "file": "_trap\\_other country random\\_uk trap\\ingilizce rap\\SR - Welcome To Brixton [Music Video]   GRM Daily.mp3",
+    "title": "Welcome To Brixton [Music Video] GRM Daily",
+    "primary_artists": [
+      "SR"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "SR"
+    ],
+    "credits": [
+      {
+        "entity": "SR",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00048",
+    "file": "_trap\\_other country random\\_uk trap\\Mdargg - YouTube\\J Spades - Never Enough Ft Mist, Frisco 22, M Darrg   @REAL_JSPADES   Link Up TV.mp3",
+    "title": "Never Enough",
+    "primary_artists": [
+      "J Spades"
+    ],
+    "featuring_artists": [
+      "Mist",
+      "Frisco 22",
+      "M Darrg @REAL JSPADES Link Up TV"
+    ],
+    "artists": [
+      "J Spades",
+      "Mist",
+      "Frisco 22",
+      "M Darrg @REAL JSPADES Link Up TV"
+    ],
+    "credits": [
+      {
+        "entity": "J Spades",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Mist",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Frisco 22",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "M Darrg @REAL JSPADES Link Up TV",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00049",
+    "file": "_trap\\_other country random\\_uk trap\\Mdargg - YouTube\\Sickman Ft M Dargg X Frass - ShowBoat   #ShoSplashEnt @bigsickmusic @mdargg @itspressplayent.mp3",
+    "title": "ShowBoat #ShoSplashEnt @bigsickmusic @mdargg @itspressplayent",
+    "primary_artists": [
+      "Sickman"
+    ],
+    "featuring_artists": [
+      "M Dargg",
+      "Frass"
+    ],
+    "artists": [
+      "Sickman",
+      "M Dargg",
+      "Frass"
+    ],
+    "credits": [
+      {
+        "entity": "Sickman",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "M Dargg",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Frass",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00050",
+    "file": "_trap\\_other country random\\_uk trap\\Mdargg - YouTube\\Sneakbo Grizzy S Wavey _ M Dargg - Look Like You @sneakbo.mp3",
+    "title": "Look Like You @sneakbo",
+    "primary_artists": [
+      "Sneakbo Grizzy S Wavey M Dargg"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Sneakbo Grizzy S Wavey M Dargg"
+    ],
+    "credits": [
+      {
+        "entity": "Sneakbo Grizzy S Wavey M Dargg",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00051",
+    "file": "_trap\\_other country random\\_uk trap\\Mix - Fredo\\Fredo - Quarter Past 3 ft Eric IV.mp3",
+    "title": "Quarter Past 3",
+    "primary_artists": [
+      "Fredo"
+    ],
+    "featuring_artists": [
+      "Eric IV"
+    ],
+    "artists": [
+      "Fredo",
+      "Eric IV"
+    ],
+    "credits": [
+      {
+        "entity": "Fredo",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Eric IV",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00052",
+    "file": "_trap\\_other country random\\_uk trap\\Moscow17 Browning17 Essential Songs\\#Browning17th K1   Kwizzy x Rizzy Rampz - Zone 2 Diss   FTOS.mp3",
+    "title": "Zone 2 Diss FTOS",
+    "primary_artists": [
+      "#Browning17th K1 Kwizzy",
+      "Rizzy Rampz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "#Browning17th K1 Kwizzy",
+      "Rizzy Rampz"
+    ],
+    "credits": [
+      {
+        "entity": "#Browning17th K1 Kwizzy",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Rizzy Rampz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00053",
+    "file": "_trap\\_other country random\\_uk trap\\Moscow17 Browning17 Essential Songs\\#Moscow17 E9 x Mayski - EB To Moscow [Music Video] (Prod By Ghosty)   Link Up TV.mp3",
+    "title": "EB To Moscow [Music Video] (",
+    "primary_artists": [
+      "#Moscow17 E9",
+      "Mayski"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "#Moscow17 E9",
+      "Mayski"
+    ],
+    "credits": [
+      {
+        "entity": "#Moscow17 E9",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Mayski",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00054",
+    "file": "_trap\\_other country random\\_uk trap\\Moscow17 Browning17 Essential Songs\\#Moscow17 GB x KnockoutNed - City Of God.mp3",
+    "title": "City Of God",
+    "primary_artists": [
+      "#Moscow17 GB",
+      "KnockoutNed"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "#Moscow17 GB",
+      "KnockoutNed"
+    ],
+    "credits": [
+      {
+        "entity": "#Moscow17 GB",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "KnockoutNed",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00055",
+    "file": "_trap\\_other country random\\_uk trap\\Moscow17 Browning17 Essential Songs\\(Moscow 17) TedMatic - All ForThe Cause (4K)   Glacier.mp3",
+    "title": "All ForThe Cause (4K) Glacier",
+    "primary_artists": [
+      "TedMatic"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "TedMatic"
+    ],
+    "credits": [
+      {
+        "entity": "TedMatic",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00056",
+    "file": "_trap\\_other country random\\_uk trap\\Moscow17 Browning17 Essential Songs\\LOOSE (MOSCOW 17) - STYLE _ PATTERN RADIO SHOW FREESTYLE (SPECIAL) W Selecta YB.mp3",
+    "title": "STYLE PATTERN RADIO SHOW FREESTYLE (SPECIAL) W Selecta YB",
+    "primary_artists": [
+      "LOOSE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "LOOSE"
+    ],
+    "credits": [
+      {
+        "entity": "LOOSE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00057",
+    "file": "_trap\\_other country random\\_uk trap\\Moscow17 Browning17 Essential Songs\\Loose (Moscow17) - They Forgot (Music Video)   @MixtapeMadness.mp3",
+    "title": "They Forgot (Music Video) @MixtapeMadness",
+    "primary_artists": [
+      "Loose"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Loose"
+    ],
+    "credits": [
+      {
+        "entity": "Loose",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00058",
+    "file": "_trap\\_other country random\\_uk trap\\Moscow17 Browning17 Essential Songs\\Moscow (Loose x Ruth x Screw) - Mad About Bars w  Kenny Allstar [S3.E28]   @MixtapeMadness.mp3",
+    "title": "Mad About Bars w Kenny Allstar [S3",
+    "primary_artists": [
+      "Moscow"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Moscow"
+    ],
+    "credits": [
+      {
+        "entity": "Moscow",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00059",
+    "file": "_trap\\_other country random\\_uk trap\\OTB - Woolyhood (DatPiff.com)\\09) woolyhood - buck fix dotm.mp3",
+    "title": "buck fix dotm",
+    "primary_artists": [
+      "woolyhood"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "woolyhood"
+    ],
+    "credits": [
+      {
+        "entity": "woolyhood",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00060",
+    "file": "_trap\\_other country random\\_uk trap\\OTB - Woolyhood (DatPiff.com)\\16) bet u never - butch yske boost.mp3",
+    "title": "butch yske boost",
+    "primary_artists": [
+      "bet u never"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "bet u never"
+    ],
+    "credits": [
+      {
+        "entity": "bet u never",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00061",
+    "file": "_trap\\_other country random\\_uk trap\\Section Boyz - Lock Arff [Official Video] @SectionBoyz_.mp3",
+    "title": "Lock Arff [] @SectionBoyz",
+    "primary_artists": [
+      "Section Boyz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Section Boyz"
+    ],
+    "credits": [
+      {
+        "entity": "Section Boyz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00062",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 (Skengdo, BT _ A.M) - Do it 4 Da 4$ [Prod. TRonTheBeat] (Music Video).mp3",
+    "title": "Do it 4 Da 4$ [Prod",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "it-00063",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 Skengdo _ AM - German Swerving (Music Video)   @MixtapeMadness.mp3",
+    "title": "German Swerving (Music Video) @MixtapeMadness",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "it-00064",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 Skengdo x A.M - Back 4 Back [Music Video]   Link Up TV.mp3",
+    "title": "Back 4 Back [Music Video] Link Up TV",
+    "primary_artists": [
+      "A.M"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "A.M"
+    ],
+    "credits": [
+      {
+        "entity": "A.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00065",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 Skengdo x AM - Gun Talk [Music Video]   GRM Daily.mp3",
+    "title": "Gun Talk [Music Video] GRM Daily",
+    "primary_artists": [
+      "AM"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "AM"
+    ],
+    "credits": [
+      {
+        "entity": "AM",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00066",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 Skengdo x AM - Tugg [Music Video]   GRM Daily.mp3",
+    "title": "Tugg [Music Video] GRM Daily",
+    "primary_artists": [
+      "AM"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "AM"
+    ],
+    "credits": [
+      {
+        "entity": "AM",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00067",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 Skengdo X AM X Tuckz - DiDiDi Bow (Music Video) @itspressplayuk.mp3",
+    "title": "DiDiDi Bow (Music Video) @itspressplayuk",
+    "primary_artists": [
+      "AM",
+      "Tuckz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "AM",
+      "Tuckz"
+    ],
+    "credits": [
+      {
+        "entity": "AM",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Tuckz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00068",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\Skengdo _ A.M - In Da Ride [Prod. @MazzaBeats] (MM Exclusive)    @MixtapeMadness.mp3",
+    "title": "In Da Ride [Prod",
+    "primary_artists": [
+      "Skengdo A.M"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Skengdo A.M"
+    ],
+    "credits": [
+      {
+        "entity": "Skengdo A.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00069",
+    "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\Skengdo X AM - Foolishness (Music Video) @Skengdo41circle @Am2bunny.mp3",
+    "title": "Foolishness (Music Video) @Skengdo41circle @Am2bunny",
+    "primary_artists": [
+      "Skengdo",
+      "AM"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Skengdo",
+      "AM"
+    ],
+    "credits": [
+      {
+        "entity": "Skengdo",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "AM",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00070",
+    "file": "_trap\\_other country random\\_uk trap\\SOB X RBE\\(Sneakk and Kiing Rod) - Nobody (Official Video)    Shot by  @Brojackson.mp3",
+    "title": "(Sneakk and Kiing Rod) - Nobody () Shot by @Brojackson",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00071",
+    "file": "_trap\\_other country random\\_uk trap\\SOB X RBE\\SOB X RBE - Always (Official Audio)   Gangin.mp3",
+    "title": "Always () Gangin",
+    "primary_artists": [
+      "SOB",
+      "RBE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "SOB",
+      "RBE"
+    ],
+    "credits": [
+      {
+        "entity": "SOB",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "RBE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00072",
+    "file": "_trap\\_other country random\\_uk trap\\SOB X RBE\\SOB X RBE - Endzone (OFFICIAL VIDEO)   Shot By @BGIGGZ.mp3",
+    "title": "Endzone () Shot By @BGIGGZ",
+    "primary_artists": [
+      "SOB",
+      "RBE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "SOB",
+      "RBE"
+    ],
+    "credits": [
+      {
+        "entity": "SOB",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "RBE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00073",
+    "file": "_trap\\_other country random\\_uk trap\\SOB X RBE\\SOB X RBE - Hood Ballad (Audio)   GANGIN II.mp3",
+    "title": "Hood Ballad (Audio) GANGIN II",
+    "primary_artists": [
+      "SOB",
+      "RBE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "SOB",
+      "RBE"
+    ],
+    "credits": [
+      {
+        "entity": "SOB",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "RBE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00074",
+    "file": "_trap\\_other country random\\_uk trap\\SOB X RBE\\SOB X RBE - Jokes Up (Audio).mp3",
+    "title": "Jokes Up (Audio)",
+    "primary_artists": [
+      "SOB",
+      "RBE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "SOB",
+      "RBE"
+    ],
+    "credits": [
+      {
+        "entity": "SOB",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "RBE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00075",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\#410 Skengdo x Am x M24 x Stickz - Crash X GBG [Music Video]   GRM Daily.mp3",
+    "title": "#410 Skengdo x Am x M24 x Stickz - Crash X GBG [Music Video] GRM Daily",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00076",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\(150) Stickz _ MDargg   Demon Works (Music Video) [@StizzyStickz @Mdargg]   @HBVTV.mp3",
+    "title": "Stickz MDargg Demon Works (Music Video) [@StizzyStickz @Mdargg] @HBVTV",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00077",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\Ard Adz ft. Stickz - Back To Rap [Music Video]   GRM Daily.mp3",
+    "title": "Back To Rap [Music Video] GRM Daily",
+    "primary_artists": [
+      "Ard Adz"
+    ],
+    "featuring_artists": [
+      "Stickz"
+    ],
+    "artists": [
+      "Ard Adz",
+      "Stickz"
+    ],
+    "credits": [
+      {
+        "entity": "Ard Adz",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Stickz",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00078",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\M24 x Stickz - We Don’t Dance [Music Video]   GRM Daily.mp3",
+    "title": "We Don’t Dance [Music Video] GRM Daily",
+    "primary_artists": [
+      "M24",
+      "Stickz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "M24",
+      "Stickz"
+    ],
+    "credits": [
+      {
+        "entity": "M24",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Stickz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00079",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\Stickz - 150 Degrees (Prod. Kayman) @StizzyStickz.mp3",
+    "title": "150 Degrees (Prod",
+    "primary_artists": [
+      "Stickz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Stickz"
+    ],
+    "credits": [
+      {
+        "entity": "Stickz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00080",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\Stickz - Still Stickem (Music Video)   @MixtapeMadness.mp3",
+    "title": "Still Stickem (Music Video) @MixtapeMadness",
+    "primary_artists": [
+      "Stickz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Stickz"
+    ],
+    "credits": [
+      {
+        "entity": "Stickz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00081",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\Stickz - Wicked N Smoke (Music Video) @stizzystickz @itspressplayent.mp3",
+    "title": "Wicked N Smoke (Music Video) @stizzystickz @itspressplayent",
+    "primary_artists": [
+      "Stickz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Stickz"
+    ],
+    "credits": [
+      {
+        "entity": "Stickz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00082",
+    "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\Stickz x M Dargg #MadExclusive   Mixtape Madness.mp3",
+    "title": "Stickz x M Dargg #MadExclusive Mixtape Madness",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00083",
+    "file": "_trap\\_other country random\\_uk trap\\TPL x Fumez The Engineer - Plugged In Freestyle.mp3",
+    "title": "Plugged In Freestyle",
+    "primary_artists": [
+      "TPL",
+      "Fumez The Engineer"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "TPL",
+      "Fumez The Engineer"
+    ],
+    "credits": [
+      {
+        "entity": "TPL",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Fumez The Engineer",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00084",
+    "file": "_trap\\_other country random\\_uk trap\\TXL_UK_Vol_1-(DatPiff.com)\\Various Artists - TXL UK Vol 1 (DatPiff.com)\\11 - Fabian Secon ft Scorcher Splurgeboys - Gold Plated.mp3",
+    "title": "Gold Plated",
+    "primary_artists": [
+      "Fabian Secon"
+    ],
+    "featuring_artists": [
+      "Scorcher Splurgeboys"
+    ],
+    "artists": [
+      "Fabian Secon",
+      "Scorcher Splurgeboys"
+    ],
+    "credits": [
+      {
+        "entity": "Fabian Secon",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Scorcher Splurgeboys",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00085",
+    "file": "_trap\\_other country random\\_uk trap\\TXL_UK_Vol_1-(DatPiff.com)\\Various Artists - TXL UK Vol 1 (DatPiff.com)\\13 - WSTRN (Haile Louis Rei Akelle Charles) ft Youngs Teflon - Best Friend (Remix).mp3",
+    "title": "Best Friend (Remix)",
+    "primary_artists": [
+      "WSTRN"
+    ],
+    "featuring_artists": [
+      "Youngs Teflon"
+    ],
+    "artists": [
+      "WSTRN",
+      "Youngs Teflon"
+    ],
+    "credits": [
+      {
+        "entity": "WSTRN",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Youngs Teflon",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00086",
+    "file": "_trap\\_other country random\\_uk trap\\TXL_UK_Vol_1-(DatPiff.com)\\Various Artists - TXL UK Vol 1 (DatPiff.com)\\22 - Youngs Teflon - Netflix _ Chill.mp3",
+    "title": "Netflix Chill",
+    "primary_artists": [
+      "Youngs Teflon"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Youngs Teflon"
+    ],
+    "credits": [
+      {
+        "entity": "Youngs Teflon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00087",
+    "file": "_trap\\_other country random\\_uk trap\\TXL_UK_Vol_1-(DatPiff.com)\\Various Artists - TXL UK Vol 1 (DatPiff.com)\\28 - YeUman - Im Back (Instrumental).mp3",
+    "title": "Im Back (Instrumental)",
+    "primary_artists": [
+      "YeUman"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "YeUman"
+    ],
+    "credits": [
+      {
+        "entity": "YeUman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00088",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\08. Aston Music - Youngs Teflon(ft Grizz).mp3",
+    "title": "Youngs Teflon(ft Grizz)",
+    "primary_artists": [
+      "Aston Music"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Aston Music"
+    ],
+    "credits": [
+      {
+        "entity": "Aston Music",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00089",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\32 Youngs Teflon ft Nana Dams - Me Again.mp3",
+    "title": "Me Again",
+    "primary_artists": [
+      "Youngs Teflon"
+    ],
+    "featuring_artists": [
+      "Nana Dams"
+    ],
+    "artists": [
+      "Youngs Teflon",
+      "Nana Dams"
+    ],
+    "credits": [
+      {
+        "entity": "Youngs Teflon",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Nana Dams",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00090",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\@YoungsTeflon - Mellisa - Official Video.mp3",
+    "title": "Mellisa",
+    "primary_artists": [
+      "@YoungsTeflon"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "@YoungsTeflon"
+    ],
+    "credits": [
+      {
+        "entity": "@YoungsTeflon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00091",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\Nines   Can t Blame Me [Music Video]  SBTV.mp3",
+    "title": "Nines Can t Blame Me [Music Video] SBTV",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00092",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\Youngs Teflon - Ain t Got Time (Produced by Carns Hill).mp3",
+    "title": "Ain t Got Time (",
+    "primary_artists": [
+      "Youngs Teflon"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Youngs Teflon"
+    ],
+    "credits": [
+      {
+        "entity": "Youngs Teflon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00093",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\YOUNGS TEFLON - AINT GOT TIME.mp3",
+    "title": "AINT GOT TIME",
+    "primary_artists": [
+      "YOUNGS TEFLON"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "YOUNGS TEFLON"
+    ],
+    "credits": [
+      {
+        "entity": "YOUNGS TEFLON",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00094",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\YOUNGS TEFLON - DAILY DUPPY S 2 EP 5.mp3",
+    "title": "DAILY DUPPY S 2 EP 5",
+    "primary_artists": [
+      "YOUNGS TEFLON"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "YOUNGS TEFLON"
+    ],
+    "credits": [
+      {
+        "entity": "YOUNGS TEFLON",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00095",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\Youngs Teflon - Melissa.mp3",
+    "title": "Melissa",
+    "primary_artists": [
+      "Youngs Teflon"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Youngs Teflon"
+    ],
+    "credits": [
+      {
+        "entity": "Youngs Teflon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00096",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\Youngs Teflon - Ricky (GMT 1.5).mp3",
+    "title": "Ricky (GMT 1",
+    "primary_artists": [
+      "Youngs Teflon"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Youngs Teflon"
+    ],
+    "credits": [
+      {
+        "entity": "Youngs Teflon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00097",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\YOUNGS TEFLON - TOGETHER.mp3",
+    "title": "TOGETHER",
+    "primary_artists": [
+      "YOUNGS TEFLON"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "YOUNGS TEFLON"
+    ],
+    "credits": [
+      {
+        "entity": "YOUNGS TEFLON",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00098",
+    "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\Youngs Teflon Freestyle [NFTR].mp3",
+    "title": "Youngs Teflon Freestyle [NFTR]",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00099",
+    "file": "_trap\\_other country random\\AFRICAN TRAP 🤙🏽\\1da Banton - No Wahala (Official Video).mp3",
+    "title": "No Wahala ()",
+    "primary_artists": [
+      "1da Banton"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "1da Banton"
+    ],
+    "credits": [
+      {
+        "entity": "1da Banton",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00100",
+    "file": "_trap\\_other country random\\AFRICAN TRAP 🤙🏽\\Dj LESKA - VEGEDREAM - BOLEMVN   Ghenda (Clip Officiel).mp3",
+    "title": "VEGEDREAM - BOLEMVN Ghenda ()",
+    "primary_artists": [
+      "Dj LESKA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dj LESKA"
+    ],
+    "credits": [
+      {
+        "entity": "Dj LESKA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00101",
+    "file": "_trap\\_other country random\\AFRICAN TRAP 🤙🏽\\Elams ft. Vegedream - Kodo ( Clip Officiel).mp3",
+    "title": "Kodo ( )",
+    "primary_artists": [
+      "Elams"
+    ],
+    "featuring_artists": [
+      "Vegedream"
+    ],
+    "artists": [
+      "Elams",
+      "Vegedream"
+    ],
+    "credits": [
+      {
+        "entity": "Elams",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Vegedream",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00102",
+    "file": "_trap\\_other country random\\AFRICAN TRAP 🤙🏽\\Ezzymullah - Notice ft 1dabanton , DTGBaby and Victony ( Official Video).mp3",
+    "title": "Notice",
+    "primary_artists": [
+      "Ezzymullah"
+    ],
+    "featuring_artists": [
+      "1dabanton",
+      "DTGBaby",
+      "Victony"
+    ],
+    "artists": [
+      "Ezzymullah",
+      "1dabanton",
+      "DTGBaby",
+      "Victony"
+    ],
+    "credits": [
+      {
+        "entity": "Ezzymullah",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "1dabanton",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "DTGBaby",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Victony",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00103",
+    "file": "_trap\\_other country random\\AFRICAN TRAP 🤙🏽\\JUL - Coup de foudre   Album Gratuit Vol .3  [ 08 ]   2017.mp3",
+    "title": "Coup de foudre Album Gratuit Vol",
+    "primary_artists": [
+      "JUL"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "JUL"
+    ],
+    "credits": [
+      {
+        "entity": "JUL",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00104",
+    "file": "_trap\\_other country random\\AFRICAN TRAP 🤙🏽\\Kempi - Ondernemer ft. Architrackz, Bryan Mg & WAWA (prod. Architrackz) [OFFICIAL MUSIC VIDEO].mp3",
+    "title": "Ondernemer",
+    "primary_artists": [
+      "Kempi"
+    ],
+    "featuring_artists": [
+      "Architrackz",
+      "Bryan Mg"
+    ],
+    "artists": [
+      "Kempi",
+      "Architrackz",
+      "Bryan Mg"
+    ],
+    "credits": [
+      {
+        "entity": "Kempi",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Architrackz",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Bryan Mg",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00105",
+    "file": "_trap\\_other country random\\AFRICAN TRAP 🤙🏽\\Naza - Gater le Coin (Clip Officiel).mp3",
+    "title": "Gater le Coin ()",
+    "primary_artists": [
+      "Naza"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Naza"
+    ],
+    "credits": [
+      {
+        "entity": "Naza",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00106",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - 3 Occhi (feat. Il Ghost) [Official Visual Art Video].mp3",
+    "title": "Occhi (feat",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00107",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - Assistente Sociale feat. Simba La Rue (Official Lyric Video).mp3",
+    "title": "Assistente Sociale feat",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00108",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - Cella 4 [Official Video].mp3",
+    "title": "Cella 4 []",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00109",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - Come te [Official Video].mp3",
+    "title": "Come te []",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00110",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - Danse feat. Noizy (Official Video).mp3",
+    "title": "Danse feat",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00111",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - LIBERI (Official Lyric Video).mp3",
+    "title": "LIBERI ()",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00112",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - Libertad Feat. Morad [Official Lyric Video].mp3",
+    "title": "Libertad Feat",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00113",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - Marocchino [Official Video].mp3",
+    "title": "Marocchino []",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00114",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang - Mocro Mafia Feat. Maes [Official Video].mp3",
+    "title": "Mocro Mafia Feat",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00115",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang – Casablanca (feat. Morad ) [Official Video].mp3",
+    "title": "Casablanca (feat",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00116",
+    "file": "_trap\\_other country random\\Baby gang\\Baby Gang – Mentalité [Official Lyrics Video].mp3",
+    "title": "Mentalité []",
+    "primary_artists": [
+      "Baby Gang"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Gang"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Gang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00117",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\4. DYSTINCT - Finek (prod. YAM & Unleaded) [Lyric Video].mp3",
+    "title": "Finek (prod",
+    "primary_artists": [
+      "DYSTINCT"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "DYSTINCT"
+    ],
+    "credits": [
+      {
+        "entity": "DYSTINCT",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00118",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\4.4.2 - Va bene (Clip officiel) ft. Tayc, Soolking, Jul, Naza.mp3",
+    "title": "Va bene () ft",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "it-00119",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\ASHAFAR x MORAD - AMS - BCN (prod. Keyser Soze).mp3",
+    "title": "AMS - BCN (prod",
+    "primary_artists": [
+      "ASHAFAR",
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ASHAFAR",
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "ASHAFAR",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00120",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\BOBYTO - NINA.mp3",
+    "title": "NINA",
+    "primary_artists": [
+      "BOBYTO"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "BOBYTO"
+    ],
+    "credits": [
+      {
+        "entity": "BOBYTO",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00121",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\Cancun - Charité feat. Baby Gang.mp3",
+    "title": "Charité feat",
+    "primary_artists": [
+      "Cancun"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Cancun"
+    ],
+    "credits": [
+      {
+        "entity": "Cancun",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00122",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\Criminel.mp3",
+    "title": "Criminel",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00123",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\Freeze Corleone 667 feat. Central Cee - Polémique.mp3",
+    "title": "Polémique",
+    "primary_artists": [
+      "Freeze Corleone 667"
+    ],
+    "featuring_artists": [
+      "Central Cee"
+    ],
+    "artists": [
+      "Freeze Corleone 667",
+      "Central Cee"
+    ],
+    "credits": [
+      {
+        "entity": "Freeze Corleone 667",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Central Cee",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00124",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\J'appelle Uber.mp3",
+    "title": "J'appelle Uber",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00125",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\Je fais des tours.mp3",
+    "title": "Je fais des tours",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00126",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\KOUZ1 - LOVE - ( Official video clip ) [ AFROBOY EP ].mp3",
+    "title": "LOVE - ( clip ) [ AFROBOY EP ]",
+    "primary_artists": [
+      "KOUZ1"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "KOUZ1"
+    ],
+    "credits": [
+      {
+        "entity": "KOUZ1",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00127",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\Larry - Enfant compliqué (Clip officiel).mp3",
+    "title": "Enfant compliqué ()",
+    "primary_artists": [
+      "Larry"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Larry"
+    ],
+    "credits": [
+      {
+        "entity": "Larry",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00128",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\Maes - Fetty Wap.mp3",
+    "title": "Fetty Wap",
+    "primary_artists": [
+      "Maes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maes"
+    ],
+    "credits": [
+      {
+        "entity": "Maes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00129",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\OLIVINE.mp3",
+    "title": "OLIVINE",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00130",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\Paky - La Bellavita feat. JuL (Visual).mp3",
+    "title": "La Bellavita feat",
+    "primary_artists": [
+      "Paky"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Paky"
+    ],
+    "credits": [
+      {
+        "entity": "Paky",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00131",
+    "file": "_trap\\_other country random\\BABY GANG   JUL   EL MORAD 🇲🇦🇪🇺\\SADIO RIYAD.mp3",
+    "title": "SADIO RIYAD",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00132",
+    "file": "_trap\\_other country random\\BRASIL TRAP VIBES 💎\\Japa - Osaka.mp3",
+    "title": "Osaka",
+    "primary_artists": [
+      "Japa"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Japa"
+    ],
+    "credits": [
+      {
+        "entity": "Japa",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00133",
+    "file": "_trap\\_other country random\\DALYB - Pištole _ Ruže\\DALYB - JAGUARE ft. 6ix9ine , ZAYO _ LVCAS DOPE.mp3",
+    "title": "JAGUARE ft",
+    "primary_artists": [
+      "DALYB"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "DALYB"
+    ],
+    "credits": [
+      {
+        "entity": "DALYB",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00134",
+    "file": "_trap\\_other country random\\DALYB - Pištole _ Ruže\\DALYB - Pištole _ Ruže.mp3",
+    "title": "Pištole Ruže",
+    "primary_artists": [
+      "DALYB"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "DALYB"
+    ],
+    "credits": [
+      {
+        "entity": "DALYB",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00135",
+    "file": "_trap\\_other country random\\Dutch Grime\\(73) RB x VK x Choppa - Impact (prod By. Franco lll & YSbeatsz).mp3",
+    "title": "Impact (",
+    "primary_artists": [
+      "RB",
+      "VK",
+      "Choppa"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "RB",
+      "VK",
+      "Choppa"
+    ],
+    "credits": [
+      {
+        "entity": "RB",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "VK",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Choppa",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00136",
+    "file": "_trap\\_other country random\\elai\\ELAI - Balenciaga (Official Music Video).mp3",
+    "title": "Balenciaga ()",
+    "primary_artists": [
+      "ELAI"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ELAI"
+    ],
+    "credits": [
+      {
+        "entity": "ELAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00137",
+    "file": "_trap\\_other country random\\elai\\ELAI - GHETTO (ft. ).mp3",
+    "title": "GHETTO (ft",
+    "primary_artists": [
+      "ELAI"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ELAI"
+    ],
+    "credits": [
+      {
+        "entity": "ELAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00138",
+    "file": "_trap\\_other country random\\elai\\ELAI - Kusha (Official Audio).mp3",
+    "title": "Kusha ()",
+    "primary_artists": [
+      "ELAI"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ELAI"
+    ],
+    "credits": [
+      {
+        "entity": "ELAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00139",
+    "file": "_trap\\_other country random\\elai\\ELAI - Kvalifiku (Official) VERA PROJECT.mp3",
+    "title": "Kvalifiku (Official) VERA PROJECT",
+    "primary_artists": [
+      "ELAI"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ELAI"
+    ],
+    "credits": [
+      {
+        "entity": "ELAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00140",
+    "file": "_trap\\_other country random\\elai\\ELAI - Lovely (SHOTGUN EP).mp3",
+    "title": "Lovely (SHOTGUN EP)",
+    "primary_artists": [
+      "ELAI"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ELAI"
+    ],
+    "credits": [
+      {
+        "entity": "ELAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00141",
+    "file": "_trap\\_other country random\\elai\\ELAI - Nokia (Official Music Video).mp3",
+    "title": "Nokia ()",
+    "primary_artists": [
+      "ELAI"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ELAI"
+    ],
+    "credits": [
+      {
+        "entity": "ELAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00142",
+    "file": "_trap\\_other country random\\elai\\ELAI - TJETRIN (OFFICIAL) VERA PROJECT.mp3",
+    "title": "TJETRIN (OFFICIAL) VERA PROJECT",
+    "primary_artists": [
+      "ELAI"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ELAI"
+    ],
+    "credits": [
+      {
+        "entity": "ELAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00143",
+    "file": "_trap\\_other country random\\Jul\\GIMS & DYSTINCT - SPIDER (Clip officiel).mp3",
+    "title": "SPIDER ()",
+    "primary_artists": [
+      "GIMS",
+      "DYSTINCT"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "GIMS",
+      "DYSTINCT"
+    ],
+    "credits": [
+      {
+        "entity": "GIMS",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "DYSTINCT",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00144",
+    "file": "_trap\\_other country random\\Jul\\JuL  - Alors la zone __ Clip Officiel __ 2021.mp3",
+    "title": "Alors la zone 2021",
+    "primary_artists": [
+      "JuL"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "JuL"
+    ],
+    "credits": [
+      {
+        "entity": "JuL",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00145",
+    "file": "_trap\\_other country random\\Jul\\Jul  Aghju capitu  #PlanèteRap.mp3",
+    "title": "Jul Aghju capitu #PlanèteRap",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00146",
+    "file": "_trap\\_other country random\\Jul\\JuL - Chocolata ft Elai   Clip officiel   2023.mp3",
+    "title": "Chocolata",
+    "primary_artists": [
+      "JuL"
+    ],
+    "featuring_artists": [
+      "Elai 2023"
+    ],
+    "artists": [
+      "JuL",
+      "Elai 2023"
+    ],
+    "credits": [
+      {
+        "entity": "JuL",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Elai 2023",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00147",
+    "file": "_trap\\_other country random\\Jul\\JuL - Europa  Ft Morad, Elai & Rhove  Clip Officiel  2022.mp3",
+    "title": "Europa",
+    "primary_artists": [
+      "JuL"
+    ],
+    "featuring_artists": [
+      "Morad",
+      "Elai",
+      "Rhove 2022"
+    ],
+    "artists": [
+      "JuL",
+      "Morad",
+      "Elai",
+      "Rhove 2022"
+    ],
+    "credits": [
+      {
+        "entity": "JuL",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Morad",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Elai",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Rhove 2022",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00148",
+    "file": "_trap\\_other country random\\Jul\\Jul - Italia   Clip Officiel   📀👽💿 2020.mp3",
+    "title": "Italia 📀👽💿 2020",
+    "primary_artists": [
+      "Jul"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jul"
+    ],
+    "credits": [
+      {
+        "entity": "Jul",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00149",
+    "file": "_trap\\_other country random\\Jul\\JuL - J'ai tout su  clip officiel  2022.mp3",
+    "title": "J'ai tout su 2022",
+    "primary_artists": [
+      "JuL"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "JuL"
+    ],
+    "credits": [
+      {
+        "entity": "JuL",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00150",
+    "file": "_trap\\_other country random\\Jul\\JuL - Messes basses   Album gratuit Vol.7 [12].mp3",
+    "title": "Messes basses Album gratuit Vol",
+    "primary_artists": [
+      "JuL"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "JuL"
+    ],
+    "credits": [
+      {
+        "entity": "JuL",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00151",
+    "file": "_trap\\_other country random\\Jul\\JuL - Namek feat. Omah Lay  Clip Officiel  2022.mp3",
+    "title": "Namek feat",
+    "primary_artists": [
+      "JuL"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "JuL"
+    ],
+    "credits": [
+      {
+        "entity": "JuL",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00152",
+    "file": "_trap\\_other country random\\Jul\\Jul - Sousou  Clip Officiel  2020 📀👽💿.mp3",
+    "title": "Sousou 2020 📀👽💿",
+    "primary_artists": [
+      "Jul"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jul"
+    ],
+    "credits": [
+      {
+        "entity": "Jul",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00153",
+    "file": "_trap\\_other country random\\Jul\\JuL - Un jour, je l'aurai   Clip Officiel   2024.mp3",
+    "title": "Un jour, je l'aurai 2024",
+    "primary_artists": [
+      "JuL"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "JuL"
+    ],
+    "credits": [
+      {
+        "entity": "JuL",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00154",
+    "file": "_trap\\_other country random\\Jul\\Jul - Ça tourne dans ma tête  clip officiel  2022.mp3",
+    "title": "Ça tourne dans ma tête 2022",
+    "primary_artists": [
+      "Jul"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jul"
+    ],
+    "credits": [
+      {
+        "entity": "Jul",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00155",
+    "file": "_trap\\_other country random\\Jul\\Loi de la calle - Lacrim, Alonzo, Mister You, JuL, Niro, Kofs, Le Rat Luciano, DA Uzi   Clip.mp3",
+    "title": "Lacrim, Alonzo, Mister You, JuL, Niro, Kofs, Le Rat Luciano, DA Uzi Clip",
+    "primary_artists": [
+      "Loi de la calle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Loi de la calle"
+    ],
+    "credits": [
+      {
+        "entity": "Loi de la calle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00156",
+    "file": "_trap\\_other country random\\Jul\\VEN1 - HAKAYET.mp3",
+    "title": "HAKAYET",
+    "primary_artists": [
+      "VEN1"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "VEN1"
+    ],
+    "credits": [
+      {
+        "entity": "VEN1",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00157",
+    "file": "_trap\\_other country random\\Lithe\\Jezebel.mp3",
+    "title": "Jezebel",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00158",
+    "file": "_trap\\_other country random\\Lithe\\Lithe -  Wish They Seen My Face (Audio).mp3",
+    "title": "Wish They Seen My Face (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00159",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - $tars Align (Visualizer).mp3",
+    "title": "$tars Align (Visualizer)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00160",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - 737 (Visualizer).mp3",
+    "title": "737 (Visualizer)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00161",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - All I Know (Audio).mp3",
+    "title": "All I Know (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00162",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Blue Pills (Audio).mp3",
+    "title": "Blue Pills (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00163",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Change (Audio).mp3",
+    "title": "Change (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00164",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Don't Know (Audio).mp3",
+    "title": "Don't Know (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00165",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Don't Send For Me (Audio) ft. ARDN.mp3",
+    "title": "Don't Send For Me (Audio) ft",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00166",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Don’t Blame Me ft. Hunxho (Visualizer).mp3",
+    "title": "Don’t Blame Me ft",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00167",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Facade.mp3",
+    "title": "Facade",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00168",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Fall Back (Audio).mp3",
+    "title": "Fall Back (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00169",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Fall Back ft. Lil Tjay.mp3",
+    "title": "Fall Back ft",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00170",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Fools Gold (Audio).mp3",
+    "title": "Fools Gold (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00171",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - For What ft. Cash Cobain (Official Music Video).mp3",
+    "title": "For What ft",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00172",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - For You (Official Music Video) ft. Roy Woods.mp3",
+    "title": "For You () ft",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00173",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Geneva (Audio) ft. Eli Sostre.mp3",
+    "title": "Geneva (Audio) ft",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00174",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Get Up (Audio).mp3",
+    "title": "Get Up (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00175",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Getaway (Audio).mp3",
+    "title": "Getaway (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00176",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Grow Up (Audio).mp3",
+    "title": "Grow Up (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00177",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Hold Out (Official Music Video) ft. FRVRFRIDAY.mp3",
+    "title": "Hold Out () ft",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00178",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - I need (Audio).mp3",
+    "title": "I need (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00179",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - If I Could (Audio).mp3",
+    "title": "If I Could (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00180",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - If u Fall (Audio).mp3",
+    "title": "If u Fall (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00181",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Like We Wrote (Official Music Video).mp3",
+    "title": "Like We Wrote ()",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00182",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Now What (Audio).mp3",
+    "title": "Now What (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00183",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Numb (Audio).mp3",
+    "title": "Numb (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00184",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Pessimist (Audio).mp3",
+    "title": "Pessimist (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00185",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Pipe Dream (Audio).mp3",
+    "title": "Pipe Dream (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00186",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Rolling Stone (Audio).mp3",
+    "title": "Rolling Stone (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00187",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Signs (Official Music Video).mp3",
+    "title": "Signs ()",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00188",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Stepped Out LV (Visualizer).mp3",
+    "title": "Stepped Out LV (Visualizer)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00189",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Tempt Me (Official Music Video).mp3",
+    "title": "Tempt Me ()",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00190",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Test My Love (Audio).mp3",
+    "title": "Test My Love (Audio)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00191",
+    "file": "_trap\\_other country random\\Lithe\\Lithe - Vetted (Visualizer).mp3",
+    "title": "Vetted (Visualizer)",
+    "primary_artists": [
+      "Lithe"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lithe"
+    ],
+    "credits": [
+      {
+        "entity": "Lithe",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00192",
+    "file": "_trap\\_other country random\\Maes officiel\\Maes - MAGIE (VISUALIZER).mp3",
+    "title": "MAGIE (VISUALIZER)",
+    "primary_artists": [
+      "Maes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maes"
+    ],
+    "credits": [
+      {
+        "entity": "Maes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00193",
+    "file": "_trap\\_other country random\\Maes officiel\\Maes - SURVIE (VISUALIZER).mp3",
+    "title": "SURVIE (VISUALIZER)",
+    "primary_artists": [
+      "Maes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maes"
+    ],
+    "credits": [
+      {
+        "entity": "Maes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00194",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\Chandal.mp3",
+    "title": "Chandal",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00195",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\Cómo Están.mp3",
+    "title": "Cómo Están",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00196",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\El Coleta.mp3",
+    "title": "El Coleta",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00197",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\Mama Me Dice.mp3",
+    "title": "Mama Me Dice",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00198",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - CARRETERA [VIDEO OFICIAL].mp3",
+    "title": "CARRETERA []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00199",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\Morad - Como Estan (Letra Lyrics).mp3",
+    "title": "Como Estan (Letra )",
+    "primary_artists": [
+      "Morad"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Morad"
+    ],
+    "credits": [
+      {
+        "entity": "Morad",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00200",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - CUANDO ELLA SALE [VIDEO OFICIAL].mp3",
+    "title": "CUANDO ELLA SALE []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00201",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - DONDE ESTÁN [VIDEO OFICIAL].mp3",
+    "title": "DONDE ESTÁN []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00202",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - EL COLETA [VIDEO OFICIAL].mp3",
+    "title": "EL COLETA []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00203",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - LO NIEGO [VIDEO OFICIAL].mp3",
+    "title": "LO NIEGO []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00204",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - MAMA ME DICE [VIDEO OFICIAL].mp3",
+    "title": "MAMA ME DICE []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00205",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - MOTOROLA [VIDEO OFICIAL].mp3",
+    "title": "MOTOROLA []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00206",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\Morad - Niños Pequeños (Audio Oficial).mp3",
+    "title": "Niños Pequeños (Audio Oficial)",
+    "primary_artists": [
+      "Morad"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Morad"
+    ],
+    "credits": [
+      {
+        "entity": "Morad",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00207",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - NIÑOS PEQUEÑOS [VIDEO OFICIAL]   REINSERTADO.mp3",
+    "title": "NIÑOS PEQUEÑOS [] REINSERTADO",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00208",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - PARÍS COMO HAKIMI [VIDEO OFICIAL].mp3",
+    "title": "PARÍS COMO HAKIMI []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00209",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD - PELELE [VIDEO OFICIAL].mp3",
+    "title": "PELELE []",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MORAD"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00210",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\MORAD FT BABY GANG - SENTIR.mp3",
+    "title": "SENTIR",
+    "primary_artists": [
+      "MORAD"
+    ],
+    "featuring_artists": [
+      "BABY GANG"
+    ],
+    "artists": [
+      "MORAD",
+      "BABY GANG"
+    ],
+    "credits": [
+      {
+        "entity": "MORAD",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "BABY GANG",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00211",
+    "file": "_trap\\_other country random\\MORAD OFICIALES\\Niños Pequeños.mp3",
+    "title": "Niños Pequeños",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00212",
+    "file": "_trap\\_other country random\\Ostdeutschlands Zukunft\\Komm, sein wir mal verrückt! (Prod. Voluptyk ϟ).mp3",
+    "title": "Komm, sein wir mal verrückt! (Prod. Voluptyk ϟ)",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00213",
+    "file": "_trap\\_other country random\\Ostdeutschlands Zukunft\\Lucio101\\Lucio101 - Kein Spaß (prod. by Tommy Gun & Brasco).mp3",
+    "title": "Kein Spaß (",
+    "primary_artists": [
+      "Lucio101"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lucio101"
+    ],
+    "credits": [
+      {
+        "entity": "Lucio101",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00214",
+    "file": "_trap\\_other country random\\Ostdeutschlands Zukunft\\Zazter061  - Offensive.mp3",
+    "title": "Offensive",
+    "primary_artists": [
+      "Zazter061"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Zazter061"
+    ],
+    "credits": [
+      {
+        "entity": "Zazter061",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00215",
+    "file": "_trap\\_other country random\\reezy - Official Music Videos\\reezy - MOODSWINGS (Official Video).mp3",
+    "title": "MOODSWINGS ()",
+    "primary_artists": [
+      "reezy"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "reezy"
+    ],
+    "credits": [
+      {
+        "entity": "reezy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00216",
+    "file": "_trap\\_other country random\\reezy - Official Music Videos\\reezy ft. OZ - MYLOOOVE (Official Video).mp3",
+    "title": "MYLOOOVE ()",
+    "primary_artists": [
+      "reezy"
+    ],
+    "featuring_artists": [
+      "OZ"
+    ],
+    "artists": [
+      "reezy",
+      "OZ"
+    ],
+    "credits": [
+      {
+        "entity": "reezy",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "OZ",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00217",
+    "file": "_trap\\_other country random\\Svensk drill\\Adel x P.J - Sci-Fi.mp3",
+    "title": "Sci-Fi",
+    "primary_artists": [
+      "Adel",
+      "P.J"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Adel",
+      "P.J"
+    ],
+    "credits": [
+      {
+        "entity": "Adel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "P.J",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00218",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\A36 - Motorola (Official Video).mp3",
+    "title": "Motorola ()",
+    "primary_artists": [
+      "A36"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "A36"
+    ],
+    "credits": [
+      {
+        "entity": "A36",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00219",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\ADAAM x VC BARRE - TOPP (OFFICIAL VIDEO).mp3",
+    "title": "TOPP ()",
+    "primary_artists": [
+      "ADAAM",
+      "VC BARRE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ADAAM",
+      "VC BARRE"
+    ],
+    "credits": [
+      {
+        "entity": "ADAAM",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "VC BARRE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00220",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\Ant Wan - Marbella (Audio).mp3",
+    "title": "Marbella (Audio)",
+    "primary_artists": [
+      "Ant Wan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ant Wan"
+    ],
+    "credits": [
+      {
+        "entity": "Ant Wan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00221",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\Asme - Bella (Spår 7).mp3",
+    "title": "Bella (Spår 7)",
+    "primary_artists": [
+      "Asme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Asme"
+    ],
+    "credits": [
+      {
+        "entity": "Asme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00222",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\COME MY WAY.mp3",
+    "title": "COME MY WAY",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00223",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\Einár - Katten i Trakten (Official Music Video).mp3",
+    "title": "Katten i Trakten ()",
+    "primary_artists": [
+      "Einár"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Einár"
+    ],
+    "credits": [
+      {
+        "entity": "Einár",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00224",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\Jireel – MANO (Official Video).mp3",
+    "title": "MANO ()",
+    "primary_artists": [
+      "Jireel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jireel"
+    ],
+    "credits": [
+      {
+        "entity": "Jireel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00225",
+    "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\Wenak.mp3",
+    "title": "Wenak",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00226",
+    "file": "_trap\\_other country random\\Svensk drill\\Swedish Hip Hop 2024-2025 ♫ Top Swedish Rap Songs 2024 Playlist\\23 x C.Gambino - Dreams (Official Music Video).mp3",
+    "title": "Dreams ()",
+    "primary_artists": [
+      "x C.Gambino"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "x C.Gambino"
+    ],
+    "credits": [
+      {
+        "entity": "x C.Gambino",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00227",
+    "file": "_trap\\_other country random\\Svensk drill\\Swedish Hip Hop 2024-2025 ♫ Top Swedish Rap Songs 2024 Playlist\\A36 - Samma gamla vanliga (Official Video).mp3",
+    "title": "Samma gamla vanliga ()",
+    "primary_artists": [
+      "A36"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "A36"
+    ],
+    "credits": [
+      {
+        "entity": "A36",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00228",
+    "file": "_trap\\_other country random\\Vegedream\\Vegedream - Calimero ft. Dadju.mp3",
+    "title": "Calimero ft",
+    "primary_artists": [
+      "Vegedream"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Vegedream"
+    ],
+    "credits": [
+      {
+        "entity": "Vegedream",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00229",
+    "file": "_trap\\_other country random\\Vegedream\\Vegedream - Marchand de sable 2 (2018)\\Marchand de sable Part. 3.mp3",
+    "title": "Marchand de sable Part. 3",
+    "primary_artists": [
+      "trap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "trap"
+    ],
+    "credits": [
+      {
+        "entity": "trap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00230",
+    "file": "_trap\\_other country random\\Vegedream\\Vegedream - Marchand de sable 2 (2018)\\Vegedream, Dj Leska - La fuite (Vegedream X Dj Leska).mp3",
+    "title": "La fuite (Vegedream X Dj Leska)",
+    "primary_artists": [
+      "Vegedream",
+      "Dj Leska"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Vegedream",
+      "Dj Leska"
+    ],
+    "credits": [
+      {
+        "entity": "Vegedream",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Dj Leska",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "it-00231",
+    "file": "_trap\\_other country random\\Vegedream\\Vegedream, Dj Leska - La Fuite (Official Lyric Video).mp3",
+    "title": "La Fuite ()",
+    "primary_artists": [
+      "Vegedream",
+      "Dj Leska"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Vegedream",
+      "Dj Leska"
+    ],
+    "credits": [
+      {
+        "entity": "Vegedream",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Dj Leska",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  }
+]
