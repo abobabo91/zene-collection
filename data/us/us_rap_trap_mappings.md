@@ -38,6 +38,13 @@ One line per canonical name. A second line with the same canonical name does **n
 the parser builds a dict, so the later line silently replaces the earlier one and its aliases
 are lost. Add new aliases to the existing line.
 
+Also fixes display capitalisation. The canonical spelling here is what shows up in
+toplists and playlist titles, so a folder typed `Nicki MInaj` or `Juelz santana` is worth
+a line even though normalize_key already treats them as the same artist.
+
+- `Nicki Minaj: Nicki MInaj`
+- `Juelz Santana: Juelz santana`
+
 Examples to expand later:
 
 - `G-Eazy: G Eazy`
@@ -161,6 +168,15 @@ Format:
 `Label Name: artist 1, artist 2, artist 3`
 
 Only use labels that are actually useful for later cleanup or browsing.
+
+Rosters whose artists are all in the collection, added 2026-08-03 so the label gets its
+own playlist. A label is worth listing once at least two of its artists are here - below
+that the label playlist is just a copy of one artist's.
+
+- `Dipset: Cam'ron, Juelz Santana, Jim Jones`
+- `Young Money: Lil Wayne, Drake, Nicki Minaj`
+- `MMG: Rick Ross, Meek Mill, Wale`
+- `TDE: Kendrick Lamar, SchoolBoy Q, Jay Rock`
 
 Starter examples:
 

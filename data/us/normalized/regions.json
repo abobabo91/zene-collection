@@ -87,7 +87,7 @@
       "Nav",
       "Nav Metro Boomin - Perfect Timing {786zx}",
       "Neva End",
-      "Nicki MInaj",
+      "Nicki Minaj",
       "Nipsey Hussle",
       "Offset",
       "Offset Lil Baby",
@@ -168,11 +168,14 @@
     ],
     "labels": [
       "CMG",
+      "Dipset",
       "Gucci Mane",
       "iLoveMakonnen",
+      "MMG",
       "Opium",
       "OTF",
       "QC",
+      "Young Money",
       "Young Thug",
       "YSL"
     ],
@@ -1273,6 +1276,9 @@
       "N.W.A"
     ],
     "labels": [
+      "MMG",
+      "TDE",
+      "Young Money",
       "YSL"
     ],
     "sources": [
@@ -1930,7 +1936,8 @@
     "labels": [
       "G Herbo",
       "OTF",
-      "QC"
+      "QC",
+      "TDE"
     ],
     "sources": [
       "_trap"
@@ -2370,7 +2377,8 @@
     ],
     "labels": [
       "CMG",
-      "OTF"
+      "OTF",
+      "Young Money"
     ],
     "sources": [
       "_rap",
@@ -2757,7 +2765,9 @@
     "groups": [],
     "labels": [
       "BHAD BHABIE",
-      "CMG"
+      "CMG",
+      "MMG",
+      "Young Money"
     ],
     "sources": [
       "_rap",
@@ -3261,7 +3271,7 @@
       "N.e.N",
       "NBA OG 3Three",
       "NBA YoungBoy Scotty Cain",
-      "Nicki MInaj",
+      "Nicki Minaj",
       "quando rondo",
       "ROJAY",
       "ROJAYMLP",
@@ -3287,9 +3297,11 @@
     ],
     "labels": [
       "CMG",
+      "Dipset",
       "Moneybagg Yo",
       "OTF",
       "QC",
+      "Young Money",
       "YSL"
     ],
     "sources": [
@@ -3830,8 +3842,10 @@
     "labels": [
       "8Ball & MJG",
       "CMG",
+      "MMG",
       "OTF",
-      "Yo Gotti"
+      "Yo Gotti",
+      "Young Money"
     ],
     "sources": [
       "_rap",
@@ -4182,7 +4196,7 @@
       "Jay-Z",
       "Jeremih",
       "Jim Jones",
-      "Juelz santana",
+      "Juelz Santana",
       "Kanye West",
       "Killarmy Emilush",
       "Liam Payne",
@@ -4205,7 +4219,7 @@
       "Naughty By Nature",
       "Nelly",
       "NEW!! Young Buck",
-      "Nicki MInaj",
+      "Nicki Minaj",
       "Nino Man",
       "O.C",
       "Ol' Dirty Bastard",
@@ -4278,11 +4292,14 @@
     ],
     "labels": [
       "Chingy",
+      "Dipset",
       "Dom Pachino",
       "Fabolous",
       "French Montana",
+      "MMG",
       "OTF",
-      "Wu-Tang Clan"
+      "Wu-Tang Clan",
+      "Young Money"
     ],
     "sources": [
       "_rap",
@@ -5382,6 +5399,7 @@
     "groups": [],
     "labels": [
       "CMG",
+      "MMG",
       "Opium"
     ],
     "sources": [
@@ -5765,6 +5783,7 @@
     ],
     "groups": [],
     "labels": [
+      "Young Money",
       "YSL"
     ],
     "sources": [
@@ -6239,7 +6258,7 @@
       "Nas",
       "Nef The Pharaoh",
       "nettspend",
-      "Nicki MInaj",
+      "Nicki Minaj",
       "Night Lovell",
       "Nightcore",
       "Nine Vicious",
@@ -6439,9 +6458,13 @@
     ],
     "labels": [
       "CMG",
+      "Dipset",
       "Joey Bada$$",
+      "MMG",
       "Opium",
       "QC",
+      "TDE",
+      "Young Money",
       "YSL"
     ],
     "sources": [
@@ -7554,7 +7577,7 @@
       "Jin",
       "Joe Budden",
       "Joell Ortiz",
-      "Juelz santana",
+      "Juelz Santana",
       "Jurassic 5",
       "Juvenile",
       "Kanye West",
@@ -7604,7 +7627,7 @@
       "Never Let Me Down",
       "NF",
       "Nice",
-      "Nicki MInaj",
+      "Nicki Minaj",
       "Non Phixion",
       "Noreaga N Capone",
       "Notorious Thugs",
@@ -7690,9 +7713,12 @@
       "Outkast"
     ],
     "labels": [
+      "Dipset",
+      "MMG",
       "Run The Jewels",
       "Scarcity Budapest",
-      "Swollen Members"
+      "Swollen Members",
+      "Young Money"
     ],
     "sources": [
       "_rap"

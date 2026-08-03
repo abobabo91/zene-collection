@@ -4505,7 +4505,9 @@
   },
   "Cam'ron": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Dipset"
+    ],
     "groups": [],
     "regions": [
       "Louisiana",
@@ -7737,7 +7739,9 @@
   },
   "Drake": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Young Money"
+    ],
     "groups": [],
     "regions": [
       "Atlanta",
@@ -13045,7 +13049,9 @@
   },
   "Jay Rock": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "TDE"
+    ],
     "groups": [],
     "regions": [
       "California",
@@ -13610,7 +13616,9 @@
   },
   "Jim Jones": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Dipset"
+    ],
     "groups": [],
     "regions": [
       "Atlanta",
@@ -14037,9 +14045,11 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Juelz santana": {
+  "Juelz Santana": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Dipset"
+    ],
     "groups": [],
     "regions": [
       "New York",
@@ -14697,7 +14707,9 @@
   },
   "Kendrick Lamar": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "TDE"
+    ],
     "groups": [],
     "regions": [
       "California",
@@ -18182,7 +18194,9 @@
   },
   "Lil Wayne": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Young Money"
+    ],
     "groups": [],
     "regions": [
       "Atlanta",
@@ -20017,7 +20031,9 @@
   },
   "Meek Mill": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "MMG"
+    ],
     "groups": [],
     "regions": [
       "Atlanta",
@@ -21797,9 +21813,11 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Nicki MInaj": {
+  "Nicki Minaj": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Young Money"
+    ],
     "groups": [],
     "regions": [
       "Atlanta",
@@ -25761,7 +25779,9 @@
   },
   "Rick Ross": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "MMG"
+    ],
     "groups": [],
     "regions": [
       "Atlanta",
@@ -27187,7 +27207,9 @@
   },
   "SchoolBoy Q": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "TDE"
+    ],
     "groups": [],
     "regions": [
       "USA"
@@ -32298,7 +32320,9 @@
   },
   "Wale": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "MMG"
+    ],
     "groups": [],
     "regions": [
       "Atlanta",
