@@ -350,6 +350,17 @@ AREA_CONFIG = {
         "blocklist": {
             "n/a", "unknown", "various", "nothing", "you", "me",
             "lyrics", "audio", "download link",
+            # Plan B's "Who Needs Actions When You Got Words" is filed as
+            # "NN - Title - Album", with no artist in the filename at all. The dash parser
+            # reads it as "NN - Artist - Title" and turns each song title into an artist.
+            # Blocked by name rather than by a general rule: a rule keyed on "the folder
+            # names a bigger artist" looked promising and was wrong - it flagged 51 files,
+            # nearly all of them correct, because on compilations and guest albums the
+            # artist in the filename genuinely differs from the folder. 50 Cent on
+            # Eminem's 8 Mile soundtrack is not a mistake.
+            "kidz", "charmaine", "tough love", "where ya from",
+            "couldn t get along", "couldn_t get along",
+            "who needs actions when you got words",
         },
         "split_groups": set(),
     },
