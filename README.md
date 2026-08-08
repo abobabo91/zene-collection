@@ -45,6 +45,7 @@ The core challenge: extract structured artist credits from messy, inconsistent f
 - **Feature extraction**: `Drake feat. Rihanna - Take Care.mp3` → primary: Drake, featuring: Rihanna
 - **Folder context**: files in `_trap/atlanta/Young Thug/Punk/` inherit "Young Thug" as artist context
 - **Compilation detection**: folders like `HIPHOPTXL`, `_random`, `Billboard`, `DatPiff` are recognized as compilations where each file's artist comes from the filename, not the folder
+- **A YouTube-mix folder is a compilation the detector did not know about.** A folder named after whatever mix the download came from — `Mix – Yves LaRock - Rise Up`, `2000s Dance - YouTube`, `Legnépszerűbb számok -- Basshunter` — reads as artist context, so every file in it is credited to the artist in the *mix title*. In `_other/_elektro` that credited Bob Sinclar's "Sound Of Freedom" to Yves LaRock, twenty one pilots' "Stressed Out" to Lost Frequencies, and Chromatics to Desire, and it invented persons called `Club Dance`, `pop dance`, `Zyon - No Fate` and `Eliphino - More Than Me`. Dissolving those 43 folders (2026-08-08) dropped elektro from 787 persons to 774 and *raised* unattributed 158 → 168 — the count got worse and the data got better, because nine of the ten files that "lost" attribution had been credited to the wrong artist and only one (`German Haircut.mp3`, genuinely Flying Lotus) was real. It was fixed the way the tree should carry it: in the filename.
 - **Scene-release naming**: `02-bad_meets_evil-fast_lane-fum.mp3` → artist: "Bad Meets Evil", title: "Fast Lane". The generic dash rule reads the leading track number as the artist, rejects it as numeric, and falls back to folder context — which credited a whole Bad Meets Evil EP to Eminem. Only names already known as a group or alias are accepted here, because dashes double as spaces in this style: `15-reel-why-sut` would otherwise invent an artist called "reel", and a bare `d12` would become a person entry competing with the D12 group.
 - **YouTube artifact cleanup**: strip "(Official Video)", "[HD]", "WSHH Exclusive", "- YouTube" suffixes
 - **Billboard catalog prefixes**: strip `2006-005 Shakira` → "Shakira"
@@ -83,6 +84,21 @@ Overrides live in `GROUP_WEIGHT_OVERRIDES` in `build_toplists.py` and only apply
 | `build_other_graph.py <area>` | Generic scanner for any `_other/` subfolder |
 | `build_toplists.py` | Rebuild `toplists.md` for Hungarian and US |
 | `build_visualization.py` | Build the `index.html` dashboard from all area data |
+
+## Collection layout the scanner expects
+
+A folder should name an **artist** or a **release**, never the download it arrived in — see
+the compilation note above for what a mix-title folder does to the credits. `_other/_elektro`
+was reorganised to this shape on 2026-08-08 and is the reference:
+
+- an artist with **3 or more** files in a subgenre gets a folder (`trance_dance_rave/Ayla/`)
+- fewer than that sits **loose at the subgenre root**, with the artist in the filename
+- album folders are never opened, so a release stays intact
+- nothing crosses a subgenre, so the folder-based YouTube playlists keep their membership
+
+Moving files is not free: `zene-youtube`'s match cache and `overrides.json` are keyed by
+collection-relative path, so a move has to carry the key with it or every match is orphaned
+and every hand-made pin is lost. The videoId does not change just because the file did.
 
 ## Data layout
 

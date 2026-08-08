@@ -8,3 +8,7 @@ Thumbs.db
 desktop.ini
 *.lnk
 .last_rebuild
+
+# Scanner safety copies - the real files are versioned
+*.json.bak
+*.json.bak2
