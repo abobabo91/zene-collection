@@ -1,0 +1,124 @@
+"""Összegyűjti a három dashboardot egy helyre, és összeköti őket.
+
+Szándékosan **nem** írja át egyiket sem: mindegyik pontosan úgy néz ki és úgy működik,
+ahogy a saját repójában. Az egyetlen beavatkozás egy lebegő navigációs pirula a jobb felső
+sarokban, `position:fixed`-del, ami nem nyúl bele a lap elrendezésébe - az idővonal
+teljes-magasságú grafikonja és a gráf tab-szerkezete így érintetlen marad.
+
+A forrás mindig a másik két repó aktuális kimenete, tehát ez a mappa újraépíthető, nem
+kézzel karbantartott másolat.
+
+    python build.py      # begyűjt + navigációt injektál
+    python serve.py      # kiszolgálja (a timeline fetch-el, ahhoz http kell)
+"""
+
+from __future__ import annotations
+
+import os
+import re
+import shutil
+import sys
+
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+HERE = os.path.dirname(os.path.abspath(__file__))
+SCRIPTS = os.path.dirname(HERE)
+
+#: (célmappa, cím, forrásfájlok) - az első fájl mindig a belépő index.html
+SOURCES = [
+    ("timeline", "Idővonal", os.path.join(SCRIPTS, "genre_timeline"),
+     ["index.html", "genre_catalog.json", "recent_playlists.json"]),
+    ("graph", "Előadó-gráf", os.path.join(SCRIPTS, "_local_music_graph"),
+     ["index.html"]),
+    ("audio", "Audio profilok", os.path.join(SCRIPTS, "_elektro_classifier"),
+     [("zene_library.html", "index.html")]),
+]
+
+NAV = """
+<!-- zene_dashboard: közös navigáció. position:fixed, hogy a lap saját elrendezését
+     ne befolyásolja - se az idővonal 100vh-s grafikonját, se a gráf füleit. -->
+<div id="zdnav" style="position:fixed;top:8px;right:10px;z-index:2147483000;
+  display:flex;gap:2px;background:rgba(14,17,22,.92);border:1px solid #2a323d;
+  border-radius:999px;padding:3px;font:12px/1.4 ui-sans-serif,system-ui,Segoe UI,sans-serif;
+  box-shadow:0 2px 10px rgba(0,0,0,.45);backdrop-filter:blur(4px)">__LINKS__</div>
+"""
+LINK = ('<a href="__HREF__" style="color:__COLOR__;text-decoration:none;padding:4px 11px;'
+        'border-radius:999px;__BG__">__LABEL__</a>')
+
+
+def nav_html(current):
+    links = []
+    for slug, label, _, _ in SOURCES:
+        here = slug == current
+        links.append(LINK
+                     .replace("__HREF__", "../index.html" if False else f"../{slug}/index.html")
+                     .replace("__LABEL__", label)
+                     .replace("__COLOR__", "#e6edf3" if here else "#8b949e")
+                     .replace("__BG__", "background:#1b2735;" if here else ""))
+    return NAV.replace("__LINKS__", "".join(links))
+
+
+def inject(html, current):
+    """A navigációt közvetlenül a </body> elé teszi, hogy semmit ne előzzön meg."""
+    block = nav_html(current)
+    if 'id="zdnav"' in html:                       # újraépítésnél ne duplázzuk
+        html = re.sub(r"\n?<!-- zene_dashboard.*?</div>\n?", "", html, flags=re.S)
+    if "</body>" in html:
+        return html.replace("</body>", block + "</body>", 1)
+    return html + block
+
+
+def main():
+    for slug, label, src, files in SOURCES:
+        dst = os.path.join(HERE, slug)
+        os.makedirs(dst, exist_ok=True)
+        for entry in files:
+            name, out = entry if isinstance(entry, tuple) else (entry, entry)
+            s = os.path.join(src, name)
+            if not os.path.exists(s):
+                print(f"  !! hiányzik: {s}")
+                continue
+            d = os.path.join(dst, out)
+            if out.endswith(".html"):
+                html = open(s, encoding="utf-8").read()
+                open(d, "w", encoding="utf-8").write(inject(html, slug))
+            else:
+                shutil.copy2(s, d)
+            print(f"  {slug}/{out:<22} {os.path.getsize(d)/1024:>8.0f} KB   <- {name}")
+
+    cards = "".join(
+        f'<a class="card" href="{slug}/index.html"><h2>{label}</h2><p>{desc}</p></a>'
+        for slug, label, desc in [
+            ("timeline", "Idővonal", "Mikor került be mi a gyűjteménybe, műfajonként, "
+                                     "kumulált nézetben. 15,465 bejegyzés."),
+            ("graph", "Előadó-gráf", "Ki kivel szerepel, tíz terület fülenként, "
+                                     "előadóra kattintva a mappafája."),
+            ("audio", "Audio profilok", "Az audióból kinyert metrikák: trackenkénti profil, "
+                                        "stílusok, változó-referencia és térkép."),
+        ])
+    open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(
+        LANDING.replace("__CARDS__", cards))
+    print(f"  index.html (nyitólap)")
+
+
+LANDING = """<!doctype html>
+<html lang="hu"><head><meta charset="utf-8"><title>Zene dashboard</title>
+<style>
+body{margin:0;background:#0e1116;color:#e6edf3;font:14px/1.6 ui-sans-serif,system-ui,Segoe UI,sans-serif;
+ display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100vh}
+h1{font-size:20px;font-weight:600;margin:0 0 4px}
+.sub{color:#8b949e;font-size:13px;margin-bottom:26px}
+.wrap{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;max-width:900px}
+.card{display:block;width:250px;padding:18px 20px;border:1px solid #232a33;border-radius:12px;
+ text-decoration:none;color:inherit;background:#11161d;transition:border-color .15s}
+.card:hover{border-color:#5aa9e6}
+.card h2{font-size:15px;margin:0 0 6px;color:#5aa9e6}
+.card p{margin:0;color:#8b949e;font-size:12.5px}
+</style></head><body>
+<h1>Zene dashboard</h1>
+<div class="sub">a gyűjtemény három nézete — a lapok közt jobb felül lehet váltani</div>
+<div class="wrap">__CARDS__</div>
+</body></html>"""
+
+
+if __name__ == "__main__":
+    main()

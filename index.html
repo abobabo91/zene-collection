@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="hu"><head><meta charset="utf-8"><title>Zene dashboard</title>
+<style>
+body{margin:0;background:#0e1116;color:#e6edf3;font:14px/1.6 ui-sans-serif,system-ui,Segoe UI,sans-serif;
+ display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100vh}
+h1{font-size:20px;font-weight:600;margin:0 0 4px}
+.sub{color:#8b949e;font-size:13px;margin-bottom:26px}
+.wrap{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;max-width:900px}
+.card{display:block;width:250px;padding:18px 20px;border:1px solid #232a33;border-radius:12px;
+ text-decoration:none;color:inherit;background:#11161d;transition:border-color .15s}
+.card:hover{border-color:#5aa9e6}
+.card h2{font-size:15px;margin:0 0 6px;color:#5aa9e6}
+.card p{margin:0;color:#8b949e;font-size:12.5px}
+</style></head><body>
+<h1>Zene dashboard</h1>
+<div class="sub">a gyűjtemény három nézete — a lapok közt jobb felül lehet váltani</div>
+<div class="wrap"><a class="card" href="timeline/index.html"><h2>Idővonal</h2><p>Mikor került be mi a gyűjteménybe, műfajonként, kumulált nézetben. 15,465 bejegyzés.</p></a><a class="card" href="graph/index.html"><h2>Előadó-gráf</h2><p>Ki kivel szerepel, tíz terület fülenként, előadóra kattintva a mappafája.</p></a><a class="card" href="audio/index.html"><h2>Audio profilok</h2><p>Az audióból kinyert metrikák: trackenkénti profil, stílusok, változó-referencia és térkép.</p></a></div>
+</body></html>
