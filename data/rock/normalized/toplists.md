@@ -8,7 +8,7 @@ Unattributed songs: `64`
 
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
-| 1 | Bring Me the Horizon | 59 | 57.5 | 59.0 | 59 | 0 | 0 | - | - | - |
+| 1 | Bring Me the Horizon | 59 | 51.5 | 53.0 | 59 | 0 | 0 | - | - | - |
 | 2 | The Cranberries | 43 | 43.0 | 43.0 | 43 | 0 | 0 | - | - | - |
 | 3 | Rammstein | 33 | 33.0 | 33.0 | 33 | 0 | 0 | - | - | - |
 | 4 | Tokio Hotel | 25 | 25.0 | 25.0 | 25 | 0 | 0 | - | - | - |

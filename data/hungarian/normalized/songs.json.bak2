@@ -1868,6 +1868,31 @@
   ]
  },
  {
+  "song_id": "h-00072",
+  "file": "_magyar rap/_random/A KISSZOBABAN EP [192]/A KISSZOBABAN EP [192]/04. Különvélemény - Kivonulás.mp3",
+  "title": "Kivonulás",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Különvélemény"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Különvélemény"
+  ],
+  "credits": [
+   {
+    "entity": "Különvélemény",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
   "song_id": "h-00073",
   "file": "_magyar rap/_random/A KISSZOBABAN EP [192]/A KISSZOBABAN EP [192]/07. Különvélemény - ...A Kisszobában.mp3",
   "title": "A Kisszobában",
@@ -13268,6 +13293,71 @@
   "credits": [
    {
     "entity": "Sub Bass Monster",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-00466",
+  "file": "_magyar rap/_random/szegedremix/V.A. Szeged Remix Album (2010)/05-Milli Chab - Violence feat. FMaN, Filo (Suhov remix).mp3",
+  "title": "Violence (Suhov remix)",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Milli Chab"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [
+   "Filo",
+   "FMaN"
+  ],
+  "featuring_groups": [],
+  "artists": [
+   "Filo",
+   "FMaN",
+   "Milli Chab"
+  ],
+  "credits": [
+   {
+    "entity": "Filo",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "FMaN",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "Milli Chab",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-00467",
+  "file": "_magyar rap/_random/szegedremix/V.A. Szeged Remix Album (2010)/07-Filo - Mama ne sírj (Suhov remix).mp3",
+  "title": "Mama ne sírj (Suhov remix)",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Filo"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Filo"
+  ],
+  "credits": [
+   {
+    "entity": "Filo",
     "entity_type": "person",
     "role": "primary"
    }
@@ -29788,6 +29878,31 @@
   ]
  },
  {
+  "song_id": "h-00965",
+  "file": "_magyar rap/Day, antal/DAY-KIADATLAN [128-192]/DAY-KIADATLAN [128-192]/03. Day - Depresszió.mp3",
+  "title": "Depresszió",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Day"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Day"
+  ],
+  "credits": [
+   {
+    "entity": "Day",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
   "song_id": "h-00966",
   "file": "_magyar rap/Day, antal/DAY-KIADATLAN [128-192]/DAY-KIADATLAN [128-192]/06. Antal _ Day - Hol Lennénk.mp3",
   "title": "Hol Lennénk",
@@ -31387,6 +31502,31 @@
   ]
  },
  {
+  "song_id": "h-01025",
+  "file": "_magyar rap/Fankadeli/fankadeli- sötét erdő.wma",
+  "title": "Sötét erdő",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Fankadeli"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Fankadeli"
+  ],
+  "credits": [
+   {
+    "entity": "Fankadeli",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
   "song_id": "h-01026",
   "file": "_magyar rap/Fankadeli/fankadeli_apaink_verebol.mp3",
   "title": "Apáink Véréből",
@@ -31440,6 +31580,31 @@
   "song_id": "h-01028",
   "file": "_magyar rap/Fankadeli/fankadeli_ugyanmar_zsolti.mp3",
   "title": "Ugyanmár Zsolti",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Fankadeli"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Fankadeli"
+  ],
+  "credits": [
+   {
+    "entity": "Fankadeli",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-01029",
+  "file": "_magyar rap/Fankadeli/ISTEN HOZOTT... ...ORDOG VIHET [128]/ISTEN HOZOTT... ...ÖRDÖG VIHET [128]/08. FankaDeli - Ezt Most.mp3",
+  "title": "Ezt Most",
   "title_variants": [],
   "source_root": "_magyar rap",
   "folder_region": null,
@@ -34409,9 +34574,87 @@
   ]
  },
  {
+  "song_id": "h-01147",
+  "file": "_magyar rap/Garage/ESSEMM/BE EP [128]/BE EP [128]/07. BeatMarket - Tegnapról.mp3",
+  "title": "Tegnapról",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Essemm",
+   "Ra"
+  ],
+  "primary_groups": [
+   "BeatMarket"
+  ],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Essemm",
+   "Ra"
+  ],
+  "credits": [
+   {
+    "entity": "BeatMarket",
+    "entity_type": "group",
+    "role": "primary"
+   },
+   {
+    "entity": "Essemm",
+    "entity_type": "person",
+    "role": "primary"
+   },
+   {
+    "entity": "Ra",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
   "song_id": "h-01148",
   "file": "_magyar rap/Garage/ESSEMM/BeatMarket - Lehetsz Bárhol (EREDETI VÁLTOZAT).mp3",
   "title": "BeatMarket - Lehetsz Bárhol (EREDETI VÁLTOZAT)",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Essemm",
+   "Ra"
+  ],
+  "primary_groups": [
+   "BeatMarket"
+  ],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Essemm",
+   "Ra"
+  ],
+  "credits": [
+   {
+    "entity": "BeatMarket",
+    "entity_type": "group",
+    "role": "primary"
+   },
+   {
+    "entity": "Essemm",
+    "entity_type": "person",
+    "role": "primary"
+   },
+   {
+    "entity": "Ra",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-01149",
+  "file": "_magyar rap/Garage/ESSEMM/BeatMarket - TegnaprÃ³l.mp3",
+  "title": "Tegnapról",
   "title_variants": [],
   "source_root": "_magyar rap",
   "folder_region": null,
@@ -42848,6 +43091,31 @@
   ]
  },
  {
+  "song_id": "h-01390",
+  "file": "_magyar rap/IFS/Filo - Mama ne sírj (Suhov remix).mp3",
+  "title": "Mama ne sírj",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Filo"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Filo"
+  ],
+  "credits": [
+   {
+    "entity": "Filo",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
   "song_id": "h-01391",
   "file": "_magyar rap/IFS/Filo - Szertefoszlott álmok.mp3",
   "title": "Szertefoszlott álmok",
@@ -43223,6 +43491,46 @@
    },
    {
     "entity": "Smile of Hell",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-01404",
+  "file": "_magyar rap/IFS/Milli Chab - Violence feat. FMaN, Filo (Suhov remix).mp3",
+  "title": "Violence",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Milli Chab"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [
+   "Filo",
+   "FMaN"
+  ],
+  "featuring_groups": [],
+  "artists": [
+   "Filo",
+   "FMaN",
+   "Milli Chab"
+  ],
+  "credits": [
+   {
+    "entity": "Filo",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "FMaN",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "Milli Chab",
     "entity_type": "person",
     "role": "primary"
    }
@@ -45983,6 +46291,53 @@
   ]
  },
  {
+  "song_id": "h-01491",
+  "file": "_magyar rap/mr missh/Burai - Holdfény (feat. Missh x G.w.M x Gyulai Viki).mp3",
+  "title": "Holdfény",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Burai Krisztián"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [
+   "G.w.M",
+   "Gyulai Viki",
+   "Mr. Missh"
+  ],
+  "featuring_groups": [],
+  "artists": [
+   "Burai Krisztián",
+   "G.w.M",
+   "Gyulai Viki",
+   "Mr. Missh"
+  ],
+  "credits": [
+   {
+    "entity": "G.w.M",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "Gyulai Viki",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "Mr. Missh",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "Burai Krisztián",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
   "song_id": "h-01492",
   "file": "_magyar rap/mr missh/Burai Krisztián - Holdfény feat. Missh x G.w.M x Gyulai Viki.mp3",
   "title": "Holdfény",
@@ -46869,6 +47224,31 @@
   "song_id": "h-01523",
   "file": "_magyar rap/mr missh/MR.MISSH-A MI MESÉNK.mp3",
   "title": "A Mi Mesénk",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Mr. Missh"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Mr. Missh"
+  ],
+  "credits": [
+   {
+    "entity": "Mr. Missh",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-01524",
+  "file": "_magyar rap/mr missh/MR.MISSH-BEBORUL AZ ÉG.mp3",
+  "title": "Beborul Az Ég",
   "title_variants": [],
   "source_root": "_magyar rap",
   "folder_region": null,
@@ -48038,6 +48418,45 @@
    },
    {
     "entity": "Odupla",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-01562",
+  "file": "_magyar rap/Punnany Massif/Best of Punnany Massif/Punnany Massif - Nem csak egyedül (official audio).mp3",
+  "title": "Nem csak egyedül",
+  "title_variants": [],
+  "source_root": "_magyar rap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "Máté",
+   "Wolfie"
+  ],
+  "primary_groups": [
+   "Punnany Massif"
+  ],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "Máté",
+   "Wolfie"
+  ],
+  "credits": [
+   {
+    "entity": "Punnany Massif",
+    "entity_type": "group",
+    "role": "primary"
+   },
+   {
+    "entity": "Máté",
+    "entity_type": "person",
+    "role": "primary"
+   },
+   {
+    "entity": "Wolfie",
     "entity_type": "person",
     "role": "primary"
    }
@@ -64009,6 +64428,31 @@
   ]
  },
  {
+  "song_id": "h-02078",
+  "file": "_magyar trap/DESH/DESH - KUKÁSAUTÓ (OFFICIAL MUSIC VIDEO).mp3",
+  "title": "KUKÁSAUTÓ",
+  "title_variants": [],
+  "source_root": "_magyar trap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [
+   "DESH"
+  ],
+  "primary_groups": [],
+  "featuring_artists": [],
+  "featuring_groups": [],
+  "artists": [
+   "DESH"
+  ],
+  "credits": [
+   {
+    "entity": "DESH",
+    "entity_type": "person",
+    "role": "primary"
+   }
+  ]
+ },
+ {
   "song_id": "h-02079",
   "file": "_magyar trap/DESH/DESH - OSZTRIGA (Official Music Video).mp3",
   "title": "OSZTRIGA",
@@ -65734,6 +66178,49 @@
     "entity": "Valter",
     "entity_type": "person",
     "role": "primary"
+   }
+  ]
+ },
+ {
+  "song_id": "h-02145",
+  "file": "_magyar trap/ibbigang/Nasiimov - Egyketted ft. gyuris.mp3",
+  "title": "Egyketted",
+  "title_variants": [],
+  "source_root": "_magyar trap",
+  "folder_region": null,
+  "regions": [],
+  "primary_artists": [],
+  "primary_groups": [],
+  "featuring_artists": [
+   "gyuris",
+   "Nasiimov",
+   "Szalai",
+   "Valter"
+  ],
+  "featuring_groups": [
+   "ibbigang"
+  ],
+  "artists": [
+   "gyuris",
+   "Nasiimov",
+   "Szalai",
+   "Valter"
+  ],
+  "credits": [
+   {
+    "entity": "ibbigang",
+    "entity_type": "group",
+    "role": "feature"
+   },
+   {
+    "entity": "Szalai",
+    "entity_type": "person",
+    "role": "feature"
+   },
+   {
+    "entity": "Valter",
+    "entity_type": "person",
+    "role": "feature"
    }
   ]
  },

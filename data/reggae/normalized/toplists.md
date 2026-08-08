@@ -9,10 +9,10 @@ Unattributed songs: `10`
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
 | 1 | Stick Figure | 11 | 10.5 | 11.0 | 11 | 0 | 0 | - | - | - |
-| 2 | Barrington Levy | 9 | 9.0 | 9.0 | 9 | 0 | 0 | - | - | - |
+| 2 | Barrington Levy | 9 | 8.0 | 8.0 | 9 | 0 | 0 | - | - | - |
 | 3 | Bob Marley | 8 | 7.0 | 7.0 | 8 | 0 | 0 | - | - | - |
-| 4 | Marley family | 5 | 5.0 | 5.0 | 5 | 0 | 0 | - | - | - |
-| 5 | Bob Marley s | 4 | 3.5 | 4.0 | 4 | 0 | 0 | - | - | - |
+| 4 | Bob Marley s | 4 | 3.5 | 4.0 | 4 | 0 | 0 | - | - | - |
+| 5 | Marley family | 5 | 4.0 | 4.0 | 5 | 0 | 0 | - | - | - |
 | 6 | Alpha Blondy | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 7 | Alton Ellis | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 8 | Damian Marley | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
