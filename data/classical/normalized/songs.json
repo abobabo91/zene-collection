@@ -81,6 +81,26 @@
   },
   {
     "song_id": "cl-00005",
+    "file": "_other\\_classical\\Ludovico Einaudi - Life.mp3",
+    "title": "Life",
+    "primary_artists": [
+      "Ludovico Einaudi"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ludovico Einaudi"
+    ],
+    "credits": [
+      {
+        "entity": "Ludovico Einaudi",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cl-00006",
     "file": "_other\\_classical\\Maurice Ravel - Bolero.mp3",
     "title": "Bolero",
     "primary_artists": [
@@ -100,7 +120,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cl-00006",
+    "song_id": "cl-00007",
     "file": "_other\\_classical\\Sibelius 13 Pieces for Piano, Op. 76 - II. Etude.mp3",
     "title": "Sibelius 13 Pieces for Piano, Op. 76 - II. Etude",
     "primary_artists": [
@@ -120,7 +140,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "cl-00007",
+    "song_id": "cl-00008",
     "file": "_other\\_classical\\Tchaikovsky - Swan Lake Op. 20, Act II No. 10, Scene.mp3",
     "title": "Swan Lake Op. 20, Act II No",
     "primary_artists": [

@@ -89,7 +89,8 @@ Overrides live in `GROUP_WEIGHT_OVERRIDES` in `build_toplists.py` and only apply
 
 A folder should name an **artist** or a **release**, never the download it arrived in — see
 the compilation note above for what a mix-title folder does to the credits. `_other/_elektro`
-was reorganised to this shape on 2026-08-08 and is the reference:
+was reorganised to this shape on 2026-08-08 and is the reference; the per-folder decision
+rules for that tree live next to the music, in `_other/_elektro/_HOVA_KERULJON.md`:
 
 - an artist with **3 or more** files in a subgenre gets a folder (`trance_dance_rave/Ayla/`)
 - fewer than that sits **loose at the subgenre root**, with the artist in the filename

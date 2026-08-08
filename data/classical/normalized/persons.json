@@ -43,7 +43,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Maurice Ravel": {
+  "Ludovico Einaudi": {
     "song_ids": [
       "cl-00005"
     ],
@@ -54,12 +54,23 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Tchaikovsky": {
+  "Maurice Ravel": {
     "song_ids": [
-      "cl-00007"
+      "cl-00006"
     ],
     "primary_song_ids": [
-      "cl-00007"
+      "cl-00006"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tchaikovsky": {
+    "song_ids": [
+      "cl-00008"
+    ],
+    "primary_song_ids": [
+      "cl-00008"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
