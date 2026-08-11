@@ -1,7 +1,7 @@
 # Country & Jazz Local Music Toplists
 
-Songs: `41`
-Persons: `12`
+Songs: `42`
+Persons: `13`
 Unattributed songs: `7`
 
 ## Persons
@@ -16,7 +16,8 @@ Unattributed songs: `7`
 | 6 | Dolly Parton | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 7 | Mtume | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 8 | Nina Simone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 9 | Wild Cherry | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 10 | Earth | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
-| 11 | Fire | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
-| 12 | Wind | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
+| 9 | Shania Twain | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
+| 10 | Wild Cherry | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
+| 11 | Earth | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
+| 12 | Fire | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
+| 13 | Wind | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |

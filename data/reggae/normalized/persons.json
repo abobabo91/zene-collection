@@ -21,8 +21,7 @@
       "rg-00007",
       "rg-00008",
       "rg-00009",
-      "rg-00010",
-      "rg-00011"
+      "rg-00010"
     ],
     "primary_song_ids": [
       "rg-00003",
@@ -32,7 +31,17 @@
       "rg-00007",
       "rg-00008",
       "rg-00009",
-      "rg-00010",
+      "rg-00010"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Big Mountain": {
+    "song_ids": [
+      "rg-00011"
+    ],
+    "primary_song_ids": [
       "rg-00011"
     ],
     "feature_song_ids": [],
@@ -332,13 +341,13 @@
   "Liam Bailey": {
     "song_ids": [
       "rg-00048",
-      "rg-00072"
+      "rg-00074"
     ],
     "primary_song_ids": [
       "rg-00048"
     ],
     "feature_song_ids": [
-      "rg-00072"
+      "rg-00074"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -394,15 +403,13 @@
       "rg-00054",
       "rg-00055",
       "rg-00057",
-      "rg-00062",
-      "rg-00063"
+      "rg-00062"
     ],
     "primary_song_ids": [
       "rg-00054",
       "rg-00055",
       "rg-00057",
-      "rg-00062",
-      "rg-00063"
+      "rg-00062"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -446,8 +453,6 @@
   "Stick Figure": {
     "song_ids": [
       "rg-00061",
-      "rg-00086",
-      "rg-00087",
       "rg-00088",
       "rg-00089",
       "rg-00090",
@@ -455,12 +460,12 @@
       "rg-00092",
       "rg-00093",
       "rg-00094",
-      "rg-00095"
+      "rg-00095",
+      "rg-00096",
+      "rg-00097"
     ],
     "primary_song_ids": [
       "rg-00061",
-      "rg-00086",
-      "rg-00087",
       "rg-00088",
       "rg-00089",
       "rg-00090",
@@ -468,7 +473,9 @@
       "rg-00092",
       "rg-00093",
       "rg-00094",
-      "rg-00095"
+      "rg-00095",
+      "rg-00096",
+      "rg-00097"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -476,10 +483,10 @@
   },
   "Ziggy Marley": {
     "song_ids": [
-      "rg-00064"
+      "rg-00063"
     ],
     "primary_song_ids": [
-      "rg-00064"
+      "rg-00063"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -487,10 +494,10 @@
   },
   "Miyagi": {
     "song_ids": [
-      "rg-00065"
+      "rg-00064"
     ],
     "primary_song_ids": [
-      "rg-00065"
+      "rg-00064"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -498,10 +505,10 @@
   },
   "Mungo s Hi-Fi": {
     "song_ids": [
-      "rg-00066"
+      "rg-00065"
     ],
     "primary_song_ids": [
-      "rg-00066"
+      "rg-00065"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -509,10 +516,10 @@
   },
   "Reggae Love": {
     "song_ids": [
-      "rg-00068"
+      "rg-00067"
     ],
     "primary_song_ids": [
-      "rg-00068"
+      "rg-00067"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -520,21 +527,58 @@
   },
   "Richie Spice": {
     "song_ids": [
-      "rg-00069"
+      "rg-00068"
     ],
     "primary_song_ids": [
-      "rg-00069"
+      "rg-00068"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
-  "Shy FX": {
+  "Shaggy": {
+    "song_ids": [
+      "rg-00071",
+      "rg-00072",
+      "rg-00073"
+    ],
+    "primary_song_ids": [
+      "rg-00071",
+      "rg-00072",
+      "rg-00073"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Natasha Watkins": {
     "song_ids": [
       "rg-00072"
     ],
-    "primary_song_ids": [
+    "primary_song_ids": [],
+    "feature_song_ids": [
       "rg-00072"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rayvon": {
+    "song_ids": [
+      "rg-00073"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00073"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shy FX": {
+    "song_ids": [
+      "rg-00074"
+    ],
+    "primary_song_ids": [
+      "rg-00074"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -542,10 +586,10 @@
   },
   "Sister Nancy": {
     "song_ids": [
-      "rg-00073"
+      "rg-00075"
     ],
     "primary_song_ids": [
-      "rg-00073"
+      "rg-00075"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -553,12 +597,12 @@
   },
   "Alton Ellis": {
     "song_ids": [
-      "rg-00074",
-      "rg-00075"
+      "rg-00076",
+      "rg-00077"
     ],
     "primary_song_ids": [
-      "rg-00074",
-      "rg-00075"
+      "rg-00076",
+      "rg-00077"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -566,10 +610,10 @@
   },
   "Dreamlets": {
     "song_ids": [
-      "rg-00076"
+      "rg-00078"
     ],
     "primary_song_ids": [
-      "rg-00076"
+      "rg-00078"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -577,10 +621,10 @@
   },
   "Glen Adams": {
     "song_ids": [
-      "rg-00077"
+      "rg-00079"
     ],
     "primary_song_ids": [
-      "rg-00077"
+      "rg-00079"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -588,10 +632,10 @@
   },
   "Keith": {
     "song_ids": [
-      "rg-00079"
+      "rg-00081"
     ],
     "primary_song_ids": [
-      "rg-00079"
+      "rg-00081"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -599,10 +643,10 @@
   },
   "Ken": {
     "song_ids": [
-      "rg-00079"
+      "rg-00081"
     ],
     "primary_song_ids": [
-      "rg-00079"
+      "rg-00081"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -610,10 +654,10 @@
   },
   "Laurel Aitken": {
     "song_ids": [
-      "rg-00080"
+      "rg-00082"
     ],
     "primary_song_ids": [
-      "rg-00080"
+      "rg-00082"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -621,10 +665,10 @@
   },
   "Stranger Cole": {
     "song_ids": [
-      "rg-00081"
+      "rg-00083"
     ],
     "primary_song_ids": [
-      "rg-00081"
+      "rg-00083"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -632,10 +676,10 @@
   },
   "The Paragons": {
     "song_ids": [
-      "rg-00082"
+      "rg-00084"
     ],
     "primary_song_ids": [
-      "rg-00082"
+      "rg-00084"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -643,10 +687,10 @@
   },
   "The Skatalites": {
     "song_ids": [
-      "rg-00083"
+      "rg-00085"
     ],
     "primary_song_ids": [
-      "rg-00083"
+      "rg-00085"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -654,21 +698,21 @@
   },
   "Me Reggae Dub": {
     "song_ids": [
-      "rg-00086"
+      "rg-00088"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "rg-00086"
+      "rg-00088"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "The Melodians": {
     "song_ids": [
-      "rg-00096"
+      "rg-00098"
     ],
     "primary_song_ids": [
-      "rg-00096"
+      "rg-00098"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -676,10 +720,10 @@
   },
   "The Mouse Outfit": {
     "song_ids": [
-      "rg-00097"
+      "rg-00099"
     ],
     "primary_song_ids": [
-      "rg-00097"
+      "rg-00099"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -687,21 +731,21 @@
   },
   "Fox": {
     "song_ids": [
-      "rg-00097"
+      "rg-00099"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "rg-00097"
+      "rg-00099"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Thievery Corporation": {
     "song_ids": [
-      "rg-00098"
+      "rg-00100"
     ],
     "primary_song_ids": [
-      "rg-00098"
+      "rg-00100"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -709,10 +753,10 @@
   },
   "UB40": {
     "song_ids": [
-      "rg-00099"
+      "rg-00101"
     ],
     "primary_song_ids": [
-      "rg-00099"
+      "rg-00101"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -720,10 +764,10 @@
   },
   "VYBZ KARTEL": {
     "song_ids": [
-      "rg-00101"
+      "rg-00103"
     ],
     "primary_song_ids": [
-      "rg-00101"
+      "rg-00103"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -731,10 +775,10 @@
   },
   "Vybz Kartel": {
     "song_ids": [
-      "rg-00102"
+      "rg-00104"
     ],
     "primary_song_ids": [
-      "rg-00102"
+      "rg-00104"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -742,23 +786,23 @@
   },
   "Rvssian": {
     "song_ids": [
-      "rg-00102"
+      "rg-00104"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "rg-00102"
+      "rg-00104"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Wyclef Jean": {
     "song_ids": [
-      "rg-00104",
-      "rg-00105"
+      "rg-00106",
+      "rg-00107"
     ],
     "primary_song_ids": [
-      "rg-00104",
-      "rg-00105"
+      "rg-00106",
+      "rg-00107"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -766,10 +810,10 @@
   },
   "Refugee All Stars": {
     "song_ids": [
-      "rg-00105"
+      "rg-00107"
     ],
     "primary_song_ids": [
-      "rg-00105"
+      "rg-00107"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -777,12 +821,12 @@
   },
   "Zamunda": {
     "song_ids": [
-      "rg-00106",
-      "rg-00107"
+      "rg-00108",
+      "rg-00109"
     ],
     "primary_song_ids": [
-      "rg-00106",
-      "rg-00107"
+      "rg-00108",
+      "rg-00109"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

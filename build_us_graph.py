@@ -8,7 +8,7 @@ from pathlib import Path
 from common import (
     AUDIO_EXTS, DATA_ROOT, UNICODE_DASH_RE, ZENE,
     clean_artist_text, clean_title, extract_primary_and_features,
-    folder_artist, is_junk_name, normalize_key, parse_mapping_block,
+    folder_artist, is_junk_name, load_mappings_file, normalize_key,
     split_artists, squashed_lookup,
 )
 
@@ -173,79 +173,14 @@ def is_generic_folder(name: str) -> bool:
 
 
 def load_mappings() -> dict:
-    text = MAPPINGS_PATH.read_text(encoding="utf-8")
-    sections: dict[str, list[str]] = defaultdict(list)
-    current = None
-    for raw_line in text.splitlines():
-        line = raw_line.rstrip()
-        if line.startswith("## "):
-            current = line[3:].strip().lower()
-            continue
-        if current:
-            sections[current].append(line)
+    """Parse `us_rap_trap_mappings.md`.
 
-    alias_map = parse_mapping_block(sections.get("alias normalization", []))
-    groups = parse_mapping_block(sections.get("groups", []))
-    labels = parse_mapping_block(sections.get("labels", []))
-
-    person_entries: dict[str, dict[str, list[str] | str]] = {}
-    current_person = None
-    for raw in sections.get("person entries", []):
-        line = raw.strip()
-        if line.startswith("### "):
-            current_person = line[4:].strip()
-            person_entries[current_person] = {"aliases": [], "groups": [], "labels": [], "notes": ""}
-            continue
-        if not current_person or not line.startswith("-"):
-            continue
-        field, _, value = line[1:].partition(":")
-        key = field.strip().lower()
-        value = value.strip()
-        if key in {"aliases", "groups", "labels"}:
-            person_entries[current_person][key] = [item.strip() for item in value.split(",") if item.strip()]
-        elif key == "notes":
-            person_entries[current_person][key] = value
-
-    alias_lookup: dict[str, str] = {}
-    for canonical, aliases in alias_map.items():
-        alias_lookup[normalize_key(canonical)] = canonical
-        for alias in aliases:
-            alias_lookup[normalize_key(alias)] = canonical
-
-    for person, info in person_entries.items():
-        alias_lookup[normalize_key(person)] = person
-        for alias in info.get("aliases", []):
-            alias_lookup[normalize_key(alias)] = person
-
-    canonical_groups: dict[str, list[str]] = {}
-    for group_name, members in groups.items():
-        canonical_group = alias_lookup.get(normalize_key(group_name), group_name)
-        canonical_members = []
-        for member in members:
-            canonical_member = alias_lookup.get(normalize_key(member), member)
-            if canonical_member not in canonical_members:
-                canonical_members.append(canonical_member)
-        canonical_groups[canonical_group] = canonical_members
-
-    canonical_labels: dict[str, list[str]] = {}
-    for label_name, artists in labels.items():
-        canonical_artists = []
-        for artist in artists:
-            canonical_artist = alias_lookup.get(normalize_key(artist), artist)
-            if canonical_artist not in canonical_artists:
-                canonical_artists.append(canonical_artist)
-        canonical_labels[label_name] = canonical_artists
-
-    group_lookup = {normalize_key(group_name): group_name for group_name in canonical_groups}
-
-    return {
-        "alias_lookup": alias_lookup,
-        "alias_lookup_squashed": squashed_lookup(alias_lookup),
-        "groups": canonical_groups,
-        "group_lookup": group_lookup,
-        "labels": canonical_labels,
-        "person_entries": person_entries,
-    }
+    The parser lives in `common.load_mappings_file` because the Hungarian area uses the
+    same file format; keeping one implementation is what makes that true rather than
+    aspirational. The US file has no `region:` fields and no `## Group regions` section,
+    so those parse to empty and nothing here changes.
+    """
+    return load_mappings_file(MAPPINGS_PATH)
 
 
 def canonicalize_artist(name: str, mappings: dict) -> str:

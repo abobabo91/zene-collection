@@ -102,7 +102,7 @@
   {
     "song_id": "cj-00006",
     "file": "_other\\_country_jazz\\Leon Bridges Playlist\\Leon Bridges - Shy (Official Audio).mp3",
-    "title": "Shy ()",
+    "title": "Shy",
     "primary_artists": [
       "Leon Bridges"
     ],
@@ -202,7 +202,7 @@
   {
     "song_id": "cj-00011",
     "file": "_other\\_country_jazz\\Old-School Funk\\09. Earth, Wind & Fire - Let_s Groove (Official HD Video).mp3",
-    "title": "Let s Groove ()",
+    "title": "Let s Groove",
     "primary_artists": [
       "Earth",
       "Wind",
@@ -296,7 +296,7 @@
   {
     "song_id": "cj-00015",
     "file": "_other\\_country_jazz\\Old-School Funk\\38. Curtis Mayfield - Pusherman (Official Audio).mp3",
-    "title": "Pusherman ()",
+    "title": "Pusherman",
     "primary_artists": [
       "Curtis Mayfield"
     ],
@@ -335,6 +335,26 @@
   },
   {
     "song_id": "cj-00017",
+    "file": "_other\\_country_jazz\\Shania Twain - That Don_t Impress Me Much.mp3",
+    "title": "That Don t Impress Me Much",
+    "primary_artists": [
+      "Shania Twain"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Shania Twain"
+    ],
+    "credits": [
+      {
+        "entity": "Shania Twain",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "cj-00018",
     "file": "_other\\_country_jazz\\The Complete Legendary Sessions\\Almost Like Being in Love.mp3",
     "title": "Almost Like Being in Love",
     "primary_artists": [
@@ -354,7 +374,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "cj-00018",
+    "song_id": "cj-00019",
     "file": "_other\\_country_jazz\\The Complete Legendary Sessions\\Alone Together.mp3",
     "title": "Alone Together",
     "primary_artists": [
@@ -374,7 +394,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "cj-00019",
+    "song_id": "cj-00020",
     "file": "_other\\_country_jazz\\The Complete Legendary Sessions\\You and the Night and the Music.mp3",
     "title": "You and the Night and the Music",
     "primary_artists": [
@@ -394,7 +414,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "cj-00020",
+    "song_id": "cj-00021",
     "file": "_other\\_country_jazz\\tracy chapman\\Across the Lines.mp3",
     "title": "Across the Lines",
     "primary_artists": [
@@ -414,7 +434,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00021",
+    "song_id": "cj-00022",
     "file": "_other\\_country_jazz\\tracy chapman\\Baby Can I Hold You (2015 Remaster).mp3",
     "title": "Baby Can I Hold You (2015 Remaster)",
     "primary_artists": [
@@ -434,7 +454,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00022",
+    "song_id": "cj-00023",
     "file": "_other\\_country_jazz\\tracy chapman\\Change (2015 Remaster).mp3",
     "title": "Change (2015 Remaster)",
     "primary_artists": [
@@ -454,7 +474,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00023",
+    "song_id": "cj-00024",
     "file": "_other\\_country_jazz\\tracy chapman\\Dolly Parton - Jolene (Audio).mp3",
     "title": "Jolene (Audio)",
     "primary_artists": [
@@ -474,7 +494,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00024",
+    "song_id": "cj-00025",
     "file": "_other\\_country_jazz\\tracy chapman\\Fast Car (2015 Remaster).mp3",
     "title": "Fast Car (2015 Remaster)",
     "primary_artists": [
@@ -494,7 +514,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00025",
+    "song_id": "cj-00026",
     "file": "_other\\_country_jazz\\tracy chapman\\For My Lover.mp3",
     "title": "For My Lover",
     "primary_artists": [
@@ -514,7 +534,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00026",
+    "song_id": "cj-00027",
     "file": "_other\\_country_jazz\\tracy chapman\\Heaven_s Here on Earth.mp3",
     "title": "Heaven s Here on Earth",
     "primary_artists": [
@@ -534,7 +554,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00027",
+    "song_id": "cj-00028",
     "file": "_other\\_country_jazz\\tracy chapman\\I Am A Man Of Constant Sorrow (Radio Edit).mp3",
     "title": "I Am A Man Of Constant Sorrow",
     "primary_artists": [
@@ -554,7 +574,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00028",
+    "song_id": "cj-00029",
     "file": "_other\\_country_jazz\\tracy chapman\\If These Are the Things.mp3",
     "title": "If These Are the Things",
     "primary_artists": [
@@ -574,7 +594,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00029",
+    "song_id": "cj-00030",
     "file": "_other\\_country_jazz\\tracy chapman\\Remember the Tinman.mp3",
     "title": "Remember the Tinman",
     "primary_artists": [
@@ -594,7 +614,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00030",
+    "song_id": "cj-00031",
     "file": "_other\\_country_jazz\\tracy chapman\\Smoke and Ashes (2015 Remaster).mp3",
     "title": "Smoke and Ashes (2015 Remaster)",
     "primary_artists": [
@@ -614,7 +634,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00031",
+    "song_id": "cj-00032",
     "file": "_other\\_country_jazz\\tracy chapman\\Stand by Me (Live at the Late Show with David Letterman).mp3",
     "title": "Stand by Me (Live at the Late Show with David Letterman)",
     "primary_artists": [
@@ -634,7 +654,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00032",
+    "song_id": "cj-00033",
     "file": "_other\\_country_jazz\\tracy chapman\\Tell It like It Is.mp3",
     "title": "Tell It like It Is",
     "primary_artists": [
@@ -654,7 +674,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00033",
+    "song_id": "cj-00034",
     "file": "_other\\_country_jazz\\tracy chapman\\The Promise (2015 Remaster).mp3",
     "title": "The Promise (2015 Remaster)",
     "primary_artists": [
@@ -674,7 +694,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00034",
+    "song_id": "cj-00035",
     "file": "_other\\_country_jazz\\tracy chapman\\The Rape of the World.mp3",
     "title": "The Rape of the World",
     "primary_artists": [
@@ -694,7 +714,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00035",
+    "song_id": "cj-00036",
     "file": "_other\\_country_jazz\\tracy chapman\\TRACY CHAPMAN  Stand By Me.mp3",
     "title": "TRACY CHAPMAN Stand By Me",
     "primary_artists": [
@@ -714,7 +734,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00036",
+    "song_id": "cj-00037",
     "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - Broken.mp3",
     "title": "Broken",
     "primary_artists": [
@@ -734,7 +754,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00037",
+    "song_id": "cj-00038",
     "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - Sorry (Subtitulado Castellano).mp3",
     "title": "Sorry (Subtitulado Castellano)",
     "primary_artists": [
@@ -754,7 +774,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00038",
+    "song_id": "cj-00039",
     "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - The Love That You Had.mp3",
     "title": "The Love That You Had",
     "primary_artists": [
@@ -774,7 +794,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00039",
+    "song_id": "cj-00040",
     "file": "_other\\_country_jazz\\tracy chapman\\Tracy Chapman - This Time (crossroads).mp3",
     "title": "This Time (crossroads)",
     "primary_artists": [
@@ -794,7 +814,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00040",
+    "song_id": "cj-00041",
     "file": "_other\\_country_jazz\\tracy chapman\\Why.mp3",
     "title": "Why",
     "primary_artists": [
@@ -814,7 +834,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "cj-00041",
+    "song_id": "cj-00042",
     "file": "_other\\_country_jazz\\tracy chapman\\You_re the One.mp3",
     "title": "You re the One",
     "primary_artists": [

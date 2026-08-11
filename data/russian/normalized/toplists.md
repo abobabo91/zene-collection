@@ -1,7 +1,7 @@
 # Russian Local Music Toplists
 
-Songs: `99`
-Persons: `61`
+Songs: `97`
+Persons: `60`
 Unattributed songs: `22`
 
 ## Persons
@@ -9,10 +9,10 @@ Unattributed songs: `22`
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
 | 1 | MiyaGi | 11 | 11.0 | 11.0 | 11 | 0 | 0 | - | - | - |
-| 2 | Rauf Faik | 6 | 5.0 | 5.0 | 6 | 0 | 0 | - | - | - |
+| 2 | Rauf Faik | 5 | 5.0 | 5.0 | 5 | 0 | 0 | - | - | - |
 | 3 | Santiz | 5 | 4.5 | 5.0 | 5 | 0 | 0 | - | - | - |
 | 4 | Prince Of Falls | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 5 | Navai | 5 | 2.7 | 2.7 | 5 | 0 | 0 | - | - | - |
+| 5 | Navai | 4 | 2.7 | 2.7 | 4 | 0 | 0 | - | - | - |
 | 6 | GAZIROVKA | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 7 | SEREBRO | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 8 | The Limba | 3 | 1.2 | 1.2 | 3 | 0 | 0 | - | - | - |
@@ -68,4 +68,3 @@ Unattributed songs: `22`
 | 58 | MACAN | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
 | 59 | Markul | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
 | 60 | SHAMI | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
-| 61 | MONA | 1 | 0.0 | 0.0 | 1 | 0 | 0 | - | - | - |

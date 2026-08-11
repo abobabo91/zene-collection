@@ -11,6 +11,12 @@ STATE_FILE = PROJECT_ROOT / ".last_rebuild"
 
 SCAN_ROOTS = {
     "us": [ZENE / "_rap", ZENE / "_trap"],
+    # Added 2026-08-11. Hungarian had no scanner at all: its normalized JSONs were curated
+    # by hand, so every re-sort of the folders left the graph pointing at paths that no
+    # longer existed and blind to anything new, with nothing reporting it.
+    # `build_hungarian_graph.py` is incremental rather than from-scratch because
+    # groups.json and labels.json reference songs by song_id.
+    "hungarian": [ZENE / "_magyar rap", ZENE / "_magyar trap"],
     "rnb": [ZENE / "_other" / "_rnb"],
     "rock": [ZENE / "_other" / "_rock"],
     "magyar": [ZENE / "_other" / "_magyar"],
@@ -108,6 +114,8 @@ def main():
     for area in changed:
         if area == "us":
             run(["build_us_graph.py"], f"US rap/trap")
+        elif area == "hungarian":
+            run(["build_hungarian_graph.py"], "Hungarian rap/trap")
         else:
             run(["build_other_graph.py", area], f"{area}")
 

@@ -504,7 +504,10 @@ def scan_area(config: dict, mappings: dict) -> list[dict]:
     split_groups = config.get("split_groups", set())
 
     for audio_file in sorted(scan_root.rglob("*")):
-        if audio_file.suffix.lower() not in AUDIO_EXTS:
+        # `is_file()` is not redundant with the suffix test: `_magyar rap/el bago/
+        # ultimohombre/ultimohombre.mp3` is a *directory* holding four real tracks, and
+        # without this it is scanned as a song of its own.
+        if not audio_file.is_file() or audio_file.suffix.lower() not in AUDIO_EXTS:
             continue
         rel = audio_file.relative_to(ZENE)
         parts = list(rel.parts)

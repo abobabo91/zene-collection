@@ -64,12 +64,12 @@
     "song_ids": [
       "ru-00004",
       "ru-00008",
-      "ru-00059"
+      "ru-00058"
     ],
     "primary_song_ids": [
       "ru-00004",
       "ru-00008",
-      "ru-00059"
+      "ru-00058"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -78,11 +78,11 @@
   "Andro": {
     "song_ids": [
       "ru-00004",
-      "ru-00059"
+      "ru-00058"
     ],
     "primary_song_ids": [
       "ru-00004",
-      "ru-00059"
+      "ru-00058"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -458,16 +458,14 @@
     "song_ids": [
       "ru-00054",
       "ru-00056",
-      "ru-00057",
-      "ru-00059",
-      "ru-00060"
+      "ru-00058",
+      "ru-00059"
     ],
     "primary_song_ids": [
       "ru-00054",
       "ru-00056",
-      "ru-00057",
-      "ru-00059",
-      "ru-00060"
+      "ru-00058",
+      "ru-00059"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -484,33 +482,20 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "MONA": {
-    "song_ids": [
-      "ru-00057"
-    ],
-    "primary_song_ids": [
-      "ru-00057"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Rauf Faik": {
     "song_ids": [
-      "ru-00058",
+      "ru-00057",
+      "ru-00065",
       "ru-00066",
       "ru-00067",
-      "ru-00068",
-      "ru-00069",
-      "ru-00070"
+      "ru-00068"
     ],
     "primary_song_ids": [
-      "ru-00058",
+      "ru-00057",
+      "ru-00065",
       "ru-00066",
       "ru-00067",
-      "ru-00068",
-      "ru-00069",
-      "ru-00070"
+      "ru-00068"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -518,10 +503,10 @@
   },
   "Oscar The wolf": {
     "song_ids": [
-      "ru-00061"
+      "ru-00060"
     ],
     "primary_song_ids": [
-      "ru-00061"
+      "ru-00060"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -529,14 +514,14 @@
   },
   "Prince Of Falls": {
     "song_ids": [
+      "ru-00061",
       "ru-00062",
-      "ru-00063",
-      "ru-00064"
+      "ru-00063"
     ],
     "primary_song_ids": [
+      "ru-00061",
       "ru-00062",
-      "ru-00063",
-      "ru-00064"
+      "ru-00063"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -544,10 +529,10 @@
   },
   "SEV": {
     "song_ids": [
-      "ru-00065"
+      "ru-00064"
     ],
     "primary_song_ids": [
-      "ru-00065"
+      "ru-00064"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -555,10 +540,10 @@
   },
   "Jeremih": {
     "song_ids": [
-      "ru-00071"
+      "ru-00069"
     ],
     "primary_song_ids": [
-      "ru-00071"
+      "ru-00069"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -566,18 +551,18 @@
   },
   "Santiz": {
     "song_ids": [
+      "ru-00073",
+      "ru-00074",
       "ru-00075",
       "ru-00076",
-      "ru-00077",
-      "ru-00078",
-      "ru-00080"
+      "ru-00078"
     ],
     "primary_song_ids": [
+      "ru-00073",
+      "ru-00074",
       "ru-00075",
       "ru-00076",
-      "ru-00077",
-      "ru-00078",
-      "ru-00080"
+      "ru-00078"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -585,21 +570,21 @@
   },
   "Santiz-НимфоманкаКЛИП": {
     "song_ids": [
-      "ru-00075"
+      "ru-00073"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "ru-00075"
+      "ru-00073"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Мысли Вслух aka. Santiz": {
     "song_ids": [
-      "ru-00079"
+      "ru-00077"
     ],
     "primary_song_ids": [
-      "ru-00079"
+      "ru-00077"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -607,10 +592,10 @@
   },
   "Eric Prydz": {
     "song_ids": [
-      "ru-00083"
+      "ru-00081"
     ],
     "primary_song_ids": [
-      "ru-00083"
+      "ru-00081"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -618,10 +603,10 @@
   },
   "Euro Status Quo": {
     "song_ids": [
-      "ru-00084"
+      "ru-00082"
     ],
     "primary_song_ids": [
-      "ru-00084"
+      "ru-00082"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -629,10 +614,10 @@
   },
   "Komodo": {
     "song_ids": [
-      "ru-00085"
+      "ru-00083"
     ],
     "primary_song_ids": [
-      "ru-00085"
+      "ru-00083"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -640,10 +625,10 @@
   },
   "Mr.Da-Nos": {
     "song_ids": [
-      "ru-00086"
+      "ru-00084"
     ],
     "primary_song_ids": [
-      "ru-00086"
+      "ru-00084"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -651,10 +636,10 @@
   },
   "Looking Glass": {
     "song_ids": [
-      "ru-00089"
+      "ru-00087"
     ],
     "primary_song_ids": [
-      "ru-00089"
+      "ru-00087"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -662,10 +647,10 @@
   },
   "Narcotic Thrust": {
     "song_ids": [
-      "ru-00090"
+      "ru-00088"
     ],
     "primary_song_ids": [
-      "ru-00090"
+      "ru-00088"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -673,10 +658,10 @@
   },
   "Darci": {
     "song_ids": [
-      "ru-00091"
+      "ru-00089"
     ],
     "primary_song_ids": [
-      "ru-00091"
+      "ru-00089"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -684,10 +669,10 @@
   },
   "FEDUK": {
     "song_ids": [
-      "ru-00092"
+      "ru-00090"
     ],
     "primary_song_ids": [
-      "ru-00092"
+      "ru-00090"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -695,10 +680,10 @@
   },
   "Jah Khalib": {
     "song_ids": [
-      "ru-00093"
+      "ru-00091"
     ],
     "primary_song_ids": [
-      "ru-00093"
+      "ru-00091"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -706,10 +691,10 @@
   },
   "KAZKA": {
     "song_ids": [
-      "ru-00094"
+      "ru-00092"
     ],
     "primary_song_ids": [
-      "ru-00094"
+      "ru-00092"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -717,10 +702,10 @@
   },
   "Madeintyo": {
     "song_ids": [
-      "ru-00095"
+      "ru-00093"
     ],
     "primary_song_ids": [
-      "ru-00095"
+      "ru-00093"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -728,12 +713,12 @@
   },
   "SEREBRO": {
     "song_ids": [
-      "ru-00096",
-      "ru-00097"
+      "ru-00094",
+      "ru-00095"
     ],
     "primary_song_ids": [
-      "ru-00096",
-      "ru-00097"
+      "ru-00094",
+      "ru-00095"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

@@ -117,35 +117,22 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "tracy chapman": {
+  "Shania Twain": {
     "song_ids": [
-      "cj-00020",
-      "cj-00021",
-      "cj-00022",
-      "cj-00024",
-      "cj-00025",
-      "cj-00026",
-      "cj-00027",
-      "cj-00028",
-      "cj-00029",
-      "cj-00030",
-      "cj-00031",
-      "cj-00032",
-      "cj-00033",
-      "cj-00034",
-      "cj-00035",
-      "cj-00036",
-      "cj-00037",
-      "cj-00038",
-      "cj-00039",
-      "cj-00040",
-      "cj-00041"
+      "cj-00017"
     ],
     "primary_song_ids": [
-      "cj-00020",
+      "cj-00017"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "tracy chapman": {
+    "song_ids": [
       "cj-00021",
       "cj-00022",
-      "cj-00024",
+      "cj-00023",
       "cj-00025",
       "cj-00026",
       "cj-00027",
@@ -162,7 +149,31 @@
       "cj-00038",
       "cj-00039",
       "cj-00040",
-      "cj-00041"
+      "cj-00041",
+      "cj-00042"
+    ],
+    "primary_song_ids": [
+      "cj-00021",
+      "cj-00022",
+      "cj-00023",
+      "cj-00025",
+      "cj-00026",
+      "cj-00027",
+      "cj-00028",
+      "cj-00029",
+      "cj-00030",
+      "cj-00031",
+      "cj-00032",
+      "cj-00033",
+      "cj-00034",
+      "cj-00035",
+      "cj-00036",
+      "cj-00037",
+      "cj-00038",
+      "cj-00039",
+      "cj-00040",
+      "cj-00041",
+      "cj-00042"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -170,10 +181,10 @@
   },
   "Dolly Parton": {
     "song_ids": [
-      "cj-00023"
+      "cj-00024"
     ],
     "primary_song_ids": [
-      "cj-00023"
+      "cj-00024"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

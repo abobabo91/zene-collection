@@ -1,2452 +1,2376 @@
 [
- {
-  "song_id": "rn-00001",
-  "file": "_other\\_roman\\_manele\\manele pentru sală\\Misco Misco.mp3",
-  "title": "Misco Misco",
-  "primary_artists": [
-   "manele pentru sală"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "manele pentru sală"
-  ],
-  "credits": [
-   {
-    "entity": "manele pentru sală",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00002",
-  "file": "_other\\_roman\\_manele\\manele pentru sală\\Skinny.mp3",
-  "title": "Skinny",
-  "primary_artists": [
-   "manele pentru sală"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "manele pentru sală"
-  ],
-  "credits": [
-   {
-    "entity": "manele pentru sală",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00003",
-  "file": "_other\\_roman\\_manele\\Playlist Manele 2024 ♫ Cele Mai Frumoase Manele Colaj 2024 (Top Cantece Manele)\\GYA x BABASHA - Baklava   Official Video.mp3",
-  "title": "Baklava",
-  "primary_artists": [
-   "GYA",
-   "BABASHA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "GYA",
-   "BABASHA"
-  ],
-  "credits": [
-   {
-    "entity": "GYA",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "BABASHA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00004",
-  "file": "_other\\_roman\\_manele\\Playlist Manele 2024 ♫ Cele Mai Frumoase Manele Colaj 2024 (Top Cantece Manele)\\Theo Rose - Camasa   Official Video.mp3",
-  "title": "Camasa",
-  "primary_artists": [
-   "Theo Rose"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Theo Rose"
-  ],
-  "credits": [
-   {
-    "entity": "Theo Rose",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00005",
-  "file": "_other\\_roman\\_modern pop\\Adrian Sina - Angel feat. Sandra N. ( official video HD ).mp3",
-  "title": "Angel",
-  "primary_artists": [
-   "Adrian Sina"
-  ],
-  "featuring_artists": [
-   "Sandra N"
-  ],
-  "artists": [
-   "Adrian Sina",
-   "Sandra N"
-  ],
-  "credits": [
-   {
-    "entity": "Adrian Sina",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Sandra N",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00006",
-  "file": "_other\\_roman\\_modern pop\\Alexandra Stan - Ecoute (feat. Havana)   Official Music Video.mp3",
-  "title": "Ecoute (feat",
-  "primary_artists": [
-   "Alexandra Stan"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Alexandra Stan"
-  ],
-  "credits": [
-   {
-    "entity": "Alexandra Stan",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00007",
-  "file": "_other\\_roman\\_modern pop\\Alexandra Stan - Get Back (ASAP) OFFICIAL VIDEO (Ultra Music).mp3",
-  "title": "Get Back (ASAP) (Ultra Music)",
-  "primary_artists": [
-   "Alexandra Stan"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Alexandra Stan"
-  ],
-  "credits": [
-   {
-    "entity": "Alexandra Stan",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00008",
-  "file": "_other\\_roman\\_modern pop\\ALEXANDRA STAN - Mr. Saxobeat.mp3",
-  "title": "Mr",
-  "primary_artists": [
-   "ALEXANDRA STAN"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "ALEXANDRA STAN"
-  ],
-  "credits": [
-   {
-    "entity": "ALEXANDRA STAN",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00009",
-  "file": "_other\\_roman\\_modern pop\\Alexia x Spike -  Infinituri   Official Video.mp3",
-  "title": "Infinituri",
-  "primary_artists": [
-   "Alexia",
-   "Spike"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Alexia",
-   "Spike"
-  ],
-  "credits": [
-   {
-    "entity": "Alexia",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Spike",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00010",
-  "file": "_other\\_roman\\_modern pop\\Alexunderbase feat. Lys - Drums (Official Video).mp3",
-  "title": "Drums ()",
-  "primary_artists": [
-   "Alexunderbase"
-  ],
-  "featuring_artists": [
-   "Lys"
-  ],
-  "artists": [
-   "Alexunderbase",
-   "Lys"
-  ],
-  "credits": [
-   {
-    "entity": "Alexunderbase",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Lys",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00011",
-  "file": "_other\\_roman\\_modern pop\\ANDIA - Sabes tu (Lyric Video).mp3",
-  "title": "Sabes tu ()",
-  "primary_artists": [
-   "ANDIA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "ANDIA"
-  ],
-  "credits": [
-   {
-    "entity": "ANDIA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00012",
-  "file": "_other\\_roman\\_modern pop\\Andreea Banica  Love in Brasil  [HD].mp3",
-  "title": "Andreea Banica Love in Brasil []",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00013",
-  "file": "_other\\_roman\\_modern pop\\Carmen - Domino (by PHELIPE)   Videoclip Oficial.mp3",
-  "title": "Domino (by PHELIPE)",
-  "primary_artists": [
-   "Carmen"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Carmen"
-  ],
-  "credits": [
-   {
-    "entity": "Carmen",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00015",
-  "file": "_other\\_roman\\_modern pop\\Deepside Deejays  Never Be Alone  (Official Video).mp3",
-  "title": "Deepside Deejays Never Be Alone ()",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00016",
-  "file": "_other\\_roman\\_modern pop\\DJ Project - Inca o noapte (Official Video).mp3",
-  "title": "Inca o noapte ()",
-  "primary_artists": [
-   "DJ Project"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "DJ Project"
-  ],
-  "credits": [
-   {
-    "entity": "DJ Project",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00017",
-  "file": "_other\\_roman\\_modern pop\\Edine - Share Location   Official Video.mp3",
-  "title": "Share Location",
-  "primary_artists": [
-   "Edine"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Edine"
-  ],
-  "credits": [
-   {
-    "entity": "Edine",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00018",
-  "file": "_other\\_roman\\_modern pop\\Edward Maya _ Mia Martina - Stereo Love (Ultra Music).mp3",
-  "title": "Stereo Love (Ultra Music)",
-  "primary_artists": [
-   "Edward Maya Mia Martina"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Edward Maya Mia Martina"
-  ],
-  "credits": [
-   {
-    "entity": "Edward Maya Mia Martina",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00019",
-  "file": "_other\\_roman\\_modern pop\\Edward Maya _ Vika Jigulina - Stereo Love (Official Music Video).mp3",
-  "title": "Stereo Love ()",
-  "primary_artists": [
-   "Edward Maya Vika Jigulina"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Edward Maya Vika Jigulina"
-  ],
-  "credits": [
-   {
-    "entity": "Edward Maya Vika Jigulina",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00020",
-  "file": "_other\\_roman\\_modern pop\\EMMA\\DJ Project feat. @emaasunt - La Timpul Lor   Official Video.mp3",
-  "title": "La Timpul Lor",
-  "primary_artists": [
-   "DJ Project"
-  ],
-  "featuring_artists": [
-   "@emaasunt"
-  ],
-  "artists": [
-   "DJ Project",
-   "@emaasunt"
-  ],
-  "credits": [
-   {
-    "entity": "DJ Project",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "@emaasunt",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00021",
-  "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - Universul rar.mp3",
-  "title": "Universul rar",
-  "primary_artists": [
-   "EMAA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "EMAA"
-  ],
-  "credits": [
-   {
-    "entity": "EMAA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00022",
-  "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - Zburatorul   PAX Paradise Auxiliary Remix.mp3",
-  "title": "Zburatorul PAX Paradise Auxiliary Remix",
-  "primary_artists": [
-   "EMAA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "EMAA"
-  ],
-  "credits": [
-   {
-    "entity": "EMAA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00023",
-  "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - Zburătorul   Official Video.mp3",
-  "title": "Zburătorul",
-  "primary_artists": [
-   "EMAA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "EMAA"
-  ],
-  "credits": [
-   {
-    "entity": "EMAA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00024",
-  "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - În fiecare seară   Official Video.mp3",
-  "title": "În fiecare seară",
-  "primary_artists": [
-   "EMAA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "EMAA"
-  ],
-  "credits": [
-   {
-    "entity": "EMAA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00025",
-  "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA – Odată cu tine.mp3",
-  "title": "Odată cu tine",
-  "primary_artists": [
-   "EMAA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "EMAA"
-  ],
-  "credits": [
-   {
-    "entity": "EMAA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00026",
-  "file": "_other\\_roman\\_modern pop\\Giulia feat Shift - Ce-a fost a fost (Official Audio).mp3",
-  "title": "Ce-a fost a fost ()",
-  "primary_artists": [
-   "Giulia"
-  ],
-  "featuring_artists": [
-   "Shift"
-  ],
-  "artists": [
-   "Giulia",
-   "Shift"
-  ],
-  "credits": [
-   {
-    "entity": "Giulia",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Shift",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00027",
-  "file": "_other\\_roman\\_modern pop\\HOT in Dance\\ACRAZE - Do It To It (ft. Cherish) - (Official Lyric Video).mp3",
-  "title": "Do It To It (ft",
-  "primary_artists": [
-   "ACRAZE"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "ACRAZE"
-  ],
-  "credits": [
-   {
-    "entity": "ACRAZE",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00028",
-  "file": "_other\\_roman\\_modern pop\\HOT in Dance\\Alex Pizzuti, Max + Johann - Boom (Official Music Video) ft. Jo.mp3",
-  "title": "Boom () ft",
-  "primary_artists": [
-   "Alex Pizzuti",
-   "Max + Johann"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Alex Pizzuti",
-   "Max + Johann"
-  ],
-  "credits": [
-   {
-    "entity": "Alex Pizzuti",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Max + Johann",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00029",
-  "file": "_other\\_roman\\_modern pop\\HOT in Dance\\Majestic, Boney M. - Rasputin (Official Video).mp3",
-  "title": "Rasputin ()",
-  "primary_artists": [
-   "Majestic",
-   "Boney M"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Majestic",
-   "Boney M"
-  ],
-  "credits": [
-   {
-    "entity": "Majestic",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Boney M",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00030",
-  "file": "_other\\_roman\\_modern pop\\HOT in Dance\\MIRA - Nave spatiale (Danny Burg Remix).mp3",
-  "title": "Nave spatiale (Danny Burg Remix)",
-  "primary_artists": [
-   "MIRA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "MIRA"
-  ],
-  "credits": [
-   {
-    "entity": "MIRA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00031",
-  "file": "_other\\_roman\\_modern pop\\HOT in Dance\\Regard, RAYE - Secrets (Consoul Trainin Remix) [Audio].mp3",
-  "title": "Secrets (Consoul Trainin Remix) [Audio]",
-  "primary_artists": [
-   "Regard",
-   "RAYE"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Regard",
-   "RAYE"
-  ],
-  "credits": [
-   {
-    "entity": "Regard",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "RAYE",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00032",
-  "file": "_other\\_roman\\_modern pop\\INNA\\INNA - 10 Minutes (Official Music Video).mp3",
-  "title": "Minutes ()",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00033",
-  "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Amazing  Official Version BY PLAY  WIN .mp3",
-  "title": "Amazing Official Version BY PLAY WIN",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00034",
-  "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Deja Vu (feat. Bob Taylor) [Official Music Video].mp3",
-  "title": "Deja Vu (feat",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00035",
-  "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Hot   Official Music Video (True Love Video Edit).mp3",
-  "title": "Hot (True Love Video Edit)",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00036",
-  "file": "_other\\_roman\\_modern pop\\INNA\\inna - love.mp3",
-  "title": "love",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00037",
-  "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Oare   Rock the Roof @ Bucharest.mp3",
-  "title": "Oare Rock the Roof @ Bucharest",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00038",
-  "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Sun Is Up (Official Music Video) [HD].mp3",
-  "title": "Sun Is Up () []",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00039",
-  "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Yalla   Official Music Video.mp3",
-  "title": "Yalla",
-  "primary_artists": [
-   "INNA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "INNA"
-  ],
-  "credits": [
-   {
-    "entity": "INNA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00040",
-  "file": "_other\\_roman\\_modern pop\\Ioana Ignat - Seară de seară   Official Video.mp3",
-  "title": "Seară de seară",
-  "primary_artists": [
-   "Ioana Ignat"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Ioana Ignat"
-  ],
-  "credits": [
-   {
-    "entity": "Ioana Ignat",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00041",
-  "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - Da Ce Tu (Official Video).mp3",
-  "title": "Da Ce Tu ()",
-  "primary_artists": [
-   "Irina Rimes"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Irina Rimes"
-  ],
-  "credits": [
-   {
-    "entity": "Irina Rimes",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00042",
-  "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - N-avem timp   Official Video.mp3",
-  "title": "N-avem timp",
-  "primary_artists": [
-   "Irina Rimes"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Irina Rimes"
-  ],
-  "credits": [
-   {
-    "entity": "Irina Rimes",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00043",
-  "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - Sarea de pe rana   Official Video.mp3",
-  "title": "Sarea de pe rana",
-  "primary_artists": [
-   "Irina Rimes"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Irina Rimes"
-  ],
-  "credits": [
-   {
-    "entity": "Irina Rimes",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00044",
-  "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - Visele (Videoclip Oficial).mp3",
-  "title": "Visele ()",
-  "primary_artists": [
-   "Irina Rimes"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Irina Rimes"
-  ],
-  "credits": [
-   {
-    "entity": "Irina Rimes",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00045",
-  "file": "_other\\_roman\\_modern pop\\Iuliana Beregoi - ESSENTIALS   Best Of   Official Playlist\\Iuliana Beregoi - Cum suna linistea (Official Video).mp3",
-  "title": "Cum suna linistea ()",
-  "primary_artists": [
-   "Iuliana Beregoi"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Iuliana Beregoi"
-  ],
-  "credits": [
-   {
-    "entity": "Iuliana Beregoi",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00046",
-  "file": "_other\\_roman\\_modern pop\\Iuliana Beregoi - ESSENTIALS   Best Of   Official Playlist\\Iuliana Beregoi - Ne iubim (Official Video).mp3",
-  "title": "Ne iubim ()",
-  "primary_artists": [
-   "Iuliana Beregoi"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Iuliana Beregoi"
-  ],
-  "credits": [
-   {
-    "entity": "Iuliana Beregoi",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00047",
-  "file": "_other\\_roman\\_modern pop\\July Child - Turn Me On (Kevin Lyttle Cover).mp3",
-  "title": "Turn Me On (Kevin Lyttle Cover)",
-  "primary_artists": [
-   "July Child"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "July Child"
-  ],
-  "credits": [
-   {
-    "entity": "July Child",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00048",
-  "file": "_other\\_roman\\_modern pop\\Lil Debbie - Me and You (Official Video).mp3",
-  "title": "Me and You ()",
-  "primary_artists": [
-   "Lil Debbie"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Lil Debbie"
-  ],
-  "credits": [
-   {
-    "entity": "Lil Debbie",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00049",
-  "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\Fantomel - No Friends   Official Lyric Video.mp3",
-  "title": "No Friends",
-  "primary_artists": [
-   "Fantomel"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Fantomel"
-  ],
-  "credits": [
-   {
-    "entity": "Fantomel",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00050",
-  "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\MIRA - Anii Mei   Official Video.mp3",
-  "title": "Anii Mei",
-  "primary_artists": [
-   "MIRA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "MIRA"
-  ],
-  "credits": [
-   {
-    "entity": "MIRA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00051",
-  "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\MIRA - Come With Me (Official Music Video).mp3",
-  "title": "Come",
-  "primary_artists": [
-   "MIRA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "MIRA"
-  ],
-  "credits": [
-   {
-    "entity": "MIRA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00052",
-  "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\MIRA - Duro   Lyric Video.mp3",
-  "title": "Duro",
-  "primary_artists": [
-   "MIRA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "MIRA"
-  ],
-  "credits": [
-   {
-    "entity": "MIRA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00053",
-  "file": "_other\\_roman\\_modern pop\\Nicole Cherry - Danseaza amandoi (Official Video).mp3",
-  "title": "Danseaza amandoi ()",
-  "primary_artists": [
-   "Nicole Cherry"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Nicole Cherry"
-  ],
-  "credits": [
-   {
-    "entity": "Nicole Cherry",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00054",
-  "file": "_other\\_roman\\_modern pop\\roman Best 2024 vol  1\\Cleopatra Stratan - Stiu ca ti-e dor M V.mp3",
-  "title": "Stiu ca ti-e dor M V",
-  "primary_artists": [
-   "Cleopatra Stratan"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Cleopatra Stratan"
-  ],
-  "credits": [
-   {
-    "entity": "Cleopatra Stratan",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00055",
-  "file": "_other\\_roman\\_modern pop\\roman Best 2024 vol  1\\RUBY - Vina mea   Official Video.mp3",
-  "title": "Vina mea",
-  "primary_artists": [
-   "RUBY"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "RUBY"
-  ],
-  "credits": [
-   {
-    "entity": "RUBY",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00056",
-  "file": "_other\\_roman\\_modern pop\\roman Disco nou\\Activ - Doar cu tine.mp3",
-  "title": "Doar cu tine",
-  "primary_artists": [
-   "Activ"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Activ"
-  ],
-  "credits": [
-   {
-    "entity": "Activ",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00057",
-  "file": "_other\\_roman\\_modern pop\\roman Disco nou\\Carla's Dreams x EMAA - N-aud   Official Video.mp3",
-  "title": "N-aud",
-  "primary_artists": [
-   "Carla's Dreams",
-   "EMAA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Carla's Dreams",
-   "EMAA"
-  ],
-  "credits": [
-   {
-    "entity": "Carla's Dreams",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "EMAA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00058",
-  "file": "_other\\_roman\\_modern pop\\roman Disco nou\\Irina Rimes - Ce S-a Intamplat Cu Noi   Official Video.mp3",
-  "title": "Ce S-a Intamplat Cu Noi",
-  "primary_artists": [
-   "Irina Rimes"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Irina Rimes"
-  ],
-  "credits": [
-   {
-    "entity": "Irina Rimes",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00059",
-  "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Jengi - Bel Mercy (Official Visualiser).mp3",
-  "title": "Bel Mercy (Official Visualiser)",
-  "primary_artists": [
-   "Jengi"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Jengi"
-  ],
-  "credits": [
-   {
-    "entity": "Jengi",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00060",
-  "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Libianca - People (Official Video).mp3",
-  "title": "People ()",
-  "primary_artists": [
-   "Libianca"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Libianca"
-  ],
-  "credits": [
-   {
-    "entity": "Libianca",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00061",
-  "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Miley Cyrus - Flowers (Official Video).mp3",
-  "title": "Flowers ()",
-  "primary_artists": [
-   "Miley Cyrus"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Miley Cyrus"
-  ],
-  "credits": [
-   {
-    "entity": "Miley Cyrus",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00062",
-  "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Nicole Cherry x @IAmTataVlad  - Nu mai consum   Official Video.mp3",
-  "title": "Nu mai consum",
-  "primary_artists": [
-   "Nicole Cherry",
-   "@IAmTataVlad"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Nicole Cherry",
-   "@IAmTataVlad"
-  ],
-  "credits": [
-   {
-    "entity": "Nicole Cherry",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "@IAmTataVlad",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00063",
-  "file": "_other\\_roman\\_modern pop\\Spada _ Elen Levon - Cool enough (Official Video).mp3",
-  "title": "Cool enough ()",
-  "primary_artists": [
-   "Spada Elen Levon"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Spada Elen Levon"
-  ],
-  "credits": [
-   {
-    "entity": "Spada Elen Levon",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00064",
-  "file": "_other\\_roman\\_modern pop\\Wildboyz ft. Ameerah - The Sound Of Missing You (Official Music Video) [HD].mp3",
-  "title": "The Sound Of Missing You () []",
-  "primary_artists": [
-   "Wildboyz"
-  ],
-  "featuring_artists": [
-   "Ameerah"
-  ],
-  "artists": [
-   "Wildboyz",
-   "Ameerah"
-  ],
-  "credits": [
-   {
-    "entity": "Wildboyz",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Ameerah",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00065",
-  "file": "_other\\_roman\\_old pop\\Adrian Sina feat Sandra N - Angel.mp3",
-  "title": "Angel",
-  "primary_artists": [
-   "Adrian Sina"
-  ],
-  "featuring_artists": [
-   "Sandra N"
-  ],
-  "artists": [
-   "Adrian Sina",
-   "Sandra N"
-  ],
-  "credits": [
-   {
-    "entity": "Adrian Sina",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Sandra N",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00066",
-  "file": "_other\\_roman\\_old pop\\Akcent - Dragoste De Inchiriat..mp3",
-  "title": "Dragoste De Inchiriat",
-  "primary_artists": [
-   "Akcent"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Akcent"
-  ],
-  "credits": [
-   {
-    "entity": "Akcent",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00067",
-  "file": "_other\\_roman\\_old pop\\Akcent - I m Sorry (Official Video).mp3",
-  "title": "I m Sorry ()",
-  "primary_artists": [
-   "Akcent"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Akcent"
-  ],
-  "credits": [
-   {
-    "entity": "Akcent",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00068",
-  "file": "_other\\_roman\\_old pop\\Akcent - Love Stoned (Official Video).mp3",
-  "title": "Love Stoned ()",
-  "primary_artists": [
-   "Akcent"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Akcent"
-  ],
-  "credits": [
-   {
-    "entity": "Akcent",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00069",
-  "file": "_other\\_roman\\_old pop\\Arsenium\\Arsenium - Rumadai (Official Video) (1).mp3",
-  "title": "Rumadai () (1)",
-  "primary_artists": [
-   "Arsenium"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Arsenium"
-  ],
-  "credits": [
-   {
-    "entity": "Arsenium",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00070",
-  "file": "_other\\_roman\\_old pop\\Arsenium\\ARSENIUM feat. NATALIA GORDIENKO & CONNECT-R - Loca.mp3",
-  "title": "Loca",
-  "primary_artists": [
-   "ARSENIUM"
-  ],
-  "featuring_artists": [
-   "NATALIA GORDIENKO",
-   "CONNECT-R"
-  ],
-  "artists": [
-   "ARSENIUM",
-   "NATALIA GORDIENKO",
-   "CONNECT-R"
-  ],
-  "credits": [
-   {
-    "entity": "ARSENIUM",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "NATALIA GORDIENKO",
-    "entity_type": "person",
-    "role": "feature"
-   },
-   {
-    "entity": "CONNECT-R",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00071",
-  "file": "_other\\_roman\\_old pop\\Arsenium\\O-Zone Despre Tine.mp3",
-  "title": "O-Zone Despre Tine",
-  "primary_artists": [
-   "Arsenium"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Arsenium"
-  ],
-  "credits": [
-   {
-    "entity": "Arsenium",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00072",
-  "file": "_other\\_roman\\_old pop\\ARSENIUM - Rumadai (Official Video).mp3",
-  "title": "Rumadai ()",
-  "primary_artists": [
-   "ARSENIUM"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "ARSENIUM"
-  ],
-  "credits": [
-   {
-    "entity": "ARSENIUM",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00073",
-  "file": "_other\\_roman\\_old pop\\Best of Ozone\\Dragostea din tei.mp3",
-  "title": "Dragostea din tei",
-  "primary_artists": [
-   "Best of Ozone"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Best of Ozone"
-  ],
-  "credits": [
-   {
-    "entity": "Best of Ozone",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00074",
-  "file": "_other\\_roman\\_old pop\\Connect-R Feat_ Alex - Daca Dragostea Dispare.mp3",
-  "title": "Daca Dragostea Dispare",
-  "primary_artists": [
-   "Connect-R"
-  ],
-  "featuring_artists": [
-   "Alex"
-  ],
-  "artists": [
-   "Connect-R",
-   "Alex"
-  ],
-  "credits": [
-   {
-    "entity": "Connect-R",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Alex",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00075",
-  "file": "_other\\_roman\\_old pop\\Dan Balan - The best\\Dan Balan - Chica Bomb Official Video HD Hype Williams.mp3",
-  "title": "Chica Bomb Hype Williams",
-  "primary_artists": [
-   "Dan Balan"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Dan Balan"
-  ],
-  "credits": [
-   {
-    "entity": "Dan Balan",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00076",
-  "file": "_other\\_roman\\_old pop\\Dan Balan - The best\\Dan Balan - Не Любя Official Fan Music Video.mp3",
-  "title": "Не Любя Official Fan Music Video",
-  "primary_artists": [
-   "Dan Balan"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Dan Balan"
-  ],
-  "credits": [
-   {
-    "entity": "Dan Balan",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00077",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea - Cand noaptea vine [Official video HD].mp3",
-  "title": "Cand noaptea vine [ ]",
-  "primary_artists": [
-   "Alex Velea"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Alex Velea"
-  ],
-  "credits": [
-   {
-    "entity": "Alex Velea",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00078",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea - Don t say it s over [Official video HD].mp3",
-  "title": "Don t say it s over [ ]",
-  "primary_artists": [
-   "Alex Velea"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Alex Velea"
-  ],
-  "credits": [
-   {
-    "entity": "Alex Velea",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00079",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea - Yamasha [Official video HQ].mp3",
-  "title": "Yamasha [ ]",
-  "primary_artists": [
-   "Alex Velea"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Alex Velea"
-  ],
-  "credits": [
-   {
-    "entity": "Alex Velea",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00080",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea- Dragoste la prima vedere feat. Connect-R [Official video HQ].mp3",
-  "title": "Alex Velea- Dragoste la prima vedere feat. Connect-R [ ]",
-  "primary_artists": [
-   "Alex Velea- Dragoste la prima vedere"
-  ],
-  "featuring_artists": [
-   "Connect-R"
-  ],
-  "artists": [
-   "Alex Velea- Dragoste la prima vedere",
-   "Connect-R"
-  ],
-  "credits": [
-   {
-    "entity": "Alex Velea- Dragoste la prima vedere",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Connect-R",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00081",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Connect-R feat. Chris Mayer - Still (original video).mp3",
-  "title": "Still (original video)",
-  "primary_artists": [
-   "Connect-R"
-  ],
-  "featuring_artists": [
-   "Chris Mayer"
-  ],
-  "artists": [
-   "Connect-R",
-   "Chris Mayer"
-  ],
-  "credits": [
-   {
-    "entity": "Connect-R",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Chris Mayer",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00082",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Ruby feat. Dorian Popa - Buna, ce mai zici (Official Video).mp3",
-  "title": "Buna, ce mai zici ()",
-  "primary_artists": [
-   "Ruby"
-  ],
-  "featuring_artists": [
-   "Dorian Popa"
-  ],
-  "artists": [
-   "Ruby",
-   "Dorian Popa"
-  ],
-  "credits": [
-   {
-    "entity": "Ruby",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Dorian Popa",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00083",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Simplu - Mr. Originality.mp3",
-  "title": "Mr",
-  "primary_artists": [
-   "Simplu"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Simplu"
-  ],
-  "credits": [
-   {
-    "entity": "Simplu",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00084",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Smiley - Acasă [Official video HD].mp3",
-  "title": "Acasă [ ]",
-  "primary_artists": [
-   "Smiley"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Smiley"
-  ],
-  "credits": [
-   {
-    "entity": "Smiley",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00085",
-  "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Smiley _ Uzzi - In Lipsa Mea [original clip] Best Quality.mp3",
-  "title": "In Lipsa Mea [original clip] Best Quality",
-  "primary_artists": [
-   "Smiley Uzzi"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Smiley Uzzi"
-  ],
-  "credits": [
-   {
-    "entity": "Smiley Uzzi",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00086",
-  "file": "_other\\_roman\\_old pop\\Nick Kamarera _ Deepside Deejays - Beautiful Days (Official Video).mp3",
-  "title": "Beautiful Days ()",
-  "primary_artists": [
-   "Nick Kamarera Deepside Deejays"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Nick Kamarera Deepside Deejays"
-  ],
-  "credits": [
-   {
-    "entity": "Nick Kamarera Deepside Deejays",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00087",
-  "file": "_other\\_roman\\_old pop\\O-Zone - Dragostea din tei.mp3",
-  "title": "Dragostea din tei",
-  "primary_artists": [
-   "O-Zone"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "O-Zone"
-  ],
-  "credits": [
-   {
-    "entity": "O-Zone",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00088",
-  "file": "_other\\_roman\\_trap\\Aarne\\Aarne, Mayot & Markul - Больно (Official Lyric Video).mp3",
-  "title": "Больно ()",
-  "primary_artists": [
-   "Aarne",
-   "Mayot",
-   "Markul"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Aarne",
-   "Mayot",
-   "Markul"
-  ],
-  "credits": [
-   {
-    "entity": "Aarne",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Mayot",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Markul",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00089",
-  "file": "_other\\_roman\\_trap\\Aarne\\Aarne, Дора - Трезво (Official Lyric Video).mp3",
-  "title": "Трезво ()",
-  "primary_artists": [
-   "Aarne"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Aarne"
-  ],
-  "credits": [
-   {
-    "entity": "Aarne",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00090",
-  "file": "_other\\_roman\\_trap\\Alberto Grasu ft.Paco - Lowkey.mp3",
-  "title": "Lowkey",
-  "primary_artists": [
-   "Alberto Grasu"
-  ],
-  "featuring_artists": [
-   "Paco"
-  ],
-  "artists": [
-   "Alberto Grasu",
-   "Paco"
-  ],
-  "credits": [
-   {
-    "entity": "Alberto Grasu",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Paco",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00091",
-  "file": "_other\\_roman\\_trap\\Berechet ❌ Stolearenco - Exotic 🌴(Official Video) prod. by Scuze!.mp3",
-  "title": "Exotic 🌴()",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00092",
-  "file": "_other\\_roman\\_trap\\Capitanu'.mp3",
-  "title": "Capitanu'",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00093",
-  "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho - 4AM în timpuri noi.mp3",
-  "title": "4AM în timpuri noi",
-  "primary_artists": [
-   "Calinacho"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Calinacho"
-  ],
-  "credits": [
-   {
-    "entity": "Calinacho",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00094",
-  "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho - ochii ei (Official Video).mp3",
-  "title": "ochii ei ()",
-  "primary_artists": [
-   "Calinacho"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Calinacho"
-  ],
-  "credits": [
-   {
-    "entity": "Calinacho",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00095",
-  "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho - Sinaia ft. Amuly (Official Video).mp3",
-  "title": "Sinaia ft",
-  "primary_artists": [
-   "Calinacho"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Calinacho"
-  ],
-  "credits": [
-   {
-    "entity": "Calinacho",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00096",
-  "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho, Foreign Boys - Balans.mp3",
-  "title": "Balans",
-  "primary_artists": [
-   "Calinacho",
-   "Foreign Boys"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Calinacho",
-   "Foreign Boys"
-  ],
-  "credits": [
-   {
-    "entity": "Calinacho",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Foreign Boys",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00097",
-  "file": "_other\\_roman\\_trap\\Dhali\\Dhali feat. @Arkanian. - Ochii Tai (Official Video).mp3",
-  "title": "Ochii Tai ()",
-  "primary_artists": [
-   "Dhali"
-  ],
-  "featuring_artists": [
-   "@Arkanian"
-  ],
-  "artists": [
-   "Dhali",
-   "@Arkanian"
-  ],
-  "credits": [
-   {
-    "entity": "Dhali",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "@Arkanian",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00098",
-  "file": "_other\\_roman\\_trap\\Dhali\\Dhali feat. Bvcovia -  Cu Tine  Prod. by Dorian Oswin (Official Video).mp3",
-  "title": "Cu Tine",
-  "primary_artists": [
-   "Dhali"
-  ],
-  "featuring_artists": [
-   "Bvcovia"
-  ],
-  "artists": [
-   "Dhali",
-   "Bvcovia"
-  ],
-  "credits": [
-   {
-    "entity": "Dhali",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "Bvcovia",
-    "entity_type": "person",
-    "role": "feature"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00099",
-  "file": "_other\\_roman\\_trap\\Dhali\\FLUX - Episodul 1 (Nane, Amuly, Bvcovia, Oscar, Azteca, Exploit, Killa Fonic) by Dhali..mp3",
-  "title": "Episodul 1 (Nane, Amuly, Bvcovia, Oscar, Azteca, Exploit, Killa Fonic) by Dhali",
-  "primary_artists": [
-   "FLUX"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "FLUX"
-  ],
-  "credits": [
-   {
-    "entity": "FLUX",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00100",
-  "file": "_other\\_roman\\_trap\\Dhali\\FLUX - Episodul 2 (Marko Glass, Ares, Keed, Ian, OG Eastbull, JoKlass & Lino Golden) by Dhali..mp3",
-  "title": "Episodul 2 (Marko Glass, Ares, Keed, Ian, OG Eastbull, JoKlass & Lino Golden) by Dhali",
-  "primary_artists": [
-   "FLUX"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "FLUX"
-  ],
-  "credits": [
-   {
-    "entity": "FLUX",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00101",
-  "file": "_other\\_roman\\_trap\\Dhali - BEZOS (feat. Bvcovia, MARKO GLASS & Oscar) Official Video.mp3",
-  "title": "BEZOS (feat",
-  "primary_artists": [
-   "Dhali"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Dhali"
-  ],
-  "credits": [
-   {
-    "entity": "Dhali",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00102",
-  "file": "_other\\_roman\\_trap\\ENZO FERRARI.mp3",
-  "title": "ENZO FERRARI",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00103",
-  "file": "_other\\_roman\\_trap\\Gata Să Mor.mp3",
-  "title": "Gata Să Mor",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00104",
-  "file": "_other\\_roman\\_trap\\Horace - KUMFUG feat. Azteca (Audio).mp3",
-  "title": "KUMFUG feat",
-  "primary_artists": [
-   "Horace"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Horace"
-  ],
-  "credits": [
-   {
-    "entity": "Horace",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00105",
-  "file": "_other\\_roman\\_trap\\KILLA FONIC - Niciun Glonț Nu Doare Cât Dragostea   Official Video.mp3",
-  "title": "Niciun Glonț Nu Doare Cât Dragostea",
-  "primary_artists": [
-   "KILLA FONIC"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "KILLA FONIC"
-  ],
-  "credits": [
-   {
-    "entity": "KILLA FONIC",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00106",
-  "file": "_other\\_roman\\_trap\\Killa Fonic x RAVA - Brasileira (TEAMBUILDING OST).mp3",
-  "title": "Brasileira (TEAMBUILDING OST)",
-  "primary_artists": [
-   "Killa Fonic",
-   "RAVA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Killa Fonic",
-   "RAVA"
-  ],
-  "credits": [
-   {
-    "entity": "Killa Fonic",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "RAVA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00107",
-  "file": "_other\\_roman\\_trap\\Ora 6.mp3",
-  "title": "Ora 6",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00108",
-  "file": "_other\\_roman\\_trap\\OSCAR - Prophet ft. Alex Bittman (Official Video).mp3",
-  "title": "Prophet ft",
-  "primary_artists": [
-   "OSCAR"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "OSCAR"
-  ],
-  "credits": [
-   {
-    "entity": "OSCAR",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00109",
-  "file": "_other\\_roman\\_trap\\Rava-playlist\\RAVA & NANE - TE SUN (Official Video).mp3",
-  "title": "TE SUN ()",
-  "primary_artists": [
-   "RAVA",
-   "NANE"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "RAVA",
-   "NANE"
-  ],
-  "credits": [
-   {
-    "entity": "RAVA",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "NANE",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00110",
-  "file": "_other\\_roman\\_trap\\Rava-playlist\\RAVA - MA$ON (Video).mp3",
-  "title": "MA$ON (Video)",
-  "primary_artists": [
-   "RAVA"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "RAVA"
-  ],
-  "credits": [
-   {
-    "entity": "RAVA",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00111",
-  "file": "_other\\_roman\\_trap\\Roxen x NANE - Strada Ta   Official Video.mp3",
-  "title": "Strada Ta",
-  "primary_artists": [
-   "Roxen",
-   "NANE"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "Roxen",
-   "NANE"
-  ],
-  "credits": [
-   {
-    "entity": "Roxen",
-    "entity_type": "person",
-    "role": "primary"
-   },
-   {
-    "entity": "NANE",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "attributed"
- },
- {
-  "song_id": "rn-00112",
-  "file": "_other\\_roman\\_trap\\Seara Mea.mp3",
-  "title": "Seara Mea",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- },
- {
-  "song_id": "rn-00113",
-  "file": "_other\\_roman\\_trap\\Totu Pe Fata.mp3",
-  "title": "Totu Pe Fata",
-  "primary_artists": [
-   "N/A"
-  ],
-  "featuring_artists": [],
-  "artists": [
-   "N/A"
-  ],
-  "credits": [
-   {
-    "entity": "N/A",
-    "entity_type": "person",
-    "role": "primary"
-   }
-  ],
-  "attribution_status": "unattributed"
- }
+  {
+    "song_id": "rn-00001",
+    "file": "_other\\_roman\\_manele\\manele pentru sală\\Misco Misco.mp3",
+    "title": "Misco Misco",
+    "primary_artists": [
+      "manele pentru sală"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "manele pentru sală"
+    ],
+    "credits": [
+      {
+        "entity": "manele pentru sală",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00002",
+    "file": "_other\\_roman\\_manele\\manele pentru sală\\Skinny.mp3",
+    "title": "Skinny",
+    "primary_artists": [
+      "manele pentru sală"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "manele pentru sală"
+    ],
+    "credits": [
+      {
+        "entity": "manele pentru sală",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00003",
+    "file": "_other\\_roman\\_manele\\Playlist Manele 2024 ♫ Cele Mai Frumoase Manele Colaj 2024 (Top Cantece Manele)\\GYA x BABASHA - Baklava   Official Video.mp3",
+    "title": "Baklava",
+    "primary_artists": [
+      "GYA",
+      "BABASHA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "GYA",
+      "BABASHA"
+    ],
+    "credits": [
+      {
+        "entity": "GYA",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "BABASHA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00004",
+    "file": "_other\\_roman\\_manele\\Playlist Manele 2024 ♫ Cele Mai Frumoase Manele Colaj 2024 (Top Cantece Manele)\\Theo Rose - Camasa   Official Video.mp3",
+    "title": "Camasa",
+    "primary_artists": [
+      "Theo Rose"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Theo Rose"
+    ],
+    "credits": [
+      {
+        "entity": "Theo Rose",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00005",
+    "file": "_other\\_roman\\_modern pop\\Adrian Sina - Angel feat. Sandra N. ( official video HD ).mp3",
+    "title": "Angel feat",
+    "primary_artists": [
+      "Adrian Sina"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Adrian Sina"
+    ],
+    "credits": [
+      {
+        "entity": "Adrian Sina",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00006",
+    "file": "_other\\_roman\\_modern pop\\Alexandra Stan\\Alexandra Stan - Ecoute (feat. Havana)   Official Music Video.mp3",
+    "title": "Ecoute (feat",
+    "primary_artists": [
+      "Alexandra Stan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alexandra Stan"
+    ],
+    "credits": [
+      {
+        "entity": "Alexandra Stan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00007",
+    "file": "_other\\_roman\\_modern pop\\Alexandra Stan\\Alexandra Stan - Get Back (ASAP) OFFICIAL VIDEO (Ultra Music).mp3",
+    "title": "Get Back (ASAP) (Ultra Music)",
+    "primary_artists": [
+      "Alexandra Stan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alexandra Stan"
+    ],
+    "credits": [
+      {
+        "entity": "Alexandra Stan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00008",
+    "file": "_other\\_roman\\_modern pop\\Alexandra Stan\\ALEXANDRA STAN - Mr. Saxobeat.mp3",
+    "title": "Mr",
+    "primary_artists": [
+      "Alexandra Stan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alexandra Stan"
+    ],
+    "credits": [
+      {
+        "entity": "Alexandra Stan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00009",
+    "file": "_other\\_roman\\_modern pop\\Alexia x Spike -  Infinituri   Official Video.mp3",
+    "title": "Infinituri",
+    "primary_artists": [
+      "Alexia",
+      "Spike"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alexia",
+      "Spike"
+    ],
+    "credits": [
+      {
+        "entity": "Alexia",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Spike",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00010",
+    "file": "_other\\_roman\\_modern pop\\Alexunderbase feat. Lys - Drums (Official Video).mp3",
+    "title": "Drums",
+    "primary_artists": [
+      "Alexunderbase"
+    ],
+    "featuring_artists": [
+      "Lys"
+    ],
+    "artists": [
+      "Alexunderbase",
+      "Lys"
+    ],
+    "credits": [
+      {
+        "entity": "Alexunderbase",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Lys",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00011",
+    "file": "_other\\_roman\\_modern pop\\ANDIA - Sabes tu (Lyric Video).mp3",
+    "title": "Sabes tu",
+    "primary_artists": [
+      "ANDIA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ANDIA"
+    ],
+    "credits": [
+      {
+        "entity": "ANDIA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00012",
+    "file": "_other\\_roman\\_modern pop\\Andreea Banica  Love in Brasil  [HD].mp3",
+    "title": "Andreea Banica Love in Brasil",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00013",
+    "file": "_other\\_roman\\_modern pop\\Carmen - Domino (by PHELIPE)   Videoclip Oficial.mp3",
+    "title": "Domino (by PHELIPE)",
+    "primary_artists": [
+      "Carmen"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Carmen"
+    ],
+    "credits": [
+      {
+        "entity": "Carmen",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00014",
+    "file": "_other\\_roman\\_modern pop\\Deepside Deejays  Never Be Alone  (Official Video).mp3",
+    "title": "Deepside Deejays Never Be Alone",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00015",
+    "file": "_other\\_roman\\_modern pop\\DJ Project - Inca o noapte (Official Video).mp3",
+    "title": "Inca o noapte",
+    "primary_artists": [
+      "DJ Project"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "DJ Project"
+    ],
+    "credits": [
+      {
+        "entity": "DJ Project",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00016",
+    "file": "_other\\_roman\\_modern pop\\Edine - Share Location   Official Video.mp3",
+    "title": "Share Location",
+    "primary_artists": [
+      "Edine"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Edine"
+    ],
+    "credits": [
+      {
+        "entity": "Edine",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00017",
+    "file": "_other\\_roman\\_modern pop\\Edward Maya _ Mia Martina - Stereo Love (Ultra Music).mp3",
+    "title": "Stereo Love (Ultra Music)",
+    "primary_artists": [
+      "Edward Maya Mia Martina"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Edward Maya Mia Martina"
+    ],
+    "credits": [
+      {
+        "entity": "Edward Maya Mia Martina",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00018",
+    "file": "_other\\_roman\\_modern pop\\Edward Maya _ Vika Jigulina - Stereo Love (Official Music Video).mp3",
+    "title": "Stereo Love",
+    "primary_artists": [
+      "Edward Maya Vika Jigulina"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Edward Maya Vika Jigulina"
+    ],
+    "credits": [
+      {
+        "entity": "Edward Maya Vika Jigulina",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00019",
+    "file": "_other\\_roman\\_modern pop\\EMMA\\DJ Project feat. @emaasunt - La Timpul Lor   Official Video.mp3",
+    "title": "La Timpul Lor",
+    "primary_artists": [
+      "DJ Project"
+    ],
+    "featuring_artists": [
+      "@emaasunt"
+    ],
+    "artists": [
+      "DJ Project",
+      "@emaasunt"
+    ],
+    "credits": [
+      {
+        "entity": "DJ Project",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "@emaasunt",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00020",
+    "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - Universul rar.mp3",
+    "title": "Universul rar",
+    "primary_artists": [
+      "EMAA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "EMAA"
+    ],
+    "credits": [
+      {
+        "entity": "EMAA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00021",
+    "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - Zburatorul   PAX Paradise Auxiliary Remix.mp3",
+    "title": "Zburatorul PAX Paradise Auxiliary Remix",
+    "primary_artists": [
+      "EMAA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "EMAA"
+    ],
+    "credits": [
+      {
+        "entity": "EMAA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00022",
+    "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - Zburătorul   Official Video.mp3",
+    "title": "Zburătorul",
+    "primary_artists": [
+      "EMAA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "EMAA"
+    ],
+    "credits": [
+      {
+        "entity": "EMAA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00023",
+    "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA - În fiecare seară   Official Video.mp3",
+    "title": "În fiecare seară",
+    "primary_artists": [
+      "EMAA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "EMAA"
+    ],
+    "credits": [
+      {
+        "entity": "EMAA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00024",
+    "file": "_other\\_roman\\_modern pop\\EMMA\\EMAA – Odată cu tine.mp3",
+    "title": "Odată cu tine",
+    "primary_artists": [
+      "EMAA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "EMAA"
+    ],
+    "credits": [
+      {
+        "entity": "EMAA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00025",
+    "file": "_other\\_roman\\_modern pop\\Giulia feat Shift - Ce-a fost a fost (Official Audio).mp3",
+    "title": "Ce-a fost a fost",
+    "primary_artists": [
+      "Giulia"
+    ],
+    "featuring_artists": [
+      "Shift"
+    ],
+    "artists": [
+      "Giulia",
+      "Shift"
+    ],
+    "credits": [
+      {
+        "entity": "Giulia",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Shift",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00026",
+    "file": "_other\\_roman\\_modern pop\\HOT in Dance\\ACRAZE - Do It To It (ft. Cherish) - (Official Lyric Video).mp3",
+    "title": "Do It To It (ft",
+    "primary_artists": [
+      "ACRAZE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ACRAZE"
+    ],
+    "credits": [
+      {
+        "entity": "ACRAZE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00027",
+    "file": "_other\\_roman\\_modern pop\\HOT in Dance\\Alex Pizzuti, Max + Johann - Boom (Official Music Video) ft. Jo.mp3",
+    "title": "Boom ft",
+    "primary_artists": [
+      "Alex Pizzuti",
+      "Max + Johann"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alex Pizzuti",
+      "Max + Johann"
+    ],
+    "credits": [
+      {
+        "entity": "Alex Pizzuti",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Max + Johann",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00028",
+    "file": "_other\\_roman\\_modern pop\\HOT in Dance\\Majestic, Boney M. - Rasputin (Official Video).mp3",
+    "title": "Rasputin",
+    "primary_artists": [
+      "Majestic",
+      "Boney M"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Majestic",
+      "Boney M"
+    ],
+    "credits": [
+      {
+        "entity": "Majestic",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Boney M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00029",
+    "file": "_other\\_roman\\_modern pop\\HOT in Dance\\MIRA - Nave spatiale (Danny Burg Remix).mp3",
+    "title": "Nave spatiale (Danny Burg Remix)",
+    "primary_artists": [
+      "MIRA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MIRA"
+    ],
+    "credits": [
+      {
+        "entity": "MIRA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00030",
+    "file": "_other\\_roman\\_modern pop\\HOT in Dance\\Regard, RAYE - Secrets (Consoul Trainin Remix) [Audio].mp3",
+    "title": "Secrets (Consoul Trainin Remix) [Audio]",
+    "primary_artists": [
+      "Regard",
+      "RAYE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Regard",
+      "RAYE"
+    ],
+    "credits": [
+      {
+        "entity": "Regard",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "RAYE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00031",
+    "file": "_other\\_roman\\_modern pop\\INNA\\INNA - 10 Minutes (Official Music Video).mp3",
+    "title": "Minutes",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00032",
+    "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Amazing  Official Version BY PLAY  WIN .mp3",
+    "title": "Amazing Official Version BY PLAY WIN",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00033",
+    "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Deja Vu (feat. Bob Taylor) [Official Music Video].mp3",
+    "title": "Deja Vu (feat",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00034",
+    "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Hot   Official Music Video (True Love Video Edit).mp3",
+    "title": "Hot (True Love Video Edit)",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00035",
+    "file": "_other\\_roman\\_modern pop\\INNA\\inna - love.mp3",
+    "title": "love",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00036",
+    "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Oare   Rock the Roof @ Bucharest.mp3",
+    "title": "Oare Rock the Roof @ Bucharest",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00037",
+    "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Sun Is Up (Official Music Video) [HD].mp3",
+    "title": "Sun Is Up",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00038",
+    "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Yalla   Official Music Video.mp3",
+    "title": "Yalla",
+    "primary_artists": [
+      "INNA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "INNA"
+    ],
+    "credits": [
+      {
+        "entity": "INNA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00039",
+    "file": "_other\\_roman\\_modern pop\\Ioana Ignat - Seară de seară   Official Video.mp3",
+    "title": "Seară de seară",
+    "primary_artists": [
+      "Ioana Ignat"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ioana Ignat"
+    ],
+    "credits": [
+      {
+        "entity": "Ioana Ignat",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00040",
+    "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - Da Ce Tu (Official Video).mp3",
+    "title": "Da Ce Tu",
+    "primary_artists": [
+      "Irina Rimes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Irina Rimes"
+    ],
+    "credits": [
+      {
+        "entity": "Irina Rimes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00041",
+    "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - N-avem timp   Official Video.mp3",
+    "title": "N-avem timp",
+    "primary_artists": [
+      "Irina Rimes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Irina Rimes"
+    ],
+    "credits": [
+      {
+        "entity": "Irina Rimes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00042",
+    "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - Sarea de pe rana   Official Video.mp3",
+    "title": "Sarea de pe rana",
+    "primary_artists": [
+      "Irina Rimes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Irina Rimes"
+    ],
+    "credits": [
+      {
+        "entity": "Irina Rimes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00043",
+    "file": "_other\\_roman\\_modern pop\\Irina Rimes\\Irina Rimes - Visele (Videoclip Oficial).mp3",
+    "title": "Visele",
+    "primary_artists": [
+      "Irina Rimes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Irina Rimes"
+    ],
+    "credits": [
+      {
+        "entity": "Irina Rimes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00044",
+    "file": "_other\\_roman\\_modern pop\\Iuliana Beregoi - ESSENTIALS   Best Of   Official Playlist\\Iuliana Beregoi - Cum suna linistea (Official Video).mp3",
+    "title": "Cum suna linistea",
+    "primary_artists": [
+      "Iuliana Beregoi"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Iuliana Beregoi"
+    ],
+    "credits": [
+      {
+        "entity": "Iuliana Beregoi",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00045",
+    "file": "_other\\_roman\\_modern pop\\Iuliana Beregoi - ESSENTIALS   Best Of   Official Playlist\\Iuliana Beregoi - Ne iubim (Official Video).mp3",
+    "title": "Ne iubim",
+    "primary_artists": [
+      "Iuliana Beregoi"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Iuliana Beregoi"
+    ],
+    "credits": [
+      {
+        "entity": "Iuliana Beregoi",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00046",
+    "file": "_other\\_roman\\_modern pop\\July Child - Turn Me On (Kevin Lyttle Cover).mp3",
+    "title": "Turn Me On (Kevin Lyttle Cover)",
+    "primary_artists": [
+      "July Child"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "July Child"
+    ],
+    "credits": [
+      {
+        "entity": "July Child",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00047",
+    "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\Fantomel - No Friends   Official Lyric Video.mp3",
+    "title": "No Friends",
+    "primary_artists": [
+      "Fantomel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Fantomel"
+    ],
+    "credits": [
+      {
+        "entity": "Fantomel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00048",
+    "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\MIRA - Anii Mei   Official Video.mp3",
+    "title": "Anii Mei",
+    "primary_artists": [
+      "MIRA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MIRA"
+    ],
+    "credits": [
+      {
+        "entity": "MIRA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00049",
+    "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\MIRA - Come With Me (Official Music Video).mp3",
+    "title": "Come",
+    "primary_artists": [
+      "MIRA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MIRA"
+    ],
+    "credits": [
+      {
+        "entity": "MIRA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00050",
+    "file": "_other\\_roman\\_modern pop\\MIRA - Come With Me\\MIRA - Duro   Lyric Video.mp3",
+    "title": "Duro",
+    "primary_artists": [
+      "MIRA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MIRA"
+    ],
+    "credits": [
+      {
+        "entity": "MIRA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00051",
+    "file": "_other\\_roman\\_modern pop\\Nicole Cherry - Danseaza amandoi (Official Video).mp3",
+    "title": "Danseaza amandoi",
+    "primary_artists": [
+      "Nicole Cherry"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Nicole Cherry"
+    ],
+    "credits": [
+      {
+        "entity": "Nicole Cherry",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00052",
+    "file": "_other\\_roman\\_modern pop\\roman Best 2024 vol  1\\Cleopatra Stratan - Stiu ca ti-e dor M V.mp3",
+    "title": "Stiu ca ti-e dor M V",
+    "primary_artists": [
+      "Cleopatra Stratan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Cleopatra Stratan"
+    ],
+    "credits": [
+      {
+        "entity": "Cleopatra Stratan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00053",
+    "file": "_other\\_roman\\_modern pop\\roman Best 2024 vol  1\\RUBY - Vina mea   Official Video.mp3",
+    "title": "Vina mea",
+    "primary_artists": [
+      "RUBY"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "RUBY"
+    ],
+    "credits": [
+      {
+        "entity": "RUBY",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00054",
+    "file": "_other\\_roman\\_modern pop\\roman Disco nou\\Activ - Doar cu tine.mp3",
+    "title": "Doar cu tine",
+    "primary_artists": [
+      "Activ"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Activ"
+    ],
+    "credits": [
+      {
+        "entity": "Activ",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00055",
+    "file": "_other\\_roman\\_modern pop\\roman Disco nou\\Carla's Dreams x EMAA - N-aud   Official Video.mp3",
+    "title": "N-aud",
+    "primary_artists": [
+      "Carla's Dreams",
+      "EMAA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Carla's Dreams",
+      "EMAA"
+    ],
+    "credits": [
+      {
+        "entity": "Carla's Dreams",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "EMAA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00056",
+    "file": "_other\\_roman\\_modern pop\\roman Disco nou\\Irina Rimes - Ce S-a Intamplat Cu Noi   Official Video.mp3",
+    "title": "Ce S-a Intamplat Cu Noi",
+    "primary_artists": [
+      "Irina Rimes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Irina Rimes"
+    ],
+    "credits": [
+      {
+        "entity": "Irina Rimes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00057",
+    "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Jengi - Bel Mercy (Official Visualiser).mp3",
+    "title": "Bel Mercy (Official Visualiser)",
+    "primary_artists": [
+      "Jengi"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jengi"
+    ],
+    "credits": [
+      {
+        "entity": "Jengi",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00058",
+    "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Libianca - People (Official Video).mp3",
+    "title": "People",
+    "primary_artists": [
+      "Libianca"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Libianca"
+    ],
+    "credits": [
+      {
+        "entity": "Libianca",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00059",
+    "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Miley Cyrus - Flowers (Official Video).mp3",
+    "title": "Flowers",
+    "primary_artists": [
+      "Miley Cyrus"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "credits": [
+      {
+        "entity": "Miley Cyrus",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00060",
+    "file": "_other\\_roman\\_modern pop\\Romania TOP 100\\Nicole Cherry x @IAmTataVlad  - Nu mai consum   Official Video.mp3",
+    "title": "Nu mai consum",
+    "primary_artists": [
+      "Nicole Cherry",
+      "@IAmTataVlad"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Nicole Cherry",
+      "@IAmTataVlad"
+    ],
+    "credits": [
+      {
+        "entity": "Nicole Cherry",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "@IAmTataVlad",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00061",
+    "file": "_other\\_roman\\_modern pop\\Spada _ Elen Levon - Cool enough (Official Video).mp3",
+    "title": "Cool enough",
+    "primary_artists": [
+      "Spada Elen Levon"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Spada Elen Levon"
+    ],
+    "credits": [
+      {
+        "entity": "Spada Elen Levon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00062",
+    "file": "_other\\_roman\\_modern pop\\Wildboyz ft. Ameerah - The Sound Of Missing You (Official Music Video) [HD].mp3",
+    "title": "The Sound Of Missing You",
+    "primary_artists": [
+      "Wildboyz"
+    ],
+    "featuring_artists": [
+      "Ameerah"
+    ],
+    "artists": [
+      "Wildboyz",
+      "Ameerah"
+    ],
+    "credits": [
+      {
+        "entity": "Wildboyz",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ameerah",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00063",
+    "file": "_other\\_roman\\_old pop\\Akcent\\Akcent - Dragoste De Inchiriat..mp3",
+    "title": "Dragoste De Inchiriat",
+    "primary_artists": [
+      "Akcent"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Akcent"
+    ],
+    "credits": [
+      {
+        "entity": "Akcent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00064",
+    "file": "_other\\_roman\\_old pop\\Akcent\\Akcent - I m Sorry (Official Video).mp3",
+    "title": "I m Sorry",
+    "primary_artists": [
+      "Akcent"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Akcent"
+    ],
+    "credits": [
+      {
+        "entity": "Akcent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00065",
+    "file": "_other\\_roman\\_old pop\\Akcent\\Akcent - Love Stoned (Official Video).mp3",
+    "title": "Love Stoned",
+    "primary_artists": [
+      "Akcent"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Akcent"
+    ],
+    "credits": [
+      {
+        "entity": "Akcent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00066",
+    "file": "_other\\_roman\\_old pop\\Arsenium\\ARSENIUM - Rumadai (Official Video).mp3",
+    "title": "Rumadai",
+    "primary_artists": [
+      "Arsenium"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Arsenium"
+    ],
+    "credits": [
+      {
+        "entity": "Arsenium",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00067",
+    "file": "_other\\_roman\\_old pop\\Arsenium\\ARSENIUM feat. NATALIA GORDIENKO & CONNECT-R - Loca.mp3",
+    "title": "Loca",
+    "primary_artists": [
+      "ARSENIUM"
+    ],
+    "featuring_artists": [
+      "NATALIA GORDIENKO",
+      "CONNECT-R"
+    ],
+    "artists": [
+      "ARSENIUM",
+      "NATALIA GORDIENKO",
+      "CONNECT-R"
+    ],
+    "credits": [
+      {
+        "entity": "ARSENIUM",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "NATALIA GORDIENKO",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "CONNECT-R",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00068",
+    "file": "_other\\_roman\\_old pop\\Arsenium\\O-Zone Despre Tine.mp3",
+    "title": "O-Zone Despre Tine",
+    "primary_artists": [
+      "Arsenium"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Arsenium"
+    ],
+    "credits": [
+      {
+        "entity": "Arsenium",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00069",
+    "file": "_other\\_roman\\_old pop\\Best of Ozone\\Dragostea din tei.mp3",
+    "title": "Dragostea din tei",
+    "primary_artists": [
+      "Best of Ozone"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Best of Ozone"
+    ],
+    "credits": [
+      {
+        "entity": "Best of Ozone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00070",
+    "file": "_other\\_roman\\_old pop\\Connect-R Feat_ Alex - Daca Dragostea Dispare.mp3",
+    "title": "Daca Dragostea Dispare",
+    "primary_artists": [
+      "Connect-R"
+    ],
+    "featuring_artists": [
+      "Alex"
+    ],
+    "artists": [
+      "Connect-R",
+      "Alex"
+    ],
+    "credits": [
+      {
+        "entity": "Connect-R",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Alex",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00071",
+    "file": "_other\\_roman\\_old pop\\Dan Balan - The best\\Dan Balan - Chica Bomb Official Video HD Hype Williams.mp3",
+    "title": "Chica Bomb Hype Williams",
+    "primary_artists": [
+      "Dan Balan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dan Balan"
+    ],
+    "credits": [
+      {
+        "entity": "Dan Balan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00072",
+    "file": "_other\\_roman\\_old pop\\Dan Balan - The best\\Dan Balan - Не Любя Official Fan Music Video.mp3",
+    "title": "Не Любя Official Fan Music Video",
+    "primary_artists": [
+      "Dan Balan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dan Balan"
+    ],
+    "credits": [
+      {
+        "entity": "Dan Balan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00073",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea - Cand noaptea vine [Official video HD].mp3",
+    "title": "Cand noaptea vine",
+    "primary_artists": [
+      "Alex Velea"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alex Velea"
+    ],
+    "credits": [
+      {
+        "entity": "Alex Velea",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00074",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea - Don t say it s over [Official video HD].mp3",
+    "title": "Don t say it s over",
+    "primary_artists": [
+      "Alex Velea"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alex Velea"
+    ],
+    "credits": [
+      {
+        "entity": "Alex Velea",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00075",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea - Yamasha [Official video HQ].mp3",
+    "title": "Yamasha",
+    "primary_artists": [
+      "Alex Velea"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alex Velea"
+    ],
+    "credits": [
+      {
+        "entity": "Alex Velea",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00076",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Alex Velea- Dragoste la prima vedere feat. Connect-R [Official video HQ].mp3",
+    "title": "Alex Velea- Dragoste la prima vedere feat. Connect-R",
+    "primary_artists": [
+      "Alex Velea- Dragoste la prima vedere"
+    ],
+    "featuring_artists": [
+      "Connect-R"
+    ],
+    "artists": [
+      "Alex Velea- Dragoste la prima vedere",
+      "Connect-R"
+    ],
+    "credits": [
+      {
+        "entity": "Alex Velea- Dragoste la prima vedere",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Connect-R",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00077",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Connect-R feat. Chris Mayer - Still (original video).mp3",
+    "title": "Still (original video)",
+    "primary_artists": [
+      "Connect-R"
+    ],
+    "featuring_artists": [
+      "Chris Mayer"
+    ],
+    "artists": [
+      "Connect-R",
+      "Chris Mayer"
+    ],
+    "credits": [
+      {
+        "entity": "Connect-R",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Chris Mayer",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00078",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Ruby feat. Dorian Popa - Buna, ce mai zici (Official Video).mp3",
+    "title": "Buna, ce mai zici",
+    "primary_artists": [
+      "Ruby"
+    ],
+    "featuring_artists": [
+      "Dorian Popa"
+    ],
+    "artists": [
+      "Ruby",
+      "Dorian Popa"
+    ],
+    "credits": [
+      {
+        "entity": "Ruby",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Dorian Popa",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00079",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Simplu - Mr. Originality.mp3",
+    "title": "Mr",
+    "primary_artists": [
+      "Simplu"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Simplu"
+    ],
+    "credits": [
+      {
+        "entity": "Simplu",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00080",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Smiley - Acasă [Official video HD].mp3",
+    "title": "Acasă",
+    "primary_artists": [
+      "Smiley"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Smiley"
+    ],
+    "credits": [
+      {
+        "entity": "Smiley",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00081",
+    "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Smiley _ Uzzi - In Lipsa Mea [original clip] Best Quality.mp3",
+    "title": "In Lipsa Mea [original clip] Best Quality",
+    "primary_artists": [
+      "Smiley Uzzi"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Smiley Uzzi"
+    ],
+    "credits": [
+      {
+        "entity": "Smiley Uzzi",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00082",
+    "file": "_other\\_roman\\_old pop\\Nick Kamarera _ Deepside Deejays - Beautiful Days (Official Video).mp3",
+    "title": "Beautiful Days",
+    "primary_artists": [
+      "Nick Kamarera Deepside Deejays"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Nick Kamarera Deepside Deejays"
+    ],
+    "credits": [
+      {
+        "entity": "Nick Kamarera Deepside Deejays",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00083",
+    "file": "_other\\_roman\\_old pop\\O-Zone - Dragostea din tei.mp3",
+    "title": "Dragostea din tei",
+    "primary_artists": [
+      "O-Zone"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "O-Zone"
+    ],
+    "credits": [
+      {
+        "entity": "O-Zone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00084",
+    "file": "_other\\_roman\\_trap\\Aarne\\Aarne, Mayot & Markul - Больно (Official Lyric Video).mp3",
+    "title": "Больно",
+    "primary_artists": [
+      "Aarne",
+      "Mayot",
+      "Markul"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Aarne",
+      "Mayot",
+      "Markul"
+    ],
+    "credits": [
+      {
+        "entity": "Aarne",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Mayot",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Markul",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00085",
+    "file": "_other\\_roman\\_trap\\Aarne\\Aarne, Дора - Трезво (Official Lyric Video).mp3",
+    "title": "Трезво",
+    "primary_artists": [
+      "Aarne"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Aarne"
+    ],
+    "credits": [
+      {
+        "entity": "Aarne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00086",
+    "file": "_other\\_roman\\_trap\\Alberto Grasu ft.Paco - Lowkey.mp3",
+    "title": "Lowkey",
+    "primary_artists": [
+      "Alberto Grasu"
+    ],
+    "featuring_artists": [
+      "Paco"
+    ],
+    "artists": [
+      "Alberto Grasu",
+      "Paco"
+    ],
+    "credits": [
+      {
+        "entity": "Alberto Grasu",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Paco",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00087",
+    "file": "_other\\_roman\\_trap\\Berechet ❌ Stolearenco - Exotic 🌴(Official Video) prod. by Scuze!.mp3",
+    "title": "Exotic 🌴",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00088",
+    "file": "_other\\_roman\\_trap\\Capitanu'.mp3",
+    "title": "Capitanu'",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00089",
+    "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho - 4AM în timpuri noi.mp3",
+    "title": "4AM în timpuri noi",
+    "primary_artists": [
+      "Calinacho"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calinacho"
+    ],
+    "credits": [
+      {
+        "entity": "Calinacho",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00090",
+    "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho - ochii ei (Official Video).mp3",
+    "title": "ochii ei",
+    "primary_artists": [
+      "Calinacho"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calinacho"
+    ],
+    "credits": [
+      {
+        "entity": "Calinacho",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00091",
+    "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho - Sinaia ft. Amuly (Official Video).mp3",
+    "title": "Sinaia ft",
+    "primary_artists": [
+      "Calinacho"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calinacho"
+    ],
+    "credits": [
+      {
+        "entity": "Calinacho",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00092",
+    "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho, Foreign Boys - Balans.mp3",
+    "title": "Balans",
+    "primary_artists": [
+      "Calinacho",
+      "Foreign Boys"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calinacho",
+      "Foreign Boys"
+    ],
+    "credits": [
+      {
+        "entity": "Calinacho",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Foreign Boys",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00093",
+    "file": "_other\\_roman\\_trap\\Dhali\\Dhali - BEZOS (feat. Bvcovia, MARKO GLASS & Oscar) Official Video.mp3",
+    "title": "BEZOS (feat",
+    "primary_artists": [
+      "Dhali"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Dhali"
+    ],
+    "credits": [
+      {
+        "entity": "Dhali",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00094",
+    "file": "_other\\_roman\\_trap\\Dhali\\Dhali feat. @Arkanian. - Ochii Tai (Official Video).mp3",
+    "title": "Ochii Tai",
+    "primary_artists": [
+      "Dhali"
+    ],
+    "featuring_artists": [
+      "@Arkanian"
+    ],
+    "artists": [
+      "Dhali",
+      "@Arkanian"
+    ],
+    "credits": [
+      {
+        "entity": "Dhali",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "@Arkanian",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00095",
+    "file": "_other\\_roman\\_trap\\Dhali\\Dhali feat. Bvcovia -  Cu Tine  Prod. by Dorian Oswin (Official Video).mp3",
+    "title": "Cu Tine",
+    "primary_artists": [
+      "Dhali"
+    ],
+    "featuring_artists": [
+      "Bvcovia"
+    ],
+    "artists": [
+      "Dhali",
+      "Bvcovia"
+    ],
+    "credits": [
+      {
+        "entity": "Dhali",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Bvcovia",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00096",
+    "file": "_other\\_roman\\_trap\\Dhali\\FLUX - Episodul 1 (Nane, Amuly, Bvcovia, Oscar, Azteca, Exploit, Killa Fonic) by Dhali..mp3",
+    "title": "Episodul 1 (Nane, Amuly, Bvcovia, Oscar, Azteca, Exploit, Killa Fonic) by Dhali",
+    "primary_artists": [
+      "FLUX"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "FLUX"
+    ],
+    "credits": [
+      {
+        "entity": "FLUX",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00097",
+    "file": "_other\\_roman\\_trap\\Dhali\\FLUX - Episodul 2 (Marko Glass, Ares, Keed, Ian, OG Eastbull, JoKlass & Lino Golden) by Dhali..mp3",
+    "title": "Episodul 2 (Marko Glass, Ares, Keed, Ian, OG Eastbull, JoKlass & Lino Golden) by Dhali",
+    "primary_artists": [
+      "FLUX"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "FLUX"
+    ],
+    "credits": [
+      {
+        "entity": "FLUX",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00098",
+    "file": "_other\\_roman\\_trap\\ENZO FERRARI.mp3",
+    "title": "ENZO FERRARI",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00099",
+    "file": "_other\\_roman\\_trap\\Gata Să Mor.mp3",
+    "title": "Gata Să Mor",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00100",
+    "file": "_other\\_roman\\_trap\\Horace - KUMFUG feat. Azteca (Audio).mp3",
+    "title": "KUMFUG feat",
+    "primary_artists": [
+      "Horace"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Horace"
+    ],
+    "credits": [
+      {
+        "entity": "Horace",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00101",
+    "file": "_other\\_roman\\_trap\\KILLA FONIC - Niciun Glonț Nu Doare Cât Dragostea   Official Video.mp3",
+    "title": "Niciun Glonț Nu Doare Cât Dragostea",
+    "primary_artists": [
+      "KILLA FONIC"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "KILLA FONIC"
+    ],
+    "credits": [
+      {
+        "entity": "KILLA FONIC",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00102",
+    "file": "_other\\_roman\\_trap\\Killa Fonic x RAVA - Brasileira (TEAMBUILDING OST).mp3",
+    "title": "Brasileira (TEAMBUILDING OST)",
+    "primary_artists": [
+      "Killa Fonic",
+      "RAVA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Killa Fonic",
+      "RAVA"
+    ],
+    "credits": [
+      {
+        "entity": "Killa Fonic",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "RAVA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00103",
+    "file": "_other\\_roman\\_trap\\Ora 6.mp3",
+    "title": "Ora 6",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00104",
+    "file": "_other\\_roman\\_trap\\OSCAR - Prophet ft. Alex Bittman (Official Video).mp3",
+    "title": "Prophet ft",
+    "primary_artists": [
+      "OSCAR"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "OSCAR"
+    ],
+    "credits": [
+      {
+        "entity": "OSCAR",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00105",
+    "file": "_other\\_roman\\_trap\\Rava-playlist\\RAVA & NANE - TE SUN (Official Video).mp3",
+    "title": "TE SUN",
+    "primary_artists": [
+      "RAVA",
+      "NANE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "RAVA",
+      "NANE"
+    ],
+    "credits": [
+      {
+        "entity": "RAVA",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "NANE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00106",
+    "file": "_other\\_roman\\_trap\\Rava-playlist\\RAVA - MA$ON (Video).mp3",
+    "title": "MA$ON (Video)",
+    "primary_artists": [
+      "RAVA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "RAVA"
+    ],
+    "credits": [
+      {
+        "entity": "RAVA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00107",
+    "file": "_other\\_roman\\_trap\\Roxen x NANE - Strada Ta   Official Video.mp3",
+    "title": "Strada Ta",
+    "primary_artists": [
+      "Roxen",
+      "NANE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Roxen",
+      "NANE"
+    ],
+    "credits": [
+      {
+        "entity": "Roxen",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "NANE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rn-00108",
+    "file": "_other\\_roman\\_trap\\Seara Mea.mp3",
+    "title": "Seara Mea",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "rn-00109",
+    "file": "_other\\_roman\\_trap\\Totu Pe Fata.mp3",
+    "title": "Totu Pe Fata",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  }
 ]

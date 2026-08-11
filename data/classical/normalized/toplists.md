@@ -1,7 +1,7 @@
 # Classical Local Music Toplists
 
-Songs: `7`
-Persons: `6`
+Songs: `8`
+Persons: `7`
 Unattributed songs: `1`
 
 ## Persons
@@ -12,5 +12,6 @@ Unattributed songs: `1`
 | 2 | Debussy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 3 | Erik Satie | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 4 | Johann Strauss II | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 5 | Maurice Ravel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 6 | Tchaikovsky | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
+| 5 | Ludovico Einaudi | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
+| 6 | Maurice Ravel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
+| 7 | Tchaikovsky | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
