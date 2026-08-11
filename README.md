@@ -15,7 +15,7 @@ Http kell hozzá, nem elég `file://` megnyitni: az idővonal `fetch()`-csel tö
 | fül | forrás | mit mutat |
 |---|---|---|
 | **Idővonal** | `genre_timeline` | mikor került be mi, műfajonként, kumulált nézetben — 14 975 bejegyzés, 2004-2026 |
-| **Előadó-gráf** | `_local_music_graph` | ki kivel szerepel, 19 terület fülenként, előadóra kattintva a mappafája — 15 313 szám |
+| **Előadó-gráf** | `_local_music_graph` | ki kivel szerepel, 19 terület fülenként, előadóra kattintva a mappafája — 15 299 szám |
 | **Audio profilok** | `_elektro_classifier` | az audióból kinyert metrikák: trackenkénti profil, stílusok, változó-referencia, térkép |
 
 A nyitólap kártyáin lévő számokat a `build.py` a forrásokból olvassa ki, nem beégetve —
@@ -44,7 +44,7 @@ mintával 6 workerrel, tehát a maradék ~14 100 fájl nagyjából 9 óra.
 Egy track hibázik az elemzőn: `trance_dance_rave/house_classics/Duck Sauce - Barbra
 Streisand (Original Mix).mp3`.
 
-## Miért 14 975 az egyik és 15 313 a másik
+## Miért 14 975 az egyik és 15 299 a másik
 
 A két szám nem ugyanazt a halmazt írja le, és a különbség teljesen elszámolható
 (ellenőrizve 2026-08-11):
@@ -57,11 +57,14 @@ A két szám nem ugyanazt a halmazt írja le, és a különbség teljesen elszá
     -1  az idővonalban van, a gráfban nincs
         `_other/call of duty 2 hunidegbeteg.mp3` — közvetlenül az `_other/` alatt ül,
         nem esik egyetlen gráf-terület alá sem (ez a katalógus `other: 1` sora)
-   +14  kétszer számolva: a `hungarian` és a `magyar` terület ugyanarra a 14 fájlra
-        tart igényt az `_other/_magyar/_cigany` fában, szándékosan
 -------
-15 313  gráf (data/*/normalized/songs.json összege)
+15 299  gráf (data/*/normalized/songs.json összege)
 ```
+
+A gráfban **egyetlen szám sincs kétszer** (15 299 sor, 15 299 különböző útvonal). Korábban
+14 igen: a `hungarian` és a `magyar` terület ugyanarra a 14 fájlra tartott igényt az
+`_other/_magyar/_cigany` fában. 2026-08-11-én átkerültek a `_magyar rap/G.w.M/` és
+`_magyar rap/Teswér/` mappákba — egy előadó, egy hely.
 
 ## Források
 
