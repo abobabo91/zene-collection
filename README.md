@@ -14,9 +14,13 @@ Http kell hozzá, nem elég `file://` megnyitni: az idővonal `fetch()`-csel tö
 
 | fül | forrás | mit mutat |
 |---|---|---|
-| **Idővonal** | `genre_timeline` | mikor került be mi, műfajonként, kumulált nézetben — 15,459 szám, 2004-2026 |
-| **Előadó-gráf** | `_local_music_graph` | ki kivel szerepel, tíz terület fülenként, előadóra kattintva a mappafája |
+| **Idővonal** | `genre_timeline` | mikor került be mi, műfajonként, kumulált nézetben — 14 975 bejegyzés, 2004-2026 |
+| **Előadó-gráf** | `_local_music_graph` | ki kivel szerepel, 19 terület fülenként, előadóra kattintva a mappafája — 15 313 szám |
 | **Audio profilok** | `_elektro_classifier` | az audióból kinyert metrikák: trackenkénti profil, stílusok, változó-referencia, térkép |
+
+A nyitólap kártyáin lévő számokat a `build.py` a forrásokból olvassa ki, nem beégetve —
+korábban `15,465 bejegyzés` állt rajta, miközben a katalógusban már csak 14 975 sor volt.
+Amit nem tud kiolvasni, azt elhagyja, nem találja ki.
 
 ## Amit ez a repó **nem** csinál
 
@@ -31,10 +35,33 @@ semmit nem érdemes szerkeszteni, mert a következő build felülírja.
 
 ## Lefedettség
 
-Az idővonal és a gráf a **teljes gyűjteményt** fedi (15,459 szám). Az audio profilok
-egyelőre csak az `_other/_elektro` fát (**1,148 track**) — a többi műfajra még nem futott
-le a feature-kinyerés. A `_elektro_classifier/extract_features.py` képes rá, mérve ~0.40
-track/s a 120 másodperces mintával, tehát a rendezett gyűjtemény (15,564 fájl) ~11 óra.
+Az idővonal és a gráf a **teljes gyűjteményt** fedi. Az audio profilok egyelőre csak az
+`_other/_elektro` fát (**1 216 track a 15 313-ból**) — a többi műfajra még nem futott le a
+feature-kinyerés, tehát ez a fül messze nem egyenrangú a másik kettővel. A
+`_elektro_classifier/extract_features.py` képes rá, mérve 0.45 track/s a 120 másodperces
+mintával 6 workerrel, tehát a maradék ~14 100 fájl nagyjából 9 óra.
+
+Egy track hibázik az elemzőn: `trance_dance_rave/house_classics/Duck Sauce - Barbra
+Streisand (Original Mix).mp3`.
+
+## Miért 14 975 az egyik és 15 313 a másik
+
+A két szám nem ugyanazt a halmazt írja le, és a különbség teljesen elszámolható
+(ellenőrizve 2026-08-11):
+
+```
+14 975  idővonal (genre_catalog.json)
+  +325  a gráfban van, az idővonalban nincs
+        262 .m4a, 47 .wma, 15 .wav — az idővonal csak .mp3-at katalogizál
+        1 .mp3 — a `bizarring` kulcsszavas tiltólista, amit a gráf nem ismer
+    -1  az idővonalban van, a gráfban nincs
+        `_other/call of duty 2 hunidegbeteg.mp3` — közvetlenül az `_other/` alatt ül,
+        nem esik egyetlen gráf-terület alá sem (ez a katalógus `other: 1` sora)
+   +14  kétszer számolva: a `hungarian` és a `magyar` terület ugyanarra a 14 fájlra
+        tart igényt az `_other/_magyar/_cigany` fában, szándékosan
+-------
+15 313  gráf (data/*/normalized/songs.json összege)
+```
 
 ## Források
 

@@ -14,6 +14,7 @@ kézzel karbantartott másolat.
 
 from __future__ import annotations
 
+import json
 import os
 import re
 import shutil
@@ -67,6 +68,40 @@ def inject(html, current):
     return html + block
 
 
+def counts():
+    """A kártyák számai a forrásokból, nem beégetve.
+
+    Beégetve elavulnak, és csendben: a nyitólap `15,465 bejegyzés`-t hirdetett, miközben a
+    katalógusban már csak 14,975 sor volt. Ami nem olvasható ki, az None, és a kártya
+    egyszerűen szám nélkül jelenik meg - kitalálni rosszabb, mint elhagyni.
+    """
+    out = {"timeline": None, "graph": None, "audio": None}
+    try:
+        catalog = os.path.join(SCRIPTS, "genre_timeline", "genre_catalog.json")
+        out["timeline"] = len(json.load(open(catalog, encoding="utf-8")))
+    except (OSError, ValueError):
+        pass
+    try:
+        data = os.path.join(SCRIPTS, "_local_music_graph", "data")
+        total, areas = 0, 0
+        for area in sorted(os.listdir(data)):
+            songs = os.path.join(data, area, "normalized", "songs.json")
+            if os.path.exists(songs):
+                total += len(json.load(open(songs, encoding="utf-8")))
+                areas += 1
+        out["graph"] = (total, areas)
+    except (OSError, ValueError):
+        pass
+    try:
+        feats = os.path.join(SCRIPTS, "_elektro_classifier", "features_long.json")
+        rows = json.load(open(feats, encoding="utf-8"))
+        out["audio"] = sum(1 for v in rows.values()
+                           if isinstance(v, dict) and "feature_vector" in v)
+    except (OSError, ValueError, AttributeError):
+        pass
+    return out
+
+
 def main():
     for slug, label, src, files in SOURCES:
         dst = os.path.join(HERE, slug)
@@ -85,19 +120,35 @@ def main():
                 shutil.copy2(s, d)
             print(f"  {slug}/{out:<22} {os.path.getsize(d)/1024:>8.0f} KB   <- {name}")
 
+    # Magyar ezres elválasztó a szóköz. Csak a számra kell alkalmazni - a `,`-t a teljes
+    # mondaton lecserélve a tagmondatok vesszői is eltűnnek.
+    hu = lambda v: f"{v:,}".replace(",", " ")
+
+    n = counts()
+    timeline_desc = "Mikor került be mi a gyűjteménybe, műfajonként, kumulált nézetben."
+    if n["timeline"]:
+        timeline_desc += f" {hu(n['timeline'])} bejegyzés."
+    graph_desc = "Ki kivel szerepel, előadóra kattintva a mappafája."
+    if n["graph"]:
+        total, areas = n["graph"]
+        graph_desc = (f"Ki kivel szerepel, {areas} terület fülenként, előadóra kattintva "
+                      f"a mappafája. {hu(total)} szám.")
+    audio_desc = "Az audióból kinyert metrikák: trackenkénti profil, stílusok, térkép."
+    if n["audio"]:
+        audio_desc += (f" Csak az elektro fa: {hu(n['audio'])} track, "
+                       "a többi műfajra még nem futott le.")
+
     cards = "".join(
         f'<a class="card" href="{slug}/index.html"><h2>{label}</h2><p>{desc}</p></a>'
         for slug, label, desc in [
-            ("timeline", "Idővonal", "Mikor került be mi a gyűjteménybe, műfajonként, "
-                                     "kumulált nézetben. 15,465 bejegyzés."),
-            ("graph", "Előadó-gráf", "Ki kivel szerepel, tíz terület fülenként, "
-                                     "előadóra kattintva a mappafája."),
-            ("audio", "Audio profilok", "Az audióból kinyert metrikák: trackenkénti profil, "
-                                        "stílusok, változó-referencia és térkép."),
+            ("timeline", "Idővonal", timeline_desc),
+            ("graph", "Előadó-gráf", graph_desc),
+            ("audio", "Audio profilok", audio_desc),
         ])
     open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(
         LANDING.replace("__CARDS__", cards))
-    print(f"  index.html (nyitólap)")
+    print(f"  index.html (nyitólap)   idővonal={n['timeline']} gráf={n['graph']} "
+          f"audio={n['audio']}")
 
 
 LANDING = """<!doctype html>
