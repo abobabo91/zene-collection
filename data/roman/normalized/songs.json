@@ -284,22 +284,22 @@
   {
     "song_id": "rn-00014",
     "file": "_other\\_roman\\_modern pop\\Deepside Deejays  Never Be Alone  (Official Video).mp3",
-    "title": "Deepside Deejays Never Be Alone",
+    "title": "Never Be Alone",
     "primary_artists": [
-      "N/A"
+      "Deepside Deejays"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Deepside Deejays"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Deepside Deejays",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "rn-00015",

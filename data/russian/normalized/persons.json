@@ -363,6 +363,21 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "LD Russian music": {
+    "song_ids": [
+      "ru-00035",
+      "ru-00036",
+      "ru-00038"
+    ],
+    "primary_song_ids": [
+      "ru-00035",
+      "ru-00036",
+      "ru-00038"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Денис RiDer": {
     "song_ids": [
       "ru-00037"
@@ -397,7 +412,8 @@
       "ru-00048",
       "ru-00049",
       "ru-00050",
-      "ru-00051"
+      "ru-00051",
+      "ru-00052"
     ],
     "primary_song_ids": [
       "ru-00041",
@@ -410,7 +426,8 @@
       "ru-00048",
       "ru-00049",
       "ru-00050",
-      "ru-00051"
+      "ru-00051",
+      "ru-00052"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

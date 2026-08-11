@@ -3529,22 +3529,22 @@
   {
     "song_id": "af-00159",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Black Coffee  Extra Time On You  Choreography by TEVYN COLE.mp3",
-    "title": "Black Coffee Extra Time On You Choreography by TEVYN COLE",
+    "title": "Extra Time On You Choreography by TEVYN COLE",
     "primary_artists": [
-      "N/A"
+      "Black Coffee"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Black Coffee"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Black Coffee",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "af-00160",

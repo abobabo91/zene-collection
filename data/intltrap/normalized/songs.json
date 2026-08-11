@@ -709,22 +709,22 @@
   {
     "song_id": "it-00034",
     "file": "_trap\\_other country random\\_uk trap\\Giggs   Out There [Music Video]  SBTV.mp3",
-    "title": "Giggs Out There [Music Video] SBTV",
+    "title": "Out There [Music Video] SBTV",
     "primary_artists": [
-      "N/A"
+      "Giggs"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Giggs"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Giggs",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "it-00035",
@@ -1302,40 +1302,40 @@
     "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 (Skengdo, BT _ A.M) - Do it 4 Da 4$ [Prod. TRonTheBeat] (Music Video).mp3",
     "title": "Do it 4 Da 4$ [Prod",
     "primary_artists": [
-      "N/A"
+      "Skengdo x AM"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Skengdo x AM"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Skengdo x AM",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "it-00062",
     "file": "_trap\\_other country random\\_uk trap\\Skengdo x AM - Music Videos - YouTube\\#410 Skengdo _ AM - German Swerving (Music Video)   @MixtapeMadness.mp3",
     "title": "German Swerving (Music Video) @MixtapeMadness",
     "primary_artists": [
-      "N/A"
+      "Skengdo x AM"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Skengdo x AM"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Skengdo x AM",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "it-00063",

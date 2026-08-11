@@ -6925,20 +6925,20 @@
     "file": "_other\\_alternate\\foxylizabet\\Мой Воздух Наполнен Тобой - foxy (official).mp3",
     "title": "foxy (official)",
     "primary_artists": [
-      "N/A"
+      "Foxylizabet"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Foxylizabet"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Foxylizabet",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "al-00344",
@@ -8448,20 +8448,20 @@
     "file": "_other\\_alternate\\josh rouse\\Flight Attendant - Josh Rouse (HD).mp3",
     "title": "Josh Rouse",
     "primary_artists": [
-      "N/A"
+      "Josh Rouse"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Josh Rouse"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Josh Rouse",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "al-00419",

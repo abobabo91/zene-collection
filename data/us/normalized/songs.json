@@ -1767,11 +1767,14 @@
     "title": "Killah Priest",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Anno Domini Beats"
+    ],
     "featuring_artists": [
       "Vendetta Kingz"
     ],
     "artists": [
+      "Anno Domini Beats",
       "Vendetta Kingz"
     ],
     "credits": [
@@ -1779,9 +1782,14 @@
         "entity": "Vendetta Kingz",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Anno Domini Beats",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00084",
@@ -1833,11 +1841,14 @@
     "title": "Bang Em Smurf",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Anno Domini Beats"
+    ],
     "featuring_artists": [
       "Rick Ross"
     ],
     "artists": [
+      "Anno Domini Beats",
       "Rick Ross"
     ],
     "credits": [
@@ -1845,9 +1856,14 @@
         "entity": "Rick Ross",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Anno Domini Beats",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00087",
@@ -1855,12 +1871,15 @@
     "title": "Philly Master",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Anno Domini Beats"
+    ],
     "featuring_artists": [
       "Keyz",
       "Vivid"
     ],
     "artists": [
+      "Anno Domini Beats",
       "Keyz",
       "Vivid"
     ],
@@ -1874,9 +1893,14 @@
         "entity": "Vivid",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Anno Domini Beats",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00088",
@@ -1928,11 +1952,14 @@
     "title": "Royce Da 5 9",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Anno Domini Beats"
+    ],
     "featuring_artists": [
       "D2M"
     ],
     "artists": [
+      "Anno Domini Beats",
       "D2M"
     ],
     "credits": [
@@ -1940,9 +1967,14 @@
         "entity": "D2M",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Anno Domini Beats",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00091",
@@ -1950,11 +1982,14 @@
     "title": "Goretex",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Anno Domini Beats"
+    ],
     "featuring_artists": [
       "Body Bagz"
     ],
     "artists": [
+      "Anno Domini Beats",
       "Body Bagz"
     ],
     "credits": [
@@ -1962,9 +1997,14 @@
         "entity": "Body Bagz",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Anno Domini Beats",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00092",
@@ -2976,11 +3016,21 @@
     "title": "America s Most - Method Man, Redman",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "def jam fight for ny"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "def jam fight for ny"
+    ],
+    "credits": [
+      {
+        "entity": "def jam fight for ny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00140",
@@ -2988,11 +3038,21 @@
     "title": "Let s Get Dirty - Redman",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "def jam fight for ny"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "def jam fight for ny"
+    ],
+    "credits": [
+      {
+        "entity": "def jam fight for ny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00141",
@@ -3000,11 +3060,21 @@
     "title": "See about ya - Beezle feat",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "def jam fight for ny"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "def jam fight for ny"
+    ],
+    "credits": [
+      {
+        "entity": "def jam fight for ny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00142",
@@ -3114,13 +3184,16 @@
     "title": "Lot-A-Nerv",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Fes Taylor"
+    ],
     "featuring_artists": [
       "Baker Don",
       "Smacko"
     ],
     "artists": [
       "Baker Don",
+      "Fes Taylor",
       "Smacko"
     ],
     "credits": [
@@ -3133,9 +3206,14 @@
         "entity": "Smacko",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Fes Taylor",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00149",
@@ -5039,11 +5117,21 @@
     "title": "Wit Myself (The Introduction)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Morbski"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Morbski"
+    ],
+    "credits": [
+      {
+        "entity": "Morbski",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00236",
@@ -5073,13 +5161,16 @@
     "title": "Yedidyah Ben Sion",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Morbski"
+    ],
     "featuring_artists": [
       "Blacc Suhn",
       "Skully-B"
     ],
     "artists": [
       "Blacc Suhn",
+      "Morbski",
       "Skully-B"
     ],
     "credits": [
@@ -5092,9 +5183,14 @@
         "entity": "Skully-B",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Morbski",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00238",
@@ -5302,11 +5398,14 @@
     "title": "Pase Rock from Five Deez)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nujabes"
+    ],
     "featuring_artists": [
       "Substantial"
     ],
     "artists": [
+      "Nujabes",
       "Substantial"
     ],
     "credits": [
@@ -5314,9 +5413,14 @@
         "entity": "Substantial",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nujabes",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00250",
@@ -5981,21 +6085,29 @@
     "title": "Godilla)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Scarcity Budapest-Back to Business-2012"
+    ],
     "featuring_artists": [
       "Gutta"
     ],
     "artists": [
-      "Gutta"
+      "Gutta",
+      "Scarcity Budapest-Back to Business-2012"
     ],
     "credits": [
       {
         "entity": "Gutta",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Scarcity Budapest-Back to Business-2012",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00277",
@@ -6003,21 +6115,29 @@
     "title": "Aims)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Scarcity Budapest-Back to Business-2012"
+    ],
     "featuring_artists": [
       "Banish"
     ],
     "artists": [
-      "Banish"
+      "Banish",
+      "Scarcity Budapest-Back to Business-2012"
     ],
     "credits": [
       {
         "entity": "Banish",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Scarcity Budapest-Back to Business-2012",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00278",
@@ -6025,21 +6145,29 @@
     "title": "Sunn Sunn)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Scarcity Budapest-Back to Business-2012"
+    ],
     "featuring_artists": [
       "Chief Kamachi"
     ],
     "artists": [
-      "Chief Kamachi"
+      "Chief Kamachi",
+      "Scarcity Budapest-Back to Business-2012"
     ],
     "credits": [
       {
         "entity": "Chief Kamachi",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Scarcity Budapest-Back to Business-2012",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00279",
@@ -6113,21 +6241,29 @@
     "title": "Psych Ward)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Scarcity Budapest-Back to Business-2012"
+    ],
     "featuring_artists": [
       "Goretex"
     ],
     "artists": [
-      "Goretex"
+      "Goretex",
+      "Scarcity Budapest-Back to Business-2012"
     ],
     "credits": [
       {
         "entity": "Goretex",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Scarcity Budapest-Back to Business-2012",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00283",
@@ -6135,14 +6271,17 @@
     "title": "Mark Deez)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Scarcity Budapest-Back to Business-2012"
+    ],
     "featuring_artists": [
       "Mordekai",
       "Powder"
     ],
     "artists": [
       "Mordekai",
-      "Powder"
+      "Powder",
+      "Scarcity Budapest-Back to Business-2012"
     ],
     "credits": [
       {
@@ -6154,9 +6293,14 @@
         "entity": "Powder",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Scarcity Budapest-Back to Business-2012",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00284",
@@ -8564,11 +8708,21 @@
     "title": "C",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Canibus"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Canibus"
+    ],
+    "credits": [
+      {
+        "entity": "Canibus",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00408",
@@ -9585,9 +9739,18 @@
     "folder_region": "USA Other",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "M-1",
+      "stic.man"
+    ],
+    "credits": [
+      {
+        "entity": "Dead Prez",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00452",
@@ -9765,9 +9928,18 @@
     "folder_region": "USA Other",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "M-1",
+      "stic.man"
+    ],
+    "credits": [
+      {
+        "entity": "Dead Prez",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00461",
@@ -9884,7 +10056,9 @@
     "title": "White E",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Dilated Peoples"
+    ],
     "featuring_artists": [
       "Defari",
       "Phil Da Agony",
@@ -9892,6 +10066,7 @@
     ],
     "artists": [
       "Defari",
+      "Dilated Peoples",
       "Phil Da Agony",
       "Planet Asia"
     ],
@@ -9910,9 +10085,14 @@
         "entity": "Planet Asia",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Dilated Peoples",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00467",
@@ -10074,11 +10254,21 @@
     "title": "Metis Cole)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Dilated Peoples"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Dilated Peoples"
+    ],
+    "credits": [
+      {
+        "entity": "Dilated Peoples",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00475",
@@ -10086,11 +10276,21 @@
     "title": "Joey Chavez)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Dilated Peoples"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Dilated Peoples"
+    ],
+    "credits": [
+      {
+        "entity": "Dilated Peoples",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00476",
@@ -10296,11 +10496,21 @@
     "title": "full clip",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gang Starr"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Gang Starr"
+    ],
+    "credits": [
+      {
+        "entity": "Gang Starr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00486",
@@ -10308,11 +10518,21 @@
     "title": "i m the man (feat",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gang Starr"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Gang Starr"
+    ],
+    "credits": [
+      {
+        "entity": "Gang Starr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00487",
@@ -10320,11 +10540,21 @@
     "title": "mass appeal",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gang Starr"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Gang Starr"
+    ],
+    "credits": [
+      {
+        "entity": "Gang Starr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00488",
@@ -10332,11 +10562,21 @@
     "title": "royalty (feat",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gang Starr"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Gang Starr"
+    ],
+    "credits": [
+      {
+        "entity": "Gang Starr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00489",
@@ -10344,11 +10584,21 @@
     "title": "just to get a rep",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gang Starr"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Gang Starr"
+    ],
+    "credits": [
+      {
+        "entity": "Gang Starr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00490",
@@ -10356,11 +10606,21 @@
     "title": "work",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gang Starr"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Gang Starr"
+    ],
+    "credits": [
+      {
+        "entity": "Gang Starr",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00491",
@@ -10918,11 +11178,21 @@
     "title": "Demons",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Immortal Technique"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Immortal Technique"
+    ],
+    "credits": [
+      {
+        "entity": "Immortal Technique",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00517",
@@ -10930,11 +11200,21 @@
     "title": "Ghetto Nigga",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "J Cole"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "J Cole"
+    ],
+    "credits": [
+      {
+        "entity": "J Cole",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00518",
@@ -10942,11 +11222,21 @@
     "title": "Off",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "J Cole"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "J Cole"
+    ],
+    "credits": [
+      {
+        "entity": "J Cole",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00519",
@@ -11262,11 +11552,21 @@
     "title": "Back (Rock Music)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "J Dilla"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "J Dilla"
+    ],
+    "credits": [
+      {
+        "entity": "J Dilla",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00534",
@@ -12044,11 +12344,14 @@
     "title": "Kobe)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Joe Budden"
+    ],
     "featuring_artists": [
       "Royce Da 5'9\""
     ],
     "artists": [
+      "Joe Budden",
       "Royce Da 5'9\""
     ],
     "credits": [
@@ -12056,9 +12359,14 @@
         "entity": "Royce Da 5'9\"",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Joe Budden",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00570",
@@ -12066,11 +12374,14 @@
     "title": "Crooked I)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Joe Budden"
+    ],
     "featuring_artists": [
       "Joell Ortiz"
     ],
     "artists": [
+      "Joe Budden",
       "Joell Ortiz"
     ],
     "credits": [
@@ -12078,9 +12389,14 @@
         "entity": "Joell Ortiz",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Joe Budden",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00571",
@@ -12588,11 +12904,21 @@
     "title": "(ft",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kanye West"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Kanye West"
+    ],
+    "credits": [
+      {
+        "entity": "Kanye West",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00594",
@@ -12864,7 +13190,9 @@
     "title": "Bon Iver)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kanye West"
+    ],
     "featuring_artists": [
       "Jay-Z",
       "Nicki Minaj",
@@ -12872,6 +13200,7 @@
     ],
     "artists": [
       "Jay-Z",
+      "Kanye West",
       "Nicki Minaj",
       "Rick Ross"
     ],
@@ -12890,9 +13219,14 @@
         "entity": "Rick Ross",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Kanye West",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00607",
@@ -13186,11 +13520,21 @@
     "title": "n Nite (Nightmare)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kid Cudi"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Kid Cudi"
+    ],
+    "credits": [
+      {
+        "entity": "Kid Cudi",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00621",
@@ -13506,21 +13850,29 @@
     "title": "Salahudin Rose)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Killah Priest"
+    ],
     "featuring_artists": [
       "Daddy Rose"
     ],
     "artists": [
-      "Daddy Rose"
+      "Daddy Rose",
+      "Killah Priest"
     ],
     "credits": [
       {
         "entity": "Daddy Rose",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Killah Priest",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00636",
@@ -15472,11 +15824,21 @@
     "title": "Love",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Masta Ace"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Masta Ace"
+    ],
+    "credits": [
+      {
+        "entity": "Masta Ace",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00725",
@@ -16138,11 +16500,14 @@
     "title": "I (Prod",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rakim"
+    ],
     "featuring_artists": [
       "Samuel Christian-You"
     ],
     "artists": [
+      "Rakim",
       "Samuel Christian-You"
     ],
     "credits": [
@@ -16150,9 +16515,14 @@
         "entity": "Samuel Christian-You",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rakim",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00755",
@@ -16314,11 +16684,21 @@
     "title": "Us (Feat",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Redman"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Redman"
+    ],
+    "credits": [
+      {
+        "entity": "Redman",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00763",
@@ -16524,11 +16904,21 @@
     "title": "Nas Bring It To Your Hardest",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Slick Rick"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Slick Rick"
+    ],
+    "credits": [
+      {
+        "entity": "Slick Rick",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00773",
@@ -17526,11 +17916,21 @@
     "title": "Aint Sayin Nothin New-OSR",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Roots"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "The Roots"
+    ],
+    "credits": [
+      {
+        "entity": "The Roots",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00819",
@@ -17538,11 +17938,21 @@
     "title": "Act Too (the Love of My Life)-OSR",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Roots"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "The Roots"
+    ],
+    "credits": [
+      {
+        "entity": "The Roots",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00820",
@@ -17550,11 +17960,21 @@
     "title": "Adrenaline-OSR",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Roots"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "The Roots"
+    ],
+    "credits": [
+      {
+        "entity": "The Roots",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00821",
@@ -17562,11 +17982,21 @@
     "title": "you Got Me (Feat",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Roots"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "The Roots"
+    ],
+    "credits": [
+      {
+        "entity": "The Roots",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00822",
@@ -17816,21 +18246,29 @@
     "title": "Truc",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Roots"
+    ],
     "featuring_artists": [
       "Saigon"
     ],
     "artists": [
-      "Saigon"
+      "Saigon",
+      "The Roots"
     ],
     "credits": [
       {
         "entity": "Saigon",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "The Roots",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00834",
@@ -17970,11 +18408,21 @@
     "title": "Pappou)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Roots"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "The Roots"
+    ],
+    "credits": [
+      {
+        "entity": "The Roots",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00841",
@@ -18342,14 +18790,17 @@
     "title": "Ty Dolla $ign)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Wiz Khalifa"
+    ],
     "featuring_artists": [
       "N/A",
       "Snoop Dogg"
     ],
     "artists": [
       "N/A",
-      "Snoop Dogg"
+      "Snoop Dogg",
+      "Wiz Khalifa"
     ],
     "credits": [
       {
@@ -18361,9 +18812,14 @@
         "entity": "Snoop Dogg",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Wiz Khalifa",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00858",
@@ -18393,21 +18849,29 @@
     "title": "Rick Ross",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Wiz Khalifa"
+    ],
     "featuring_artists": [
       "Amber Rose"
     ],
     "artists": [
-      "Amber Rose"
+      "Amber Rose",
+      "Wiz Khalifa"
     ],
     "credits": [
       {
         "entity": "Amber Rose",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Wiz Khalifa",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00860",
@@ -18837,9 +19301,18 @@
     "folder_region": "Atlanta",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Andre 3000",
+      "Big Boi"
+    ],
+    "credits": [
+      {
+        "entity": "Outkast",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00879",
@@ -19480,21 +19953,29 @@
     "title": "Young Dro)",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "T.I."
+    ],
     "featuring_artists": [
       "P$C"
     ],
     "artists": [
-      "P$C"
+      "P$C",
+      "T.I."
     ],
     "credits": [
       {
         "entity": "P$C",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "T.I.",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00909",
@@ -19766,11 +20247,21 @@
     "title": "T.I",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "T.I."
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "T.I."
+    ],
+    "credits": [
+      {
+        "entity": "T.I.",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00922",
@@ -19778,11 +20269,21 @@
     "title": "T",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "T.I."
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "T.I."
+    ],
+    "credits": [
+      {
+        "entity": "T.I.",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00923",
@@ -19878,21 +20379,29 @@
     "title": "B.O.B",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "T.I."
+    ],
     "featuring_artists": [
       "Ludacris"
     ],
     "artists": [
-      "Ludacris"
+      "Ludacris",
+      "T.I."
     ],
     "credits": [
       {
         "entity": "Ludacris",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "T.I.",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00928",
@@ -19988,14 +20497,17 @@
     "title": "Lil Wayne)",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "T.I."
+    ],
     "featuring_artists": [
       "Jay-Z",
       "Kanye West"
     ],
     "artists": [
       "Jay-Z",
-      "Kanye West"
+      "Kanye West",
+      "T.I."
     ],
     "credits": [
       {
@@ -20007,9 +20519,14 @@
         "entity": "Kanye West",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "T.I.",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00933",
@@ -20061,11 +20578,21 @@
     "title": "Madvac)",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "T.I."
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "T.I."
+    ],
+    "credits": [
+      {
+        "entity": "T.I.",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00936",
@@ -20403,11 +20930,21 @@
     "title": "Young Jeezy ft",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Jeezy"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Young Jeezy"
+    ],
+    "credits": [
+      {
+        "entity": "Young Jeezy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00952",
@@ -20569,21 +21106,29 @@
     "title": "Jadakiss)",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Jeezy"
+    ],
     "featuring_artists": [
       "Fabolous"
     ],
     "artists": [
-      "Fabolous"
+      "Fabolous",
+      "Young Jeezy"
     ],
     "credits": [
       {
         "entity": "Fabolous",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Jeezy",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00960",
@@ -23167,11 +23712,21 @@
     "title": "Up",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kendrick Lamar"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Kendrick Lamar"
+    ],
+    "credits": [
+      {
+        "entity": "Kendrick Lamar",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01074",
@@ -24289,21 +24844,29 @@
     "title": "Snoop Dogg and Sly - Drug Test",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Game"
+    ],
     "featuring_artists": [
       "Dr. Dre"
     ],
     "artists": [
-      "Dr. Dre"
+      "Dr. Dre",
+      "The Game"
     ],
     "credits": [
       {
         "entity": "Dr. Dre",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "The Game",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01122",
@@ -24651,21 +25214,29 @@
     "title": "Sonyae)",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Game"
+    ],
     "featuring_artists": [
       "Future"
     ],
     "artists": [
-      "Future"
+      "Future",
+      "The Game"
     ],
     "credits": [
       {
         "entity": "Future",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "The Game",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01137",
@@ -24695,14 +25266,17 @@
     "title": "Sonyae)",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Game"
+    ],
     "featuring_artists": [
       "Anderson .Paak",
       "N/A"
     ],
     "artists": [
       "Anderson .Paak",
-      "N/A"
+      "N/A",
+      "The Game"
     ],
     "credits": [
       {
@@ -24714,9 +25288,14 @@
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "The Game",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01139",
@@ -24724,21 +25303,29 @@
     "title": "Schoolboy Q)",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "The Game"
+    ],
     "featuring_artists": [
       "Jay Rock"
     ],
     "artists": [
-      "Jay Rock"
+      "Jay Rock",
+      "The Game"
     ],
     "credits": [
       {
         "entity": "Jay Rock",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "The Game",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01140",
@@ -24916,11 +25503,21 @@
     "title": "SacrfaceTela Devin the Dude Too Short",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "TOO SHORT"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "TOO SHORT"
+    ],
+    "credits": [
+      {
+        "entity": "TOO SHORT",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01148",
@@ -25060,14 +25657,17 @@
     "title": "Ro Trash Of Tha Liks - Alkaholik",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "Xzibit"
+    ],
     "featuring_artists": [
       "Erick Sermon",
       "N/A"
     ],
     "artists": [
       "Erick Sermon",
-      "N/A"
+      "N/A",
+      "Xzibit"
     ],
     "credits": [
       {
@@ -25079,9 +25679,14 @@
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Xzibit",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01155",
@@ -25693,9 +26298,22 @@
     "folder_region": "Detroit",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Bizarre",
+      "Eminem",
+      "Kon Artis",
+      "Kuniva",
+      "Proof",
+      "Swifty"
+    ],
+    "credits": [
+      {
+        "entity": "D12",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01181",
@@ -26108,16 +26726,27 @@
       "Kidd Kidd"
     ],
     "artists": [
-      "Kidd Kidd"
+      "Bizarre",
+      "Eminem",
+      "Kidd Kidd",
+      "Kon Artis",
+      "Kuniva",
+      "Proof",
+      "Swifty"
     ],
     "credits": [
+      {
+        "entity": "D12",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "Kidd Kidd",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01198",
@@ -28678,11 +29307,21 @@
     "title": "myself (feat",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [],
+    "primary_artists": [
+      "Eminem"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Eminem"
+    ],
+    "credits": [
+      {
+        "entity": "Eminem",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01312",
@@ -29174,7 +29813,9 @@
     "title": "wayne)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [],
+    "primary_artists": [
+      "Eminem"
+    ],
     "featuring_artists": [
       "Drake",
       "kayne west",
@@ -29182,6 +29823,7 @@
     ],
     "artists": [
       "Drake",
+      "Eminem",
       "kayne west",
       "N/A"
     ],
@@ -29200,9 +29842,14 @@
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Eminem",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01335",
@@ -30068,11 +30715,14 @@
     "title": "Slim The Mobster",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [],
+    "primary_artists": [
+      "Eminem"
+    ],
     "featuring_artists": [
       "Nas"
     ],
     "artists": [
+      "Eminem",
       "Nas"
     ],
     "credits": [
@@ -30080,9 +30730,14 @@
         "entity": "Nas",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Eminem",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01375",
@@ -31218,11 +31873,21 @@
     "title": "Me",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [],
+    "primary_artists": [
+      "Royce Da 5'9\""
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Royce Da 5'9\""
+    ],
+    "credits": [
+      {
+        "entity": "Royce Da 5'9\"",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01426",
@@ -31662,11 +32327,21 @@
     "title": "Over (Feat. DJ Khaled, T.I",
     "source_root": "_rap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "DJ Khaled"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "DJ Khaled"
+    ],
+    "credits": [
+      {
+        "entity": "DJ Khaled",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01445",
@@ -32874,11 +33549,21 @@
     "title": "(Remix) (feat",
     "source_root": "_rap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rick Ross"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Rick Ross"
+    ],
+    "credits": [
+      {
+        "entity": "Rick Ross",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01498",
@@ -32886,21 +33571,29 @@
     "title": "Brisco)",
     "source_root": "_rap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rick Ross"
+    ],
     "featuring_artists": [
       "Lil Wayne"
     ],
     "artists": [
-      "Lil Wayne"
+      "Lil Wayne",
+      "Rick Ross"
     ],
     "credits": [
       {
         "entity": "Lil Wayne",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rick Ross",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01499",
@@ -32930,21 +33623,29 @@
     "title": "Big Duke)",
     "source_root": "_rap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rick Ross"
+    ],
     "featuring_artists": [
       "Cinque"
     ],
     "artists": [
-      "Cinque"
+      "Cinque",
+      "Rick Ross"
     ],
     "credits": [
       {
         "entity": "Cinque",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rick Ross",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01501",
@@ -32974,11 +33675,21 @@
     "title": "(feat. R",
     "source_root": "_rap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rick Ross"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Rick Ross"
+    ],
+    "credits": [
+      {
+        "entity": "Rick Ross",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01503",
@@ -32986,21 +33697,29 @@
     "title": "Avery Storm)",
     "source_root": "_rap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rick Ross"
+    ],
     "featuring_artists": [
       "Nelly"
     ],
     "artists": [
-      "Nelly"
+      "Nelly",
+      "Rick Ross"
     ],
     "credits": [
       {
         "entity": "Nelly",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rick Ross",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01504",
@@ -33250,11 +33969,21 @@
     "title": "MURDER Like A Jungle",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "C-Murder"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "C-Murder"
+    ],
+    "credits": [
+      {
+        "entity": "C-Murder",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01516",
@@ -35178,11 +35907,21 @@
     "title": "Weezy (DatPiff Exclusive)",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01602",
@@ -35278,7 +36017,9 @@
     "title": "Polow da Don)",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [
       "Gudda Gudda",
       "Jae Millz",
@@ -35291,6 +36032,7 @@
       "Gudda Gudda",
       "Jae Millz",
       "Lil Twist",
+      "Lil Wayne",
       "Lil' Chuckee",
       "Mr. Pyro",
       "N/A"
@@ -35325,9 +36067,14 @@
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01607",
@@ -37643,11 +38390,21 @@
     "title": "Lil Wayne ft",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01710",
@@ -37655,11 +38412,21 @@
     "title": "Mr",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01711",
@@ -37667,11 +38434,21 @@
     "title": "Lollipop (Featuring Static Major)",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01712",
@@ -37679,11 +38456,21 @@
     "title": "Playing With Fire",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01713",
@@ -37691,11 +38478,21 @@
     "title": "I m Me",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01714",
@@ -37703,11 +38500,21 @@
     "title": "wayne-bonnie-and-clyde-freestyle",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Wayne"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01715",
@@ -37759,11 +38566,14 @@
     "title": "Lil Wayne)",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [
       "Nicki Minaj"
     ],
     "artists": [
+      "Lil Wayne",
       "Nicki Minaj"
     ],
     "credits": [
@@ -37771,9 +38581,14 @@
         "entity": "Nicki Minaj",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01718",
@@ -37957,21 +38772,29 @@
     "title": "(Prod",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Wayne"
+    ],
     "featuring_artists": [
       "Gucci Mane-Steady Mobbin"
     ],
     "artists": [
-      "Gucci Mane-Steady Mobbin"
+      "Gucci Mane-Steady Mobbin",
+      "Lil Wayne"
     ],
     "credits": [
       {
         "entity": "Gucci Mane-Steady Mobbin",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01727",
@@ -39107,11 +39930,21 @@
     "title": "Thick Gettin High",
     "source_root": "_rap",
     "folder_region": "Memphis",
-    "primary_artists": [],
+    "primary_artists": [
+      "DJ Zirk 2 Thick"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "DJ Zirk 2 Thick"
+    ],
+    "credits": [
+      {
+        "entity": "DJ Zirk 2 Thick",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01779",
@@ -39141,11 +39974,21 @@
     "title": "Orange Juice Click",
     "source_root": "_rap",
     "folder_region": "Memphis",
-    "primary_artists": [],
+    "primary_artists": [
+      "DJ Zirk 2 Thick"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "DJ Zirk 2 Thick"
+    ],
+    "credits": [
+      {
+        "entity": "DJ Zirk 2 Thick",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01781",
@@ -39693,9 +40536,19 @@
     "folder_region": "Memphis",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "DJ Paul",
+      "Juicy J",
+      "Koopsta Knicca"
+    ],
+    "credits": [
+      {
+        "entity": "Three 6 Mafia",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01807",
@@ -39950,16 +40803,24 @@
       "La Chat"
     ],
     "artists": [
+      "DJ Paul",
+      "Juicy J",
+      "Koopsta Knicca",
       "La Chat"
     ],
     "credits": [
+      {
+        "entity": "Three 6 Mafia",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "La Chat",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01819",
@@ -40885,11 +41746,21 @@
     "title": "Bobbito 95 Freestyle (Feat",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Big L"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Big L"
+    ],
+    "credits": [
+      {
+        "entity": "Big L",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01862",
@@ -40897,11 +41768,21 @@
     "title": "Bobbito 95 Part II Freestyle (Feat",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Big L"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Big L"
+    ],
+    "credits": [
+      {
+        "entity": "Big L",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01863",
@@ -40931,11 +41812,21 @@
     "title": "Bobbito 98 Freestyle",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Big L"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Big L"
+    ],
+    "credits": [
+      {
+        "entity": "Big L",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01865",
@@ -41075,21 +41966,29 @@
     "title": "Notorious B.I.G",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Big L"
+    ],
     "featuring_artists": [
       "2Pac"
     ],
     "artists": [
-      "2Pac"
+      "2Pac",
+      "Big L"
     ],
     "credits": [
       {
         "entity": "2Pac",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Big L",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01872",
@@ -42411,16 +43310,23 @@
       "Busta Rhymes"
     ],
     "artists": [
-      "Busta Rhymes"
+      "Busta Rhymes",
+      "Capone",
+      "N.O.R.E."
     ],
     "credits": [
+      {
+        "entity": "Capone-N-Noreaga",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "Busta Rhymes",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01931",
@@ -42477,11 +43383,18 @@
       "Tha Dogg Pound"
     ],
     "artists": [
+      "Capone",
       "Clipse",
       "Maino",
+      "N.O.R.E.",
       "Tha Dogg Pound"
     ],
     "credits": [
+      {
+        "entity": "Capone-N-Noreaga",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "Clipse",
         "entity_type": "person",
@@ -42498,7 +43411,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01934",
@@ -43225,11 +44138,14 @@
     "title": "Jadakiss",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "DMX"
+    ],
     "featuring_artists": [
       "Styles"
     ],
     "artists": [
+      "DMX",
       "Styles"
     ],
     "credits": [
@@ -43237,9 +44153,14 @@
         "entity": "Styles",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "DMX",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01967",
@@ -43335,11 +44256,21 @@
     "title": "Anthem",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "DMX"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "DMX"
+    ],
+    "credits": [
+      {
+        "entity": "DMX",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01972",
@@ -43347,7 +44278,9 @@
     "title": "Kasino",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "DMX"
+    ],
     "featuring_artists": [
       "Big Stan",
       "Drag-On",
@@ -43355,6 +44288,7 @@
     ],
     "artists": [
       "Big Stan",
+      "DMX",
       "Drag-On",
       "Loose"
     ],
@@ -43373,9 +44307,14 @@
         "entity": "Loose",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "DMX",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01973",
@@ -43449,11 +44388,14 @@
     "title": "Janyce",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "DMX"
+    ],
     "featuring_artists": [
       "Jinx"
     ],
     "artists": [
+      "DMX",
       "Jinx"
     ],
     "credits": [
@@ -43461,9 +44403,14 @@
         "entity": "Jinx",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "DMX",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01977",
@@ -44702,11 +45649,14 @@
     "title": "Rico Love)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Fat Joe"
+    ],
     "featuring_artists": [
       "Pleasure P"
     ],
     "artists": [
+      "Fat Joe",
       "Pleasure P"
     ],
     "credits": [
@@ -44714,9 +45664,14 @@
         "entity": "Pleasure P",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Fat Joe",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02030",
@@ -45546,11 +46501,21 @@
     "title": "Irv Gotti)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "50 Cent"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent"
+    ],
+    "credits": [
+      {
+        "entity": "50 Cent",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02068",
@@ -46374,9 +47339,20 @@
     "folder_region": "New York",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent",
+      "Lloyd Banks",
+      "Tony Yayo",
+      "Young Buck"
+    ],
+    "credits": [
+      {
+        "entity": "G-Unit",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02106",
@@ -46547,9 +47523,20 @@
     "folder_region": "New York",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "50 Cent",
+      "Lloyd Banks",
+      "Tony Yayo",
+      "Young Buck"
+    ],
+    "credits": [
+      {
+        "entity": "G-Unit",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02114",
@@ -46714,14 +47701,17 @@
     "title": "nate dogg-btr",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lloyd Banks"
+    ],
     "featuring_artists": [
       "50 Cent",
       "Eminem"
     ],
     "artists": [
       "50 Cent",
-      "Eminem"
+      "Eminem",
+      "Lloyd Banks"
     ],
     "credits": [
       {
@@ -46733,9 +47723,14 @@
         "entity": "Eminem",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lloyd Banks",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02122",
@@ -47810,13 +48805,16 @@
     "title": "Pimp C - 4 Kings",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Buck"
+    ],
     "featuring_artists": [
       "T.I.",
       "Young Jeezy"
     ],
     "artists": [
       "T.I.",
+      "Young Buck",
       "Young Jeezy"
     ],
     "credits": [
@@ -47829,9 +48827,14 @@
         "entity": "Young Jeezy",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Buck",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02170",
@@ -47869,7 +48872,9 @@
     "title": "One False Move",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Buck"
+    ],
     "featuring_artists": [
       "Akon",
       "BG",
@@ -47878,7 +48883,8 @@
     "artists": [
       "Akon",
       "BG",
-      "C-Murder"
+      "C-Murder",
+      "Young Buck"
     ],
     "credits": [
       {
@@ -47895,9 +48901,14 @@
         "entity": "C-Murder",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Buck",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02172",
@@ -48495,11 +49506,14 @@
     "title": "Future",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jadakiss"
+    ],
     "featuring_artists": [
       "Wale"
     ],
     "artists": [
+      "Jadakiss",
       "Wale"
     ],
     "credits": [
@@ -48507,9 +49521,14 @@
         "entity": "Wale",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jadakiss",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02198",
@@ -49083,11 +50102,21 @@
     "title": "One Questions Rhyme No More",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jay-Z"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Jay-Z"
+    ],
+    "credits": [
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02224",
@@ -49557,11 +50586,14 @@
     "title": "Kanye West)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jay-Z"
+    ],
     "featuring_artists": [
       "Rihanna"
     ],
     "artists": [
+      "Jay-Z",
       "Rihanna"
     ],
     "credits": [
@@ -49569,9 +50601,14 @@
         "entity": "Rihanna",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02246",
@@ -49601,11 +50638,21 @@
     "title": "Clyde (Feat",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jay-Z"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Jay-Z"
+    ],
+    "credits": [
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02248",
@@ -49613,21 +50660,29 @@
     "title": "The Notorious B.I.G",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jay-Z"
+    ],
     "featuring_artists": [
       "Faith Evans"
     ],
     "artists": [
-      "Faith Evans"
+      "Faith Evans",
+      "Jay-Z"
     ],
     "credits": [
       {
         "entity": "Faith Evans",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02249",
@@ -49679,11 +50734,14 @@
     "title": "Snoop Dogg)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jay-Z"
+    ],
     "featuring_artists": [
       "Memphis Bleek"
     ],
     "artists": [
+      "Jay-Z",
       "Memphis Bleek"
     ],
     "credits": [
@@ -49691,9 +50749,14 @@
         "entity": "Memphis Bleek",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02252",
@@ -49723,21 +50786,29 @@
     "title": "Scarface)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jay-Z"
+    ],
     "featuring_artists": [
       "Beanie Sigel"
     ],
     "artists": [
-      "Beanie Sigel"
+      "Beanie Sigel",
+      "Jay-Z"
     ],
     "credits": [
       {
         "entity": "Beanie Sigel",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02254",
@@ -50127,16 +51198,23 @@
       "N/A"
     ],
     "artists": [
-      "N/A"
+      "Havoc",
+      "N/A",
+      "Prodigy"
     ],
     "credits": [
+      {
+        "entity": "Mobb Deep",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02272",
@@ -50338,16 +51416,22 @@
       "Prodigy"
     ],
     "artists": [
+      "Havoc",
       "Prodigy"
     ],
     "credits": [
+      {
+        "entity": "Mobb Deep",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "Prodigy",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02282",
@@ -50378,9 +51462,18 @@
     "folder_region": "New York",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Havoc",
+      "Prodigy"
+    ],
+    "credits": [
+      {
+        "entity": "Mobb Deep",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02284",
@@ -51863,11 +52956,21 @@
     "title": "Trey Songz -BottomsUp",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nicki Minaj"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "credits": [
+      {
+        "entity": "Nicki Minaj",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02351",
@@ -52037,14 +53140,17 @@
     "title": "Nicki Minaj- Monster",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nicki Minaj"
+    ],
     "featuring_artists": [
       "Jay-Z",
       "Kanye West"
     ],
     "artists": [
       "Jay-Z",
-      "Kanye West"
+      "Kanye West",
+      "Nicki Minaj"
     ],
     "credits": [
       {
@@ -52056,9 +53162,14 @@
         "entity": "Kanye West",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nicki Minaj",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02359",
@@ -53322,11 +54433,14 @@
     "title": "Raekwon)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Ghostface Killah"
+    ],
     "featuring_artists": [
       "The Notorious B.I.G."
     ],
     "artists": [
+      "Ghostface Killah",
       "The Notorious B.I.G."
     ],
     "credits": [
@@ -53334,9 +54448,14 @@
         "entity": "The Notorious B.I.G.",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Ghostface Killah",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02416",
@@ -53432,11 +54551,14 @@
     "title": "Ne-Yo)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Ghostface Killah"
+    ],
     "featuring_artists": [
       "Kanye West"
     ],
     "artists": [
+      "Ghostface Killah",
       "Kanye West"
     ],
     "credits": [
@@ -53444,9 +54566,14 @@
         "entity": "Kanye West",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Ghostface Killah",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02421",
@@ -53674,11 +54801,21 @@
     "title": "Masta Killa RZA The Genius - Fam (Members Only) - Legend of the Liquid Sword",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "GZA"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "GZA"
+    ],
+    "credits": [
+      {
+        "entity": "GZA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02432",
@@ -54034,21 +55171,29 @@
     "title": "Styles P",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Method Man"
+    ],
     "featuring_artists": [
       "Fat Joe"
     ],
     "artists": [
-      "Fat Joe"
+      "Fat Joe",
+      "Method Man"
     ],
     "credits": [
       {
         "entity": "Fat Joe",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Method Man",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02448",
@@ -54100,11 +55245,21 @@
     "title": "Feat",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Method Man"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Method Man"
+    ],
+    "credits": [
+      {
+        "entity": "Method Man",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02451",
@@ -55767,9 +56922,25 @@
     "folder_region": "New York",
     "primary_artists": [],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Ghostface Killah",
+      "GZA",
+      "Inspectah Deck",
+      "Masta Killa",
+      "Method Man",
+      "Ol' Dirty Bastard",
+      "Raekwon",
+      "RZA",
+      "U-God"
+    ],
+    "credits": [
+      {
+        "entity": "Wu-Tang Clan",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02519",
@@ -56216,11 +57387,14 @@
     "title": "Q-Unique)",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [
       "Sabac Red"
     ],
     "artists": [
+      "Jedi Mind Tricks / Vinnie Paz",
       "Sabac Red"
     ],
     "credits": [
@@ -56228,9 +57402,14 @@
         "entity": "Sabac Red",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02539",
@@ -56238,7 +57417,9 @@
     "title": "Des Devious)",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [
       "Celph Titled",
       "Crypt the Warchild",
@@ -56247,6 +57428,7 @@
     "artists": [
       "Celph Titled",
       "Crypt the Warchild",
+      "Jedi Mind Tricks / Vinnie Paz",
       "Planetary"
     ],
     "credits": [
@@ -56264,9 +57446,14 @@
         "entity": "Planetary",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02540",
@@ -56709,11 +57896,21 @@
     "title": "my destiny (feat. max cavalera and immortal technique) (prod",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
+    "credits": [
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02556",
@@ -57137,11 +58334,14 @@
     "title": "Pacewon)",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [
       "Young Zee"
     ],
     "artists": [
+      "Jedi Mind Tricks / Vinnie Paz",
       "Young Zee"
     ],
     "credits": [
@@ -57149,9 +58349,14 @@
         "entity": "Young Zee",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02574",
@@ -57871,21 +59076,29 @@
     "title": "J",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [
       "Freeway"
     ],
     "artists": [
-      "Freeway"
+      "Freeway",
+      "Jedi Mind Tricks / Vinnie Paz"
     ],
     "credits": [
       {
         "entity": "Freeway",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02601",
@@ -57951,21 +59164,29 @@
     "title": "Bl",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [
       "Clipse"
     ],
     "artists": [
-      "Clipse"
+      "Clipse",
+      "Jedi Mind Tricks / Vinnie Paz"
     ],
     "credits": [
       {
         "entity": "Clipse",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02604",
@@ -57973,11 +59194,21 @@
     "title": "Em All Featuring Beanie Sig",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
+    "credits": [
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02605",
@@ -57985,11 +59216,21 @@
     "title": "On Featuring Shara Wo",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
+    "credits": [
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02606",
@@ -57997,21 +59238,29 @@
     "title": "D",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [
       "ILL Bill"
     ],
     "artists": [
-      "ILL Bill"
+      "ILL Bill",
+      "Jedi Mind Tricks / Vinnie Paz"
     ],
     "credits": [
       {
         "entity": "ILL Bill",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02607",
@@ -58135,21 +59384,29 @@
     "title": "Slain",
     "source_root": "_rap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Jedi Mind Tricks / Vinnie Paz"
+    ],
     "featuring_artists": [
       "Adlib"
     ],
     "artists": [
-      "Adlib"
+      "Adlib",
+      "Jedi Mind Tricks / Vinnie Paz"
     ],
     "credits": [
       {
         "entity": "Adlib",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Jedi Mind Tricks / Vinnie Paz",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02612",
@@ -61859,11 +63116,14 @@
     "title": "Playboi Carti)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "DPONTHEBEAT VOL 3"
+    ],
     "featuring_artists": [
       "Lil Uzi Vert"
     ],
     "artists": [
+      "DPONTHEBEAT VOL 3",
       "Lil Uzi Vert"
     ],
     "credits": [
@@ -61871,9 +63131,14 @@
         "entity": "Lil Uzi Vert",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "DPONTHEBEAT VOL 3",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02791",
@@ -63096,7 +64361,9 @@
     "title": "Ol Thang Back",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com"
+    ],
     "featuring_artists": [
       "Busta Rhymes",
       "Jadakiss",
@@ -63105,6 +64372,7 @@
     ],
     "artists": [
       "Busta Rhymes",
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com",
       "Jadakiss",
       "Method Man",
       "Redman"
@@ -63129,9 +64397,14 @@
         "entity": "Redman",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Hip-Hop-TXL-Vol-88-HipHopTXL.com",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02847",
@@ -63161,7 +64434,9 @@
     "title": "Plug",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com"
+    ],
     "featuring_artists": [
       "Big Trill",
       "Coca Vango",
@@ -63170,6 +64445,7 @@
     "artists": [
       "Big Trill",
       "Coca Vango",
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com",
       "Young Dolph"
     ],
     "credits": [
@@ -63187,9 +64463,14 @@
         "entity": "Young Dolph",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Hip-Hop-TXL-Vol-88-HipHopTXL.com",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02849",
@@ -63264,14 +64545,17 @@
     "title": "I Like That",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com"
+    ],
     "featuring_artists": [
       "Angelo Dorsey",
       "Fetty Wap"
     ],
     "artists": [
       "Angelo Dorsey",
-      "Fetty Wap"
+      "Fetty Wap",
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com"
     ],
     "credits": [
       {
@@ -63283,9 +64567,14 @@
         "entity": "Fetty Wap",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Hip-Hop-TXL-Vol-88-HipHopTXL.com",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02852",
@@ -63315,12 +64604,15 @@
     "title": "Spend It (Remix)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com"
+    ],
     "featuring_artists": [
       "Young M.a",
       "Young Thug"
     ],
     "artists": [
+      "Hip-Hop-TXL-Vol-88-HipHopTXL.com",
       "Young M.a",
       "Young Thug"
     ],
@@ -63334,9 +64626,14 @@
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Hip-Hop-TXL-Vol-88-HipHopTXL.com",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02854",
@@ -64054,14 +65351,17 @@
     "title": "Respect",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "TXL74FINAL"
+    ],
     "featuring_artists": [
       "Juicy J",
       "K Camp"
     ],
     "artists": [
       "Juicy J",
-      "K Camp"
+      "K Camp",
+      "TXL74FINAL"
     ],
     "credits": [
       {
@@ -64073,9 +65373,14 @@
         "entity": "K Camp",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "TXL74FINAL",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02883",
@@ -64135,7 +65440,9 @@
     "title": "Harder Than Them (Remix)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "TXL74FINAL"
+    ],
     "featuring_artists": [
       "Dave East",
       "Manolo Rose",
@@ -64144,6 +65451,7 @@
     "artists": [
       "Dave East",
       "Manolo Rose",
+      "TXL74FINAL",
       "Uncle Murda"
     ],
     "credits": [
@@ -64161,9 +65469,14 @@
         "entity": "Uncle Murda",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "TXL74FINAL",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-02886",
@@ -69046,11 +70359,14 @@
     "title": "hammer",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nothing,Nowhere"
+    ],
     "featuring_artists": [
       "nowhere"
     ],
     "artists": [
+      "Nothing,Nowhere",
       "nowhere"
     ],
     "credits": [
@@ -69058,9 +70374,14 @@
         "entity": "nowhere",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nothing,Nowhere",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03099",
@@ -69068,11 +70389,14 @@
     "title": "clarity in kerosene",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nothing,Nowhere"
+    ],
     "featuring_artists": [
       "nowhere"
     ],
     "artists": [
+      "Nothing,Nowhere",
       "nowhere"
     ],
     "credits": [
@@ -69080,9 +70404,14 @@
         "entity": "nowhere",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nothing,Nowhere",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03100",
@@ -69090,11 +70419,14 @@
     "title": "deadbeat valentine",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nothing,Nowhere"
+    ],
     "featuring_artists": [
       "nowhere"
     ],
     "artists": [
+      "Nothing,Nowhere",
       "nowhere"
     ],
     "credits": [
@@ -69102,9 +70434,14 @@
         "entity": "nowhere",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nothing,Nowhere",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03101",
@@ -69112,11 +70449,14 @@
     "title": "rem ft",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nothing,Nowhere"
+    ],
     "featuring_artists": [
       "nowhere"
     ],
     "artists": [
+      "Nothing,Nowhere",
       "nowhere"
     ],
     "credits": [
@@ -69124,9 +70464,14 @@
         "entity": "nowhere",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nothing,Nowhere",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03102",
@@ -69134,11 +70479,14 @@
     "title": "tough luck",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nothing,Nowhere"
+    ],
     "featuring_artists": [
       "nowhere"
     ],
     "artists": [
+      "Nothing,Nowhere",
       "nowhere"
     ],
     "credits": [
@@ -69146,9 +70494,14 @@
         "entity": "nowhere",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nothing,Nowhere",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03103",
@@ -69156,11 +70509,14 @@
     "title": "twenty something",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Nothing,Nowhere"
+    ],
     "featuring_artists": [
       "nowhere"
     ],
     "artists": [
+      "Nothing,Nowhere",
       "nowhere"
     ],
     "credits": [
@@ -69168,9 +70524,14 @@
         "entity": "nowhere",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Nothing,Nowhere",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03104",
@@ -72999,11 +74360,21 @@
     "title": "Crazy",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Action Bronson"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Action Bronson"
+    ],
+    "credits": [
+      {
+        "entity": "Action Bronson",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03269",
@@ -73279,11 +74650,14 @@
     "title": "Juicy J)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Big Sean"
+    ],
     "featuring_artists": [
       "Nicki Minaj"
     ],
     "artists": [
+      "Big Sean",
       "Nicki Minaj"
     ],
     "credits": [
@@ -73291,9 +74665,14 @@
         "entity": "Nicki Minaj",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Big Sean",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03282",
@@ -73411,11 +74790,14 @@
     "title": "Mano Olympicks) (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Big Sean"
+    ],
     "featuring_artists": [
       "N/A"
     ],
     "artists": [
+      "Big Sean",
       "N/A"
     ],
     "credits": [
@@ -73423,9 +74805,14 @@
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Big Sean",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03288",
@@ -75289,21 +76676,29 @@
     "title": "Jay Ant)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "G-Eazy"
+    ],
     "featuring_artists": [
       "E-40"
     ],
     "artists": [
-      "E-40"
+      "E-40",
+      "G-Eazy"
     ],
     "credits": [
       {
         "entity": "E-40",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "G-Eazy",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03368",
@@ -75333,21 +76728,29 @@
     "title": "Danny Seth)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "G-Eazy"
+    ],
     "featuring_artists": [
       "A$AP Ferg"
     ],
     "artists": [
-      "A$AP Ferg"
+      "A$AP Ferg",
+      "G-Eazy"
     ],
     "credits": [
       {
         "entity": "A$AP Ferg",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "G-Eazy",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03370",
@@ -75487,11 +76890,14 @@
     "title": "I",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "G-Eazy"
+    ],
     "featuring_artists": [
       "Myself"
     ],
     "artists": [
+      "G-Eazy",
       "Myself"
     ],
     "credits": [
@@ -75499,9 +76905,14 @@
         "entity": "Myself",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "G-Eazy",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03377",
@@ -75553,11 +76964,14 @@
     "title": "E-40)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "G-Eazy"
+    ],
     "featuring_artists": [
       "Keyshia Cole"
     ],
     "artists": [
+      "G-Eazy",
       "Keyshia Cole"
     ],
     "credits": [
@@ -75565,9 +76979,14 @@
         "entity": "Keyshia Cole",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "G-Eazy",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03380",
@@ -78615,21 +80034,29 @@
     "title": "Soul Troi",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lupe Fiasco"
+    ],
     "featuring_artists": [
       "Ab"
     ],
     "artists": [
-      "Ab"
+      "Ab",
+      "Lupe Fiasco"
     ],
     "credits": [
       {
         "entity": "Ab",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lupe Fiasco",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03518",
@@ -81969,11 +83396,21 @@
     "title": "Comma Sutra Mixtape)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Thugga Massina"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Thugga Massina"
+    ],
+    "credits": [
+      {
+        "entity": "Thugga Massina",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03668",
@@ -81981,11 +83418,21 @@
     "title": "Comma Sutra Mixtape)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Thugga Massina"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Thugga Massina"
+    ],
+    "credits": [
+      {
+        "entity": "Thugga Massina",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03669",
@@ -81993,11 +83440,21 @@
     "title": "Sack Religious Mixtape)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Thugga Massina"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Thugga Massina"
+    ],
+    "credits": [
+      {
+        "entity": "Thugga Massina",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03670",
@@ -82277,21 +83734,29 @@
     "title": "Chainz)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Travis Scott"
+    ],
     "featuring_artists": [
       "Future"
     ],
     "artists": [
-      "Future"
+      "Future",
+      "Travis Scott"
     ],
     "credits": [
       {
         "entity": "Future",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Travis Scott",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03683",
@@ -82299,21 +83764,29 @@
     "title": "Young Thug)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Travis Scott"
+    ],
     "featuring_artists": [
       "Justin Bieber"
     ],
     "artists": [
-      "Justin Bieber"
+      "Justin Bieber",
+      "Travis Scott"
     ],
     "credits": [
       {
         "entity": "Justin Bieber",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Travis Scott",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03684",
@@ -82776,7 +84249,9 @@
     "title": "Meek Mill)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Travis Scott"
+    ],
     "featuring_artists": [
       "T.I.",
       "Travi$ Scott",
@@ -82786,6 +84261,7 @@
     "artists": [
       "T.I.",
       "Travi$ Scott",
+      "Travis Scott",
       "Young Dro",
       "Yung Booke"
     ],
@@ -82809,9 +84285,14 @@
         "entity": "Yung Booke",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Travis Scott",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03705",
@@ -83179,11 +84660,21 @@
     "title": "Love Scars 2 (Ft FOREVERANTiPoP Chris King)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Trippie Redd"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Trippie Redd"
+    ],
+    "credits": [
+      {
+        "entity": "Trippie Redd",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03722",
@@ -85892,11 +87383,21 @@
     "title": "Save the World (feat",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Metro Boomin"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Metro Boomin"
+    ],
+    "credits": [
+      {
+        "entity": "Metro Boomin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03844",
@@ -85926,11 +87427,14 @@
     "title": "Travis Scott)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Metro Boomin"
+    ],
     "featuring_artists": [
       "Swae Lee"
     ],
     "artists": [
+      "Metro Boomin",
       "Swae Lee"
     ],
     "credits": [
@@ -85938,9 +87442,14 @@
         "entity": "Swae Lee",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Metro Boomin",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03846",
@@ -85948,11 +87457,14 @@
     "title": "Wizkid)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Metro Boomin"
+    ],
     "featuring_artists": [
       "Swae Lee"
     ],
     "artists": [
+      "Metro Boomin",
       "Swae Lee"
     ],
     "credits": [
@@ -85960,9 +87472,14 @@
         "entity": "Swae Lee",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Metro Boomin",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03847",
@@ -85970,12 +87487,15 @@
     "title": "J Balvin)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Metro Boomin"
+    ],
     "featuring_artists": [
       "Offset",
       "Wizkid"
     ],
     "artists": [
+      "Metro Boomin",
       "Offset",
       "Wizkid"
     ],
@@ -85989,9 +87509,14 @@
         "entity": "Wizkid",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Metro Boomin",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03848",
@@ -85999,13 +87524,16 @@
     "title": "Savage)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Metro Boomin"
+    ],
     "featuring_artists": [
       "Kodak Black",
       "Travis Scott"
     ],
     "artists": [
       "Kodak Black",
+      "Metro Boomin",
       "Travis Scott"
     ],
     "credits": [
@@ -86018,9 +87546,14 @@
         "entity": "Travis Scott",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Metro Boomin",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03849",
@@ -86028,14 +87561,17 @@
     "title": "Kendrick Lamar)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "mike will ransom 1 2"
+    ],
     "featuring_artists": [
       "Future",
       "Lil Wayne"
     ],
     "artists": [
       "Future",
-      "Lil Wayne"
+      "Lil Wayne",
+      "mike will ransom 1 2"
     ],
     "credits": [
       {
@@ -86047,9 +87583,14 @@
         "entity": "Lil Wayne",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "mike will ransom 1 2",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03850",
@@ -86057,13 +87598,16 @@
     "title": "Problem)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "mike will ransom 1 2"
+    ],
     "featuring_artists": [
       "Future",
       "Young Thug"
     ],
     "artists": [
       "Future",
+      "mike will ransom 1 2",
       "Young Thug"
     ],
     "credits": [
@@ -86076,9 +87620,14 @@
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "mike will ransom 1 2",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03851",
@@ -86086,11 +87635,14 @@
     "title": "Future)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "mike will ransom 1 2"
+    ],
     "featuring_artists": [
       "Swae Lee"
     ],
     "artists": [
+      "mike will ransom 1 2",
       "Swae Lee"
     ],
     "credits": [
@@ -86098,9 +87650,14 @@
         "entity": "Swae Lee",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "mike will ransom 1 2",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03852",
@@ -90713,11 +92270,14 @@
     "title": "IM UP Mixtape",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gucci Mane"
+    ],
     "featuring_artists": [
       "Jim Jones"
     ],
     "artists": [
+      "Gucci Mane",
       "Jim Jones"
     ],
     "credits": [
@@ -90725,9 +92285,14 @@
         "entity": "Jim Jones",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Gucci Mane",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04051",
@@ -91001,21 +92566,29 @@
     "title": "Webbie)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Gucci Mane"
+    ],
     "featuring_artists": [
       "Foxx"
     ],
     "artists": [
-      "Foxx"
+      "Foxx",
+      "Gucci Mane"
     ],
     "credits": [
       {
         "entity": "Foxx",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Gucci Mane",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04063",
@@ -93807,16 +95380,24 @@
       "Wicced- Fortune- @JoseGuapo"
     ],
     "artists": [
+      "Offset",
+      "Quavo",
+      "Takeoff",
       "Wicced- Fortune- @JoseGuapo"
     ],
     "credits": [
+      {
+        "entity": "Migos",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "Wicced- Fortune- @JoseGuapo",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04184",
@@ -95996,16 +97577,23 @@
       "Riff 3x"
     ],
     "artists": [
-      "Riff 3x"
+      "Riff 3x",
+      "Slim Jxmmi",
+      "Swae Lee"
     ],
     "credits": [
+      {
+        "entity": "Rae Sremmurd",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "Riff 3x",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04280",
@@ -96519,11 +98107,21 @@
     "title": "72b0-4f50-98e5-dc93dd310d06",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich Homie Quan"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Rich Homie Quan"
+    ],
+    "credits": [
+      {
+        "entity": "Rich Homie Quan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04304",
@@ -98363,21 +99961,29 @@
     "title": "Trouble - Real Niggaz",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Rich Homie Quan"
     ],
     "artists": [
-      "Rich Homie Quan"
+      "Rich Homie Quan",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Rich Homie Quan",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04382",
@@ -98459,21 +100065,29 @@
     "title": "Lil Durk - Jumpin Like Jordan (Remix)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Migos"
     ],
     "artists": [
-      "Migos"
+      "Migos",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Migos",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04386",
@@ -98555,21 +100169,29 @@
     "title": "Young Thug - In Too Deep",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Rich Homie Quan"
     ],
     "artists": [
-      "Rich Homie Quan"
+      "Rich Homie Quan",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Rich Homie Quan",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04390",
@@ -99013,11 +100635,14 @@
     "title": "HoodRich Pablo Juan",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Skippa Da Flippa"
     ],
     "artists": [
+      "Rich The Kid",
       "Skippa Da Flippa"
     ],
     "credits": [
@@ -99025,9 +100650,14 @@
         "entity": "Skippa Da Flippa",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04409",
@@ -99057,21 +100687,29 @@
     "title": "Cash Carti",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Kodak Black"
     ],
     "artists": [
-      "Kodak Black"
+      "Kodak Black",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Kodak Black",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04411",
@@ -99255,21 +100893,29 @@
     "title": "Famous Dex) (Bonus)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Payboi Carti"
     ],
     "artists": [
-      "Payboi Carti"
+      "Payboi Carti",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Payboi Carti",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04420",
@@ -99431,21 +101077,29 @@
     "title": "Rowdy Rebel)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Bobby Shmurda"
     ],
     "artists": [
-      "Bobby Shmurda"
+      "Bobby Shmurda",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Bobby Shmurda",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04428",
@@ -99475,21 +101129,29 @@
     "title": "Johnny Cinco)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Peewee Longway"
     ],
     "artists": [
-      "Peewee Longway"
+      "Peewee Longway",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Peewee Longway",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04430",
@@ -99681,21 +101343,29 @@
     "title": "Offset)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Quavo"
     ],
     "artists": [
-      "Quavo"
+      "Quavo",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Quavo",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04439",
@@ -99747,21 +101417,29 @@
     "title": "Ty Dolla $ign)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Miguel"
     ],
     "artists": [
-      "Miguel"
+      "Miguel",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Miguel",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04442",
@@ -99769,21 +101447,29 @@
     "title": "Takeoff)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Rich The Kid"
+    ],
     "featuring_artists": [
       "Lil Pump"
     ],
     "artists": [
-      "Lil Pump"
+      "Lil Pump",
+      "Rich The Kid"
     ],
     "credits": [
       {
         "entity": "Lil Pump",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rich The Kid",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04443",
@@ -100925,7 +102611,9 @@
     "title": "T.I.P",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "21 Savage",
       "Duke",
@@ -100958,9 +102646,14 @@
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04489",
@@ -101624,7 +103317,9 @@
     "title": "Chanel West Coast)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "Young Thug"
     ],
@@ -101636,9 +103331,14 @@
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04517",
@@ -101888,21 +103588,29 @@
     "title": "Future",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "Detail"
     ],
     "artists": [
-      "Detail"
+      "Detail",
+      "Young Thug"
     ],
     "credits": [
       {
         "entity": "Detail",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04529",
@@ -101910,7 +103618,9 @@
     "title": "Future",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "Birdman",
       "Lil Wayne",
@@ -101921,7 +103631,8 @@
       "Birdman",
       "Lil Wayne",
       "Mack Maine",
-      "Nicki Minaj"
+      "Nicki Minaj",
+      "Young Thug"
     ],
     "credits": [
       {
@@ -101943,9 +103654,14 @@
         "entity": "Nicki Minaj",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04530",
@@ -101953,7 +103669,9 @@
     "title": "Birdman",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "Ace Hood",
       "Gudda Gudda",
@@ -101966,7 +103684,8 @@
       "Gudda Gudda",
       "Jae Millz",
       "Mack Maine",
-      "Mystikal"
+      "Mystikal",
+      "Young Thug"
     ],
     "credits": [
       {
@@ -101993,9 +103712,14 @@
         "entity": "Mystikal",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04531",
@@ -102003,14 +103727,17 @@
     "title": "Lil Wayne",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "Birdman",
       "T.I."
     ],
     "artists": [
       "Birdman",
-      "T.I."
+      "T.I.",
+      "Young Thug"
     ],
     "credits": [
       {
@@ -102022,9 +103749,14 @@
         "entity": "T.I.",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04532",
@@ -102032,7 +103764,9 @@
     "title": "Mystikal",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "Future",
       "Meek Mill",
@@ -102043,7 +103777,8 @@
       "Future",
       "Meek Mill",
       "Stevie J",
-      "Tyga"
+      "Tyga",
+      "Young Thug"
     ],
     "credits": [
       {
@@ -102065,9 +103800,14 @@
         "entity": "Tyga",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04533",
@@ -102766,21 +104506,29 @@
     "title": "G",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "Gunna"
     ],
     "artists": [
-      "Gunna"
+      "Gunna",
+      "Young Thug"
     ],
     "credits": [
       {
         "entity": "Gunna",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04564",
@@ -102898,21 +104646,29 @@
     "title": "Dolly)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [
       "HiDoraah"
     ],
     "artists": [
-      "HiDoraah"
+      "HiDoraah",
+      "Young Thug"
     ],
     "credits": [
       {
         "entity": "HiDoraah",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04570",
@@ -103852,11 +105608,21 @@
     "title": "x EBK Jaaybo Gzzz",
     "source_root": "_trap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "EBK jaaybo"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "EBK jaaybo"
+    ],
+    "credits": [
+      {
+        "entity": "EBK jaaybo",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04609",
@@ -107393,21 +109159,29 @@
     "title": "right here (legendado)",
     "source_root": "_trap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Peep"
+    ],
     "featuring_artists": [
       "horsehead"
     ],
     "artists": [
-      "horsehead"
+      "horsehead",
+      "Lil Peep"
     ],
     "credits": [
       {
         "entity": "horsehead",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lil Peep",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04767",
@@ -111405,11 +113179,21 @@
     "title": "Six Double 0 (Pt",
     "source_root": "_trap",
     "folder_region": "Chicago",
-    "primary_artists": [],
+    "primary_artists": [
+      "RondoNumbaNine"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "RondoNumbaNine"
+    ],
+    "credits": [
+      {
+        "entity": "RondoNumbaNine",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04943",
@@ -112829,11 +114613,21 @@
     "title": "Sober (feat",
     "source_root": "_trap",
     "folder_region": "Chicago",
-    "primary_artists": [],
+    "primary_artists": [
+      "Chief Keef"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Chief Keef"
+    ],
+    "credits": [
+      {
+        "entity": "Chief Keef",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05005",
@@ -113149,11 +114943,14 @@
     "title": "Ballout (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "Chicago",
-    "primary_artists": [],
+    "primary_artists": [
+      "Chief Keef"
+    ],
     "featuring_artists": [
       "Lil Bibby"
     ],
     "artists": [
+      "Chief Keef",
       "Lil Bibby"
     ],
     "credits": [
@@ -113161,9 +114958,14 @@
         "entity": "Lil Bibby",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Chief Keef",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05020",
@@ -115643,11 +117445,14 @@
     "title": "Jusakid) (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "Chicago",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Bibby"
+    ],
     "featuring_artists": [
       "N/A"
     ],
     "artists": [
+      "Lil Bibby",
       "N/A"
     ],
     "credits": [
@@ -115655,9 +117460,14 @@
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lil Bibby",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05128",
@@ -115981,21 +117791,29 @@
     "title": "Polo G)",
     "source_root": "_trap",
     "folder_region": "Chicago",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Durk"
+    ],
     "featuring_artists": [
       "Lil Baby"
     ],
     "artists": [
-      "Lil Baby"
+      "Lil Baby",
+      "Lil Durk"
     ],
     "credits": [
       {
         "entity": "Lil Baby",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Lil Durk",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05143",
@@ -124154,11 +125972,21 @@
     "title": "3rd",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Pump"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Pump"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Pump",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05503",
@@ -124563,11 +126391,21 @@
     "title": "Whitley",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "XXXTentacion"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "XXXTentacion"
+    ],
+    "credits": [
+      {
+        "entity": "XXXTentacion",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05521",
@@ -125257,21 +127095,29 @@
     "title": "Mavado)",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "XXXTentacion"
+    ],
     "featuring_artists": [
       "Tory Lanez"
     ],
     "artists": [
-      "Tory Lanez"
+      "Tory Lanez",
+      "XXXTentacion"
     ],
     "credits": [
       {
         "entity": "Tory Lanez",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "XXXTentacion",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05553",
@@ -125323,14 +127169,17 @@
     "title": "Vybz Kartel)",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "XXXTentacion"
+    ],
     "featuring_artists": [
       "Ky-Mani Marley",
       "Stefflon Don"
     ],
     "artists": [
       "Ky-Mani Marley",
-      "Stefflon Don"
+      "Stefflon Don",
+      "XXXTentacion"
     ],
     "credits": [
       {
@@ -125342,9 +127191,14 @@
         "entity": "Stefflon Don",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "XXXTentacion",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05556",
@@ -125484,21 +127338,29 @@
     "title": "Trippie Redd)",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "XXXTentacion"
+    ],
     "featuring_artists": [
       "PnB Rock"
     ],
     "artists": [
-      "PnB Rock"
+      "PnB Rock",
+      "XXXTentacion"
     ],
     "credits": [
       {
         "entity": "PnB Rock",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "XXXTentacion",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05563",
@@ -127676,11 +129538,21 @@
     "title": "Blvd Mel, Fredo, Gee Money, YMM Captain",
     "source_root": "_trap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "Fredo Bang"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Fredo Bang"
+    ],
+    "credits": [
+      {
+        "entity": "Fredo Bang",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05658",
@@ -129662,11 +131534,21 @@
     "title": "Roll",
     "source_root": "_trap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "YoungBoy Never Broke Again"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "YoungBoy Never Broke Again"
+    ],
+    "credits": [
+      {
+        "entity": "YoungBoy Never Broke Again",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05747",
@@ -132007,11 +133889,14 @@
     "title": "Lil Durk)",
     "source_root": "_trap",
     "folder_region": "Louisiana",
-    "primary_artists": [],
+    "primary_artists": [
+      "quando rondo"
+    ],
     "featuring_artists": [
       "YSL Gunna"
     ],
     "artists": [
+      "quando rondo",
       "YSL Gunna"
     ],
     "credits": [
@@ -132019,9 +133904,14 @@
         "entity": "YSL Gunna",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "quando rondo",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05853",
@@ -135549,11 +137439,21 @@
     "title": "Bitch",
     "source_root": "_trap",
     "folder_region": "Memphis",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Dolph"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Young Dolph"
+    ],
+    "credits": [
+      {
+        "entity": "Young Dolph",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06006",
@@ -136111,11 +138011,21 @@
     "title": "Out",
     "source_root": "_trap",
     "folder_region": "Memphis",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Dolph"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Young Dolph"
+    ],
+    "credits": [
+      {
+        "entity": "Young Dolph",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06032",
@@ -136123,11 +138033,21 @@
     "title": "Dummer",
     "source_root": "_trap",
     "folder_region": "Memphis",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Dolph"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Young Dolph"
+    ],
+    "credits": [
+      {
+        "entity": "Young Dolph",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06033",
@@ -137679,11 +139599,14 @@
     "title": "Zack)",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A$AP Rocky"
+    ],
     "featuring_artists": [
       "A$AP Twelvyy"
     ],
     "artists": [
+      "A$AP Rocky",
       "A$AP Twelvyy"
     ],
     "credits": [
@@ -137691,9 +139614,14 @@
         "entity": "A$AP Twelvyy",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "A$AP Rocky",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06100",
@@ -137701,7 +139629,9 @@
     "title": "Playboi Carti)",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A$AP Rocky"
+    ],
     "featuring_artists": [
       "A$AP Ant",
       "A$AP Ferg",
@@ -137712,6 +139642,7 @@
       "A$AP Ant",
       "A$AP Ferg",
       "A$AP Nast",
+      "A$AP Rocky",
       "A$AP Twelvyy"
     ],
     "credits": [
@@ -137734,9 +139665,14 @@
         "entity": "A$AP Twelvyy",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "A$AP Rocky",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06101",
@@ -137744,7 +139680,9 @@
     "title": "Smooky MarGielaa)",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A$AP Rocky"
+    ],
     "featuring_artists": [
       "A$AP Ant",
       "A$AP Rocky"
@@ -137763,9 +139701,14 @@
         "entity": "A$AP Rocky",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "A$AP Rocky",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06102",
@@ -137795,11 +139738,21 @@
     "title": "a Living (feat",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A$AP Rocky"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "A$AP Rocky"
+    ],
+    "credits": [
+      {
+        "entity": "A$AP Rocky",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06104",
@@ -137807,21 +139760,29 @@
     "title": "Lil Uzi Vert)",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A$AP Rocky"
+    ],
     "featuring_artists": [
       "A$AP Ant"
     ],
     "artists": [
-      "A$AP Ant"
+      "A$AP Ant",
+      "A$AP Rocky"
     ],
     "credits": [
       {
         "entity": "A$AP Ant",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "A$AP Rocky",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06105",
@@ -138467,12 +140428,15 @@
     "title": "Kid Cudi)",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A$AP Rocky"
+    ],
     "featuring_artists": [
       "Moby",
       "T.I."
     ],
     "artists": [
+      "A$AP Rocky",
       "Moby",
       "T.I."
     ],
@@ -138486,9 +140450,14 @@
         "entity": "T.I.",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "A$AP Rocky",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06135",
@@ -139223,11 +141192,14 @@
     "title": "Youn",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A Boogie Wit da Hoodie"
+    ],
     "featuring_artists": [
       "PnB Rock"
     ],
     "artists": [
+      "A Boogie Wit da Hoodie",
       "PnB Rock"
     ],
     "credits": [
@@ -139235,9 +141207,14 @@
         "entity": "PnB Rock",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "A Boogie Wit da Hoodie",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06168",
@@ -140405,11 +142382,21 @@
     "title": "French Montana- Tunnel Vison",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Chinx"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Chinx"
+    ],
+    "credits": [
+      {
+        "entity": "Chinx",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06220",
@@ -142038,11 +144025,21 @@
     "title": "French Montana Chinx Drugz Meek Mill",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "French Montana"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "French Montana"
+    ],
+    "credits": [
+      {
+        "entity": "French Montana",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06290",
@@ -142116,11 +144113,21 @@
     "title": "Lil Durk",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "French Montana"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "French Montana"
+    ],
+    "credits": [
+      {
+        "entity": "French Montana",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06294",
@@ -144030,11 +146037,21 @@
     "title": "Maaly Raw]",
     "source_root": "_trap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Uzi Vert"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Uzi Vert"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Uzi Vert",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06380",
@@ -144954,21 +146971,29 @@
     "title": "Nicki Minaj)",
     "source_root": "_trap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Meek Mill"
+    ],
     "featuring_artists": [
       "Chris Brown"
     ],
     "artists": [
-      "Chris Brown"
+      "Chris Brown",
+      "Meek Mill"
     ],
     "credits": [
       {
         "entity": "Chris Brown",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Meek Mill",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06421",
@@ -145064,11 +147089,14 @@
     "title": "Rick Ross",
     "source_root": "_trap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Meek Mill"
+    ],
     "featuring_artists": [
       "TI Vado"
     ],
     "artists": [
+      "Meek Mill",
       "TI Vado"
     ],
     "credits": [
@@ -145076,9 +147104,14 @@
         "entity": "TI Vado",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Meek Mill",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06426",
@@ -145968,11 +148001,21 @@
     "title": "Started From the Bottom (TXL Remix) (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Drake"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Drake"
+    ],
+    "credits": [
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06465",
@@ -146650,11 +148693,14 @@
     "title": "Lil Wayne)",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Drake"
+    ],
     "featuring_artists": [
       "Trey Songz"
     ],
     "artists": [
+      "Drake",
       "Trey Songz"
     ],
     "credits": [
@@ -146662,9 +148708,14 @@
         "entity": "Trey Songz",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06495",
@@ -147055,11 +149106,21 @@
     "title": "Paris Morton Music 2",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Drake"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Drake"
+    ],
+    "credits": [
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06512",
@@ -147067,11 +149128,14 @@
     "title": "Big Sean",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Drake"
+    ],
     "featuring_artists": [
       "N/A"
     ],
     "artists": [
+      "Drake",
       "N/A"
     ],
     "credits": [
@@ -147079,9 +149143,14 @@
         "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06513",
@@ -149433,11 +151502,21 @@
     "title": "Another One",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Tory Lanez"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Tory Lanez"
+    ],
+    "credits": [
+      {
+        "entity": "Tory Lanez",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06617",
@@ -149511,11 +151590,21 @@
     "title": "(Prod Play Picasso x Tory Lanez) (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Tory Lanez"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Tory Lanez"
+    ],
+    "credits": [
+      {
+        "entity": "Tory Lanez",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06621",
@@ -149523,11 +151612,21 @@
     "title": "(Prod Tory Lanez x Play Picasso) (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Tory Lanez"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Tory Lanez"
+    ],
+    "credits": [
+      {
+        "entity": "Tory Lanez",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06622",

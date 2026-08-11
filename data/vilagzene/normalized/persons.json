@@ -100,23 +100,25 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "le bal des tziganes": {
+    "song_ids": [
+      "vz-00013",
+      "vz-00015"
+    ],
+    "primary_song_ids": [
+      "vz-00013",
+      "vz-00015"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Bubamara": {
     "song_ids": [
       "vz-00014"
     ],
     "primary_song_ids": [
       "vz-00014"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "le bal des tziganes": {
-    "song_ids": [
-      "vz-00015"
-    ],
-    "primary_song_ids": [
-      "vz-00015"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

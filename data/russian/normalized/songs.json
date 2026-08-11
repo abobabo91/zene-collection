@@ -756,40 +756,40 @@
     "file": "_other\\_russian\\LD Russian music - YouTube\\БЭ ПЭ - Лавэ   Премьера Трека 2019.mp3",
     "title": "Лавэ Премьера Трека 2019",
     "primary_artists": [
-      "N/A"
+      "LD Russian music"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "LD Russian music"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "LD Russian music",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "ru-00036",
     "file": "_other\\_russian\\LD Russian music - YouTube\\БЭ ПЭ - Лавэ (STI1 Remix).mp3",
     "title": "Лавэ (STI1 Remix)",
     "primary_artists": [
-      "N/A"
+      "LD Russian music"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "LD Russian music"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "LD Russian music",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "ru-00037",
@@ -816,20 +816,20 @@
     "file": "_other\\_russian\\LD Russian music - YouTube\\Саша Санта и Камила Измайлова - О любви (Kllements Remix).mp3",
     "title": "О любви (Kllements Remix)",
     "primary_artists": [
-      "N/A"
+      "LD Russian music"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "LD Russian music"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "LD Russian music",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "ru-00039",
@@ -1096,20 +1096,20 @@
     "file": "_other\\_russian\\MiyaGi Playlist - YouTube\\Эндшпиль – Я подарю... (Ston Heng prod.).mp3",
     "title": "Я подарю... (Ston Heng prod",
     "primary_artists": [
-      "N/A"
+      "MiyaGi"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "MiyaGi"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "MiyaGi",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "ru-00053",

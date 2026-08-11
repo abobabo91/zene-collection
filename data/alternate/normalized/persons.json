@@ -2011,12 +2011,14 @@
     "song_ids": [
       "al-00340",
       "al-00341",
-      "al-00342"
+      "al-00342",
+      "al-00343"
     ],
     "primary_song_ids": [
       "al-00340",
       "al-00341",
-      "al-00342"
+      "al-00342",
+      "al-00343"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2331,9 +2333,11 @@
   },
   "Josh Rouse": {
     "song_ids": [
+      "al-00418",
       "al-00419"
     ],
     "primary_song_ids": [
+      "al-00418",
       "al-00419"
     ],
     "feature_song_ids": [],

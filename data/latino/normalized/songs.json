@@ -1694,38 +1694,38 @@
     "file": "_other\\_latino\\_oldschool\\Xtreme\\Friday Nigh - Xtreme.mp3",
     "title": "Xtreme",
     "primary_artists": [
-      "N/A"
+      "Xtreme"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Xtreme"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Xtreme",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00082",
     "file": "_other\\_latino\\_oldschool\\Xtreme\\XTREME  MY FANTASY  ft Sofla Kings - New English Track.mp3",
     "title": "New English Track",
     "primary_artists": [
-      "N/A"
+      "Xtreme"
     ],
     "featuring_artists": [
       "Sofla Kings"
     ],
     "artists": [
-      "N/A",
+      "Xtreme",
       "Sofla Kings"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Xtreme",
         "entity_type": "person",
         "role": "primary"
       },
@@ -1735,7 +1735,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00083",
@@ -2524,22 +2524,22 @@
   {
     "song_id": "lt-00119",
     "file": "_other\\_latino\\_random\\reguetoneo del bueno\\BLESSD   INSTAGRAM 😈 ( OFFICIAL VIDEO ).mp3",
-    "title": "BLESSD INSTAGRAM 😈",
+    "title": "INSTAGRAM 😈",
     "primary_artists": [
-      "N/A"
+      "Blessd"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Blessd"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Blessd",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00120",
@@ -2823,20 +2823,20 @@
     "file": "_other\\_latino\\Anuel AA\\Anuel AA ➕ Haze - Amanece 🌅 [Official Video].mp3",
     "title": "Amanece 🌅",
     "primary_artists": [
-      "N/A"
+      "Anuel AA"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Anuel AA"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Anuel AA",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00133",
@@ -5692,20 +5692,20 @@
     "file": "_other\\_latino\\Rauw Alejandro mix\\LEJOS DEL CIELO - Rauw Alejandro (Official Video).mp3",
     "title": "Rauw Alejandro",
     "primary_artists": [
-      "N/A"
+      "Rauw Alejandro"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Rauw Alejandro"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Rauw Alejandro",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00257",

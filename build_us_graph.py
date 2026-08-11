@@ -8,9 +8,13 @@ from pathlib import Path
 from common import (
     AUDIO_EXTS, DATA_ROOT, UNICODE_DASH_RE, ZENE,
     clean_artist_text, clean_title, extract_primary_and_features,
-    folder_artist, is_junk_name, load_mappings_file, normalize_key,
+    folder_artist, is_junk_name, load_known_artists, load_mappings_file, normalize_key,
     split_artists, squashed_lookup,
 )
+
+#: Artists the collection already credits. The folder fallback below consults it so that a
+#: folder is only promoted to an artist when it is one somewhere else too.
+KNOWN_ARTISTS = load_known_artists()
 
 DATA_DIR = DATA_ROOT / "us"
 MAPPINGS_PATH = DATA_DIR / "us_rap_trap_mappings.md"
@@ -487,6 +491,21 @@ def build_graph() -> dict:
         primary_artist = prefer_display_name(primary_artists[0], mappings)
         if normalize_key(primary_artist) in {"unknown artist", "various artists"}:
             primary_artist = UNKNOWN_ARTIST
+        # The folder fallback above only runs when the filename yielded *no* credit. A
+        # filename can also yield a credit that is junk: `12 Homecoming  (ft. Chris
+        # Martin)` has a double space, so the chunk rule read `12 Homecoming` as the
+        # artist, `prefer_display_name` rejected it, and the track went unattributed with
+        # `Kanye West` sitting right there in the path. Retry the folder whenever the name
+        # produced nothing usable - it can only replace UNKNOWN, never a real credit.
+        if primary_artist == UNKNOWN_ARTIST:
+            context_artist = first_artist_context(rel_parts, mappings)
+            # A folder holding a dash is an `Artist - Album` or a compilation title, not a
+            # name - this fallback otherwise invents artists like `Wale - The Gifted` and
+            # `Funk Master Flex Big Kap - The Tunnel`.
+            if context_artist and normalize_key(context_artist) in KNOWN_ARTISTS:
+                recovered = prefer_display_name(context_artist, mappings)
+                if normalize_key(recovered) not in {"unknown artist", "various artists"}:
+                    primary_artist = recovered
         primary_key = normalize_key(primary_artist)
         primary_artist = display_name_by_key.setdefault(primary_key, primary_artist)
         featuring = [prefer_display_name(name, mappings) for name in featuring if name]

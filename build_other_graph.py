@@ -9,11 +9,13 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+import re
+
 from common import (
     AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE,
     clean_artist_text, clean_title, extract_primary_and_features,
-    folder_artist, is_junk_name, normalize_key, parse_mapping_block, split_artists,
-    squashed_lookup,
+    folder_artist, is_junk_name, load_known_artists, normalize_key,
+    parse_mapping_block, split_artists, squashed_lookup,
 )
 
 # ─── Per-area config ───
@@ -545,6 +547,35 @@ def infer_credit_and_title(path_parts: list[str], filename: str, mappings: dict,
     return context, title
 
 
+#: Loaded once. Bootstrapped from the previous build's persons/groups, so it only ever
+#: recognises artists the collection already credits somewhere.
+KNOWN_ARTISTS = load_known_artists()
+
+_LEAD_TRACK = re.compile(r"^\s*\d{1,3}\s*[-._)]?\s+")
+
+
+def loose_name_candidates(filename: str) -> list[str]:
+    """Leading substrings of a filename that might be the artist.
+
+    Covers the three shapes seen in the flat folders: a double space between artist and
+    title, a dash with no space before it, and a plain ` - `.
+    """
+    stem = _LEAD_TRACK.sub("", Path(filename).stem.replace("_", " ")).strip()
+    out = []
+    for rx in (r"\s{2,}", r"\s+-\s+", r"-"):
+        parts = [p.strip() for p in re.split(rx, stem, maxsplit=1)]
+        if len(parts) == 2 and parts[0] and parts[1]:
+            out.append(clean_artist_text(parts[0]))
+    return [c for c in out if c]
+
+
+def strip_leading_name(title: str, name: str) -> str:
+    """Drop the artist off the front of a title once it has been recognised."""
+    cleaned = re.sub(r"^\s*" + re.escape(name) + r"\s*[-–:]?\s*", "", title,
+                     flags=re.IGNORECASE).strip(" -–:")
+    return cleaned or title
+
+
 def scan_area(config: dict, mappings: dict) -> list[dict]:
     songs = []
     sid = 0
@@ -577,6 +608,37 @@ def scan_area(config: dict, mappings: dict) -> list[dict]:
         primary = [a for a in primary if a != "N/A"]
         featuring = [prefer_display(a, mappings, config) for a in feat_raw]
         featuring = [a for a in featuring if a != "N/A"]
+
+        # `infer_credit_and_title` already falls back to the folder when the *name* offers
+        # no credit. It cannot help when the name offers one that `prefer_display` then
+        # throws away as junk - `12 Homecoming  (ft. Chris Martin)` reads as the artist
+        # `12 Homecoming` - and the track goes unattributed with the artist folder sitting
+        # right there in the path. Retrying here can only replace nothing, never a credit.
+        if not primary:
+            fallback = first_artist_context(parts, mappings, config)
+            # A folder holding a dash is an `Artist - Album` or a mix title, not a name:
+            # reaching further up the tree turned `Mix - Lorde - Team` into an artist
+            # called `Lorde - MELODRAMA Playlist 2018`. Allowed only if the collection
+            # already credits that exact string somewhere.
+            # The folder must already be credited somewhere as an artist. Without that,
+            # the fallback promotes whatever the folder happens to be called:
+            # `green onions ect,, mod stuff`, `def jam fight for ny`, `Dr.Dre Discography`.
+            if fallback and normalize_key(fallback) in KNOWN_ARTISTS:
+                recovered = prefer_display(fallback, mappings, config)
+                if recovered != "N/A":
+                    primary = [recovered]
+
+        # Last resort, for the flat trees where there is no artist folder at all:
+        # `Basshunter  Now You_re Gone.mp3`, `Cascada- One more night.mp3`. Only a name the
+        # collection already credits elsewhere is accepted, so this can leave a song
+        # unattributed but cannot invent an artist out of a title.
+        if not primary:
+            for candidate in loose_name_candidates(audio_file.name):
+                match = KNOWN_ARTISTS.get(normalize_key(candidate))
+                if match:
+                    primary = [match]
+                    title = strip_leading_name(title, candidate)
+                    break
 
         if not primary:
             primary = ["N/A"]

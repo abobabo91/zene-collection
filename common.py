@@ -219,6 +219,54 @@ def parse_mapping_block(lines: list[str]) -> dict[str, list[str]]:
     return results
 
 
+#: Words that describe a *release*, never a person. A folder called any of these is a
+#: container, and promoting it to an artist is always wrong.
+_RELEASE_DESCRIPTOR = re.compile(
+    r"discograph|soundtrack|greatest hits|full album|mixtape|playlist|,,|\bect\b|"
+    r"\bremastered\b|\bcollection\b|\bboxset\b|\bbest of\b", re.IGNORECASE)
+
+
+def load_known_artists(min_songs: int = 2) -> dict[str, str]:
+    """Every artist the collection already credits, as normalized key -> display name.
+
+    Used as a last resort when a filename in a flat folder looks like `Artist  Title` or
+    `Artist- Title`. Accepting only names that are already credited elsewhere means the
+    worst case is that a song stays unattributed, which is where it already was - it
+    cannot invent a person, which is the failure mode that matters here.
+
+    `min_songs` guards against bootstrapping off a junk entry that itself has one song.
+    """
+    import json
+    known: dict[str, str] = {}
+    if not DATA_ROOT.exists():
+        return known
+    for area in sorted(DATA_ROOT.iterdir()):
+        for filename in ("persons.json", "groups.json"):
+            path = area / "normalized" / filename
+            if not path.exists():
+                continue
+            try:
+                entries = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            for name, value in entries.items():
+                if name in ("N/A", "Unknown") or not isinstance(value, dict):
+                    continue
+                # Never bootstrap off a previous run's mistake. Admitting one here makes it
+                # permanent, because the folder-fallback guard consults this set: `Phil
+                # Collins - Another Day In Paradise` and `Dr.Dre Discography` would keep
+                # re-authorising themselves on every rebuild, and the fallback would keep
+                # crediting more songs to them.
+                if " - " in name or _RELEASE_DESCRIPTOR.search(name):
+                    continue
+                if len(value.get("song_ids", [])) < min_songs:
+                    continue
+                key = normalize_key(name)
+                if len(key) >= 3:
+                    known.setdefault(key, name)
+    return known
+
+
 def split_md_sections(text: str) -> dict[str, list[str]]:
     """Split a mappings markdown file into its `## ` sections, keyed by lowercased title."""
     from collections import defaultdict

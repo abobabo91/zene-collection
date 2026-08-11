@@ -4393,22 +4393,22 @@
   {
     "song_id": "el-00206",
     "file": "_other\\_elektro\\edm_electronic_pop\\Basshunter  Now You_re Gone.mp3",
-    "title": "Basshunter Now You re Gone",
+    "title": "Now You re Gone",
     "primary_artists": [
-      "N/A"
+      "Basshunter"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Basshunter"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Basshunter",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-00207",
@@ -4629,22 +4629,22 @@
   {
     "song_id": "el-00217",
     "file": "_other\\_elektro\\edm_electronic_pop\\Cascada- One more night.mp3",
-    "title": "Cascada- One more night",
+    "title": "One more night",
     "primary_artists": [
-      "N/A"
+      "Cascada"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Cascada"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Cascada",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-00218",
@@ -10831,22 +10831,22 @@
   {
     "song_id": "el-00508",
     "file": "_other\\_elektro\\experimental\\Recondite-Stems [Ghostly International]-electrobuzz.mp3",
-    "title": "Recondite-Stems [Ghostly International]-electrobuzz",
+    "title": "Stems [Ghostly International]-electrobuzz",
     "primary_artists": [
-      "N/A"
+      "Recondite"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Recondite"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Recondite",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-00509",
@@ -11091,22 +11091,22 @@
   {
     "song_id": "el-00521",
     "file": "_other\\_elektro\\experimental\\You are Liquid\\The XX   Intro long version].mp3",
-    "title": "The XX Intro long version]",
+    "title": "Intro long version]",
     "primary_artists": [
-      "N/A"
+      "The xx"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "The xx"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "The xx",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-00522",
@@ -15081,22 +15081,22 @@
   {
     "song_id": "el-00710",
     "file": "_other\\_elektro\\house_techno\\Ellie Goulding _Your Song_.mp3",
-    "title": "Ellie Goulding Your Song",
+    "title": "Your Song",
     "primary_artists": [
-      "N/A"
+      "Ellie Goulding"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Ellie Goulding"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Ellie Goulding",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-00711",

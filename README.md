@@ -179,6 +179,42 @@ cannot tell a remix from an original.
 
 Removals are **moved to `_dupes_removed/`**, mirroring their original path, never deleted.
 
+### Recovering unattributed songs, without inventing anyone
+
+A song with no credit is not the same as a song whose credit was thrown away. On
+2026-08-11 the unattributed count went from 1,163 to 843 by fixing the second kind. The
+count of songs whose artist *changed* was zero - every recovery filled a blank.
+
+Two failures were doing the damage:
+
+- **A junk credit blocks the folder fallback.** Both builders fell back to the artist
+  folder only when the filename yielded *no* credit. `Kanye West/Graduation/12 Homecoming
+  (ft. Chris Martin).mp3` has a double space, so the loose-stem rule read `12 Homecoming`
+  as the artist; `prefer_display` rejected it as junk, and because a credit *had* been
+  produced the fallback never ran. 262 US songs sat unattributed with the artist folder
+  directly above them. The fallback now also fires when the derived credit collapses to
+  unknown - it can only replace nothing, never a real credit.
+- **Flat folders have no artist folder at all.** `_other/_elektro/edm_electronic_pop/
+  Cascada- One more night.mp3` carries the artist only in the filename, in a shape the
+  parser misses (double space, or a dash with no space before it).
+
+For the flat case the name is only accepted if the collection **already credits that
+artist somewhere else** (`common.load_known_artists`). The worst case is then a song
+staying unattributed, which is where it already was; it cannot mint a person out of a
+title. `Fantasy.mp3` and `01 - Color Of Blood.mp3` correctly stay blank.
+
+The same gate guards the folder fallback, because without it the fallback promotes whatever
+the folder happens to be called: `green onions ect,, mod stuff`, `def jam fight for ny`,
+`Dr.Dre Discography`.
+
+**Never bootstrap the known-artist set off a previous run's mistake.** The set is loaded
+from the last build's `persons.json`, and the fallback consults it - so an entry like
+`Phil Collins - Another Day In Paradise` or `Dr.Dre Discography` would re-authorise itself
+every rebuild and accumulate more songs. Names containing ` - `, and names matching a
+release descriptor (`discography`, `soundtrack`, `greatest hits`, `mixtape`, …), are
+excluded when the set is built. With that in place the rebuild is idempotent: two
+consecutive runs produce identical counts.
+
 ### A genre folder read as an artist
 
 A subgenre folder holding loose files becomes the area's top "artist": `_afrobeats` had 32

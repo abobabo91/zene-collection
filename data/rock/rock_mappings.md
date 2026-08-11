@@ -48,3 +48,10 @@
 - `My Chemical Romance: My Chemical Romance-May Death Never Stop You Mp3`
 - `The Velvet Underground: The Velvet Underground by thephoenixforlove`
 - `Deafheaven: Deafheaven - Sunbather`
+
+## Alias normalization
+
+Release folders carrying the artist's name. The folder fallback would otherwise
+credit songs to the folder itself.
+
+- `Daryl Hall & John Oates: Oates Greatest Hits Remastered`

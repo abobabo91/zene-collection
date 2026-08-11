@@ -921,6 +921,19 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Logic": {
+    "song_ids": [
+      "ir-00145",
+      "ir-00146"
+    ],
+    "primary_song_ids": [
+      "ir-00145",
+      "ir-00146"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Lowkey": {
     "song_ids": [
       "ir-00146",
@@ -929,17 +942,6 @@
     "primary_song_ids": [
       "ir-00146",
       "ir-00225"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Logic": {
-    "song_ids": [
-      "ir-00146"
-    ],
-    "primary_song_ids": [
-      "ir-00146"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1573,12 +1575,22 @@
       "ir-00212",
       "ir-00213",
       "ir-00214",
+      "ir-00215",
+      "ir-00216",
+      "ir-00217",
+      "ir-00218",
+      "ir-00219",
       "ir-00220"
     ],
     "primary_song_ids": [
       "ir-00212",
       "ir-00213",
       "ir-00214",
+      "ir-00215",
+      "ir-00216",
+      "ir-00217",
+      "ir-00218",
+      "ir-00219",
       "ir-00220"
     ],
     "feature_song_ids": [],

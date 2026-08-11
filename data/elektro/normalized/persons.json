@@ -203,10 +203,12 @@
   "Ellie Goulding": {
     "song_ids": [
       "el-00020",
-      "el-00320"
+      "el-00320",
+      "el-00710"
     ],
     "primary_song_ids": [
-      "el-00320"
+      "el-00320",
+      "el-00710"
     ],
     "feature_song_ids": [
       "el-00020"
@@ -1902,6 +1904,41 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Basshunter": {
+    "song_ids": [
+      "el-00206",
+      "el-00372",
+      "el-00373",
+      "el-00374",
+      "el-00375",
+      "el-00376",
+      "el-00377",
+      "el-00378",
+      "el-00379",
+      "el-00380",
+      "el-00381",
+      "el-00382",
+      "el-00383"
+    ],
+    "primary_song_ids": [
+      "el-00206",
+      "el-00372",
+      "el-00373",
+      "el-00374",
+      "el-00375",
+      "el-00376",
+      "el-00377",
+      "el-00378",
+      "el-00379",
+      "el-00380",
+      "el-00381",
+      "el-00382",
+      "el-00383"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Benny Benassi": {
     "song_ids": [
       "el-00207",
@@ -1956,6 +1993,27 @@
     ],
     "primary_song_ids": [
       "el-00209"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cascada": {
+    "song_ids": [
+      "el-00217",
+      "el-00384",
+      "el-00385",
+      "el-00386",
+      "el-00387",
+      "el-00388"
+    ],
+    "primary_song_ids": [
+      "el-00217",
+      "el-00384",
+      "el-00385",
+      "el-00386",
+      "el-00387",
+      "el-00388"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3453,58 +3511,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Basshunter": {
-    "song_ids": [
-      "el-00372",
-      "el-00373",
-      "el-00374",
-      "el-00375",
-      "el-00376",
-      "el-00377",
-      "el-00378",
-      "el-00379",
-      "el-00380",
-      "el-00381",
-      "el-00382",
-      "el-00383"
-    ],
-    "primary_song_ids": [
-      "el-00372",
-      "el-00373",
-      "el-00374",
-      "el-00375",
-      "el-00376",
-      "el-00377",
-      "el-00378",
-      "el-00379",
-      "el-00380",
-      "el-00381",
-      "el-00382",
-      "el-00383"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Cascada": {
-    "song_ids": [
-      "el-00384",
-      "el-00385",
-      "el-00386",
-      "el-00387",
-      "el-00388"
-    ],
-    "primary_song_ids": [
-      "el-00384",
-      "el-00385",
-      "el-00386",
-      "el-00387",
-      "el-00388"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Carlprit": {
     "song_ids": [
       "el-00385"
@@ -4214,6 +4220,27 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Recondite": {
+    "song_ids": [
+      "el-00508",
+      "el-00559",
+      "el-00560",
+      "el-00561",
+      "el-00562",
+      "el-00563"
+    ],
+    "primary_song_ids": [
+      "el-00508",
+      "el-00559",
+      "el-00560",
+      "el-00561",
+      "el-00562",
+      "el-00563"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Synkro": {
     "song_ids": [
       "el-00511",
@@ -4290,6 +4317,17 @@
     ],
     "primary_song_ids": [
       "el-00520"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The xx": {
+    "song_ids": [
+      "el-00521"
+    ],
+    "primary_song_ids": [
+      "el-00521"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -4565,25 +4603,6 @@
     ],
     "primary_song_ids": [
       "el-00558"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Recondite": {
-    "song_ids": [
-      "el-00559",
-      "el-00560",
-      "el-00561",
-      "el-00562",
-      "el-00563"
-    ],
-    "primary_song_ids": [
-      "el-00559",
-      "el-00560",
-      "el-00561",
-      "el-00562",
-      "el-00563"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

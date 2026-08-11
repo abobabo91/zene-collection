@@ -2,7 +2,7 @@
 
 Songs: `229`
 Persons: `154`
-Unattributed songs: `40`
+Unattributed songs: `39`
 
 ## Persons
 
@@ -20,17 +20,17 @@ Unattributed songs: `40`
 | 10 | Abidoza | 6 | 3.8 | 3.8 | 6 | 0 | 0 | - | - | - |
 | 11 | Davido | 4 | 3.0 | 3.5 | 3 | 1 | 0 | - | - | - |
 | 12 | DJ Tunez | 6 | 3.3 | 3.3 | 6 | 0 | 0 | - | - | - |
-| 13 | DJ Sbu | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 14 | Fireboy DML | 4 | 3.0 | 3.0 | 4 | 0 | 0 | - | - | - |
-| 15 | Relax African Music Jabali Spirit | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 16 | Tiwa Savage | 3 | 1.8 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 17 | trendz Different Energy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 18 | Zakes Bantwini | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 19 | Burna Boy | 4 | 2.8 | 2.8 | 4 | 0 | 0 | - | - | - |
-| 20 | MI CASA | 3 | 2.5 | 2.5 | 3 | 0 | 0 | - | - | - |
-| 21 | Tyla | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
-| 22 | Kabza De Small | 3 | 2.3 | 2.3 | 3 | 0 | 0 | - | - | - |
-| 23 | Black Coffee | 2 | 1.5 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 13 | Black Coffee | 3 | 2.5 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 14 | DJ Sbu | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 15 | Fireboy DML | 4 | 3.0 | 3.0 | 4 | 0 | 0 | - | - | - |
+| 16 | Relax African Music Jabali Spirit | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 17 | Tiwa Savage | 3 | 1.8 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 18 | trendz Different Energy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 19 | Zakes Bantwini | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 20 | Burna Boy | 4 | 2.8 | 2.8 | 4 | 0 | 0 | - | - | - |
+| 21 | MI CASA | 3 | 2.5 | 2.5 | 3 | 0 | 0 | - | - | - |
+| 22 | Tyla | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
+| 23 | Kabza De Small | 3 | 2.3 | 2.3 | 3 | 0 | 0 | - | - | - |
 | 24 | Karun | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 25 | Papa Wemba | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 26 | Tems | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
