@@ -110,6 +110,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Lucky Luciano": {
+    "song_ids": [
+      "lt-00008"
+    ],
+    "primary_song_ids": [
+      "lt-00008"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oral B": {
+    "song_ids": [
+      "lt-00008"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00008"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Don Omar": {
     "song_ids": [
       "lt-00011"
@@ -1301,7 +1323,29 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "DJ Snake": {
+    "song_ids": [
+      "lt-00164"
+    ],
+    "primary_song_ids": [
+      "lt-00164"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Selena Gomez": {
+    "song_ids": [
+      "lt-00164"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00164"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cardi B": {
     "song_ids": [
       "lt-00164"
     ],

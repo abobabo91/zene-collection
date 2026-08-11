@@ -1928,7 +1928,18 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Gary Pine Dollarman - Sound Of Freedom": {
+  "Bob Sinclar Cutee B": {
+    "song_ids": [
+      "el-00208"
+    ],
+    "primary_song_ids": [
+      "el-00208"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gary Pine Dollarman": {
     "song_ids": [
       "el-00208"
     ],
@@ -3059,13 +3070,39 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Georgi Kay - In My Mind": {
+  "Ivan Gough": {
     "song_ids": [
       "el-00343"
     ],
+    "primary_song_ids": [
+      "el-00343"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Feenixpawl": {
+    "song_ids": [
+      "el-00343"
+    ],
+    "primary_song_ids": [
+      "el-00343"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Georgi Kay": {
+    "song_ids": [
+      "el-00343",
+      "el-00344",
+      "el-00862"
+    ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "el-00343"
+      "el-00343",
+      "el-00344",
+      "el-00862"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -3080,19 +3117,6 @@
       "el-00862"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Georgi Kay": {
-    "song_ids": [
-      "el-00344",
-      "el-00862"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "el-00344",
-      "el-00862"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -4535,7 +4559,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Max Cooper Tom Hodge - Artefact": {
+  "Max Cooper": {
     "song_ids": [
       "el-00558"
     ],
@@ -8111,6 +8135,50 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Armin van Buuren": {
+    "song_ids": [
+      "el-01013",
+      "el-01014",
+      "el-01116",
+      "el-01117",
+      "el-01118",
+      "el-01119",
+      "el-01120",
+      "el-01121",
+      "el-01122",
+      "el-01123"
+    ],
+    "primary_song_ids": [
+      "el-01013",
+      "el-01014",
+      "el-01116",
+      "el-01117",
+      "el-01118",
+      "el-01119",
+      "el-01120",
+      "el-01121",
+      "el-01122",
+      "el-01123"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sharon den Adel": {
+    "song_ids": [
+      "el-01013",
+      "el-01014",
+      "el-01123"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01013",
+      "el-01014",
+      "el-01123"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Dj Sobolev": {
     "song_ids": [
       "el-01021"
@@ -8873,7 +8941,18 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Opposite The Other - See The End": {
+  "Seven Lions": {
+    "song_ids": [
+      "el-01107"
+    ],
+    "primary_song_ids": [
+      "el-01107"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Opposite The Other": {
     "song_ids": [
       "el-01107"
     ],
@@ -8958,31 +9037,6 @@
     ],
     "primary_song_ids": [
       "el-01115"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Armin van Buuren": {
-    "song_ids": [
-      "el-01116",
-      "el-01117",
-      "el-01118",
-      "el-01119",
-      "el-01120",
-      "el-01121",
-      "el-01122",
-      "el-01123"
-    ],
-    "primary_song_ids": [
-      "el-01116",
-      "el-01117",
-      "el-01118",
-      "el-01119",
-      "el-01120",
-      "el-01121",
-      "el-01122",
-      "el-01123"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

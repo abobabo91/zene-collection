@@ -75,6 +75,9 @@ def clean_artist_text(text: str) -> str:
     value = re.sub(r"\(.*?datpiff.*?\)", "", value, flags=re.IGNORECASE)
     value = re.sub(r"\(.*?\)", "", value)
     value = re.sub(r"\[.*?\]", "", value)
+    # Release-group tags come in braces too: `... Perfect Timing (2017) [Hunter] {786zx}`
+    # kept its `{786zx}` and became part of the artist name.
+    value = re.sub(r"\{.*?\}", "", value)
     value = value.replace("\u2019", "'")
     return re.sub(r"\s+", " ", value).strip(" .-_,")
 

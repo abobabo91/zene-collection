@@ -4441,30 +4441,30 @@
   {
     "song_id": "el-00208",
     "file": "_other\\_elektro\\edm_electronic_pop\\Bob Sinclar _ Cutee B. Feat. Gary Pine _ Dollarman - Sound Of Freedom.mp3",
-    "title": "Bob Sinclar Cutee B.",
+    "title": "Sound Of Freedom",
     "primary_artists": [
-      "N/A"
+      "Bob Sinclar Cutee B"
     ],
     "featuring_artists": [
-      "Gary Pine Dollarman - Sound Of Freedom"
+      "Gary Pine Dollarman"
     ],
     "artists": [
-      "N/A",
-      "Gary Pine Dollarman - Sound Of Freedom"
+      "Bob Sinclar Cutee B",
+      "Gary Pine Dollarman"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Bob Sinclar Cutee B",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "Gary Pine Dollarman - Sound Of Freedom",
+        "entity": "Gary Pine Dollarman",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-00209",
@@ -7388,30 +7388,37 @@
   {
     "song_id": "el-00343",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Ivan Gough & Feenixpawl ft. Georgi Kay - In My Mind (Axwell Mix) [OFFICIAL VIDEO].mp3",
-    "title": "Ivan Gough & Feenixpawl",
+    "title": "In My Mind (Axwell Mix)",
     "primary_artists": [
-      "N/A"
+      "Ivan Gough",
+      "Feenixpawl"
     ],
     "featuring_artists": [
-      "Georgi Kay - In My Mind"
+      "Georgi Kay"
     ],
     "artists": [
-      "N/A",
-      "Georgi Kay - In My Mind"
+      "Ivan Gough",
+      "Feenixpawl",
+      "Georgi Kay"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Ivan Gough",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "Georgi Kay - In My Mind",
+        "entity": "Feenixpawl",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Georgi Kay",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-00344",
@@ -11854,15 +11861,15 @@
     "file": "_other\\_elektro\\experimental_chill\\Max Cooper _ Tom Hodge - Artefact [EP] (2015)\\01 - Remnants (Original Mix).mp3",
     "title": "Remnants",
     "primary_artists": [
-      "Max Cooper Tom Hodge - Artefact"
+      "Max Cooper"
     ],
     "featuring_artists": [],
     "artists": [
-      "Max Cooper Tom Hodge - Artefact"
+      "Max Cooper"
     ],
     "credits": [
       {
-        "entity": "Max Cooper Tom Hodge - Artefact",
+        "entity": "Max Cooper",
         "entity_type": "person",
         "role": "primary"
       }
@@ -21349,42 +21356,58 @@
   {
     "song_id": "el-01013",
     "file": "_other\\_elektro\\trance_dance_rave\\Armin van Buuren feat. Sharon den Adel - In And Out Of Love (Lost Frequencies Remix).mp3",
-    "title": "Armin van Buuren",
+    "title": "In And Out Of Love (Lost Frequencies Remix)",
     "primary_artists": [
-      "N/A"
+      "Armin van Buuren"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sharon den Adel"
+    ],
     "artists": [
-      "N/A"
+      "Armin van Buuren",
+      "Sharon den Adel"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Armin van Buuren",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sharon den Adel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-01014",
     "file": "_other\\_elektro\\trance_dance_rave\\Armin van Buuren ft. Sharon den Adel - In And Out Of Love (Complete Version).mp3",
-    "title": "Armin van Buuren",
+    "title": "In And Out Of Love (Complete Version)",
     "primary_artists": [
-      "N/A"
+      "Armin van Buuren"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sharon den Adel"
+    ],
     "artists": [
-      "N/A"
+      "Armin van Buuren",
+      "Sharon den Adel"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Armin van Buuren",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sharon den Adel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "el-01015",
@@ -23329,18 +23352,20 @@
   {
     "song_id": "el-01107",
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Above & Beyond Music Videos\\Above & Beyond and Seven Lions feat. Opposite The Other - See The End   Official Lyric Video.mp3",
-    "title": "Above & Beyond and Seven Lions",
+    "title": "See The End",
     "primary_artists": [
       "Above",
-      "Beyond"
+      "Beyond",
+      "Seven Lions"
     ],
     "featuring_artists": [
-      "Opposite The Other - See The End"
+      "Opposite The Other"
     ],
     "artists": [
       "Above",
       "Beyond",
-      "Opposite The Other - See The End"
+      "Seven Lions",
+      "Opposite The Other"
     ],
     "credits": [
       {
@@ -23354,7 +23379,12 @@
         "role": "primary"
       },
       {
-        "entity": "Opposite The Other - See The End",
+        "entity": "Seven Lions",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Opposite The Other",
         "entity_type": "person",
         "role": "feature"
       }
@@ -23740,19 +23770,27 @@
   {
     "song_id": "el-01123",
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Armin van Buuren hits\\Armin van Buuren feat. Sharon den Adel - In And Out Of Love (Official Music Video).mp3",
-    "title": "Armin van Buuren",
+    "title": "In And Out Of Love",
     "primary_artists": [
       "Armin van Buuren"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sharon den Adel"
+    ],
     "artists": [
-      "Armin van Buuren"
+      "Armin van Buuren",
+      "Sharon den Adel"
     ],
     "credits": [
       {
         "entity": "Armin van Buuren",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sharon den Adel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

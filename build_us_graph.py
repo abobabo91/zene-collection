@@ -122,7 +122,7 @@ BLOCKLIST_ARTISTS = {
     "nova xxxtentacion", "2022 c",
     "106 d12 ain t nuttin",
     "slum village best kept secret",
-    "mix kur lets keep it a bean by rick nyce",
+    "kur lets keep it a bean by rick nyce",
     "mix omenxiii", "mix project pat", "mix thouxanbanfauni",
 }
 UNKNOWN_ARTIST = "N/A"

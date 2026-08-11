@@ -519,6 +519,12 @@ def _prefix_is_a_credit(prefix: str) -> bool:
     """
     if not prefix:
         return False
+    # `Dj Maphorisa x Kabza De Small ft Mhaw Keys - Koko` is nine words, so the length
+    # guard rejected it, the whole string stayed as the title, and the feature extractor
+    # then read `Mhaw Keys - Koko` - guest plus title - as an artist. A `feat` marker is
+    # positive evidence that this really is the credit block, however long it runs.
+    if FEAT_RE.search(prefix):
+        return True
     if len(prefix.split()) <= 6:
         return True
     names = split_artists(prefix)

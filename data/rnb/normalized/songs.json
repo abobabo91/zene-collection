@@ -7367,19 +7367,27 @@
   {
     "song_id": "r-00361",
     "file": "_other\\_rnb\\_random\\rap caviar\\Rb_Heaven_Vol_9-(DatPiff.com)\\ChrisBrownAkonFrankOceanKidInkUsherAlicia Key (DatPiff.com)\\03 - Verse Simmonds ft Red Cafe Gucci Mane - Shake Dat (NEW).mp3",
-    "title": "Verse Simmonds",
+    "title": "Shake Dat (NEW)",
     "primary_artists": [
-      "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key"
+      "Verse Simmonds"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Red Cafe Gucci Mane"
+    ],
     "artists": [
-      "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key"
+      "Verse Simmonds",
+      "Red Cafe Gucci Mane"
     ],
     "credits": [
       {
-        "entity": "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key",
+        "entity": "Verse Simmonds",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Red Cafe Gucci Mane",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11245,16 +11253,18 @@
   {
     "song_id": "r-00548",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Attack The Block\\Chris Brown ft. Ray J & TJ Luva Boy - New Gang (Attack The Block Mixtape).mp3",
-    "title": "Chris Brown",
+    "title": "New Gang (Attack The Block Mixtape)",
     "primary_artists": [
       "Chris Brown"
     ],
     "featuring_artists": [
-      "Ray J"
+      "Ray J",
+      "TJ Luva Boy"
     ],
     "artists": [
       "Chris Brown",
-      "Ray J"
+      "Ray J",
+      "TJ Luva Boy"
     ],
     "credits": [
       {
@@ -11266,6 +11276,11 @@
         "entity": "Ray J",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "TJ Luva Boy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11273,16 +11288,18 @@
   {
     "song_id": "r-00549",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Attack The Block\\Chris Brown ft. Young Lo & Young Blacc - In Love With The Bitches (Attack The Block Mixtape).mp3",
-    "title": "Chris Brown",
+    "title": "In Love With The Bitches (Attack The Block Mixtape)",
     "primary_artists": [
       "Chris Brown"
     ],
     "featuring_artists": [
-      "Young Lo"
+      "Young Lo",
+      "Young Blacc"
     ],
     "artists": [
       "Chris Brown",
-      "Young Lo"
+      "Young Lo",
+      "Young Blacc"
     ],
     "credits": [
       {
@@ -11292,6 +11309,11 @@
       },
       {
         "entity": "Young Lo",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Young Blacc",
         "entity_type": "person",
         "role": "feature"
       }
@@ -11941,20 +11963,20 @@
   {
     "song_id": "r-00580",
     "file": "_other\\_rnb\\Destiny's Child\\Destiny's Child ft T.I. and Lil_ Wayne - Soldier.mp3",
-    "title": "Destiny's Child",
+    "title": "Soldier",
     "primary_artists": [
       "Destiny's Child"
     ],
     "featuring_artists": [
       "T.I",
-      "Lil Wayne - Soldier"
+      "Lil Wayne"
     ],
     "artists": [
       "Beyoncé",
       "Kelly Rowland",
       "Michelle Williams",
       "T.I",
-      "Lil Wayne - Soldier"
+      "Lil Wayne"
     ],
     "credits": [
       {
@@ -11968,7 +11990,7 @@
         "role": "feature"
       },
       {
-        "entity": "Lil Wayne - Soldier",
+        "entity": "Lil Wayne",
         "entity_type": "person",
         "role": "feature"
       }
@@ -13617,30 +13639,30 @@
   {
     "song_id": "r-00661",
     "file": "_other\\_rnb\\Lloyd ft. Lil_ Wayne Or Tango Redd ! - You.mp3",
-    "title": "Lloyd",
+    "title": "You",
     "primary_artists": [
-      "N/A"
+      "Lloyd"
     ],
     "featuring_artists": [
-      "Lil Wayne Or Tango Redd ! - You"
+      "Lil Wayne Or Tango Redd !"
     ],
     "artists": [
-      "N/A",
-      "Lil Wayne Or Tango Redd ! - You"
+      "Lloyd",
+      "Lil Wayne Or Tango Redd !"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Lloyd",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "Lil Wayne Or Tango Redd ! - You",
+        "entity": "Lil Wayne Or Tango Redd !",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00662",

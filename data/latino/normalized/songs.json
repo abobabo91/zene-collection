@@ -164,19 +164,34 @@
   {
     "song_id": "lt-00008",
     "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby Bash, Lucky Luciano Ft Oral B - Image Of A Pimp.mp3",
-    "title": "Baby Bash, Lucky Luciano",
+    "title": "Image Of A Pimp",
     "primary_artists": [
-      "Baby Bash"
+      "Baby Bash",
+      "Lucky Luciano"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Oral B"
+    ],
     "artists": [
-      "Baby Bash"
+      "Baby Bash",
+      "Lucky Luciano",
+      "Oral B"
     ],
     "credits": [
       {
         "entity": "Baby Bash",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lucky Luciano",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Oral B",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3538,22 +3553,24 @@
   {
     "song_id": "lt-00164",
     "file": "_other\\_latino\\DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (Official Audio).mp3",
-    "title": "DJ Snake",
+    "title": "Taki Taki",
     "primary_artists": [
-      "N/A"
+      "DJ Snake"
     ],
     "featuring_artists": [
       "Selena Gomez",
-      "Ozuna"
+      "Ozuna",
+      "Cardi B"
     ],
     "artists": [
-      "N/A",
+      "DJ Snake",
       "Selena Gomez",
-      "Ozuna"
+      "Ozuna",
+      "Cardi B"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "DJ Snake",
         "entity_type": "person",
         "role": "primary"
       },
@@ -3566,9 +3583,14 @@
         "entity": "Ozuna",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Cardi B",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00165",

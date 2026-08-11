@@ -4004,30 +4004,37 @@
   {
     "song_id": "af-00180",
     "file": "_other\\_african music\\_amapiano\\Dj Maphorisa x Kabza De Small ft Mhaw Keys - Koko.mp3",
-    "title": "Dj Maphorisa x Kabza De Small",
+    "title": "Koko",
     "primary_artists": [
-      "N/A"
+      "Dj Maphorisa",
+      "Kabza De Small"
     ],
     "featuring_artists": [
-      "Mhaw Keys - Koko"
+      "Mhaw Keys"
     ],
     "artists": [
-      "N/A",
-      "Mhaw Keys - Koko"
+      "Dj Maphorisa",
+      "Kabza De Small",
+      "Mhaw Keys"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Dj Maphorisa",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "Mhaw Keys - Koko",
+        "entity": "Kabza De Small",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Mhaw Keys",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "af-00181",
@@ -4295,30 +4302,37 @@
   {
     "song_id": "af-00193",
     "file": "_other\\_african music\\_amapiano\\Major League DJz & Abidoza ft Holly Rey – Pulling Up.mp3",
-    "title": "Major League DJz & Abidoza",
+    "title": "Pulling Up",
     "primary_artists": [
-      "N/A"
+      "Major League DJz",
+      "Abidoza"
     ],
     "featuring_artists": [
-      "Holly Rey - Pulling Up"
+      "Holly Rey"
     ],
     "artists": [
-      "N/A",
-      "Holly Rey - Pulling Up"
+      "Major League DJz",
+      "Abidoza",
+      "Holly Rey"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Major League DJz",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "Holly Rey - Pulling Up",
+        "entity": "Abidoza",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Holly Rey",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "af-00194",

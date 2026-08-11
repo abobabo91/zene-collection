@@ -4050,22 +4050,22 @@
   {
     "song_id": "mg-00196",
     "file": "_other\\_magyar\\_modern_pop\\_random\\Dér Heni ft. Burai Krisztián x G.w.M. - Szemtelen (Official Music Video).mp3",
-    "title": "Dér Heni",
+    "title": "Szemtelen",
     "primary_artists": [
-      "N/A"
+      "Dér Heni"
     ],
     "featuring_artists": [
       "Burai Krisztián",
-      "G.w.M. - Szemtelen"
+      "G.w.M"
     ],
     "artists": [
-      "N/A",
+      "Dér Heni",
       "Burai Krisztián",
-      "G.w.M. - Szemtelen"
+      "G.w.M"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Dér Heni",
         "entity_type": "person",
         "role": "primary"
       },
@@ -4075,12 +4075,12 @@
         "role": "feature"
       },
       {
-        "entity": "G.w.M. - Szemtelen",
+        "entity": "G.w.M",
         "entity_type": "person",
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "mg-00197",
@@ -8559,25 +8559,25 @@
   {
     "song_id": "mg-00414",
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna feat. Lotfi Begi _ Madarász Gábor - Ég és föld.mp3",
-    "title": "Rúzsa Magdolna",
+    "title": "Ég és föld",
     "primary_artists": [
-      "Rúzsa Magdi"
+      "Rúzsa Magdolna"
     ],
     "featuring_artists": [
-      "Lotfi Begi Madarász Gábor - Ég és föld"
+      "Lotfi Begi Madarász Gábor"
     ],
     "artists": [
-      "Rúzsa Magdi",
-      "Lotfi Begi Madarász Gábor - Ég és föld"
+      "Rúzsa Magdolna",
+      "Lotfi Begi Madarász Gábor"
     ],
     "credits": [
       {
-        "entity": "Rúzsa Magdi",
+        "entity": "Rúzsa Magdolna",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "Lotfi Begi Madarász Gábor - Ég és föld",
+        "entity": "Lotfi Begi Madarász Gábor",
         "entity_type": "person",
         "role": "feature"
       }

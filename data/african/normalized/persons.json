@@ -1287,14 +1287,16 @@
       "af-00155",
       "af-00156",
       "af-00157",
-      "af-00164"
+      "af-00164",
+      "af-00193"
     ],
     "primary_song_ids": [
       "af-00154",
       "af-00155",
       "af-00156",
       "af-00157",
-      "af-00164"
+      "af-00164",
+      "af-00193"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1525,7 +1527,33 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Mhaw Keys - Koko": {
+  "Dj Maphorisa": {
+    "song_ids": [
+      "af-00180"
+    ],
+    "primary_song_ids": [
+      "af-00180"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kabza De Small": {
+    "song_ids": [
+      "af-00180",
+      "af-00189",
+      "af-00190"
+    ],
+    "primary_song_ids": [
+      "af-00180",
+      "af-00189",
+      "af-00190"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mhaw Keys": {
     "song_ids": [
       "af-00180"
     ],
@@ -1558,19 +1586,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kabza De Small": {
-    "song_ids": [
-      "af-00189",
-      "af-00190"
-    ],
-    "primary_song_ids": [
-      "af-00189",
-      "af-00190"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Kaygee Daking": {
     "song_ids": [
       "af-00191"
@@ -1593,7 +1608,18 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Holly Rey - Pulling Up": {
+  "Major League DJz": {
+    "song_ids": [
+      "af-00193"
+    ],
+    "primary_song_ids": [
+      "af-00193"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Holly Rey": {
     "song_ids": [
       "af-00193"
     ],

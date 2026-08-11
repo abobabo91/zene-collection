@@ -128,3 +128,10 @@ album title does not, so the whole string became the artist and split the catalo
 
 - `Skrillex: 2015 - Skrillex, 2014) Skrillex - Recess`
 - `Swedish House Mafia: Swedish House Mafia - Until Now`
+
+## Alias normalization
+
+The folder is `Max Cooper _ Tom Hodge - Artefact [EP] (2015)`. The ` - ` split only
+fires when the right-hand side looks like an album word, and a title does not.
+
+- `Max Cooper: Max Cooper Tom Hodge - Artefact`

@@ -7789,22 +7789,24 @@
   {
     "song_id": "pp-00384",
     "file": "_other\\_pop\\_random\\DJ Hamida Ft. Kayna Samet, Lartiste, Rimk du 113 - Déconnectés (Clip Officiel).mp3",
-    "title": "DJ Hamida",
+    "title": "Déconnectés",
     "primary_artists": [
-      "N/A"
+      "DJ Hamida"
     ],
     "featuring_artists": [
       "Kayna Samet",
-      "Lartiste"
+      "Lartiste",
+      "Rimk du 113"
     ],
     "artists": [
-      "N/A",
+      "DJ Hamida",
       "Kayna Samet",
-      "Lartiste"
+      "Lartiste",
+      "Rimk du 113"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "DJ Hamida",
         "entity_type": "person",
         "role": "primary"
       },
@@ -7817,9 +7819,14 @@
         "entity": "Lartiste",
         "entity_type": "person",
         "role": "feature"
+      },
+      {
+        "entity": "Rimk du 113",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "pp-00385",
@@ -8039,25 +8046,32 @@
   {
     "song_id": "pp-00395",
     "file": "_other\\_pop\\_random\\EVE\\Damian Marley Ft. Stephen Marley & Eve - No, no, no.mp3",
-    "title": "Damian Marley",
+    "title": "No, no, no",
     "primary_artists": [
-      "Eve"
+      "Damian Marley"
     ],
     "featuring_artists": [
-      "Stephen Marley"
+      "Stephen Marley",
+      "Eve"
     ],
     "artists": [
-      "Eve",
-      "Stephen Marley"
+      "Damian Marley",
+      "Stephen Marley",
+      "Eve"
     ],
     "credits": [
       {
-        "entity": "Eve",
+        "entity": "Damian Marley",
         "entity_type": "person",
         "role": "primary"
       },
       {
         "entity": "Stephen Marley",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Eve",
         "entity_type": "person",
         "role": "feature"
       }
@@ -10752,22 +10766,30 @@
   {
     "song_id": "pp-00524",
     "file": "_other\\_pop\\_random\\Shawn Lee_s Ping Pong Orchestra feat. Nino Mochella - Kiss The Sky.mp3",
-    "title": "Shawn Lee s Ping Pong Orchestra",
+    "title": "Kiss The Sky",
     "primary_artists": [
-      "N/A"
+      "Shawn Lee s Ping Pong Orchestra"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nino Mochella"
+    ],
     "artists": [
-      "N/A"
+      "Shawn Lee s Ping Pong Orchestra",
+      "Nino Mochella"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Shawn Lee s Ping Pong Orchestra",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nino Mochella",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "pp-00525",
@@ -12307,22 +12329,24 @@
   {
     "song_id": "pp-00597",
     "file": "_other\\_pop\\Akon\\D4L Ft Rick Ross, Yung Joc, Lil Wayne - Im Da Man (Remix).mp3",
-    "title": "D4L",
+    "title": "Im Da Man (Remix)",
     "primary_artists": [
-      "Akon"
+      "D4L"
     ],
     "featuring_artists": [
       "Rick Ross",
-      "Yung Joc"
+      "Yung Joc",
+      "Lil Wayne"
     ],
     "artists": [
-      "Akon",
+      "D4L",
       "Rick Ross",
-      "Yung Joc"
+      "Yung Joc",
+      "Lil Wayne"
     ],
     "credits": [
       {
-        "entity": "Akon",
+        "entity": "D4L",
         "entity_type": "person",
         "role": "primary"
       },
@@ -12333,6 +12357,11 @@
       },
       {
         "entity": "Yung Joc",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Lil Wayne",
         "entity_type": "person",
         "role": "feature"
       }
@@ -12362,23 +12391,26 @@
   {
     "song_id": "pp-00599",
     "file": "_other\\_pop\\Akon\\DJ Felli Fel ft. Diddy, Akon, Ludacris, Lil Jon - Get Buck In Here (Official Video).mp3",
-    "title": "DJ Felli Fel",
+    "title": "Get Buck In Here",
     "primary_artists": [
-      "Akon"
+      "DJ Felli Fel"
     ],
     "featuring_artists": [
       "Diddy",
       "Akon",
-      "Ludacris"
+      "Ludacris",
+      "Lil Jon"
     ],
     "artists": [
-      "Akon",
+      "DJ Felli Fel",
       "Diddy",
-      "Ludacris"
+      "Akon",
+      "Ludacris",
+      "Lil Jon"
     ],
     "credits": [
       {
-        "entity": "Akon",
+        "entity": "DJ Felli Fel",
         "entity_type": "person",
         "role": "primary"
       },
@@ -12394,6 +12426,11 @@
       },
       {
         "entity": "Ludacris",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Lil Jon",
         "entity_type": "person",
         "role": "feature"
       }

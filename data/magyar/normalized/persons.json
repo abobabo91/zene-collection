@@ -964,6 +964,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Dér Heni": {
+    "song_ids": [
+      "mg-00196"
+    ],
+    "primary_song_ids": [
+      "mg-00196"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Burai Krisztián": {
     "song_ids": [
       "mg-00196"
@@ -975,7 +986,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "G.w.M. - Szemtelen": {
+  "G.w.M": {
     "song_ids": [
       "mg-00196"
     ],
@@ -2108,12 +2119,10 @@
   },
   "Rúzsa Magdi": {
     "song_ids": [
-      "mg-00370",
-      "mg-00414"
+      "mg-00370"
     ],
     "primary_song_ids": [
-      "mg-00370",
-      "mg-00414"
+      "mg-00370"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2450,19 +2459,21 @@
       "mg-00410",
       "mg-00411",
       "mg-00412",
-      "mg-00413"
+      "mg-00413",
+      "mg-00414"
     ],
     "primary_song_ids": [
       "mg-00410",
       "mg-00411",
       "mg-00412",
-      "mg-00413"
+      "mg-00413",
+      "mg-00414"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
-  "Lotfi Begi Madarász Gábor - Ég és föld": {
+  "Lotfi Begi Madarász Gábor": {
     "song_ids": [
       "mg-00414"
     ],

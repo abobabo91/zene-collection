@@ -294,11 +294,13 @@
   },
   "Lil Wayne": {
     "song_ids": [
-      "pp-00046"
+      "pp-00046",
+      "pp-00597"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "pp-00046"
+      "pp-00046",
+      "pp-00597"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -2538,6 +2540,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "DJ Hamida": {
+    "song_ids": [
+      "pp-00384"
+    ],
+    "primary_song_ids": [
+      "pp-00384"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Kayna Samet": {
     "song_ids": [
       "pp-00384"
@@ -2550,6 +2563,17 @@
     "groups": []
   },
   "Lartiste": {
+    "song_ids": [
+      "pp-00384"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "pp-00384"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rimk du 113": {
     "song_ids": [
       "pp-00384"
     ],
@@ -2615,12 +2639,23 @@
     "primary_song_ids": [
       "pp-00393",
       "pp-00394",
-      "pp-00395",
       "pp-00396"
     ],
     "feature_song_ids": [
+      "pp-00395",
       "pp-00426"
     ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Damian Marley": {
+    "song_ids": [
+      "pp-00395"
+    ],
+    "primary_song_ids": [
+      "pp-00395"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -3720,6 +3755,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Shawn Lee s Ping Pong Orchestra": {
+    "song_ids": [
+      "pp-00524"
+    ],
+    "primary_song_ids": [
+      "pp-00524"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nino Mochella": {
+    "song_ids": [
+      "pp-00524"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "pp-00524"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Skrillex": {
     "song_ids": [
       "pp-00525"
@@ -4118,7 +4175,6 @@
       "pp-00594",
       "pp-00595",
       "pp-00596",
-      "pp-00597",
       "pp-00599",
       "pp-00601"
     ],
@@ -4149,9 +4205,7 @@
       "pp-00593",
       "pp-00594",
       "pp-00595",
-      "pp-00596",
-      "pp-00597",
-      "pp-00599"
+      "pp-00596"
     ],
     "feature_song_ids": [
       "pp-00588",
@@ -4227,6 +4281,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "D4L": {
+    "song_ids": [
+      "pp-00597"
+    ],
+    "primary_song_ids": [
+      "pp-00597"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Rick Ross": {
     "song_ids": [
       "pp-00597"
@@ -4260,7 +4325,29 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "DJ Felli Fel": {
+    "song_ids": [
+      "pp-00599"
+    ],
+    "primary_song_ids": [
+      "pp-00599"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Diddy": {
+    "song_ids": [
+      "pp-00599"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "pp-00599"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lil Jon": {
     "song_ids": [
       "pp-00599"
     ],
