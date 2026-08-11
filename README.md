@@ -14,12 +14,12 @@ Song-by-song graph of a ~15,000-track personal music library. Parses filenames a
 
 ## Areas
 
-19 areas, 15,153 songs, rebuilt 2026-08-11. Every area is scanned from disk; none is
-hand-maintained. No song is counted twice — 15,153 rows, 15,153 distinct paths.
+19 areas, 15,154 songs, rebuilt 2026-08-11. Every area is scanned from disk; none is
+hand-maintained. No song is counted twice — 15,154 rows, 15,154 distinct paths.
 
 | Area | Songs | Artists | Source folders |
 |---|---|---|---|
-| US Rap/Trap | 6,633 | 1,150 | `_rap/`, `_trap/` |
+| US Rap/Trap | 6,634 | 1,150 | `_rap/`, `_trap/` |
 | Hungarian Rap/Trap | 2,193 | 486 | `_magyar rap/`, `_magyar trap/` |
 | Electronic | 1,179 | 777 | `_other/_elektro/` |
 | Pop | 1,041 | 410 | `_other/_pop/` |
@@ -150,7 +150,7 @@ anything new, with nothing reporting it.
 
 ### Finding duplicates: title alone is not enough, and duration alone is not either
 
-The 2026-08-11 dedupe removed **146 files (617 MB)** and is worth recording as a method,
+The 2026-08-11 dedupe removed **145 files** and is worth recording as a method,
 because the obvious versions of it are both wrong.
 
 Matching on *artist + normalized title* returned 214 groups, most of them junk: empty titles

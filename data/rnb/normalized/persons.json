@@ -2548,27 +2548,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kelly Rowland": {
-    "song_ids": [
-      "r-00576",
-      "r-00577",
-      "r-00578",
-      "r-00579",
-      "r-00580"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [],
-    "via_group_song_ids": [
-      "r-00576",
-      "r-00577",
-      "r-00578",
-      "r-00579",
-      "r-00580"
-    ],
-    "groups": [
-      "Destiny's Child"
-    ]
-  },
   "Michelle Williams": {
     "song_ids": [
       "r-00576",
@@ -2591,6 +2570,27 @@
     ]
   },
   "Beyoncé": {
+    "song_ids": [
+      "r-00576",
+      "r-00577",
+      "r-00578",
+      "r-00579",
+      "r-00580"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [],
+    "via_group_song_ids": [
+      "r-00576",
+      "r-00577",
+      "r-00578",
+      "r-00579",
+      "r-00580"
+    ],
+    "groups": [
+      "Destiny's Child"
+    ]
+  },
+  "Kelly Rowland": {
     "song_ids": [
       "r-00576",
       "r-00577",

@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6633`
+Songs: `6634`
 Persons: `1150`
 Groups: `18`
 Labels: `29`
@@ -77,13 +77,13 @@ Unattributed songs: `460`
 | 64 | Playboi Carti | 23 | 18.9 | 21.1 | 20 | 3 | 0 | Atlanta | Opium | - |
 | 65 | Kendrick Lamar | 23 | 21.0 | 21.0 | 19 | 4 | 0 | California | TDE | - |
 | 66 | Pop Smoke | 21 | 20.5 | 21.0 | 21 | 0 | 0 | New York | - | - |
-| 67 | Havoc | 36 | 19.5 | 20.5 | 5 | 0 | 31 | New York | - | Mobb Deep |
-| 68 | Prodigy | 36 | 20.5 | 20.5 | 4 | 1 | 31 | New York | - | Mobb Deep |
-| 69 | King Von | 21 | 19.3 | 20.3 | 20 | 1 | 0 | Chicago | OTF | - |
-| 70 | Chris Brown | 22 | 12.0 | 20.0 | 17 | 5 | 0 | USA | - | - |
-| 71 | DJ Khaled | 20 | 18.5 | 20.0 | 20 | 0 | 0 | Florida | - | - |
-| 72 | The Roots | 20 | 20.0 | 20.0 | 20 | 0 | 0 | USA Other | - | - |
-| 73 | Trippie Redd | 21 | 19.0 | 20.0 | 19 | 2 | 0 | USA | - | - |
+| 67 | Trippie Redd | 22 | 20.0 | 21.0 | 20 | 2 | 0 | USA | - | - |
+| 68 | Havoc | 36 | 19.5 | 20.5 | 5 | 0 | 31 | New York | - | Mobb Deep |
+| 69 | Prodigy | 36 | 20.5 | 20.5 | 4 | 1 | 31 | New York | - | Mobb Deep |
+| 70 | King Von | 21 | 19.3 | 20.3 | 20 | 1 | 0 | Chicago | OTF | - |
+| 71 | Chris Brown | 22 | 12.0 | 20.0 | 17 | 5 | 0 | USA | - | - |
+| 72 | DJ Khaled | 20 | 18.5 | 20.0 | 20 | 0 | 0 | Florida | - | - |
+| 73 | The Roots | 20 | 20.0 | 20.0 | 20 | 0 | 0 | USA Other | - | - |
 | 74 | Rick Ross | 23 | 18.7 | 19.2 | 15 | 8 | 0 | Florida | MMG | - |
 | 75 | Jadakiss | 22 | 18.6 | 19.1 | 17 | 5 | 0 | New York | - | - |
 | 76 | Kool G Rap | 19 | 19.0 | 19.0 | 19 | 0 | 0 | USA Other | - | - |
@@ -1223,7 +1223,7 @@ Unattributed songs: `460`
 
 | # | Region | Songs | Persons | Groups | Labels | Sources |
 |---|--------|-------|---------|--------|--------|---------|
-| 1 | USA | 1037 | 485 | 4 | 9 | _trap |
+| 1 | USA | 1038 | 485 | 4 | 9 | _trap |
 | 2 | New York | 1026 | 158 | 4 | 8 | _rap, _trap |
 | 3 | Atlanta | 919 | 153 | 3 | 11 | _rap, _trap |
 | 4 | USA Other | 799 | 209 | 4 | 6 | _rap |
