@@ -1,0 +1,149 @@
+﻿# Duplicates deleted 2026-08-11
+
+145 files. Kept copy for each is noted in the graph repo's dedupe write-up.
+
+- `_magyar rap\Akkezdet Phiai\AkkezdetPhiai\Akkezdet Phiai   Phasskivan   HD szöveggel.mp3`
+- `_magyar rap\Criminal\Ido Urai Bankos NKS\AZ IDO URAI [192]\AZ IDO URAI [192]\07. Az Idő Urai - Székesfehérvár Freestyle.mp3`
+- `_magyar rap\Fankadeli\fankadeli_apaink_verebol.mp3`
+- `_magyar rap\Ganxsta Zolee és a Kartel\ganxsta\Ganxsta Zolee _ a Kartell ft. BillyZone - Gonosz.mp3`
+- `_magyar rap\Garage\ESSEMM\ROCKSTAR [256]\ROCKSTAR [256]\Essemm - Ő Volt [Bonus].mp3`
+- `_magyar rap\Makaronin\Makaronin - Mindig ( Official Trap Music Video ).mp3`
+- `_magyar rap\mr missh\MISSH feat Rhino-Hallgass a szívedre ( Official Music Video ).mp3`
+- `_magyar rap\_random\Hírwevők - Secret (Official Video).mp3`
+- `_magyar rap\_random\KeezArt bizottsag\2éjszakáskúl.mp3`
+- `_other\_alternate\halsey\Halsey - Now Or Never.mp3`
+- `_other\_alternate\panic! at the disco\Panic! At The Disco Best Songs\High Hopes.mp3`
+- `_other\_alternate\_random\Shontelle - Impossible.mp3`
+- `_other\_elektro\edm_electronic_pop\DJ Sammy And Yanou - Heaven.mp3`
+- `_other\_elektro\edm_electronic_pop\Far East Movement Featuring Cataracs Dev - Like A G6.mp3`
+- `_other\_elektro\edm_electronic_pop\hands_up_eurodance\Cascada\Cascada - Everytime We Touch (Official Video).mp3`
+- `_other\_elektro\experimental\Moby - The Singles - The Complete list\Moby - Porcelain.mp3`
+- `_other\_elektro\experimental\Moby - The Singles - The Complete list\Moby - _In This World_ (Official Video).mp3`
+- `_other\_elektro\experimental\You are Liquid\Rone - Bye Bye Macadam (Official Video).mp3`
+- `_other\_elektro\house_techno\Clean Bandit - Rather Be (feat. Jess Glynne).mp3`
+- `_other\_elektro\house_techno\Philip George - Wish You Were Mine (Official Video).mp3`
+- `_other\_elektro\house_techno\Henry Krinkle\Aaron Smith - Dancin (KRONO Remix).mp3`
+- `_other\_elektro\house_techno\pop_house\Lost Frequencies - Are You With Me (Official Music Video).mp3`
+- `_other\_elektro\house_techno\The Road You_ll Never Walk\Vance Joy - _Riptide_ Official Video.mp3`
+- `_other\_elektro\trance_dance_rave\eurodance\Alex C ft. Yass - Du Hast Den Schönsten Arsch Der Welt Official Music Video.mp3`
+- `_other\_elektro\trance_dance_rave\eurodance\Wildboyz ft_ Ameerah - The Sound Of Missing You OFFICIAL VIDEO.mp3`
+- `_other\_elektro\trance_dance_rave\eurodance\Lasgo\Lasgo - Something   (OFFICIAL VIDEO).mp3`
+- `_other\_elektro\trance_dance_rave\house_classics\Duck Sauce - Barbra Streisand (Original Mix).mp3`
+- `_other\_latino\J  Balvin\J Balvin, Willy William - Mi Gente (Official Video).mp3`
+- `_other\_latino\Ozuna - Videos Oficiales\Ozuna - Este Loko (Video Oficial).mp3`
+- `_other\_latino\Rauw Alejandro mix\Rauw Alejandro - Dile A Él (Video Oficial).mp3`
+- `_other\_latino\_oldschool\34. Daddy Yankee & Snow - Con Calma (Video Oficial).mp3`
+- `_other\_magyar\_nepzene\Top-Titel – Naptengeri - YouTube\Kalika.mp3`
+- `_other\_magyar\_retro\R-GO - The best of R-GO\01 Létezem.mp3`
+- `_other\_pop\Akon\Bone Thugs-N-Harmony ft. Akon - I Tried (Official Video).mp3`
+- `_other\_pop\Akon\Akon\05_44 Akon - Lonely.mp3`
+- `_other\_pop\Backstreet Boys\Back street boys - Incomplete.mp3`
+- `_other\_pop\Backstreet Boys\Backstreet Boys - Inconsolable.mp3`
+- `_other\_pop\Bruno Mars\Bruno Mars - Grenade (Official Music Video).mp3`
+- `_other\_pop\Bruno Mars\Bruno Mars - Grenade Official Music Video.mp3`
+- `_other\_pop\Charlie Puth\Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video].mp3`
+- `_other\_pop\Fifth Harmony\Fifth Harmony feat. Ty Dolla $ign - Work From Home (Official Video).mp3`
+- `_other\_pop\Justin Timberlake\Justin Timberlake - Can't Stop The Feeling!.mp3`
+- `_other\_pop\Lady Gaga\Lady Gaga - Born This Way.mp3`
+- `_other\_pop\Lady Gaga\Lady Gaga - Paparazzi.mp3`
+- `_other\_pop\Lady Gaga\Lady Gaga - The Edge Of Glory.mp3`
+- `_other\_pop\NSYNC\NSYNC - Bye Bye Bye (Official Video).mp3`
+- `_other\_pop\Pharrell Williams\Robin Thicke - Blurred Lines ft. T.I. & Pharrell (Unrated Version).mp3`
+- `_other\_pop\Pitbull\Pitbull - I Know You Want Me Calle Ocho OFFICIAL VIDEO.mp3`
+- `_other\_pop\Taylor Swift\Taylor Swift - Blank Space.mp3`
+- `_other\_pop\_modern\Alessia Cara\Alessia Cara - Scars To Your Beautiful (Official Video).mp3`
+- `_other\_pop\_modern\Alessia Cara\Best of Alessia Cara - YouTube\Mix – Alessia Cara\Shawn Mendes - Stitches (Official Video).mp3`
+- `_other\_pop\_oldschool_pop\Madonna\Madonna - Die Another Day (Official Video).mp3`
+- `_other\_pop\_oldschool_pop\Madonna\Madonna - Frozen (Official Video) [HD].mp3`
+- `_other\_pop\_oldschool_pop\Madonna\Madonna - Girl Gone Wild (Official Video).mp3`
+- `_other\_pop\_oldschool_pop\Roxette\Room service\14 - Sleeping in My car.mp3`
+- `_other\_pop\_oldschool_pop\Roxette\Room service\15 - Listen to Your heart.mp3`
+- `_other\_pop\_random\Alan Walker - Sing Me To Sleep (Official Video).mp3`
+- `_other\_pop\_random\David Guetta - This One s For You Feat. Zara Larsson (UEFA EURO 2016 Official Video).mp3`
+- `_other\_pop\_random\gnash - i hate u, i love u (feat. Olivia O´Brien) (Official Video).mp3`
+- `_other\_pop\_random\Lizzo - Truth Hurts.mp3`
+- `_other\_pop\_random\Parra for Cuva ft. Anna Naklab - Wicked Games (Official Music Video).mp3`
+- `_other\_pop\_random\The Chainsmokers feat. Daya - Don t Let Me Down (Official Video).mp3`
+- `_other\_pop\_random\00s - YouTube\Christina Milian - When You Look At Me (Official Video).mp3`
+- `_other\_pop\_random\00s - YouTube\The Black Eyed Peas - My Humps (Official Music Video).mp3`
+- `_other\_pop\_random\00s - YouTube\TLC - No Scrubs.mp3`
+- `_other\_pop\_random\Christina Perri ALL SONGS\Christina Perri - Jar of Hearts [Official Music Video].mp3`
+- `_other\_pop\_random\EVE\Eve - Let Me Blow Ya Mind.mp3`
+- `_other\_reggea\Bob Marley_s Greatest Hits\Bob Marley - Is This Love.mp3`
+- `_other\_rnb\ashanti\Ashanti - Foolish (Official Music Video).mp3`
+- `_other\_rnb\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\(2006) Chris Brown\Chris Brown - Back To Sleep.mp3`
+- `_other\_rnb\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\(2006) Chris Brown\Chris Brown - Yeah 3x.mp3`
+- `_other\_rnb\Miguel\75. Miguel - Sky Walker.mp3`
+- `_other\_rnb\R Kelly - Greatest Hits\Thoia Thoing.mp3`
+- `_other\_rnb\Timbaland\Timbaland - The Way I Are ft. Keri Hilson, D.O.E., Sebastian (Official Music Video).mp3`
+- `_other\_rnb\Trey Songz\Trey Songz Featuring Nicki Minaj - Bottoms Up.mp3`
+- `_other\_rnb\usher\Usher Featuring Pitbull - DJ Got Us Fallin In Love.mp3`
+- `_other\_rnb\usher\Usher_s Top 100 hits\Usher  Love in this club.mp3`
+- `_other\_rnb\_modern\SZA\The Weeknd, Kendrick Lamar - Pray For Me (Lyric Video).mp3`
+- `_other\_rnb\_random\90s 00s rnb\Mary J Blige Greatest Hits   Best of   Playlist   Songs\Mary J. Blige - Family Affair (Official Music Video).mp3`
+- `_other\_rock\Evanescence - Bring Me To Life.mp3`
+- `_other\_rock\Evanescence - My Immortal.mp3`
+- `_other\_rock\Deftones Greatest Hits 2022\Deftones - Beauty School [Official Music Video].mp3`
+- `_other\_rock\Oasis playlist - BEST songs\Oasis - Wonderwall (Official Video).mp3`
+- `_other\_rock\red hot chilli peppers\Red Hot Chili Peppers - Otherside.mp3`
+- `_other\_rock\red hot chilli peppers\Red Hot Chili Peppers - Snow (Hey Oh).mp3`
+- `_other\_rock\red hot chilli peppers\Red Hot Chili Peppers - Tell Me Baby.mp3`
+- `_other\_rock\_random\Blink-182 - Greatest Hits (2005) 320 vtwin88cube\blink-182 - Feeling This (Official Video).mp3`
+- `_other\_rock\_random\Fall Out Boy\2006-033 Fall Out Boy - Dance, Dance.mp3`
+- `_other\_rock\_random\Joan Jett\Bon Jovi - Livin_ On A Prayer.mp3`
+- `_other\_rock\_random\Sting\Sting - Englishman In New York (Official Music Video).mp3`
+- `_other\_rock\_random\Sting\Sting - Fragile.mp3`
+- `_other\_rock\_random\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\Sum 41 - In Too Deep (Official Music Video).mp3`
+- `_other\_rock\_random\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\Sum 41 - Still Waiting (Official Music Video).mp3`
+- `_other\_rock\_random\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\Sum 41 - Underclass Hero (Official Music Video).mp3`
+- `_other\_rock\_random\The Exploited (Best Of The Exploited)\Mix – The Exploited - Fuck the USA\SEX PISTOLS - ANARCHY IN THE UK.mp3`
+- `_other\_rock\_random\The Exploited (Best Of The Exploited)\Mix – The Exploited - Fuck the USA\Sex Pistols - God Save The Queen.mp3`
+- `_other\_rock\_random\Three Days Grace Official Music Videos\Never Too Late.mp3`
+- `_other\_roman\_modern pop\HOT in Dance\ACRAZE - Do It To It (ft. Cherish) - (Official Lyric Video).mp3`
+- `_rap\atlanta\T.I\DJ Drama & T I  -  Down With The King  (2004)\T.I. feat Daz Dillinger - My Life  Lyrics.mp3`
+- `_rap\atlanta\_random\Yung Joc - It_s Goin Down (Official Music Video)\Danity Kane [feat. Yung Joc] - Show Stopper (Official Music Video).mp3`
+- `_rap\california\Kendrick Lamar\Future, Metro Boomin, Kendrick Lamar - Like That (Official Audio).mp3`
+- `_rap\luisiana\Lil_ Wayne\Fat Joe ft. Lil Wayne- Make It Rain (Produced by Scott Storch).mp3`
+- `_rap\new york\Bahamadia - BB Queen\Bahamadia- rugged ruff.mp3`
+- `_rap\new york\FABOLOUS\17 Fabolous Ft Lil Mo - Can_t Let You Go.mp3`
+- `_rap\new york\G-Unit\50cent\50 Cent - 24 Shots Album\21. I_m a hustler.mp3`
+- `_rap\_other\_roman\Guess Who\Guess Who - Tot Mai Sus feat deMoga (videoclip).mp3`
+- `_rap\_usa other\Busta Rhymes\Total Devastation_ The Best of Busta Rhy\14 Gimme Some More.mp3`
+- `_rap\_usa other\Dilated Peoples Discography @320 (4 Albums+1)(RAP)(by dragan09)\Dilated Peoples (2000) - The Platform\Dilated Peoples - Worst Comes To Worst (Official Video).mp3`
+- `_rap\_usa other\Kanye West\Kanye West - All Of The Lights.mp3`
+- `_rap\_usa other\Kanye West\Kanye West - Good Life ft_ T-Pain.mp3`
+- `_rap\_usa other\LL Cool J\LL Cool J - I Need Love.mp3`
+- `_rap\_usa other\Masta Ace\Masta Ace - Beautiful.mp3`
+- `_rap\_usa other\Nelly\Nelly\Nellyville\10 Dilemma.mp3`
+- `_rap\_usa other\_random\Fort Minor- Where_d You Go.mp3`
+- `_trap\atlanta\Future\Future _ Dj Esco - 56 Nights - HotNewHipHop\08. Future, Dj Esco - Trap Niggas (Prod. By Southside).mp3`
+- `_trap\atlanta\Lil Baby\Harder_Than_Hard_Gangsta_Grillz-(DatPiff.com)\Lil Baby  My Dawg  (WSHH Exclusive - Official Music Video).mp3`
+- `_trap\atlanta\Playboi Carti\Playboi Carti - Playboi Carti (Full Mixtape) - YouTube\Playboi Carti x Lil Uzi Vert  Woke Up Like This  (WSHH Exclusive - Official Audio).mp3`
+- `_trap\atlanta\rich the kid\Rich The Kid - Dabbin Fever (DatPiff.com)\06 - That Bag (Prod By Murda) (DatPiff Exclusive).mp3`
+- `_trap\atlanta\rich the kid\Rich The Kid - Keep Flexin (DatPiff.com)\Rich The Kid  Blessings  (WSHH Exclusive - Official Music Video).mp3`
+- `_trap\atlanta\_random\k camp\K Camp - Comfortable (Official Video).mp3`
+- `_trap\california\lil peep\Lil Peep -  Switch Up  Official Video.mp3`
+- `_trap\california\lil peep\LiL PEEP - angeldust [Prod. by mysticphonk].mp3`
+- `_trap\california\lil peep\LiL PEEP - another song [Prod. by glitter].mp3`
+- `_trap\california\lil peep\Lil Peep - Come Around.mp3`
+- `_trap\california\lil peep\Lil Peep - Lil Jeep.mp3`
+- `_trap\california\lil peep\Lil Peep discography [BC1]\03. Loose Tracks _ Features\[2015] Loose Tracks _ Features Vol. 1\14. Star Shopping.mp3`
+- `_trap\california\MAC MILLER DISCOGRAPHY\K.I.D.S. (2010)\Mac Miller - Nikes On My Feet.mp3`
+- `_trap\chicago\fredo santana\Fredo Santana - Plugged In (DatPiff.com)\Fredo Santana  Trapper Of The Year  (WSHH Exclusive - Official Music Video).mp3`
+- `_trap\chicago\fredo santana\Fredo Santana - Plugged In (DatPiff.com)\Fredo Santana -  Bail Money  (Official Music Video) Prod. by Corey Lingo.mp3`
+- `_trap\florida\Kodak Black\Kodak Black - Institution - YouTube\Kodak Black — HollyHood.mp3`
+- `_trap\florida\XXXTentacion\XXXTENTACION - KILL ME (Lyrics).mp3`
+- `_trap\louisiana\NBA Youngboy\NBA Youngboy - Twilight (Lyrics).mp3`
+- `_trap\louisiana\NBA Youngboy\NBA Youngboy - Untouchable Lyrics.mp3`
+- `_trap\louisiana\NBA Youngboy\YoungBoy Never Broke Again - So Long (Official Music Video).mp3`
+- `_trap\new york\A$AP\A$AP Rocky - Wassup (Official Video).mp3`
+- `_trap\new york\aboogie\A Boogie - 1hunnit (Prod. by D Stackz) Artist.mp3`
+- `_trap\new york\Cardi B\Cardi B  Pull Up  (WSHH Exclusive - Official Music Video).mp3`
+- `_trap\new york\fetty wap\Fetty Wap - Fetty Wap (Deluxe) [Explicit] 2015 {MP3 Album}~{VBUc}\Fetty Wap - Trap Queen (Official Video) Prod. By Tony Fadd.mp3`
+- `_trap\phily\Meek Mill\CHAMPIONSHIPS - YouTube\Meek Mill - Going Bad feat. Drake (Official Video).mp3`
+- `_trap\_usa random\Wale - Bad (Remix).m4a`
+- `_trap\_usa random\post malone\Post Malone - White Iverson.mp3`
+- `_trap\_usa random\saweetie music videos\Saweetie - Back to the Streets (feat. Jhené Aiko) [Official Lyrics Video].mp3`
+- `_trap\_usa random\_random\Don toliver playlist\Don Toliver - No Idea [Official Music Video].mp3`
+- `_trap\_usa random\_random\Rap Caviar   Spotify\Rap Caviar 2016 Music Playlist  Best 50 RAP  Hip-Hop Hits\Young M.A  OOOUUU  (Official Video).mp3`
+- `_trap\_usa random\_random\WSHH\Uncle Murda x Cam ron  Camron Voice (Remix)  (WSHH Exclusive - Official Audio).mp3`
