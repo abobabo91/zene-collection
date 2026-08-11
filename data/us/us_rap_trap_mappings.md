@@ -243,3 +243,11 @@ Examples:
 - `_trap/phily` should normalize to `Philadelphia`
 - some folders are artist names mixed with “best of”, “videos”, or album titles
 - some loose files in `_usa random` and `_usa other` must infer artist from filename, not folder
+
+## Alias normalization
+
+Folders named `Artist - Album`. `folder_artist` only splits on ` - ` when the
+right-hand side looks like an album word (`vol`, `mixtape`, `greatest`, ...). A plain
+album title does not, so the whole string became the artist and split the catalogue.
+
+- `Bahamadia: Bahamadia - Kollage, Bahamadia - BB Queen`

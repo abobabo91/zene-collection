@@ -112,74 +112,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "afrobeats": {
+  "Asake": {
     "song_ids": [
-      "af-00007",
-      "af-00011",
-      "af-00019",
-      "af-00027",
-      "af-00028",
-      "af-00029",
-      "af-00032",
-      "af-00035",
-      "af-00036",
-      "af-00037",
-      "af-00046",
-      "af-00054",
-      "af-00057",
-      "af-00064",
-      "af-00065",
-      "af-00068",
-      "af-00069",
-      "af-00070",
-      "af-00071",
-      "af-00072",
-      "af-00074",
-      "af-00092",
-      "af-00104",
-      "af-00105",
-      "af-00106",
-      "af-00116",
-      "af-00123",
-      "af-00124",
-      "af-00128",
-      "af-00129",
-      "af-00130",
-      "af-00149"
+      "af-00007"
     ],
     "primary_song_ids": [
-      "af-00007",
-      "af-00011",
-      "af-00019",
-      "af-00027",
-      "af-00028",
-      "af-00029",
-      "af-00032",
-      "af-00035",
-      "af-00036",
-      "af-00037",
-      "af-00046",
-      "af-00054",
-      "af-00057",
-      "af-00064",
-      "af-00065",
-      "af-00068",
-      "af-00069",
-      "af-00070",
-      "af-00071",
-      "af-00072",
-      "af-00074",
-      "af-00092",
-      "af-00104",
-      "af-00105",
-      "af-00106",
-      "af-00116",
-      "af-00123",
-      "af-00124",
-      "af-00128",
-      "af-00129",
-      "af-00130",
-      "af-00149"
+      "af-00007"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -320,15 +258,27 @@
       "af-00108",
       "af-00138",
       "af-00139",
+      "af-00140",
+      "af-00141",
       "af-00142",
-      "af-00143"
+      "af-00143",
+      "af-00144",
+      "af-00145",
+      "af-00146",
+      "af-00147"
     ],
     "primary_song_ids": [
       "af-00026",
       "af-00108",
       "af-00138",
+      "af-00140",
+      "af-00141",
       "af-00142",
-      "af-00143"
+      "af-00143",
+      "af-00144",
+      "af-00145",
+      "af-00146",
+      "af-00147"
     ],
     "feature_song_ids": [
       "af-00139"
@@ -375,26 +325,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Isma IP": {
-    "song_ids": [
-      "af-00038",
-      "af-00039"
-    ],
-    "primary_song_ids": [
-      "af-00038",
-      "af-00039"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "ISMA IP": {
     "song_ids": [
+      "af-00038",
+      "af-00039",
       "af-00040",
       "af-00041",
       "af-00042"
     ],
     "primary_song_ids": [
+      "af-00038",
+      "af-00039",
       "af-00040",
       "af-00041",
       "af-00042"
@@ -651,6 +592,9 @@
       "af-00101",
       "af-00102",
       "af-00103",
+      "af-00104",
+      "af-00105",
+      "af-00106",
       "af-00107",
       "af-00134"
     ],
@@ -661,6 +605,9 @@
       "af-00101",
       "af-00102",
       "af-00103",
+      "af-00104",
+      "af-00105",
+      "af-00106",
       "af-00107"
     ],
     "feature_song_ids": [
@@ -725,13 +672,36 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Moliy": {
+    "song_ids": [
+      "af-00064",
+      "af-00065",
+      "af-00066",
+      "af-00068",
+      "af-00069",
+      "af-00070",
+      "af-00071",
+      "af-00072"
+    ],
+    "primary_song_ids": [
+      "af-00064",
+      "af-00065",
+      "af-00066",
+      "af-00068",
+      "af-00069",
+      "af-00070",
+      "af-00071",
+      "af-00072"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "MOLIY": {
     "song_ids": [
-      "af-00066",
       "af-00067"
     ],
     "primary_song_ids": [
-      "af-00066",
       "af-00067"
     ],
     "feature_song_ids": [],
@@ -1116,10 +1086,12 @@
   },
   "Tems": {
     "song_ids": [
-      "af-00122"
+      "af-00122",
+      "af-00123"
     ],
     "primary_song_ids": [
-      "af-00122"
+      "af-00122",
+      "af-00123"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1170,6 +1142,21 @@
     "feature_song_ids": [
       "af-00127"
     ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "trendz Different Energy": {
+    "song_ids": [
+      "af-00128",
+      "af-00129",
+      "af-00130"
+    ],
+    "primary_song_ids": [
+      "af-00128",
+      "af-00129",
+      "af-00130"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1239,27 +1226,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "WizKid": {
-    "song_ids": [
-      "af-00140",
-      "af-00141",
-      "af-00144",
-      "af-00145",
-      "af-00146",
-      "af-00147"
-    ],
-    "primary_song_ids": [
-      "af-00140",
-      "af-00141",
-      "af-00144",
-      "af-00145",
-      "af-00146",
-      "af-00147"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "YBNL Mafia Family": {
     "song_ids": [
       "af-00148"
@@ -1299,71 +1265,6 @@
     ],
     "primary_song_ids": [
       "af-00151"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "amapiano": {
-    "song_ids": [
-      "af-00152",
-      "af-00158",
-      "af-00159",
-      "af-00162",
-      "af-00163",
-      "af-00168",
-      "af-00170",
-      "af-00174",
-      "af-00176",
-      "af-00178",
-      "af-00180",
-      "af-00183",
-      "af-00185",
-      "af-00186",
-      "af-00187",
-      "af-00188",
-      "af-00192",
-      "af-00193",
-      "af-00197",
-      "af-00198",
-      "af-00200",
-      "af-00201",
-      "af-00204",
-      "af-00205",
-      "af-00206",
-      "af-00207",
-      "af-00208",
-      "af-00209"
-    ],
-    "primary_song_ids": [
-      "af-00152",
-      "af-00158",
-      "af-00159",
-      "af-00162",
-      "af-00163",
-      "af-00168",
-      "af-00170",
-      "af-00174",
-      "af-00176",
-      "af-00178",
-      "af-00180",
-      "af-00183",
-      "af-00185",
-      "af-00186",
-      "af-00187",
-      "af-00188",
-      "af-00192",
-      "af-00193",
-      "af-00197",
-      "af-00198",
-      "af-00200",
-      "af-00201",
-      "af-00204",
-      "af-00205",
-      "af-00206",
-      "af-00207",
-      "af-00208",
-      "af-00209"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1536,10 +1437,12 @@
   },
   "Ami Faku": {
     "song_ids": [
-      "af-00169"
+      "af-00169",
+      "af-00198"
     ],
     "primary_song_ids": [
-      "af-00169"
+      "af-00169",
+      "af-00198"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1734,6 +1637,39 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Prince Kaybee": {
+    "song_ids": [
+      "af-00198"
+    ],
+    "primary_song_ids": [
+      "af-00198"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shimza": {
+    "song_ids": [
+      "af-00198"
+    ],
+    "primary_song_ids": [
+      "af-00198"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Black Motion": {
+    "song_ids": [
+      "af-00198"
+    ],
+    "primary_song_ids": [
+      "af-00198"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "SAUTI SOL": {
     "song_ids": [
       "af-00199"
@@ -1781,6 +1717,21 @@
       "af-00202",
       "af-00203"
     ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zakes Bantwini": {
+    "song_ids": [
+      "af-00207",
+      "af-00208",
+      "af-00209"
+    ],
+    "primary_song_ids": [
+      "af-00207",
+      "af-00208",
+      "af-00209"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },

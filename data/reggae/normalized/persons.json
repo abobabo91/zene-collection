@@ -68,7 +68,12 @@
       "rg-00018",
       "rg-00019",
       "rg-00020",
-      "rg-00021"
+      "rg-00021",
+      "rg-00022",
+      "rg-00023",
+      "rg-00025",
+      "rg-00026",
+      "rg-00027"
     ],
     "primary_song_ids": [
       "rg-00014",
@@ -78,7 +83,12 @@
       "rg-00018",
       "rg-00019",
       "rg-00020",
-      "rg-00021"
+      "rg-00021",
+      "rg-00022",
+      "rg-00023",
+      "rg-00025",
+      "rg-00026",
+      "rg-00027"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -92,34 +102,6 @@
     "primary_song_ids": [
       "rg-00015",
       "rg-00016"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bob marley": {
-    "song_ids": [
-      "rg-00022"
-    ],
-    "primary_song_ids": [
-      "rg-00022"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bob Marley s": {
-    "song_ids": [
-      "rg-00023",
-      "rg-00025",
-      "rg-00026",
-      "rg-00027"
-    ],
-    "primary_song_ids": [
-      "rg-00023",
-      "rg-00025",
-      "rg-00026",
-      "rg-00027"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -294,17 +276,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "John Holt Strange Things": {
-    "song_ids": [
-      "rg-00044"
-    ],
-    "primary_song_ids": [
-      "rg-00044"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Max Romeo": {
     "song_ids": [
       "rg-00045"
@@ -393,23 +364,6 @@
     "primary_song_ids": [
       "rg-00052",
       "rg-00053"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Marley family": {
-    "song_ids": [
-      "rg-00054",
-      "rg-00055",
-      "rg-00057",
-      "rg-00062"
-    ],
-    "primary_song_ids": [
-      "rg-00054",
-      "rg-00055",
-      "rg-00057",
-      "rg-00062"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

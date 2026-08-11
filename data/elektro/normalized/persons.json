@@ -1038,35 +1038,26 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "2014) Skrillex - Recess": {
-    "song_ids": [
-      "el-00111"
-    ],
-    "primary_song_ids": [
-      "el-00111"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "2015 - Skrillex": {
-    "song_ids": [
-      "el-00112",
-      "el-00113",
-      "el-00114",
-      "el-00115"
-    ],
-    "primary_song_ids": [
-      "el-00112",
-      "el-00113",
-      "el-00114",
-      "el-00115"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Skrillex": {
+    "song_ids": [
+      "el-00111",
+      "el-00112",
+      "el-00113",
+      "el-00114",
+      "el-00115"
+    ],
+    "primary_song_ids": [
+      "el-00111",
+      "el-00112",
+      "el-00113",
+      "el-00114",
+      "el-00115"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Diplo Present Jack 220": {
     "song_ids": [
       "el-00112",
       "el-00113",
@@ -1416,10 +1407,18 @@
   "Major Lazer": {
     "song_ids": [
       "el-00155",
+      "el-00282",
+      "el-00283",
+      "el-00284",
+      "el-00285",
       "el-00424"
     ],
     "primary_song_ids": [
       "el-00155",
+      "el-00282",
+      "el-00283",
+      "el-00284",
+      "el-00285",
       "el-00424"
     ],
     "feature_song_ids": [],
@@ -1892,10 +1891,14 @@
   },
   "Baauer": {
     "song_ids": [
-      "el-00205"
+      "el-00205",
+      "el-00240",
+      "el-00241"
     ],
     "primary_song_ids": [
-      "el-00205"
+      "el-00205",
+      "el-00240",
+      "el-00241"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2148,41 +2151,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "electronic pop": {
-    "song_ids": [
-      "el-00240",
-      "el-00241",
-      "el-00254",
-      "el-00255",
-      "el-00256",
-      "el-00257",
-      "el-00258",
-      "el-00259",
-      "el-00260",
-      "el-00282",
-      "el-00283",
-      "el-00284",
-      "el-00285"
-    ],
-    "primary_song_ids": [
-      "el-00240",
-      "el-00241",
-      "el-00254",
-      "el-00255",
-      "el-00256",
-      "el-00257",
-      "el-00258",
-      "el-00259",
-      "el-00260",
-      "el-00282",
-      "el-00283",
-      "el-00284",
-      "el-00285"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Bob Sinclar": {
     "song_ids": [
       "el-00242",
@@ -2332,6 +2300,37 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Flume": {
+    "song_ids": [
+      "el-00254",
+      "el-00255",
+      "el-00256",
+      "el-00257",
+      "el-00258",
+      "el-00259",
+      "el-00260",
+      "el-00261",
+      "el-00262",
+      "el-00263",
+      "el-00371"
+    ],
+    "primary_song_ids": [
+      "el-00254",
+      "el-00255",
+      "el-00256",
+      "el-00257",
+      "el-00258",
+      "el-00259",
+      "el-00260",
+      "el-00261",
+      "el-00262",
+      "el-00263",
+      "el-00371"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Moon Holiday Ki": {
     "song_ids": [
       "el-00255"
@@ -2373,23 +2372,6 @@
     "feature_song_ids": [
       "el-00260"
     ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Flume": {
-    "song_ids": [
-      "el-00261",
-      "el-00262",
-      "el-00263",
-      "el-00371"
-    ],
-    "primary_song_ids": [
-      "el-00261",
-      "el-00262",
-      "el-00263",
-      "el-00371"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2592,6 +2574,7 @@
   "Robin Schulz": {
     "song_ids": [
       "el-00287",
+      "el-00934",
       "el-00935",
       "el-00936",
       "el-00937",
@@ -2600,6 +2583,7 @@
     ],
     "primary_song_ids": [
       "el-00287",
+      "el-00934",
       "el-00935",
       "el-00936",
       "el-00937",
@@ -3057,14 +3041,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Swedish House Mafia": {
+  "Electro Swedish House Mafia": {
     "song_ids": [
-      "el-00340",
-      "el-00436"
+      "el-00340"
     ],
     "primary_song_ids": [
-      "el-00340",
-      "el-00436"
+      "el-00340"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3111,17 +3093,6 @@
     ],
     "primary_song_ids": [
       "el-00344"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "festival edm": {
-    "song_ids": [
-      "el-00345"
-    ],
-    "primary_song_ids": [
-      "el-00345"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3767,12 +3738,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Swedish House Mafia - Until Now": {
+  "Swedish House Mafia": {
     "song_ids": [
+      "el-00436",
       "el-00437",
       "el-00438"
     ],
     "primary_song_ids": [
+      "el-00436",
       "el-00437",
       "el-00438"
     ],
@@ -7389,17 +7362,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "pop house": {
-    "song_ids": [
-      "el-00934"
-    ],
-    "primary_song_ids": [
-      "el-00934"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Rompasso": {
     "song_ids": [
       "el-00940"
@@ -8647,27 +8609,18 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "eurodance": {
-    "song_ids": [
-      "el-01084",
-      "el-01087"
-    ],
-    "primary_song_ids": [
-      "el-01084",
-      "el-01087"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Sylver": {
     "song_ids": [
+      "el-01084",
       "el-01085",
-      "el-01086"
+      "el-01086",
+      "el-01087"
     ],
     "primary_song_ids": [
+      "el-01084",
       "el-01085",
-      "el-01086"
+      "el-01086",
+      "el-01087"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -8963,22 +8916,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "trance": {
+  "Above": {
     "song_ids": [
       "el-01121",
       "el-01122",
       "el-01123",
       "el-01124",
       "el-01125",
-      "el-01137",
-      "el-01138",
-      "el-01145",
-      "el-01151",
-      "el-01152",
-      "el-01153",
-      "el-01154",
-      "el-01155",
-      "el-01165"
+      "el-01126"
     ],
     "primary_song_ids": [
       "el-01121",
@@ -8986,15 +8931,26 @@
       "el-01123",
       "el-01124",
       "el-01125",
-      "el-01137",
-      "el-01138",
-      "el-01145",
-      "el-01151",
-      "el-01152",
-      "el-01153",
-      "el-01154",
-      "el-01155",
-      "el-01165"
+      "el-01126"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Beyond": {
+    "song_ids": [
+      "el-01121",
+      "el-01122",
+      "el-01123",
+      "el-01124",
+      "el-01125"
+    ],
+    "primary_song_ids": [
+      "el-01121",
+      "el-01122",
+      "el-01123",
+      "el-01124",
+      "el-01125"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -9030,17 +8986,6 @@
     "feature_song_ids": [
       "el-01124"
     ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Above": {
-    "song_ids": [
-      "el-01126"
-    ],
-    "primary_song_ids": [
-      "el-01126"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -9108,7 +9053,9 @@
       "el-01133",
       "el-01134",
       "el-01135",
-      "el-01136"
+      "el-01136",
+      "el-01137",
+      "el-01138"
     ],
     "primary_song_ids": [
       "el-01131",
@@ -9116,7 +9063,9 @@
       "el-01133",
       "el-01134",
       "el-01135",
-      "el-01136"
+      "el-01136",
+      "el-01137",
+      "el-01138"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -9179,18 +9128,30 @@
   },
   "Ayla": {
     "song_ids": [
+      "el-01145",
       "el-01146",
       "el-01147",
       "el-01148",
       "el-01149",
-      "el-01150"
+      "el-01150",
+      "el-01151",
+      "el-01152",
+      "el-01153",
+      "el-01154",
+      "el-01155"
     ],
     "primary_song_ids": [
+      "el-01145",
       "el-01146",
       "el-01147",
       "el-01148",
       "el-01149",
-      "el-01150"
+      "el-01150",
+      "el-01151",
+      "el-01152",
+      "el-01153",
+      "el-01154",
+      "el-01155"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -9302,6 +9263,7 @@
   },
   "Mauro Picotto": {
     "song_ids": [
+      "el-01165",
       "el-01166",
       "el-01167",
       "el-01168",
@@ -9309,6 +9271,7 @@
       "el-01170"
     ],
     "primary_song_ids": [
+      "el-01165",
       "el-01166",
       "el-01167",
       "el-01168",

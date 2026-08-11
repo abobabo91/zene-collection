@@ -41071,15 +41071,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "Bahamadia - BB Queen"
+      "Bahamadia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bahamadia - BB Queen"
+      "Bahamadia"
     ],
     "credits": [
       {
-        "entity": "Bahamadia - BB Queen",
+        "entity": "Bahamadia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -41093,15 +41093,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "Bahamadia - BB Queen"
+      "Bahamadia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bahamadia - BB Queen"
+      "Bahamadia"
     ],
     "credits": [
       {
-        "entity": "Bahamadia - BB Queen",
+        "entity": "Bahamadia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -41115,15 +41115,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "credits": [
       {
-        "entity": "Bahamadia - Kollage",
+        "entity": "Bahamadia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -41137,15 +41137,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "credits": [
       {
-        "entity": "Bahamadia - Kollage",
+        "entity": "Bahamadia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -41159,15 +41159,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "credits": [
       {
-        "entity": "Bahamadia - Kollage",
+        "entity": "Bahamadia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -41181,15 +41181,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bahamadia - Kollage"
+      "Bahamadia"
     ],
     "credits": [
       {
-        "entity": "Bahamadia - Kollage",
+        "entity": "Bahamadia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -120534,11 +120534,21 @@
     "title": "Bout a Dollar",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kolyon"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Kolyon"
+    ],
+    "credits": [
+      {
+        "entity": "Kolyon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05339",
@@ -120546,11 +120556,21 @@
     "title": "Diary (Chapter 3)",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kolyon"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Kolyon"
+    ],
+    "credits": [
+      {
+        "entity": "Kolyon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05340",
@@ -120624,11 +120644,21 @@
     "title": "Team Work",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kolyon"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Kolyon"
+    ],
+    "credits": [
+      {
+        "entity": "Kolyon",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05344",

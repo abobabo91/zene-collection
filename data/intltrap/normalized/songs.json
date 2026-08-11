@@ -1609,15 +1609,29 @@
   {
     "song_id": "it-00074",
     "file": "_trap\\_other country random\\_uk trap\\Stickz - YouTube\\#410 Skengdo x Am x M24 x Stickz - Crash X GBG [Music Video]   GRM Daily.mp3",
-    "title": "#410 Skengdo x Am x M24 x Stickz - Crash X GBG [Music Video] GRM Daily",
+    "title": "Crash X GBG [Music Video] GRM Daily",
     "primary_artists": [
+      "Am",
+      "M24",
       "Stickz"
     ],
     "featuring_artists": [],
     "artists": [
+      "Am",
+      "M24",
       "Stickz"
     ],
     "credits": [
+      {
+        "entity": "Am",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "M24",
+        "entity_type": "person",
+        "role": "primary"
+      },
       {
         "entity": "Stickz",
         "entity_type": "person",
@@ -4738,20 +4752,20 @@
     "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\COME MY WAY.mp3",
     "title": "COME MY WAY",
     "primary_artists": [
-      "Svensk Drill Rap"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Svensk Drill Rap"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Svensk Drill Rap",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "it-00222",
@@ -4798,20 +4812,20 @@
     "file": "_trap\\_other country random\\Svensk drill\\Svensk Drill Rap\\Wenak.mp3",
     "title": "Wenak",
     "primary_artists": [
-      "Svensk Drill Rap"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Svensk Drill Rap"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Svensk Drill Rap",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "it-00225",

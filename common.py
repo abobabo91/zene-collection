@@ -138,6 +138,9 @@ def folder_artist(name: str) -> str:
         " top tracks playlist", " best songs", " official music videos",
         " videoklippek", " video klippek", " hivatalos videoklipek",
         " válogatás", " zenék", " dalai", " hivatalos", " vevo",
+        # `zap mama best of` became an artist of its own. The " - " rule below already
+        # knows "best of" as an album word, but only when the folder has a dash in it.
+        " best of", " best hits", " full album",
     ]:
         if lower.endswith(suffix):
             value = value[:-len(suffix)].strip(" -_,")
@@ -151,12 +154,15 @@ def folder_artist(name: str) -> str:
     if lower.startswith("mix \u2013 ") or lower.startswith("mix - "):
         value = value[6:].strip(" -_,")
         lower = value.lower()
-    # Strip "Legnépszerűbb számok -- " prefix (Hungarian YouTube)
+    # Strip the "Legnépszerűbb számok -- " / "Top-Titel - " prefix YouTube puts on an
+    # artist's auto-generated channel section. The separator varies by locale and by how the
+    # folder got named; the plain hyphen was missing, so `Legnépszerűbb számok - K Trap`
+    # and `Top-Titel - Naptengeri` kept the prefix and became artists of their own.
     if "legnépszerűbb" in lower or "top-titel" in lower:
-        if " -- " in value:
-            value = value.split(" -- ", 1)[1].strip(" -_,")
-        elif " \u2013 " in value:
-            value = value.split(" \u2013 ", 1)[1].strip(" -_,")
+        for _sep in (" -- ", " \u2013 ", " - "):
+            if _sep in value:
+                value = value.split(_sep, 1)[1].strip(" -_,")
+                break
         lower = value.lower()
     value = re.sub(r"\s*@\s*\d{3}\b.*$", "", value).strip(" -_,")
     value = re.sub(r"\s*\(\d{4}(?:-\d{4})?\)\s*(?:\(\d+\))?.*$", "", value).strip(" -_,")

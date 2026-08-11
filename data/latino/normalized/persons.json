@@ -28,11 +28,15 @@
     "song_ids": [
       "lt-00002",
       "lt-00103",
+      "lt-00106",
+      "lt-00143",
       "lt-00216"
     ],
     "primary_song_ids": [
       "lt-00002",
       "lt-00103",
+      "lt-00106",
+      "lt-00143",
       "lt-00216"
     ],
     "feature_song_ids": [],
@@ -197,6 +201,7 @@
       "lt-00016",
       "lt-00124",
       "lt-00125",
+      "lt-00143",
       "lt-00165",
       "lt-00230",
       "lt-00231",
@@ -227,6 +232,7 @@
       "lt-00016",
       "lt-00124",
       "lt-00125",
+      "lt-00143",
       "lt-00230",
       "lt-00231",
       "lt-00232",
@@ -873,6 +879,39 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Cosculluela": {
+    "song_ids": [
+      "lt-00106"
+    ],
+    "primary_song_ids": [
+      "lt-00106"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Genio": {
+    "song_ids": [
+      "lt-00106"
+    ],
+    "primary_song_ids": [
+      "lt-00106"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "De La Ghetto": {
+    "song_ids": [
+      "lt-00106"
+    ],
+    "primary_song_ids": [
+      "lt-00106"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Jowell y Randy": {
     "song_ids": [
       "lt-00109"
@@ -1086,6 +1125,7 @@
       "lt-00134",
       "lt-00135",
       "lt-00136",
+      "lt-00231",
       "lt-00268"
     ],
     "primary_song_ids": [
@@ -1093,6 +1133,7 @@
       "lt-00134",
       "lt-00135",
       "lt-00136",
+      "lt-00231",
       "lt-00268"
     ],
     "feature_song_ids": [],
@@ -1112,10 +1153,12 @@
   },
   "Mambo Kingz": {
     "song_ids": [
-      "lt-00134"
+      "lt-00134",
+      "lt-00231"
     ],
     "primary_song_ids": [
-      "lt-00134"
+      "lt-00134",
+      "lt-00231"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1171,7 +1214,8 @@
       "lt-00143",
       "lt-00144",
       "lt-00145",
-      "lt-00226"
+      "lt-00226",
+      "lt-00234"
     ],
     "primary_song_ids": [
       "lt-00137",
@@ -1183,7 +1227,33 @@
       "lt-00143",
       "lt-00144",
       "lt-00145",
-      "lt-00226"
+      "lt-00226",
+      "lt-00234"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "J Balvin": {
+    "song_ids": [
+      "lt-00143",
+      "lt-00209",
+      "lt-00210",
+      "lt-00211",
+      "lt-00212",
+      "lt-00213",
+      "lt-00214",
+      "lt-00229"
+    ],
+    "primary_song_ids": [
+      "lt-00143",
+      "lt-00209",
+      "lt-00210",
+      "lt-00211",
+      "lt-00212",
+      "lt-00213",
+      "lt-00214",
+      "lt-00229"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1508,29 +1578,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "J Balvin": {
-    "song_ids": [
-      "lt-00209",
-      "lt-00210",
-      "lt-00211",
-      "lt-00212",
-      "lt-00213",
-      "lt-00214",
-      "lt-00229"
-    ],
-    "primary_song_ids": [
-      "lt-00209",
-      "lt-00210",
-      "lt-00211",
-      "lt-00212",
-      "lt-00213",
-      "lt-00214",
-      "lt-00229"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Willy William": {
     "song_ids": [
       "lt-00212"
@@ -1599,6 +1646,50 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "LA JOAQUI": {
+    "song_ids": [
+      "lt-00222"
+    ],
+    "primary_song_ids": [
+      "lt-00222"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ELAGGUME": {
+    "song_ids": [
+      "lt-00222"
+    ],
+    "primary_song_ids": [
+      "lt-00222"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "FAUNA MUSIC": {
+    "song_ids": [
+      "lt-00222"
+    ],
+    "primary_song_ids": [
+      "lt-00222"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "GUSTY DJ": {
+    "song_ids": [
+      "lt-00222"
+    ],
+    "primary_song_ids": [
+      "lt-00222"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "La Nota": {
     "song_ids": [
       "lt-00223"
@@ -1646,11 +1737,13 @@
   "Nicky Jam": {
     "song_ids": [
       "lt-00228",
-      "lt-00229"
+      "lt-00229",
+      "lt-00234"
     ],
     "primary_song_ids": [
       "lt-00228",
-      "lt-00229"
+      "lt-00229",
+      "lt-00234"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1662,6 +1755,50 @@
     ],
     "primary_song_ids": [
       "lt-00230"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Luian": {
+    "song_ids": [
+      "lt-00231"
+    ],
+    "primary_song_ids": [
+      "lt-00231"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Casper": {
+    "song_ids": [
+      "lt-00234"
+    ],
+    "primary_song_ids": [
+      "lt-00234"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nio García": {
+    "song_ids": [
+      "lt-00234"
+    ],
+    "primary_song_ids": [
+      "lt-00234"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Darell": {
+    "song_ids": [
+      "lt-00234"
+    ],
+    "primary_song_ids": [
+      "lt-00234"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

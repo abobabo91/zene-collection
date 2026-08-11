@@ -145,15 +145,15 @@
     "file": "_other\\_african music\\_afrobeats\\Asake\\Joha.mp3",
     "title": "Joha",
     "primary_artists": [
-      "afrobeats"
+      "Asake"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Asake"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Asake",
         "entity_type": "person",
         "role": "primary"
       }
@@ -225,20 +225,20 @@
     "file": "_other\\_african music\\_afrobeats\\Call Back.mp3",
     "title": "Call Back",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00012",
@@ -393,20 +393,20 @@
     "file": "_other\\_african music\\_afrobeats\\December (feat. Culan Luke & Tay Iwar).mp3",
     "title": "December (feat. Culan Luke & Tay Iwar)",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00020",
@@ -597,60 +597,60 @@
     "file": "_other\\_african music\\_afrobeats\\Dumebi (Matoma Remix).mp3",
     "title": "Dumebi (Matoma Remix)",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00028",
     "file": "_other\\_african music\\_afrobeats\\Equipment.mp3",
     "title": "Equipment",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00029",
     "file": "_other\\_african music\\_afrobeats\\Fantasy.mp3",
     "title": "Fantasy",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00030",
@@ -697,20 +697,20 @@
     "file": "_other\\_african music\\_afrobeats\\Forever.mp3",
     "title": "Forever",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00033",
@@ -764,75 +764,75 @@
     "file": "_other\\_african music\\_afrobeats\\Get Up.mp3",
     "title": "Get Up",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00036",
     "file": "_other\\_african music\\_afrobeats\\Ghetto Love.mp3",
     "title": "Ghetto Love",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00037",
     "file": "_other\\_african music\\_afrobeats\\Ginger You.mp3",
     "title": "Ginger You",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00038",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\Isma IP - 04 Niiki (Official Audio) (prod by khismillbeats).mp3",
     "title": "Niiki",
     "primary_artists": [
-      "Isma IP"
+      "ISMA IP"
     ],
     "featuring_artists": [],
     "artists": [
-      "Isma IP"
+      "ISMA IP"
     ],
     "credits": [
       {
-        "entity": "Isma IP",
+        "entity": "ISMA IP",
         "entity_type": "person",
         "role": "primary"
       }
@@ -844,15 +844,15 @@
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\Isma IP - 05 -sitiri sitiri gam - (Official Audio) ft. Ayman hanad.mp3",
     "title": "sitiri sitiri gam - ft",
     "primary_artists": [
-      "Isma IP"
+      "ISMA IP"
     ],
     "featuring_artists": [],
     "artists": [
-      "Isma IP"
+      "ISMA IP"
     ],
     "credits": [
       {
-        "entity": "Isma IP",
+        "entity": "ISMA IP",
         "entity_type": "person",
         "role": "primary"
       }
@@ -991,20 +991,20 @@
     "file": "_other\\_african music\\_afrobeats\\Joro.mp3",
     "title": "Joro",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00047",
@@ -1196,20 +1196,20 @@
     "file": "_other\\_african music\\_afrobeats\\Kelegbe Megbe (Know your level).mp3",
     "title": "Kelegbe Megbe (Know your level)",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00055",
@@ -1270,20 +1270,20 @@
     "file": "_other\\_african music\\_afrobeats\\Luv.mp3",
     "title": "Luv",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00058",
@@ -1439,15 +1439,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\Confession.mp3",
     "title": "Confession",
     "primary_artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1459,15 +1459,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\Dance Alone.mp3",
     "title": "Dance Alone",
     "primary_artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1479,15 +1479,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\MOLIY - Shake It to the Max (FLY)   Vevo DSCVR.mp3",
     "title": "Shake It to the Max (FLY) Vevo DSCVR",
     "primary_artists": [
-      "MOLIY"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "MOLIY"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "MOLIY",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1527,15 +1527,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\Ngishutheni (Radio Edit).mp3",
     "title": "Ngishutheni",
     "primary_artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1547,15 +1547,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\No Wahala.mp3",
     "title": "No Wahala",
     "primary_artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1567,15 +1567,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\Rush.mp3",
     "title": "Rush",
     "primary_artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1587,15 +1587,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\Show Me Love.mp3",
     "title": "Show Me Love",
     "primary_artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1607,15 +1607,15 @@
     "file": "_other\\_african music\\_afrobeats\\Moliy\\Sip (Alcohol).mp3",
     "title": "Sip (Alcohol)",
     "primary_artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Moliy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Moliy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1647,20 +1647,20 @@
     "file": "_other\\_african music\\_afrobeats\\Monalisa.mp3",
     "title": "Monalisa",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00075",
@@ -2072,18 +2072,18 @@
     "file": "_other\\_african music\\_afrobeats\\P-Square ft. J. Martins E No Easy (Official Video).mp3",
     "title": "P-Square",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [
       "J. Martins E No Easy"
     ],
     "artists": [
-      "afrobeats",
+      "N/A",
       "J. Martins E No Easy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -2093,7 +2093,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00093",
@@ -2342,15 +2342,15 @@
     "file": "_other\\_african music\\_afrobeats\\Rema\\Rema - Rave & Roses Ultra (Full Album)\\Carry.mp3",
     "title": "Carry",
     "primary_artists": [
-      "afrobeats"
+      "Rema"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Rema"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Rema",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2362,15 +2362,15 @@
     "file": "_other\\_african music\\_afrobeats\\Rema\\Rema - Rave & Roses Ultra (Full Album)\\Oroma Baby.mp3",
     "title": "Oroma Baby",
     "primary_artists": [
-      "afrobeats"
+      "Rema"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Rema"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Rema",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2382,15 +2382,15 @@
     "file": "_other\\_african music\\_afrobeats\\Rema\\Rema - Rave & Roses Ultra (Full Album)\\Wine.mp3",
     "title": "Wine",
     "primary_artists": [
-      "afrobeats"
+      "Rema"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Rema"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Rema",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2582,20 +2582,20 @@
     "file": "_other\\_african music\\_afrobeats\\Skeletun.mp3",
     "title": "Skeletun",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00117",
@@ -2722,15 +2722,15 @@
     "file": "_other\\_african music\\_afrobeats\\Tems\\Tems- The Key (Official Video).mp3",
     "title": "Tems- The Key",
     "primary_artists": [
-      "afrobeats"
+      "Tems"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "Tems"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "Tems",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2742,20 +2742,20 @@
     "file": "_other\\_african music\\_afrobeats\\Tipsy (feat. J-Soul).mp3",
     "title": "Tipsy (feat. J-Soul)",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00125",
@@ -2838,15 +2838,15 @@
     "file": "_other\\_african music\\_afrobeats\\trendz Different Energy\\DIFFERENT ENERGY (Freestyle).mp3",
     "title": "DIFFERENT ENERGY (Freestyle)",
     "primary_artists": [
-      "afrobeats"
+      "trendz Different Energy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "trendz Different Energy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "trendz Different Energy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2858,15 +2858,15 @@
     "file": "_other\\_african music\\_afrobeats\\trendz Different Energy\\KOREDE.mp3",
     "title": "KOREDE",
     "primary_artists": [
-      "afrobeats"
+      "trendz Different Energy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "trendz Different Energy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "trendz Different Energy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2878,15 +2878,15 @@
     "file": "_other\\_african music\\_afrobeats\\trendz Different Energy\\NONSTOP.mp3",
     "title": "NONSTOP",
     "primary_artists": [
-      "afrobeats"
+      "trendz Different Energy"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "trendz Different Energy"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "trendz Different Energy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3122,15 +3122,15 @@
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid - African Bad Gyal feat. Chris Brown (Audio).mp3",
     "title": "African Bad Gyal feat",
     "primary_artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "featuring_artists": [],
     "artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "credits": [
       {
-        "entity": "WizKid",
+        "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3142,15 +3142,15 @@
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid - Daddy Yo.mp3",
     "title": "Daddy Yo",
     "primary_artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "featuring_artists": [],
     "artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "credits": [
       {
-        "entity": "WizKid",
+        "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3202,15 +3202,15 @@
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid _Made In Lagos_ (Full Album)\\WizKid - Piece of Me (Audio) ft. Ella Mai.mp3",
     "title": "Piece of Me (Audio) ft",
     "primary_artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "featuring_artists": [],
     "artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "credits": [
       {
-        "entity": "WizKid",
+        "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3222,15 +3222,15 @@
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid _Made In Lagos_ (Full Album)\\WizKid - Roma (Audio) ft. Terri.mp3",
     "title": "Roma (Audio) ft",
     "primary_artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "featuring_artists": [],
     "artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "credits": [
       {
-        "entity": "WizKid",
+        "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3242,15 +3242,15 @@
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid _Made In Lagos_ (Full Album)\\WizKid - Sweet One (Audio).mp3",
     "title": "Sweet One (Audio)",
     "primary_artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "featuring_artists": [],
     "artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "credits": [
       {
-        "entity": "WizKid",
+        "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3262,15 +3262,15 @@
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid _Made In Lagos_ (Full Album)\\WizKid - True Love (Audio) ft. Tay Iwar, Projexx.mp3",
     "title": "True Love (Audio) ft",
     "primary_artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "featuring_artists": [],
     "artists": [
-      "WizKid"
+      "Wizkid"
     ],
     "credits": [
       {
-        "entity": "WizKid",
+        "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3310,20 +3310,20 @@
     "file": "_other\\_african music\\_afrobeats\\Your Corner (feat. Nonso Amadi).mp3",
     "title": "Your Corner (feat. Nonso Amadi)",
     "primary_artists": [
-      "afrobeats"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "afrobeats"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "afrobeats",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00150",
@@ -3377,20 +3377,20 @@
     "file": "_other\\_african music\\_amapiano\\Aba'ngan Bami.mp3",
     "title": "Aba'ngan Bami",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00153",
@@ -3511,40 +3511,40 @@
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Afro Mass.mp3",
     "title": "Afro Mass",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00159",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Black Coffee  Extra Time On You  Choreography by TEVYN COLE.mp3",
     "title": "Black Coffee Extra Time On You Choreography by TEVYN COLE",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00160",
@@ -3607,38 +3607,38 @@
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Emcimbini (Offical Audio)   Kabza de Small, Dj Maphorisa, Samthing Soweto, Aymos, Mas Musiq & Myztro.mp3",
     "title": "Emcimbini (Offical Audio) Kabza de Small, Dj Maphorisa, Samthing Soweto, Aymos, Mas Musiq & Myztro",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00163",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Focalistic Ke Star (Official Music Video) ft Vigro Deep.mp3",
     "title": "Focalistic Ke Star",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [
       "Vigro Deep"
     ],
     "artists": [
-      "amapiano",
+      "N/A",
       "Vigro Deep"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -3648,7 +3648,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00164",
@@ -3750,20 +3750,20 @@
     "file": "_other\\_african music\\_amapiano\\Akulaleki (Radio Edit).mp3",
     "title": "Akulaleki",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00169",
@@ -3790,20 +3790,20 @@
     "file": "_other\\_african music\\_amapiano\\Asibe Happy.mp3",
     "title": "Asibe Happy",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00171",
@@ -3878,20 +3878,20 @@
     "file": "_other\\_african music\\_amapiano\\Bopha.mp3",
     "title": "Bopha",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00175",
@@ -3926,20 +3926,20 @@
     "file": "_other\\_african music\\_amapiano\\Buyela Ekhaya.mp3",
     "title": "Buyela Ekhaya",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00177",
@@ -3966,20 +3966,20 @@
     "file": "_other\\_african music\\_amapiano\\Dangerous Love (DJ Ganyani & De Mogul Remix).mp3",
     "title": "Dangerous Love (DJ Ganyani & De Mogul Remix)",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00179",
@@ -4006,18 +4006,18 @@
     "file": "_other\\_african music\\_amapiano\\Dj Maphorisa x Kabza De Small ft Mhaw Keys - Koko.mp3",
     "title": "Dj Maphorisa x Kabza De Small",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [
       "Mhaw Keys - Koko"
     ],
     "artists": [
-      "amapiano",
+      "N/A",
       "Mhaw Keys - Koko"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -4027,7 +4027,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00181",
@@ -4082,18 +4082,18 @@
     "file": "_other\\_african music\\_amapiano\\Dj Sbu ft Zahara Le Ngoma   YouTube.mp3",
     "title": "Dj Sbu",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [
       "Zahara Le Ngoma YouTube"
     ],
     "artists": [
-      "amapiano",
+      "N/A",
       "Zahara Le Ngoma YouTube"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -4103,7 +4103,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00184",
@@ -4130,80 +4130,80 @@
     "file": "_other\\_african music\\_amapiano\\eMcimbini (feat. Aymos, Samthing Soweto, Mas Musiq, Myztro).mp3",
     "title": "eMcimbini (feat. Aymos, Samthing Soweto, Mas Musiq, Myztro)",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00186",
     "file": "_other\\_african music\\_amapiano\\iPiano.mp3",
     "title": "iPiano",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00187",
     "file": "_other\\_african music\\_amapiano\\iPlan.mp3",
     "title": "iPlan",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00188",
     "file": "_other\\_african music\\_amapiano\\iThemba_lam.mp3",
     "title": "iThemba lam",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00189",
@@ -4277,38 +4277,38 @@
     "file": "_other\\_african music\\_amapiano\\Khuza Gogo.mp3",
     "title": "Khuza Gogo",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00193",
     "file": "_other\\_african music\\_amapiano\\Major League DJz & Abidoza ft Holly Rey – Pulling Up.mp3",
     "title": "Major League DJz & Abidoza",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [
       "Holly Rey - Pulling Up"
     ],
     "artists": [
-      "amapiano",
+      "N/A",
       "Holly Rey - Pulling Up"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -4318,7 +4318,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00194",
@@ -4393,35 +4393,56 @@
     "file": "_other\\_african music\\_amapiano\\Price to Pay (feat. Blaq Diamond, Malome Vector).mp3",
     "title": "Price to Pay (feat. Blaq Diamond, Malome Vector)",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00198",
     "file": "_other\\_african music\\_amapiano\\Prince Kaybee, Shimza, Black Motion, Ami Faku - Uwrongo.mp3",
-    "title": "Prince Kaybee, Shimza, Black Motion, Ami Faku - Uwrongo",
+    "title": "Uwrongo",
     "primary_artists": [
-      "amapiano"
+      "Prince Kaybee",
+      "Shimza",
+      "Black Motion",
+      "Ami Faku"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "Prince Kaybee",
+      "Shimza",
+      "Black Motion",
+      "Ami Faku"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "Prince Kaybee",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Shimza",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Black Motion",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ami Faku",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4460,40 +4481,40 @@
     "file": "_other\\_african music\\_amapiano\\Sweet Talk.mp3",
     "title": "Sweet Talk",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00201",
     "file": "_other\\_african music\\_amapiano\\Tender Love.mp3",
     "title": "Tender Love",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00202",
@@ -4577,75 +4598,75 @@
     "file": "_other\\_african music\\_amapiano\\Ubomi Abumanga.mp3",
     "title": "Ubomi Abumanga",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00205",
     "file": "_other\\_african music\\_amapiano\\Ucinga Ntoni (feat. Tumza D_kota, caltonic SA, candy & Thabs Le Madonga).mp3",
     "title": "Ucinga Ntoni (feat. Tumza D kota, caltonic SA, candy & Thabs Le Madonga)",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00206",
     "file": "_other\\_african music\\_amapiano\\Zaka (feat. Aymos, DJ Maphorisa, Kabza De Small).mp3",
     "title": "Zaka (feat. Aymos, DJ Maphorisa, Kabza De Small)",
     "primary_artists": [
-      "amapiano"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "af-00207",
     "file": "_other\\_african music\\_amapiano\\Zakes Bantwini\\Amanga (Da Capo Remix).mp3",
     "title": "Amanga (Da Capo Remix)",
     "primary_artists": [
-      "amapiano"
+      "Zakes Bantwini"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "Zakes Bantwini"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "Zakes Bantwini",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4657,15 +4678,15 @@
     "file": "_other\\_african music\\_amapiano\\Zakes Bantwini\\Kumnyama.mp3",
     "title": "Kumnyama",
     "primary_artists": [
-      "amapiano"
+      "Zakes Bantwini"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "Zakes Bantwini"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "Zakes Bantwini",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4677,15 +4698,15 @@
     "file": "_other\\_african music\\_amapiano\\Zakes Bantwini\\Osama.mp3",
     "title": "Osama",
     "primary_artists": [
-      "amapiano"
+      "Zakes Bantwini"
     ],
     "featuring_artists": [],
     "artists": [
-      "amapiano"
+      "Zakes Bantwini"
     ],
     "credits": [
       {
-        "entity": "amapiano",
+        "entity": "Zakes Bantwini",
         "entity_type": "person",
         "role": "primary"
       }

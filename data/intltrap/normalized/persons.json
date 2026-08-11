@@ -698,6 +698,30 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Am": {
+    "song_ids": [
+      "it-00074"
+    ],
+    "primary_song_ids": [
+      "it-00074"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "M24": {
+    "song_ids": [
+      "it-00074",
+      "it-00077"
+    ],
+    "primary_song_ids": [
+      "it-00074",
+      "it-00077"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Stickz": {
     "song_ids": [
       "it-00074",
@@ -730,17 +754,6 @@
     ],
     "primary_song_ids": [
       "it-00076"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "M24": {
-    "song_ids": [
-      "it-00077"
-    ],
-    "primary_song_ids": [
-      "it-00077"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1610,19 +1623,6 @@
     ],
     "primary_song_ids": [
       "it-00220"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Svensk Drill Rap": {
-    "song_ids": [
-      "it-00221",
-      "it-00224"
-    ],
-    "primary_song_ids": [
-      "it-00221",
-      "it-00224"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

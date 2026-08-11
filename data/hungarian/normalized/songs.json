@@ -15846,66 +15846,54 @@
   {
     "song_id": "h-00558",
     "file": "_magyar rap\\Akkezdet Phiai\\AkkezdetPhiai\\Bankos   Fárasztó remix feat Akkezdet Phiai.mp3",
-    "title": "Fárasztó (Remix)",
+    "title": "Bankos Fárasztó remix",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
     "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Bankos",
-      "Saiid",
-      "Újonc Peti"
-    ],
-    "featuring_groups": [
+    "primary_groups": [
       "Akkezdet Phiai"
     ],
-    "artists": [
-      "Bankos",
-      "Saiid",
-      "Újonc Peti"
-    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [],
     "credits": [
       {
         "entity": "Akkezdet Phiai",
         "entity_type": "group",
-        "role": "feature"
-      },
-      {
-        "entity": "Saiid",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Újonc Peti",
-        "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
   {
     "song_id": "h-00559",
     "file": "_magyar rap\\Akkezdet Phiai\\AkkezdetPhiai\\PKO feat. Saiid (Akkezdet Phiai)   Mozdulj   official audio szöveggel - YouTube.mp3",
-    "title": "Mozdulj",
+    "title": "YouTube",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "PKO"
+    ],
     "primary_groups": [],
     "featuring_artists": [
-      "PKO",
-      "Saiid"
+      "Saiid Mozdulj szöveggel"
     ],
     "featuring_groups": [],
     "artists": [
       "PKO",
-      "Saiid"
+      "Saiid Mozdulj szöveggel"
     ],
     "credits": [
       {
-        "entity": "Saiid",
+        "entity": "PKO",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Saiid Mozdulj szöveggel",
         "entity_type": "person",
         "role": "feature"
       }
@@ -15914,23 +15902,28 @@
   {
     "song_id": "h-00560",
     "file": "_magyar rap\\Akkezdet Phiai\\AkkezdetPhiai\\Vészk járat   Életfless feat Saiid (produced by Saiid).mp3",
-    "title": "Életfless",
+    "title": "Vészk járat Életfless",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
     "primary_artists": [],
-    "primary_groups": [],
+    "primary_groups": [
+      "Akkezdet Phiai"
+    ],
     "featuring_artists": [
-      "Saiid",
-      "Vészk Járat"
+      "Saiid"
     ],
     "featuring_groups": [],
     "artists": [
-      "Saiid",
-      "Vészk Járat"
+      "Saiid"
     ],
     "credits": [
+      {
+        "entity": "Akkezdet Phiai",
+        "entity_type": "group",
+        "role": "primary"
+      },
       {
         "entity": "Saiid",
         "entity_type": "person",
@@ -26267,29 +26260,23 @@
   {
     "song_id": "h-00878",
     "file": "_magyar rap\\bobafett, bobakrome\\Fhészek - Kispest feat. Bobakrome [480p].mp3",
-    "title": "Kispest",
+    "title": "Kispest feat",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
     "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Bobakrome"
-    ],
-    "featuring_groups": [
+    "primary_groups": [
       "Fhészek"
     ],
-    "artists": [
-      "Bobakrome",
-      "Odupla",
-      "The Steve"
-    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [],
     "credits": [
       {
-        "entity": "Bobakrome",
-        "entity_type": "person",
-        "role": "feature"
+        "entity": "Fhészek",
+        "entity_type": "group",
+        "role": "primary"
       }
     ]
   },
@@ -32938,6 +32925,268 @@
     ]
   },
   {
+    "song_id": "h-02188",
+    "file": "_magyar rap\\G.w.M\\Curtis És G.w.M - EGYEM A SZIVETEKET  OFFICIAL MUSIC.mp3",
+    "title": "Egyem a szíveteket",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [
+      "Curtis"
+    ],
+    "featuring_groups": [],
+    "artists": [
+      "Curtis",
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "Curtis",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02189",
+    "file": "_magyar rap\\G.w.M\\Curtis és G.w.M - Mindig kell cél  2013.mp3",
+    "title": "Mindig kell cél",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [
+      "Curtis"
+    ],
+    "featuring_groups": [],
+    "artists": [
+      "Curtis",
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "Curtis",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02190",
+    "file": "_magyar rap\\G.w.M\\G.w.M - Elcsábítottál   OFFICIAL VIDEOCLIP.mp3",
+    "title": "Elcsábítottál",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02191",
+    "file": "_magyar rap\\G.w.M\\G.w.M - Mérleg  2013.mp3",
+    "title": "Mérleg",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02192",
+    "file": "_magyar rap\\G.w.M\\G.w.M - Nem becsültél meg  OFFICIAL VIDEOCLIP.mp3",
+    "title": "Nem becsültél meg",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02193",
+    "file": "_magyar rap\\G.w.M\\G.w.M - VÉGET ÉR _ OFFICIAL VIDEOCLIP_.mp3",
+    "title": "G.w.M - VÉGET ÉR OFFICIAL VIDEOCLIP",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02194",
+    "file": "_magyar rap\\G.w.M\\G.w.M _ Curtis-Piszkos  2014.mp3",
+    "title": "Piszkos",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [
+      "Curtis"
+    ],
+    "featuring_groups": [],
+    "artists": [
+      "Curtis",
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "Curtis",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02195",
+    "file": "_magyar rap\\G.w.M\\G.w.M x Curtis - BANDITA   Offical Music.mp3",
+    "title": "Bandita",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [
+      "Curtis"
+    ],
+    "featuring_groups": [],
+    "artists": [
+      "Curtis",
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "Curtis",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02196",
+    "file": "_magyar rap\\G.w.M\\G.w.M x Fehér Krisztián x Dobozi Lacika - CSEREPAD  Official Videoclip.mp3",
+    "title": "Cserepad",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "G.w.M"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [
+      "Dobozi Lacika",
+      "Fehér Krisztián"
+    ],
+    "featuring_groups": [],
+    "artists": [
+      "Dobozi Lacika",
+      "Fehér Krisztián",
+      "G.w.M"
+    ],
+    "credits": [
+      {
+        "entity": "G.w.M",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
     "song_id": "h-01101",
     "file": "_magyar rap\\Ganxsta Zolee és a Kartel\\Ganxsta Zolee es A Kartel - Egyenesen a gettobol (1995)\\12.Ganxsta.Zolee.es.a.Kartel.-.Boom.a.fejbe.mp3",
     "title": "Boom a fejbe",
@@ -35039,27 +35288,25 @@
   {
     "song_id": "h-01178",
     "file": "_magyar rap\\Garage\\ESSEMM\\FEATEK\\Day _ Essemm - Mielőtt Elmennék (Bonus).mp3",
-    "title": "Mielőtt Elmennék",
+    "title": "Mielőtt Elmennék (Bonus)",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Day",
-      "Essemm"
+    "primary_artists": [
+      "Day Essemm"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "Day",
-      "Essemm"
+      "Day Essemm"
     ],
     "credits": [
       {
-        "entity": "Essemm",
+        "entity": "Day Essemm",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
@@ -35263,23 +35510,29 @@
   {
     "song_id": "h-01185",
     "file": "_magyar rap\\Garage\\ESSEMM\\FEATEK\\Rico km. Essemm - Nem Elég (Bonus).mp3",
-    "title": "Nem Elég",
+    "title": "Nem Elég (Bonus)",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Rico"
+    ],
     "primary_groups": [],
     "featuring_artists": [
-      "Essemm",
-      "Rico"
+      "Essemm"
     ],
     "featuring_groups": [],
     "artists": [
-      "Essemm",
-      "Rico"
+      "Rico",
+      "Essemm"
     ],
     "credits": [
+      {
+        "entity": "Rico",
+        "entity_type": "person",
+        "role": "primary"
+      },
       {
         "entity": "Essemm",
         "entity_type": "person",
@@ -35290,23 +35543,29 @@
   {
     "song_id": "h-01186",
     "file": "_magyar rap\\Garage\\ESSEMM\\FEATEK\\Rico km. Essemm - Visszhang (Bonus).mp3",
-    "title": "Visszhang",
+    "title": "Visszhang (Bonus)",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Rico"
+    ],
     "primary_groups": [],
     "featuring_artists": [
-      "Essemm",
-      "Rico"
+      "Essemm"
     ],
     "featuring_groups": [],
     "artists": [
-      "Essemm",
-      "Rico"
+      "Rico",
+      "Essemm"
     ],
     "credits": [
+      {
+        "entity": "Rico",
+        "entity_type": "person",
+        "role": "primary"
+      },
       {
         "entity": "Essemm",
         "entity_type": "person",
@@ -35317,23 +35576,29 @@
   {
     "song_id": "h-01187",
     "file": "_magyar rap\\Garage\\ESSEMM\\FEATEK\\Shuka km. Essemm - Mi Hozzuk (Bonus).mp3",
-    "title": "Mi Hozzuk",
+    "title": "Mi Hozzuk (Bonus)",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Shuka"
+    ],
     "primary_groups": [],
     "featuring_artists": [
-      "Essemm",
-      "Shuka"
+      "Essemm"
     ],
     "featuring_groups": [],
     "artists": [
-      "Essemm",
-      "Shuka"
+      "Shuka",
+      "Essemm"
     ],
     "credits": [
+      {
+        "entity": "Shuka",
+        "entity_type": "person",
+        "role": "primary"
+      },
       {
         "entity": "Essemm",
         "entity_type": "person",
@@ -35344,23 +35609,29 @@
   {
     "song_id": "h-01188",
     "file": "_magyar rap\\Garage\\ESSEMM\\FEATEK\\Szókratesz km. Essemm - Nullán (Bonus).mp3",
-    "title": "Nullán",
+    "title": "Nullán (Bonus)",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Szókratesz"
+    ],
     "primary_groups": [],
     "featuring_artists": [
-      "Essemm",
-      "Szókratesz"
+      "Essemm"
     ],
     "featuring_groups": [],
     "artists": [
-      "Essemm",
-      "Szókratesz"
+      "Szókratesz",
+      "Essemm"
     ],
     "credits": [
+      {
+        "entity": "Szókratesz",
+        "entity_type": "person",
+        "role": "primary"
+      },
       {
         "entity": "Essemm",
         "entity_type": "person",
@@ -43323,29 +43594,25 @@
   {
     "song_id": "h-01425",
     "file": "_magyar rap\\Krella Padre\\Barhx - Te Lennél km Krella, Kilo (Prod by_ Bitprojekt).mp3",
-    "title": "Barhx - Te Lennél km Krella, Kilo (Prod by Bitprojekt)",
+    "title": "Te Lennél feat",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Barhx",
-      "Kilo",
-      "Krella Padre"
+    "primary_artists": [
+      "Barhx"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "Barhx",
-      "Kilo",
-      "Krella Padre"
+      "Barhx"
     ],
     "credits": [
       {
-        "entity": "Krella Padre",
+        "entity": "Barhx",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
@@ -43357,20 +43624,26 @@
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Future Light"
+    ],
     "primary_groups": [],
     "featuring_artists": [
-      "Future Light",
-      "Krella Padre"
+      "Krella"
     ],
     "featuring_groups": [],
     "artists": [
       "Future Light",
-      "Krella Padre"
+      "Krella"
     ],
     "credits": [
       {
-        "entity": "Krella Padre",
+        "entity": "Future Light",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Krella",
         "entity_type": "person",
         "role": "feature"
       }
@@ -55768,6 +56041,183 @@
     ]
   },
   {
+    "song_id": "h-02197",
+    "file": "_magyar rap\\Teswér\\ATIS X IMIR - IDE NEM KELL MÁS (OFFICIAL MUSIC VIDEO).mp3",
+    "title": "Ide nem kell más",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Atis",
+      "Imir"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Atis",
+      "Imir"
+    ],
+    "credits": [
+      {
+        "entity": "Atis",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Imir",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02198",
+    "file": "_magyar rap\\Teswér\\Mario feat Kálo Bone - Táncolj Már (2012).mp3",
+    "title": "Táncolj Már",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Mario"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [
+      "Kálo Bone"
+    ],
+    "featuring_groups": [],
+    "artists": [
+      "Kálo Bone",
+      "Mario"
+    ],
+    "credits": [
+      {
+        "entity": "Mario",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02199",
+    "file": "_magyar rap\\Teswér\\TESWÉR - HAJSZOLOM A SZERENCSÉMET (Official Music Video).mp3",
+    "title": "Hajszolom a szerencsémet",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Fiatal Veterán",
+      "Hibrid"
+    ],
+    "primary_groups": [
+      "Teswér"
+    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Fiatal Veterán",
+      "Hibrid"
+    ],
+    "credits": [
+      {
+        "entity": "Teswér",
+        "entity_type": "group",
+        "role": "primary"
+      },
+      {
+        "entity": "Fiatal Veterán",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Hibrid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02200",
+    "file": "_magyar rap\\Teswér\\TESWÉR - JÓBARÁT (Official Music Video).mp3",
+    "title": "Jóbarát",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Fiatal Veterán",
+      "Hibrid"
+    ],
+    "primary_groups": [
+      "Teswér"
+    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Fiatal Veterán",
+      "Hibrid"
+    ],
+    "credits": [
+      {
+        "entity": "Teswér",
+        "entity_type": "group",
+        "role": "primary"
+      },
+      {
+        "entity": "Fiatal Veterán",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Hibrid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02201",
+    "file": "_magyar rap\\Teswér\\TESWÉR - ODA KELL FIGYELNI (Official Music Video).mp3",
+    "title": "Oda kell figyelni",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Fiatal Veterán",
+      "Hibrid"
+    ],
+    "primary_groups": [
+      "Teswér"
+    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Fiatal Veterán",
+      "Hibrid"
+    ],
+    "credits": [
+      {
+        "entity": "Teswér",
+        "entity_type": "group",
+        "role": "primary"
+      },
+      {
+        "entity": "Fiatal Veterán",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Hibrid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
     "song_id": "h-01828",
     "file": "_magyar rap\\The Steve\\1ST [192]\\1ST [192]\\02 - The Steve km. Szókratesz - Tedd Fel (by Fajtbros).mp3",
     "title": "Tedd Fel",
@@ -61562,17 +62012,48 @@
   {
     "song_id": "h-02223",
     "file": "_magyar trap\\_random\\LÉVAI x RAUL x ÁBRAHÁM x BURAI – Igazi   Official Music Video.mp3",
-    "title": "LÉVAI x RAUL x ÁBRAHÁM x BURAI - Igazi",
+    "title": "Igazi",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "LÉVAI",
+      "RAUL",
+      "ÁBRAHÁM",
+      "BURAI"
+    ],
     "primary_groups": [],
     "featuring_artists": [],
     "featuring_groups": [],
-    "artists": [],
-    "credits": []
+    "artists": [
+      "LÉVAI",
+      "RAUL",
+      "ÁBRAHÁM",
+      "BURAI"
+    ],
+    "credits": [
+      {
+        "entity": "LÉVAI",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "RAUL",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "ÁBRAHÁM",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "BURAI",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
   },
   {
     "song_id": "h-01981",
@@ -64083,72 +64564,50 @@
   {
     "song_id": "h-02066",
     "file": "_magyar trap\\Co Lee\\co lee Wavy Babel\\Gasolina (feat. Blaize, Dan Pinto, Co Lee, KizzaPing69, Ibbigang, Szalai).mp3",
-    "title": "Gasolina",
+    "title": "Gasolina (feat. Blaize, Dan Pinto, Co Lee, KizzaPing69, Ibbigang, Szalai)",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Co Lee"
+    ],
     "primary_groups": [],
-    "featuring_artists": [
-      "Blaize",
-      "Co Lee",
-      "Dan Pinto",
-      "KizzaPing69",
-      "Szalai"
-    ],
-    "featuring_groups": [
-      "ibbigang"
-    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
     "artists": [
-      "Blaize",
-      "Co Lee",
-      "Dan Pinto",
-      "KizzaPing69",
-      "Szalai",
-      "Valter"
+      "Co Lee"
     ],
     "credits": [
       {
         "entity": "Co Lee",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
   {
     "song_id": "h-02067",
     "file": "_magyar trap\\Co Lee\\co lee Wavy Babel\\Griff (feat. Blaize, Orlando, Gyuris, Szalai, Ibbigang).mp3",
-    "title": "Griff",
+    "title": "Griff (feat. Blaize, Orlando, Gyuris, Szalai, Ibbigang)",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Co Lee"
+    ],
     "primary_groups": [],
-    "featuring_artists": [
-      "Blaize",
-      "Co Lee",
-      "gyuris",
-      "Orlando",
-      "Szalai"
-    ],
-    "featuring_groups": [
-      "ibbigang"
-    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
     "artists": [
-      "Blaize",
-      "Co Lee",
-      "gyuris",
-      "Orlando",
-      "Szalai",
-      "Valter"
+      "Co Lee"
     ],
     "credits": [
       {
         "entity": "Co Lee",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
@@ -64985,78 +65444,70 @@
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "enorelli",
+    "primary_artists": [
       "Fendo"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "enorelli",
       "Fendo"
     ],
     "credits": [
       {
-        "entity": "enorelli",
+        "entity": "Fendo",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
   {
     "song_id": "h-02102",
     "file": "_magyar trap\\enorelli\\Kisé - “Meteor Drip” (OFFICIAL MUSIC VIDEO).mp3",
-    "title": "Meteor Drip",
+    "title": "“Meteor Drip”",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "enorelli",
+    "primary_artists": [
       "Kisé"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "enorelli",
       "Kisé"
     ],
     "credits": [
       {
-        "entity": "enorelli",
+        "entity": "Kisé",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
   {
     "song_id": "h-02103",
     "file": "_magyar trap\\enorelli\\Kisé – „Marlboro” feat. AKC Misi ☄️.mp3",
-    "title": "Marlboro",
+    "title": "„Marlboro” feat",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "AKC Misi",
-      "enorelli",
+    "primary_artists": [
       "Kisé"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "AKC Misi",
-      "enorelli",
       "Kisé"
     ],
     "credits": [
       {
-        "entity": "enorelli",
+        "entity": "Kisé",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
@@ -65068,24 +65519,27 @@
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "enorelli",
-      "Fendo",
-      "LIL TIB"
+    "primary_artists": [
+      "LIL TIB",
+      "Fendo"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "enorelli",
-      "Fendo",
-      "LIL TIB"
+      "LIL TIB",
+      "Fendo"
     ],
     "credits": [
       {
-        "entity": "enorelli",
+        "entity": "LIL TIB",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
+      },
+      {
+        "entity": "Fendo",
+        "entity_type": "person",
+        "role": "primary"
       }
     ]
   },
@@ -66364,38 +66818,20 @@
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "POWER PUFF"
+    ],
     "primary_groups": [],
-    "featuring_artists": [
-      "Grasa",
-      "gyuris",
-      "Szalai",
-      "Valter"
-    ],
-    "featuring_groups": [
-      "ibbigang"
-    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
     "artists": [
-      "Grasa",
-      "gyuris",
-      "Szalai",
-      "Valter"
+      "POWER PUFF"
     ],
     "credits": [
       {
-        "entity": "ibbigang",
-        "entity_type": "group",
-        "role": "feature"
-      },
-      {
-        "entity": "Szalai",
+        "entity": "POWER PUFF",
         "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Valter",
-        "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
@@ -66683,87 +67119,75 @@
   {
     "song_id": "h-02154",
     "file": "_magyar trap\\K8’s Collection\\Csoky - Hold feat. Ekhoe & Kolg8eight.mp3",
-    "title": "Hold",
+    "title": "Hold feat",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Csoky",
-      "ekhoe",
-      "K8"
+    "primary_artists": [
+      "Csoky"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "Csoky",
-      "ekhoe",
-      "K8"
+      "Csoky"
     ],
     "credits": [
       {
-        "entity": "K8",
+        "entity": "Csoky",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
   {
     "song_id": "h-02155",
     "file": "_magyar trap\\K8’s Collection\\Csoky - Szerinted..Szerintem.. feat. Grasa & Kolg8eight.mp3",
-    "title": "Szerinted..Szerintem..",
+    "title": "Szerinted..Szerintem.. feat",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Csoky",
-      "Grasa",
-      "K8"
+    "primary_artists": [
+      "Csoky"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "Csoky",
-      "Grasa",
-      "K8"
+      "Csoky"
     ],
     "credits": [
       {
-        "entity": "K8",
+        "entity": "Csoky",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
   {
     "song_id": "h-02156",
     "file": "_magyar trap\\K8’s Collection\\ekhoe - Spanom ugyanez ft. Kolg8eight, Csoky.mp3",
-    "title": "Spanom ugyanez",
+    "title": "Spanom ugyanez ft",
     "title_variants": [],
     "source_root": "_magyar trap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Csoky",
-      "ekhoe",
-      "K8"
+    "primary_artists": [
+      "ekhoe"
     ],
+    "primary_groups": [],
+    "featuring_artists": [],
     "featuring_groups": [],
     "artists": [
-      "Csoky",
-      "ekhoe",
-      "K8"
+      "ekhoe"
     ],
     "credits": [
       {
-        "entity": "K8",
+        "entity": "ekhoe",
         "entity_type": "person",
-        "role": "feature"
+        "role": "primary"
       }
     ]
   },
@@ -67714,445 +68138,6 @@
     "credits": [
       {
         "entity": "Young Fly",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02188",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/Curtis És G.w.M - EGYEM A SZIVETEKET  OFFICIAL MUSIC.mp3",
-    "title": "Egyem a szíveteket",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Curtis"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Curtis",
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "Curtis",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02189",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/Curtis és G.w.M - Mindig kell cél  2013.mp3",
-    "title": "Mindig kell cél",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Curtis"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Curtis",
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "Curtis",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02190",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/G.w.M - Elcsábítottál   OFFICIAL VIDEOCLIP.mp3",
-    "title": "Elcsábítottál",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02191",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/G.w.M - Mérleg  2013.mp3",
-    "title": "Mérleg",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02192",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/G.w.M - Nem becsültél meg  OFFICIAL VIDEOCLIP.mp3",
-    "title": "Nem becsültél meg",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02193",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/G.w.M - VÉGET ÉR _ OFFICIAL VIDEOCLIP_.mp3",
-    "title": "G.w.M - VÉGET ÉR OFFICIAL VIDEOCLIP",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02194",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/G.w.M _ Curtis-Piszkos  2014.mp3",
-    "title": "Piszkos",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Curtis"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Curtis",
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "Curtis",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02195",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/G.w.M x Curtis - BANDITA   Offical Music.mp3",
-    "title": "Bandita",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Curtis"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Curtis",
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "Curtis",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02196",
-    "file": "_other/_magyar/_cigany/GwMOfficialMusik/G.w.M x Fehér Krisztián x Dobozi Lacika - CSEREPAD  Official Videoclip.mp3",
-    "title": "Cserepad",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "G.w.M"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Dobozi Lacika",
-      "Fehér Krisztián"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Dobozi Lacika",
-      "Fehér Krisztián",
-      "G.w.M"
-    ],
-    "credits": [
-      {
-        "entity": "G.w.M",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02197",
-    "file": "_other/_magyar/_cigany/Teswér   House of Bedlam Records/ATIS X IMIR - IDE NEM KELL MÁS (OFFICIAL MUSIC VIDEO).mp3",
-    "title": "Ide nem kell más",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Atis",
-      "Imir"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Atis",
-      "Imir"
-    ],
-    "credits": [
-      {
-        "entity": "Atis",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Imir",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02198",
-    "file": "_other/_magyar/_cigany/Teswér   House of Bedlam Records/Mario feat Kálo Bone - Táncolj Már (2012).mp3",
-    "title": "Táncolj Már",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Mario"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Kálo Bone"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Kálo Bone",
-      "Mario"
-    ],
-    "credits": [
-      {
-        "entity": "Mario",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02199",
-    "file": "_other/_magyar/_cigany/Teswér   House of Bedlam Records/TESWÉR - HAJSZOLOM A SZERENCSÉMET (Official Music Video).mp3",
-    "title": "Hajszolom a szerencsémet",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Fiatal Veterán",
-      "Hibrid"
-    ],
-    "primary_groups": [
-      "Teswér"
-    ],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Fiatal Veterán",
-      "Hibrid"
-    ],
-    "credits": [
-      {
-        "entity": "Teswér",
-        "entity_type": "group",
-        "role": "primary"
-      },
-      {
-        "entity": "Fiatal Veterán",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Hibrid",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02200",
-    "file": "_other/_magyar/_cigany/Teswér   House of Bedlam Records/TESWÉR - JÓBARÁT (Official Music Video).mp3",
-    "title": "Jóbarát",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Fiatal Veterán",
-      "Hibrid"
-    ],
-    "primary_groups": [
-      "Teswér"
-    ],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Fiatal Veterán",
-      "Hibrid"
-    ],
-    "credits": [
-      {
-        "entity": "Teswér",
-        "entity_type": "group",
-        "role": "primary"
-      },
-      {
-        "entity": "Fiatal Veterán",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Hibrid",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-02201",
-    "file": "_other/_magyar/_cigany/Teswér   House of Bedlam Records/TESWÉR - ODA KELL FIGYELNI (Official Music Video).mp3",
-    "title": "Oda kell figyelni",
-    "title_variants": [],
-    "source_root": "_other",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Fiatal Veterán",
-      "Hibrid"
-    ],
-    "primary_groups": [
-      "Teswér"
-    ],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Fiatal Veterán",
-      "Hibrid"
-    ],
-    "credits": [
-      {
-        "entity": "Teswér",
-        "entity_type": "group",
-        "role": "primary"
-      },
-      {
-        "entity": "Fiatal Veterán",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Hibrid",
         "entity_type": "person",
         "role": "primary"
       }

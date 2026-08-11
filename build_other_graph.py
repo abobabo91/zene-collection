@@ -12,7 +12,8 @@ from pathlib import Path
 from common import (
     AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE,
     clean_artist_text, clean_title, extract_primary_and_features,
-    folder_artist, is_junk_name, normalize_key, parse_mapping_block, squashed_lookup,
+    folder_artist, is_junk_name, normalize_key, parse_mapping_block, split_artists,
+    squashed_lookup,
 )
 
 # ─── Per-area config ───
@@ -140,6 +141,8 @@ AREA_CONFIG = {
             "_pop", "_other", "random", "misc", "videos", "youtube",
             "groove it you move it", "felicita y mas",
             "00s", "00s - youtube",
+            # A mixed-artist oldies folder (Michael Jackson, RUN DMC, Afrika Bambaataa).
+            "goldies",
             # Billboard year folders
             "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997",
             "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005",
@@ -174,6 +177,10 @@ AREA_CONFIG = {
             "deep_house", "dnb_dubstep", "edm_electronic_pop", "experimental",
             "experimental_chill", "goa_psytrance", "hardcore_hardstyle",
             "house_afro_organic", "house_techno", "trance_dance_rave",
+            # Nested subgenre folders. The parents above were listed, these were not, so
+            # each became an "artist" holding the loose files at its root - `trance` 14
+            # songs, `electronic_pop` 13, `eurodance` 2, `festival_edm` 1, `pop_house` 1.
+            "trance", "electronic_pop", "festival_edm", "pop_house", "eurodance",
             # compilation/mix/playlist folders
             "deep", "house", "house_chill", "tech house", "techno", "acid",
             "dnb_chill", "deepchill", "electro pop", "elektro", "top",
@@ -222,6 +229,8 @@ AREA_CONFIG = {
             "best jazzanova",
         },
         "blocklist": {
+            # A soundtrack album folder, not a band.
+            "twin peaks season i - original soundtrack",
             "n/a", "unknown", "various", "nothing", "you", "me",
             "lyrics", "audio", "download link",
             "twin peaks season i", "peaky blinders soundtrack",
@@ -247,6 +256,10 @@ AREA_CONFIG = {
         "generic_folders": {
             "_african music", "_african tribe", "_old", "_random", "_other", "random", "misc",
             "videos", "youtube", "afrochill",
+            # Subgenre folders, not artists. Each held ~50 loose files whose own artist is
+            # in the filename, so the genre name became the area's top "artist":
+            # `afrobeats` 32 songs, `amapiano` 28.
+            "_afrobeats", "_amapiano",
         },
         "blocklist": {
             "n/a", "unknown", "various", "nothing", "you", "me",
@@ -272,6 +285,9 @@ AREA_CONFIG = {
         "id_prefix": "rg",
         "generic_folders": {
             "_reggea", "skinhead reggae", "_random", "_other", "random", "misc", "videos", "youtube",
+            # Collections of several artists, not artists. `Marley family` holds Damian,
+            # Stephen, Ky-Mani and Collie Buddz; `John Holt Strange Things` is a mixtape.
+            "marley family", "john holt strange things",
         },
         "blocklist": {
             "n/a", "unknown", "various", "nothing", "you", "me",
@@ -302,6 +318,10 @@ AREA_CONFIG = {
         "blocklist": {
             "n/a", "unknown", "various", "nothing", "you", "me",
             "lyrics", "audio", "download link",
+            # `Can You Stop The Rain - Grover Washington Jr..mp3` is filed title-first, so
+            # the dash parser reads the title as the artist. Blocked so it falls back to
+            # the folder, which is the artist.
+            "can you stop the rain",
         },
         "split_groups": set(),
     },
@@ -346,6 +366,9 @@ AREA_CONFIG = {
             "_rap", "_other", "_german random", "_uk rap grime", "_roman", "_other random",
             "_random", "random", "misc", "videos", "youtube",
             "01 - studio albums", "studio albums", "cd1", "cd2", "cd 1", "cd 2",
+            # A language bucket and a compilation, both read as artists: `German` held 7
+            # loose Bonez MC / RAF Camora files, `best of uk hiphop` 3.
+            "german", "best of uk hiphop",
         },
         "blocklist": {
             "n/a", "unknown", "various", "nothing", "you", "me",
@@ -361,6 +384,8 @@ AREA_CONFIG = {
             "kidz", "charmaine", "tough love", "where ya from",
             "couldn t get along", "couldn_t get along",
             "who needs actions when you got words",
+            # Scene-release directory name, not a person.
+            "cr7z an7ma de 2012 oma",
         },
         "split_groups": set(),
     },
@@ -371,6 +396,8 @@ AREA_CONFIG = {
             "_trap", "_other country random", "_uk trap", "svensk drill", "african trap",
             "_random", "random", "misc", "videos", "youtube",
             "cd1", "cd2", "cd 1", "cd 2",
+            # The parent `svensk drill` was listed but not this nested twin.
+            "svensk drill rap",
         },
         "blocklist": {
             "n/a", "unknown", "various", "nothing", "you", "me",
@@ -482,6 +509,22 @@ def first_artist_context(path_parts: list[str], mappings: dict, config: dict) ->
     return None
 
 
+def _prefix_is_a_credit(prefix: str) -> bool:
+    """Is the text before the first ` - ` a list of artists rather than part of the title?
+
+    The word count guards against a sentence-like title being read as an artist. Counting
+    raw words punishes a chain of collaborators for being a chain: `LÉVAI x RAUL x ÁBRAHÁM
+    x BURAI` is seven words and four one-word artists, so it was rejected and the file
+    ended up credited to nobody. Split first, then judge each name.
+    """
+    if not prefix:
+        return False
+    if len(prefix.split()) <= 6:
+        return True
+    names = split_artists(prefix)
+    return len(names) >= 2 and all(0 < len(n.split()) <= 3 for n in names)
+
+
 def infer_credit_and_title(path_parts: list[str], filename: str, mappings: dict, config: dict) -> tuple[str | None, str]:
     context = first_artist_context(path_parts, mappings, config)
     title = clean_title(filename)
@@ -489,7 +532,7 @@ def infer_credit_and_title(path_parts: list[str], filename: str, mappings: dict,
         prefix, suffix = title.split(" - ", 1)
         prefix_clean = clean_artist_text(prefix)
         suffix_clean = clean_title(suffix)
-        if prefix_clean and len(prefix_clean.split()) <= 6:
+        if _prefix_is_a_credit(prefix_clean):
             if not context or normalize_key(prefix_clean) != normalize_key(context):
                 return prefix_clean, suffix_clean
             return context, suffix_clean

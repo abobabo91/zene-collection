@@ -58,7 +58,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "LISA - Alter Ego": {
+  "LISA": {
     "song_ids": [
       "pp-00006",
       "pp-00007",
@@ -68,19 +68,6 @@
       "pp-00006",
       "pp-00007",
       "pp-00008"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "ROSÉ - rosie": {
-    "song_ids": [
-      "pp-00009",
-      "pp-00011"
-    ],
-    "primary_song_ids": [
-      "pp-00009",
-      "pp-00011"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -88,10 +75,14 @@
   },
   "ROSÉ": {
     "song_ids": [
-      "pp-00010"
+      "pp-00009",
+      "pp-00010",
+      "pp-00011"
     ],
     "primary_song_ids": [
-      "pp-00010"
+      "pp-00009",
+      "pp-00010",
+      "pp-00011"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2074,6 +2065,39 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Kristen Bell": {
+    "song_ids": [
+      "pp-00327"
+    ],
+    "primary_song_ids": [
+      "pp-00327"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Agatha Lee Monn": {
+    "song_ids": [
+      "pp-00327"
+    ],
+    "primary_song_ids": [
+      "pp-00327"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "and Katie Lopez": {
+    "song_ids": [
+      "pp-00327"
+    ],
+    "primary_song_ids": [
+      "pp-00327"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "The Vamps": {
     "song_ids": [
       "pp-00328"
@@ -2921,25 +2945,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "goldies": {
-    "song_ids": [
-      "pp-00430",
-      "pp-00431",
-      "pp-00432",
-      "pp-00433",
-      "pp-00436"
-    ],
-    "primary_song_ids": [
-      "pp-00430",
-      "pp-00431",
-      "pp-00432",
-      "pp-00433",
-      "pp-00436"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Nina Sky": {
     "song_ids": [
       "pp-00435"
@@ -3553,10 +3558,12 @@
   },
   "Miley Cyrus": {
     "song_ids": [
-      "pp-00508"
+      "pp-00508",
+      "pp-00638"
     ],
     "primary_song_ids": [
-      "pp-00508"
+      "pp-00508",
+      "pp-00638"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -4462,6 +4469,17 @@
     "feature_song_ids": [
       "pp-00637"
     ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lana Del Rey": {
+    "song_ids": [
+      "pp-00638"
+    ],
+    "primary_song_ids": [
+      "pp-00638"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },

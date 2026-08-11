@@ -438,15 +438,15 @@
     "file": "_other\\_reggea\\Bob Marley_s Greatest Hits\\Bob marley - Talkin Blues.mp3",
     "title": "Talkin Blues",
     "primary_artists": [
-      "Bob marley"
+      "Bob Marley"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bob marley"
+      "Bob Marley"
     ],
     "credits": [
       {
-        "entity": "Bob marley",
+        "entity": "Bob Marley",
         "entity_type": "person",
         "role": "primary"
       }
@@ -458,15 +458,15 @@
     "file": "_other\\_reggea\\Bob Marley_s Greatest Hits\\Bob Marley -Buffalo Soldier.mp3",
     "title": "Bob Marley -Buffalo Soldier",
     "primary_artists": [
-      "Bob Marley s"
+      "Bob Marley"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bob Marley s"
+      "Bob Marley"
     ],
     "credits": [
       {
-        "entity": "Bob Marley s",
+        "entity": "Bob Marley",
         "entity_type": "person",
         "role": "primary"
       }
@@ -498,18 +498,18 @@
     "file": "_other\\_reggea\\Bob Marley_s Greatest Hits\\BOB MARLEY FEAT LAURYN HILL   Turn your lights down low.mp3",
     "title": "BOB MARLEY",
     "primary_artists": [
-      "Bob Marley s"
+      "Bob Marley"
     ],
     "featuring_artists": [
       "LAURYN HILL Turn your lights down low"
     ],
     "artists": [
-      "Bob Marley s",
+      "Bob Marley",
       "LAURYN HILL Turn your lights down low"
     ],
     "credits": [
       {
-        "entity": "Bob Marley s",
+        "entity": "Bob Marley",
         "entity_type": "person",
         "role": "primary"
       },
@@ -526,15 +526,15 @@
     "file": "_other\\_reggea\\Bob Marley_s Greatest Hits\\BOB MARLEY THREE LITTLE BIRDS.mp3",
     "title": "BOB MARLEY THREE LITTLE BIRDS",
     "primary_artists": [
-      "Bob Marley s"
+      "Bob Marley"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bob Marley s"
+      "Bob Marley"
     ],
     "credits": [
       {
-        "entity": "Bob Marley s",
+        "entity": "Bob Marley",
         "entity_type": "person",
         "role": "primary"
       }
@@ -546,15 +546,15 @@
     "file": "_other\\_reggea\\Bob Marley_s Greatest Hits\\Bob Marley Zimbabwe.mp3",
     "title": "Bob Marley Zimbabwe",
     "primary_artists": [
-      "Bob Marley s"
+      "Bob Marley"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bob Marley s"
+      "Bob Marley"
     ],
     "credits": [
       {
-        "entity": "Bob Marley s",
+        "entity": "Bob Marley",
         "entity_type": "person",
         "role": "primary"
       }
@@ -886,20 +886,20 @@
     "file": "_other\\_reggea\\John Holt Strange Things\\John Holt Strange Things.mp3",
     "title": "John Holt Strange Things",
     "primary_artists": [
-      "John Holt Strange Things"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "John Holt Strange Things"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "John Holt Strange Things",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rg-00045",
@@ -1086,40 +1086,40 @@
     "file": "_other\\_reggea\\Marley family\\Damian Marley Path.mp3",
     "title": "Damian Marley Path",
     "primary_artists": [
-      "Marley family"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Marley family"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Marley family",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rg-00055",
     "file": "_other\\_reggea\\Marley family\\It Was Written.mp3",
     "title": "It Was Written",
     "primary_artists": [
-      "Marley family"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Marley family"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Marley family",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rg-00056",
@@ -1146,20 +1146,20 @@
     "file": "_other\\_reggea\\Marley family\\Skankin_ Sweet.mp3",
     "title": "Skankin Sweet",
     "primary_artists": [
-      "Marley family"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Marley family"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Marley family",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rg-00058",
@@ -1246,20 +1246,20 @@
     "file": "_other\\_reggea\\Marley family\\Turn Your Lights Down Low.mp3",
     "title": "Turn Your Lights Down Low",
     "primary_artists": [
-      "Marley family"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Marley family"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Marley family",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rg-00063",

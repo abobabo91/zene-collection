@@ -4,20 +4,20 @@
     "file": "_other\\_country_jazz\\Grover Washington Jr\\Can You Stop The Rain - Grover Washington Jr..mp3",
     "title": "Grover Washington Jr",
     "primary_artists": [
-      "Can You Stop The Rain"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Can You Stop The Rain"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Can You Stop The Rain",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "cj-00002",

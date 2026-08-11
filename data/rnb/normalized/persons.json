@@ -195,6 +195,8 @@
       "r-00058",
       "r-00059",
       "r-00060",
+      "r-00061",
+      "r-00062",
       "r-00341"
     ],
     "primary_song_ids": [
@@ -205,20 +207,9 @@
       "r-00058",
       "r-00059",
       "r-00060",
+      "r-00061",
+      "r-00062",
       "r-00341"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bryson Tiller - Bryson Tiller": {
-    "song_ids": [
-      "r-00061",
-      "r-00062"
-    ],
-    "primary_song_ids": [
-      "r-00061",
-      "r-00062"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2596,7 +2587,7 @@
       "Destiny's Child"
     ]
   },
-  "Beyoncé": {
+  "Michelle Williams": {
     "song_ids": [
       "r-00581",
       "r-00582",
@@ -2617,7 +2608,7 @@
       "Destiny's Child"
     ]
   },
-  "Michelle Williams": {
+  "Beyoncé": {
     "song_ids": [
       "r-00581",
       "r-00582",

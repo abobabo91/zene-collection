@@ -2206,22 +2206,43 @@
   {
     "song_id": "lt-00106",
     "file": "_other\\_latino\\_random\\latin FELIPE\\Cosculluela x Genio x Arcangel x De La Ghetto - Tirame (Audio Oficial).mp3",
-    "title": "Cosculluela x Genio x Arcangel x De La Ghetto - Tirame (Audio Oficial)",
+    "title": "Tirame (Audio Oficial)",
     "primary_artists": [
-      "N/A"
+      "Cosculluela",
+      "Genio",
+      "Arcángel",
+      "De La Ghetto"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Cosculluela",
+      "Genio",
+      "Arcángel",
+      "De La Ghetto"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Cosculluela",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Genio",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Arcángel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "De La Ghetto",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00107",
@@ -3047,17 +3068,38 @@
   {
     "song_id": "lt-00143",
     "file": "_other\\_latino\\Bad Bunny\\BAD BUNNY x J BALVIN x OZUNA x ARCANGEL - SOY PEOR REMIX (Video Oficial).mp3",
-    "title": "BAD BUNNY x J BALVIN x OZUNA x ARCANGEL - SOY PEOR REMIX",
+    "title": "SOY PEOR REMIX",
     "primary_artists": [
-      "Bad Bunny"
+      "Bad Bunny",
+      "J Balvin",
+      "Ozuna",
+      "Arcángel"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bad Bunny"
+      "Bad Bunny",
+      "J Balvin",
+      "Ozuna",
+      "Arcángel"
     ],
     "credits": [
       {
         "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "J Balvin",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Arcángel",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4827,22 +4869,43 @@
   {
     "song_id": "lt-00222",
     "file": "_other\\_latino\\LA JOAQUI, ELAGGUME, FAUNA MUSIC, GUSTY DJ - TATTOO RMX (Video Oficial).mp3",
-    "title": "LA JOAQUI, ELAGGUME, FAUNA MUSIC, GUSTY DJ - TATTOO RMX",
+    "title": "TATTOO RMX",
     "primary_artists": [
-      "N/A"
+      "LA JOAQUI",
+      "ELAGGUME",
+      "FAUNA MUSIC",
+      "GUSTY DJ"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "LA JOAQUI",
+      "ELAGGUME",
+      "FAUNA MUSIC",
+      "GUSTY DJ"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "LA JOAQUI",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "ELAGGUME",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "FAUNA MUSIC",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "GUSTY DJ",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "lt-00223",
@@ -5035,17 +5098,38 @@
   {
     "song_id": "lt-00231",
     "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Anuel AA, Ozuna,  DJ Luian, Mambo Kingz - Razones (Video Oficial).mp3",
-    "title": "Anuel AA, Ozuna, DJ Luian, Mambo Kingz - Razones",
+    "title": "Razones",
     "primary_artists": [
-      "Ozuna"
+      "Anuel AA",
+      "Ozuna",
+      "DJ Luian",
+      "Mambo Kingz"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ozuna"
+      "Anuel AA",
+      "Ozuna",
+      "DJ Luian",
+      "Mambo Kingz"
     ],
     "credits": [
       {
+        "entity": "Anuel AA",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
         "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "DJ Luian",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Mambo Kingz",
         "entity_type": "person",
         "role": "primary"
       }
@@ -5095,15 +5179,50 @@
   {
     "song_id": "lt-00234",
     "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Casper, Nio García, Darell, Nicky Jam, Bad Bunny, Ozuna - Te Bote Remix (Video Oficial).mp3",
-    "title": "Casper, Nio García, Darell, Nicky Jam, Bad Bunny, Ozuna - Te Bote Remix",
+    "title": "Te Bote Remix",
     "primary_artists": [
+      "Casper",
+      "Nio García",
+      "Darell",
+      "Nicky Jam",
+      "Bad Bunny",
       "Ozuna"
     ],
     "featuring_artists": [],
     "artists": [
+      "Casper",
+      "Nio García",
+      "Darell",
+      "Nicky Jam",
+      "Bad Bunny",
       "Ozuna"
     ],
     "credits": [
+      {
+        "entity": "Casper",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Nio García",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Darell",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Nicky Jam",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      },
       {
         "entity": "Ozuna",
         "entity_type": "person",

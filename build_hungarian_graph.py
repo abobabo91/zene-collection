@@ -64,6 +64,12 @@ CONFIG = {
         "_magyar rap", "_magyar trap", "_random", "random", "_other", "misc",
         "videos", "youtube", "music - youtube", "album", "albums", "cd1", "cd2",
         "magyar rap", "magyar trap", "_cigany", "_magyar", "_other country random",
+        # Label folders. They hold their whole roster, so read as an artist the label
+        # collects the files sitting loose at its root - SCBP 3 songs, Bloose Broavaz 2,
+        # Vicc Beatz 1. The label itself is tracked in labels.json, not as a person.
+        # `IFS` is deliberately absent: it is a label *and* a group, and making it generic
+        # would strip the group's folder context from its own songs.
+        "scbp", "bloose broavaz", "vicc beatz",
     },
     "blocklist": {
         "n/a", "unknown", "various", "nothing", "you", "me", "lyrics", "audio",
@@ -158,8 +164,14 @@ def attribute(rel: Path, mappings: dict) -> dict:
             credits.append({"entity": name, "entity_type": "person", "role": "primary"})
             if name not in artists:
                 artists.append(name)
+    already = {normalize_key(x) for x in primary_artists + primary_groups}
     for name in featuring:
         group = mappings["group_lookup"].get(normalize_key(name))
+        # A folder-derived primary and a filename-derived feature can be the same act:
+        # `Akkezdet Phiai/Bankos Fárasztó remix feat Akkezdet Phiai.mp3` credited the group
+        # as both. A feature credit for whoever is already the primary is noise.
+        if normalize_key(group or name) in already:
+            continue
         if group:
             featuring_groups.append(group)
             credits.append({"entity": group, "entity_type": "group", "role": "feature"})
@@ -188,19 +200,52 @@ def attribute(rel: Path, mappings: dict) -> dict:
 
 # ── reconciliation ─────────────────────────────────────────────────────────────
 
+def needs_reattribution(song: dict, mappings: dict) -> bool:
+    """Should this song's credits be re-derived rather than carried forward?
+
+    The scanner keeps existing credits, which is the point - they are curated. But a credit
+    that is *invalid under the current config* is not curation worth keeping, and carrying
+    it forward means a fix to `generic_folders` or the attribution rules never reaches the
+    songs it was written for. Two cases qualify, both safe because neither preserves real
+    information: a song credited to nobody, and a song credited to a name the config now
+    says is a folder rather than a person (the SCBP / Bloose Broavaz / Vicc Beatz label
+    folders).
+    """
+    primary = song.get("primary_artists") or []
+    groups = song.get("primary_groups") or []
+    if not primary and not groups:
+        return True
+    generic = {normalize_key(g) for g in CONFIG["generic_folders"]}
+    blocked = {normalize_key(b) for b in CONFIG["blocklist"]}
+    return any(normalize_key(p) in generic or normalize_key(p) in blocked
+               for p in primary + groups)
+
+
 def reconcile(existing: list[dict], disk: dict[str, Path], mappings: dict) -> tuple[list[dict], dict]:
     by_path = {norm_path(s["file"]): s for s in existing}
     mint = next_id_factory({s["song_id"] for s in existing})
 
     songs: list[dict] = []
     used_existing: set[str] = set()
+    redone: list[dict] = []
 
     # 1. files whose path is unchanged
     for key, rel in disk.items():
         s = by_path.get(key)
         if s is not None:
-            s = dict(s)
-            s["file"] = str(rel)               # adopt the on-disk casing
+            if needs_reattribution(s, mappings):
+                fresh = attribute(rel, mappings)
+                fresh["song_id"] = s["song_id"]          # the id is what must not move
+                fresh["title_variants"] = s.get("title_variants", [])
+                if fresh["primary_artists"] or fresh["primary_groups"]:
+                    redone.append((s, fresh))
+                    s = fresh
+                else:
+                    s = dict(s)
+                    s["file"] = str(rel)
+            else:
+                s = dict(s)
+                s["file"] = str(rel)           # adopt the on-disk casing
             songs.append(s)
             used_existing.add(s["song_id"])
 
@@ -258,7 +303,7 @@ def reconcile(existing: list[dict], disk: dict[str, Path], mappings: dict) -> tu
 
     songs.sort(key=lambda s: norm_path(s["file"]))
     stats = {"kept": len(used_existing) - len(outside), "outside": outside, "moved": moved,
-             "ambiguous": ambiguous, "dropped": dropped, "new": fresh}
+             "ambiguous": ambiguous, "dropped": dropped, "new": fresh, "redone": redone}
     return songs, stats
 
 
@@ -280,7 +325,9 @@ def build_persons(songs: list[dict], mappings: dict) -> dict:
         for credit in s["credits"]:
             entity, role = credit["entity"], credit["role"]
             if credit["entity_type"] == "person":
-                if entity == "N/A":
+                # `Unknown` is a placeholder the hand-curation left behind on 3 songs, not
+                # a person. It ranked in the area's artist list.
+                if entity in ("N/A", "Unknown"):
                     continue
                 p = slot(entity)
                 if s["song_id"] not in p["song_ids"]:
@@ -396,6 +443,7 @@ def main() -> int:
     print(f"  ambiguous        {len(stats['ambiguous'])}")
     print(f"  dropped (gone)   {len(stats['dropped'])}")
     print(f"  new              {len(stats['new'])}")
+    print(f"  re-attributed    {len(stats['redone'])}  (were unattributed or credited to a folder)")
     print(f"  persons {len(persons)}  groups {len(groups)}  labels {len(labels)}  "
           f"unattributed {len(unattributed)}")
 

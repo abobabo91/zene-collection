@@ -14,27 +14,27 @@ Song-by-song graph of a ~15,000-track personal music library. Parses filenames a
 
 ## Areas
 
-19 areas, 15,313 songs, rebuilt 2026-08-11. Every area is scanned from disk; none is
-hand-maintained.
+19 areas, 15,299 songs, rebuilt 2026-08-11. Every area is scanned from disk; none is
+hand-maintained. No song is counted twice — 15,299 rows, 15,299 distinct paths.
 
 | Area | Songs | Artists | Source folders |
 |---|---|---|---|
 | US Rap/Trap | 6,680 | 1,153 | `_rap/`, `_trap/` |
-| Hungarian Rap/Trap | 2,202 | 475 | `_magyar rap/`, `_magyar trap/` |
-| Electronic | 1,194 | 787 | `_other/_elektro/` |
-| Pop | 1,075 | 415 | `_other/_pop/` |
+| Hungarian Rap/Trap | 2,202 | 486 | `_magyar rap/`, `_magyar trap/` |
+| Electronic | 1,194 | 783 | `_other/_elektro/` |
+| Pop | 1,075 | 418 | `_other/_pop/` |
 | R&B | 810 | 214 | `_other/_rnb/` |
-| Magyar (HU other) | 741 | 283 | `_other/_magyar/` |
+| Magyar (HU other) | 727 | 282 | `_other/_magyar/` |
 | Rock | 664 | 165 | `_other/_rock/` |
-| Alternative | 557 | 191 | `_other/_alternate/` |
-| Latin | 281 | 129 | `_other/_latino/` |
-| Intl. rap | 237 | 152 | `_rap/_other/` |
+| Alternative | 557 | 192 | `_other/_alternate/` |
+| Latin | 281 | 140 | `_other/_latino/` |
+| Intl. rap | 237 | 150 | `_rap/_other/` |
 | Intl. trap | 230 | 127 | `_trap/_other country random/` |
-| African | 229 | 149 | `_other/_african music/` |
+| African | 229 | 152 | `_other/_african music/` |
 | Romanian | 109 | 83 | `_other/_roman/` |
-| Reggae | 109 | 68 | `_other/_reggea/` |
+| Reggae | 109 | 64 | `_other/_reggea/` |
 | Russian | 97 | 60 | `_other/_russian/` |
-| Country & Jazz | 42 | 13 | `_other/_country_jazz/` |
+| Country & Jazz | 42 | 12 | `_other/_country_jazz/` |
 | World music | 40 | 23 | `_other/_vilagzene/` |
 | Mantra | 8 | 4 | `_other/_mantra/` |
 | Classical | 8 | 7 | `_other/_classical/` |
@@ -131,11 +131,40 @@ all derived from `hungarian_rap_mappings.md` plus the disk, so the markdown is t
 edit.
 
 It also keeps curated songs that live **outside** the scan roots as long as they are still
-on disk: 14 Hungarian-rap tracks sit under `_other/_magyar/_cigany/` on purpose.
+on disk. That escape hatch is currently unused: 14 Hungarian-rap tracks used to sit under
+`_other/_magyar/_cigany/` and were counted by both this area and `magyar`. On 2026-08-11 they
+were moved to `_magyar rap/G.w.M/` and `_magyar rap/Teswér/` — one artist, one home, no
+double count. Their mtimes were deliberately **not** touched: the timeline reads mtime as
+"when did this enter the collection", and these are from 2016-2024.
+
+Credits are carried forward, not re-derived — that is the point of an incremental scan. The
+exception is a credit that is invalid under the current config: a song credited to nobody,
+or to a name that `generic_folders` or `blocklist` now says is a folder. Those are
+re-attributed on every run, so a fix to the rules actually reaches the songs it was written
+for. 28 songs were repaired this way on 2026-08-11, taking the area's unattributed count
+from 22 to 0.
 
 The area had no scanner at all until 2026-08-11. Its JSONs were curated by hand, so every
 re-sort of the folders left it pointing at paths that no longer existed and blind to
 anything new, with nothing reporting it.
+
+### A genre folder read as an artist
+
+A subgenre folder holding loose files becomes the area's top "artist": `_afrobeats` had 32
+songs and `_amapiano` 28, `trance` 14, `electronic_pop` 13, `German` 7, `goldies` 5. The
+parent folders were in `generic_folders`; the nested ones were not, and nothing reports the
+difference — the fake artist just sits at the top of the leaderboard looking plausible.
+
+Fixing it makes the *numbers worse and the data better*, the same trade as the YouTube-mix
+folders: African went from 1 unattributed song to 42, because files like `_afrobeats/Joro.mp3`
+and `_afrobeats/Call Back.mp3` carry no artist anywhere in the path. They were never really
+attributed — they were attributed to a genre. The fix is to put the artist in the filename.
+
+Related, and not junk despite looking it: `SCBP - Banga.mp3`, `Bloose Broavaz - Banda
+Bloose.mp3` and `Vicc Beatz - Másé.mp3` credit a *label* as the performing act. Those are
+posse cuts released under the label name, the credit comes from the filename rather than the
+folder, and they are correct. The label folders are still in `generic_folders` so they never
+act as artist *context* for everything else inside them.
 
 ### Two artists whose names differ only in case
 

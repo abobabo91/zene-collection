@@ -74,7 +74,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Azad - Diskografie - Alben + Singles": {
+  "Azad": {
     "song_ids": [
       "ir-00031",
       "ir-00032"
@@ -98,12 +98,18 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Bushido Sido - 23": {
+  "Bushido": {
     "song_ids": [
-      "ir-00034"
+      "ir-00034",
+      "ir-00037",
+      "ir-00038",
+      "ir-00039"
     ],
     "primary_song_ids": [
-      "ir-00034"
+      "ir-00034",
+      "ir-00037",
+      "ir-00038",
+      "ir-00039"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -117,21 +123,6 @@
     "primary_song_ids": [
       "ir-00035",
       "ir-00036"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "bushido": {
-    "song_ids": [
-      "ir-00037",
-      "ir-00038",
-      "ir-00039"
-    ],
-    "primary_song_ids": [
-      "ir-00037",
-      "ir-00038",
-      "ir-00039"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -182,33 +173,6 @@
     "feature_song_ids": [
       "ir-00042"
     ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Cr7z--An7ma-DE-2012-OMA": {
-    "song_ids": [
-      "ir-00043",
-      "ir-00044",
-      "ir-00045",
-      "ir-00046",
-      "ir-00047",
-      "ir-00048",
-      "ir-00049",
-      "ir-00050",
-      "ir-00051"
-    ],
-    "primary_song_ids": [
-      "ir-00043",
-      "ir-00044",
-      "ir-00045",
-      "ir-00046",
-      "ir-00047",
-      "ir-00048",
-      "ir-00049",
-      "ir-00050",
-      "ir-00051"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -267,29 +231,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "German": {
-    "song_ids": [
-      "ir-00054",
-      "ir-00055",
-      "ir-00057",
-      "ir-00058",
-      "ir-00059",
-      "ir-00060",
-      "ir-00061"
-    ],
-    "primary_song_ids": [
-      "ir-00054",
-      "ir-00055",
-      "ir-00057",
-      "ir-00058",
-      "ir-00059",
-      "ir-00060",
-      "ir-00061"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "BONEZ MC RAF CAMORA": {
     "song_ids": [
       "ir-00056"
@@ -301,14 +242,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "RAF CAMORA": {
+  "BonMC-RACam-Palmen aus Plastik -ALBUM-$$tune for all$$": {
     "song_ids": [
-      "ir-00062",
-      "ir-00063"
+      "ir-00057",
+      "ir-00058"
     ],
     "primary_song_ids": [
-      "ir-00062",
-      "ir-00063"
+      "ir-00057",
+      "ir-00058"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -316,9 +257,13 @@
   },
   "RAF Camora": {
     "song_ids": [
+      "ir-00062",
+      "ir-00063",
       "ir-00064"
     ],
     "primary_song_ids": [
+      "ir-00062",
+      "ir-00063",
       "ir-00064"
     ],
     "feature_song_ids": [],
@@ -336,7 +281,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kollegah - King": {
+  "Kollegah": {
     "song_ids": [
       "ir-00065",
       "ir-00066",
@@ -374,7 +319,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kool Savas Azad - One": {
+  "Kool Savas": {
     "song_ids": [
       "ir-00075"
     ],
@@ -462,7 +407,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Samy Deluxe - Schwarzweiss - Hip-Hop": {
+  "Samy Deluxe": {
     "song_ids": [
       "ir-00083",
       "ir-00084"
@@ -603,12 +548,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Nessbeal - Gunshot": {
+  "Nessbeal": {
     "song_ids": [
-      "ir-00105"
+      "ir-00105",
+      "ir-00106"
     ],
     "primary_song_ids": [
-      "ir-00105"
+      "ir-00105",
+      "ir-00106"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -625,17 +572,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Nessbeal": {
-    "song_ids": [
-      "ir-00106"
-    ],
-    "primary_song_ids": [
-      "ir-00106"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Rytmus": {
     "song_ids": [
       "ir-00107",
@@ -649,7 +585,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Salah Edin - W.O. II": {
+  "Salah Edin": {
     "song_ids": [
       "ir-00109",
       "ir-00110",
@@ -987,21 +923,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "best of uk hiphop": {
-    "song_ids": [
-      "ir-00144",
-      "ir-00146",
-      "ir-00149"
-    ],
-    "primary_song_ids": [
-      "ir-00144",
-      "ir-00146",
-      "ir-00149"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "L Jinny Lyricist Jinn": {
     "song_ids": [
       "ir-00145"
@@ -1015,10 +936,12 @@
   },
   "Lowkey": {
     "song_ids": [
-      "ir-00147"
+      "ir-00147",
+      "ir-00226"
     ],
     "primary_song_ids": [
-      "ir-00147"
+      "ir-00147",
+      "ir-00226"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1526,23 +1449,7 @@
       "ir-00195",
       "ir-00196",
       "ir-00197",
-      "ir-00198"
-    ],
-    "primary_song_ids": [
-      "ir-00192",
-      "ir-00193",
-      "ir-00194",
-      "ir-00195",
-      "ir-00196",
-      "ir-00197",
-      "ir-00198"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Lady Leshurr - Lil Bit Of Lesh": {
-    "song_ids": [
+      "ir-00198",
       "ir-00199",
       "ir-00200",
       "ir-00201",
@@ -1552,6 +1459,13 @@
       "ir-00205"
     ],
     "primary_song_ids": [
+      "ir-00192",
+      "ir-00193",
+      "ir-00194",
+      "ir-00195",
+      "ir-00196",
+      "ir-00197",
+      "ir-00198",
       "ir-00199",
       "ir-00200",
       "ir-00201",
@@ -1597,24 +1511,15 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Legnépszerűbb számok - K Trap": {
+  "K Trap": {
     "song_ids": [
       "ir-00207",
-      "ir-00208"
-    ],
-    "primary_song_ids": [
-      "ir-00207",
-      "ir-00208"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "K-Trap": {
-    "song_ids": [
+      "ir-00208",
       "ir-00209"
     ],
     "primary_song_ids": [
+      "ir-00207",
+      "ir-00208",
       "ir-00209"
     ],
     "feature_song_ids": [],
@@ -1726,23 +1631,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Skepta - Konnichiwa ~~": {
-    "song_ids": [
-      "ir-00224"
-    ],
-    "primary_song_ids": [
-      "ir-00224"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Skepta": {
     "song_ids": [
+      "ir-00224",
       "ir-00225",
       "ir-00236"
     ],
     "primary_song_ids": [
+      "ir-00224",
       "ir-00225"
     ],
     "feature_song_ids": [
@@ -1751,18 +1647,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Soundtrack to the Struggle - Lowkey": {
-    "song_ids": [
-      "ir-00226"
-    ],
-    "primary_song_ids": [
-      "ir-00226"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Speech Debelle - Speech Therapy": {
+  "Speech Debelle": {
     "song_ids": [
       "ir-00227"
     ],
