@@ -1,6 +1,6 @@
 # Reggae Local Music Toplists
 
-Songs: `109`
+Songs: `108`
 Persons: `64`
 Unattributed songs: `15`
 
@@ -8,7 +8,7 @@ Unattributed songs: `15`
 
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
-| 1 | Bob Marley | 13 | 11.5 | 12.0 | 13 | 0 | 0 | - | - | - |
+| 1 | Bob Marley | 12 | 10.5 | 11.0 | 12 | 0 | 0 | - | - | - |
 | 2 | Stick Figure | 11 | 10.5 | 11.0 | 11 | 0 | 0 | - | - | - |
 | 3 | Barrington Levy | 8 | 8.0 | 8.0 | 8 | 0 | 0 | - | - | - |
 | 4 | Shaggy | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |

@@ -1,6 +1,6 @@
 # My Music Collection
 
-Song-by-song graph of a ~15,000-track personal music library. Parses filenames and folder structures to build structured artist credit data across 9 genre areas, with an interactive visualization dashboard.
+Song-by-song graph of a ~15,000-track personal music library. Parses filenames and folder structures to build structured artist credit data across 19 genre areas, with an interactive visualization dashboard.
 
 **[Live Dashboard](https://abobabo91.github.io/zene-local-music-graph/)**
 
@@ -14,30 +14,30 @@ Song-by-song graph of a ~15,000-track personal music library. Parses filenames a
 
 ## Areas
 
-19 areas, 15,299 songs, rebuilt 2026-08-11. Every area is scanned from disk; none is
-hand-maintained. No song is counted twice — 15,299 rows, 15,299 distinct paths.
+19 areas, 15,153 songs, rebuilt 2026-08-11. Every area is scanned from disk; none is
+hand-maintained. No song is counted twice — 15,153 rows, 15,153 distinct paths.
 
 | Area | Songs | Artists | Source folders |
 |---|---|---|---|
-| US Rap/Trap | 6,680 | 1,153 | `_rap/`, `_trap/` |
-| Hungarian Rap/Trap | 2,202 | 486 | `_magyar rap/`, `_magyar trap/` |
-| Electronic | 1,194 | 783 | `_other/_elektro/` |
-| Pop | 1,075 | 418 | `_other/_pop/` |
-| R&B | 810 | 214 | `_other/_rnb/` |
-| Magyar (HU other) | 727 | 282 | `_other/_magyar/` |
-| Rock | 664 | 165 | `_other/_rock/` |
-| Alternative | 557 | 192 | `_other/_alternate/` |
-| Latin | 281 | 140 | `_other/_latino/` |
-| Intl. rap | 237 | 150 | `_rap/_other/` |
+| US Rap/Trap | 6,633 | 1,150 | `_rap/`, `_trap/` |
+| Hungarian Rap/Trap | 2,193 | 486 | `_magyar rap/`, `_magyar trap/` |
+| Electronic | 1,179 | 777 | `_other/_elektro/` |
+| Pop | 1,041 | 410 | `_other/_pop/` |
+| R&B | 799 | 211 | `_other/_rnb/` |
+| Magyar (HU other) | 725 | 279 | `_other/_magyar/` |
+| Rock | 646 | 165 | `_other/_rock/` |
+| Alternative | 554 | 190 | `_other/_alternate/` |
+| Latin | 277 | 138 | `_other/_latino/` |
+| Intl. rap | 236 | 142 | `_rap/_other/` |
 | Intl. trap | 230 | 127 | `_trap/_other country random/` |
 | African | 229 | 152 | `_other/_african music/` |
-| Romanian | 109 | 83 | `_other/_roman/` |
-| Reggae | 109 | 64 | `_other/_reggea/` |
+| Reggae | 108 | 64 | `_other/_reggea/` |
+| Romanian | 108 | 82 | `_other/_roman/` |
 | Russian | 97 | 60 | `_other/_russian/` |
 | Country & Jazz | 42 | 12 | `_other/_country_jazz/` |
 | World music | 40 | 23 | `_other/_vilagzene/` |
-| Mantra | 8 | 4 | `_other/_mantra/` |
 | Classical | 8 | 7 | `_other/_classical/` |
+| Mantra | 8 | 4 | `_other/_mantra/` |
 
 ## Visualization
 
@@ -147,6 +147,37 @@ from 22 to 0.
 The area had no scanner at all until 2026-08-11. Its JSONs were curated by hand, so every
 re-sort of the folders left it pointing at paths that no longer existed and blind to
 anything new, with nothing reporting it.
+
+### Finding duplicates: title alone is not enough, and duration alone is not either
+
+The 2026-08-11 dedupe removed **146 files (617 MB)** and is worth recording as a method,
+because the obvious versions of it are both wrong.
+
+Matching on *artist + normalized title* returned 214 groups, most of them junk: empty titles
+from Cyrillic filenames, `Full Album` folders where the album name parses as the title, and
+genuinely different songs — `Queen's Speech Ep.1 / Ep.3 / Ep.4`, `Temptation Pt. 1 / Pt. 2`,
+`Trapaholics ... Track 11 / 12 / 15`, `HipHopTXLcom` tracks 03 and 25. Adding a duration
+filter cut it to 100 but kept every one of those, because a numbered series runs to the same
+length.
+
+What worked was two independent passes that can each veto:
+
+1. **Read every group.** 184 candidates, judged by eye: is this the same recording? That
+   catches what no rule sees — a Radio Edit against an Original Mix, an Airscape remix
+   against a Tiësto one, `ft. Lil Wayne` against the solo cut, the two genuinely different
+   versions of Grimes' *REALiTi*. 39 groups were left alone on those grounds.
+2. **A mechanical title check over the same groups**, stripping *only* upload noise
+   (`Official Video`, `Lyrics`, `WSHH Exclusive`, `Prod. by …`) and never a marker that
+   names a different recording. It refuses a group whose numbers differ once the leading
+   track index and any number inside the artist's own name (`Sum 41`, `blink-182`) are
+   discounted.
+
+Run over the 39 groups the reading had already rejected, the mechanical check independently
+caught 3 — the numbered series. Run over the 145 marked for removal, it agreed with all of
+them. Neither pass is sufficient: the first cannot be trusted at scale, and the second
+cannot tell a remix from an original.
+
+Removals are **moved to `_dupes_removed/`**, mirroring their original path, never deleted.
 
 ### A genre folder read as an artist
 

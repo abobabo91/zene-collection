@@ -6470,31 +6470,6 @@
     ]
   },
   {
-    "song_id": "h-00240",
-    "file": "_magyar rap\\_random\\Hírwevők - Secret (Official Video).mp3",
-    "title": "Secret",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Hírwevők"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Hírwevők"
-    ],
-    "credits": [
-      {
-        "entity": "Hírwevők",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
     "song_id": "h-00241",
     "file": "_magyar rap\\_random\\hívatlanok\\Hívatlanok - Igazi hívatlan (prod. by Day).mp3",
     "title": "Igazi hívatlan",
@@ -6985,31 +6960,6 @@
     "credits": [
       {
         "entity": "Juniker",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-00259",
-    "file": "_magyar rap\\_random\\KeezArt bizottsag\\2éjszakáskúl.mp3",
-    "title": "2éjszakáskúl",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Keezart"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Keezart"
-    ],
-    "credits": [
-      {
-        "entity": "Keezart",
         "entity_type": "person",
         "role": "primary"
       }
@@ -15730,45 +15680,6 @@
     "song_id": "h-00555",
     "file": "_magyar rap\\Akkezdet Phiai\\AkkezdetPhiai\\Akkezdet Phiai   Nyugat 100   official audio szöveggel.mp3",
     "title": "Nyugat 100",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Saiid",
-      "Újonc Peti"
-    ],
-    "primary_groups": [
-      "Akkezdet Phiai"
-    ],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Saiid",
-      "Újonc Peti"
-    ],
-    "credits": [
-      {
-        "entity": "Akkezdet Phiai",
-        "entity_type": "group",
-        "role": "primary"
-      },
-      {
-        "entity": "Saiid",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Újonc Peti",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-00556",
-    "file": "_magyar rap\\Akkezdet Phiai\\AkkezdetPhiai\\Akkezdet Phiai   Phasskivan   HD szöveggel.mp3",
-    "title": "Phasskivan",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
@@ -27786,52 +27697,6 @@
     ]
   },
   {
-    "song_id": "h-00916",
-    "file": "_magyar rap\\Criminal\\Ido Urai Bankos NKS\\AZ IDO URAI [192]\\AZ IDO URAI [192]\\07. Az Idő Urai - Székesfehérvár Freestyle.mp3",
-    "title": "Székesfehérvár Freestyle",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Bankos",
-      "Nos'chez",
-      "Zenk"
-    ],
-    "primary_groups": [
-      "Az Idő Urai"
-    ],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Bankos",
-      "Nos'chez",
-      "Zenk"
-    ],
-    "credits": [
-      {
-        "entity": "Az Idő Urai",
-        "entity_type": "group",
-        "role": "primary"
-      },
-      {
-        "entity": "Bankos",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Nos'chez",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Zenk",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
     "song_id": "h-00917",
     "file": "_magyar rap\\Criminal\\Ido Urai Bankos NKS\\AZ IDO URAI [192]\\AZ IDO URAI [192]\\08. Az Idő Urai km. Peneri Stricka Homboye - Dimenziók (Wich Rmx).mp3",
     "title": "Dimenziók",
@@ -31001,31 +30866,6 @@
     ]
   },
   {
-    "song_id": "h-01026",
-    "file": "_magyar rap\\Fankadeli\\fankadeli_apaink_verebol.mp3",
-    "title": "Apáink Véréből",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Fankadeli"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Fankadeli"
-    ],
-    "credits": [
-      {
-        "entity": "Fankadeli",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
     "song_id": "h-01027",
     "file": "_magyar rap\\Fankadeli\\fankadeli_szamtalan.mp3",
     "title": "Számtalan",
@@ -33509,33 +33349,6 @@
     ]
   },
   {
-    "song_id": "h-01119",
-    "file": "_magyar rap\\Ganxsta Zolee és a Kartel\\ganxsta\\Ganxsta Zolee _ a Kartell ft. BillyZone - Gonosz.mp3",
-    "title": "Gonosz",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [],
-    "primary_groups": [
-      "Ganxsta Zolee és a Kartel"
-    ],
-    "featuring_artists": [
-      "BillyZone"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "BillyZone"
-    ],
-    "credits": [
-      {
-        "entity": "Ganxsta Zolee és a Kartel",
-        "entity_type": "group",
-        "role": "primary"
-      }
-    ]
-  },
-  {
     "song_id": "h-01120",
     "file": "_magyar rap\\Ganxsta Zolee és a Kartel\\ganxsta\\Ganxsta Zolee és a kartel - Engem ott találsz.mp3",
     "title": "Engem ott találsz",
@@ -35958,31 +35771,6 @@
     "song_id": "h-01200",
     "file": "_magyar rap\\Garage\\ESSEMM\\ROCKSTAR [256]\\ROCKSTAR [256]\\Essemm - Északon (prod. by Február).mp3",
     "title": "Essemm - Északon (prod. by Február)",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Essemm"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Essemm"
-    ],
-    "credits": [
-      {
-        "entity": "Essemm",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-01201",
-    "file": "_magyar rap\\Garage\\ESSEMM\\ROCKSTAR [256]\\ROCKSTAR [256]\\Essemm - Ő Volt [Bonus].mp3",
-    "title": "Ő Volt",
     "title_variants": [],
     "source_root": "_magyar rap",
     "folder_region": null,
@@ -44598,45 +44386,6 @@
     ]
   },
   {
-    "song_id": "h-01457",
-    "file": "_magyar rap\\Makaronin\\Makaronin - Mindig ( Official Trap Music Video ).mp3",
-    "title": "Mindig",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "eSGé",
-      "Sosa"
-    ],
-    "primary_groups": [
-      "Makaronin"
-    ],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "eSGé",
-      "Sosa"
-    ],
-    "credits": [
-      {
-        "entity": "Makaronin",
-        "entity_type": "group",
-        "role": "primary"
-      },
-      {
-        "entity": "eSGé",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Sosa",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
     "song_id": "h-01458",
     "file": "_magyar rap\\Makaronin\\Makaronin - Mondd azt is.mp3",
     "title": "Mondd Azt Is",
@@ -46183,39 +45932,6 @@
       },
       {
         "entity": "Raul",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Mr. Missh",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
-    "song_id": "h-01497",
-    "file": "_magyar rap\\mr missh\\MISSH feat Rhino-Hallgass a szívedre ( Official Music Video ).mp3",
-    "title": "Hallgass A Szívedre",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Mr. Missh"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Rhino"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Mr. Missh",
-      "Rhino"
-    ],
-    "credits": [
-      {
-        "entity": "Rhino",
         "entity_type": "person",
         "role": "feature"
       },

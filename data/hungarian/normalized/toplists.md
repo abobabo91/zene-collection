@@ -1,6 +1,6 @@
 # Hungarian Local Music Toplists
 
-Songs: `2202`
+Songs: `2193`
 Persons: `486`
 Groups: `38`
 Labels: `9`
@@ -11,8 +11,8 @@ Unattributed songs: `0`
 
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
-| 1 | Essemm | 95 | 68.0 | 71.1 | 81 | 13 | 30 | Kapuvár | Garage | BeatMarket, Majmok Bolygója |
-| 2 | Fankadeli | 76 | 67.8 | 68.2 | 72 | 4 | 0 | Kecskemét | - | - |
+| 1 | Essemm | 94 | 67.0 | 70.1 | 80 | 13 | 30 | Kapuvár | Garage | BeatMarket, Majmok Bolygója |
+| 2 | Fankadeli | 75 | 66.8 | 67.2 | 71 | 4 | 0 | Kecskemét | - | - |
 | 3 | 2arc | 65 | 61.7 | 63.2 | 62 | 3 | 0 | - | - | - |
 | 4 | Ketioz | 106 | 45.2 | 62.9 | 91 | 15 | 44 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
 | 5 | Mr.Busta | 63 | 48.3 | 60.0 | 60 | 3 | 0 | - | RTM | - |
@@ -21,8 +21,8 @@ Unattributed songs: `0`
 | 8 | Tibbah | 74 | 36.0 | 37.5 | 69 | 5 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
 | 9 | Deego | 60 | 33.8 | 34.4 | 52 | 8 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
 | 10 | The Steve | 39 | 29.8 | 33.3 | 36 | 2 | 9 | - | - | Fhészek |
-| 11 | Mr. Missh | 37 | 24.9 | 31.2 | 33 | 4 | 0 | Almásfüzitő | - | - |
-| 12 | Turha | 33 | 25.8 | 30.5 | 31 | 2 | 0 | Tatabánya | SCBP | - |
+| 11 | Turha | 33 | 25.8 | 30.5 | 31 | 2 | 0 | Tatabánya | SCBP | - |
+| 12 | Mr. Missh | 36 | 24.4 | 30.2 | 32 | 4 | 0 | Almásfüzitő | - | - |
 | 13 | Smile of Hell | 39 | 28.2 | 29.3 | 38 | 1 | 19 | Szeged | IFS | IFS |
 | 14 | Rico | 33 | 20.1 | 26.6 | 25 | 8 | 0 | Gyöngyös | goldsoul | - |
 | 15 | Siska Finuccsi | 49 | 25.7 | 26.2 | 41 | 5 | 32 | Tatabánya | Bloose Broavaz | Alakváltók, Egyenlők, Gruppen Family, Vészkijárat |
@@ -49,28 +49,28 @@ Unattributed songs: `0`
 | 36 | Majka | 19 | 16.4 | 16.9 | 19 | 0 | 0 | Ózd | - | - |
 | 37 | Süti | 31 | 15.7 | 15.7 | 24 | 7 | 21 | - | Garage | Majmok Bolygója |
 | 38 | LAzy | 16 | 14.5 | 15.5 | 15 | 1 | 0 | Pápa | - | - |
-| 39 | eSGé | 33 | 15.2 | 15.2 | 32 | 1 | 33 | Budapest | - | Makaronin |
-| 40 | Sosa | 33 | 15.2 | 15.2 | 32 | 1 | 33 | Budapest | - | Makaronin |
-| 41 | Tirpa | 27 | 13.0 | 15.0 | 23 | 4 | 17 | Budapest | SCBP | Killakikitt |
+| 39 | Tirpa | 27 | 13.0 | 15.0 | 23 | 4 | 17 | Budapest | SCBP | Killakikitt |
+| 40 | eSGé | 32 | 14.7 | 14.7 | 31 | 1 | 32 | Budapest | - | Makaronin |
+| 41 | Sosa | 32 | 14.7 | 14.7 | 31 | 1 | 32 | Budapest | - | Makaronin |
 | 42 | Bobafett | 18 | 14.2 | 14.2 | 17 | 1 | 0 | - | - | - |
 | 43 | AZA | 27 | 13.3 | 13.9 | 23 | 4 | 17 | Budapest | SCBP | Killakikitt |
 | 44 | Fullánk | 42 | 13.8 | 13.8 | 33 | 9 | 37 | Győr | Vicc Beatz | Jam Balaya |
 | 45 | Szimat | 31 | 12.7 | 13.7 | 27 | 4 | 20 | Tatabánya | Garage | Káva |
-| 46 | Saiid | 28 | 13.5 | 13.5 | 23 | 4 | 26 | Budapest | - | Akkezdet Phiai |
-| 47 | San | 20 | 13.5 | 13.5 | 17 | 2 | 12 | - | Bloose Broavaz | Dreamerz |
-| 48 | Bobakrome | 21 | 12.7 | 13.2 | 15 | 6 | 0 | - | - | - |
+| 46 | San | 20 | 13.5 | 13.5 | 17 | 2 | 12 | - | Bloose Broavaz | Dreamerz |
+| 47 | Bobakrome | 21 | 12.7 | 13.2 | 15 | 6 | 0 | - | - | - |
+| 48 | Saiid | 27 | 13.0 | 13.0 | 22 | 4 | 25 | Budapest | - | Akkezdet Phiai |
 | 49 | Nomagróf | 19 | 12.8 | 12.8 | 18 | 1 | 8 | - | Bloose Broavaz | Samurai Flow |
-| 50 | Újonc Peti | 26 | 12.8 | 12.8 | 23 | 1 | 26 | Budapest | - | Akkezdet Phiai |
-| 51 | P_s | 14 | 11.0 | 12.7 | 13 | 1 | 0 | - | AuthenticBeats Records | - |
-| 52 | MIKEE MYKANIC | 14 | 12.5 | 12.5 | 12 | 2 | 0 | - | - | - |
-| 53 | Giajenno | 26 | 11.8 | 12.3 | 26 | 0 | 25 | Surány | RTM | AK26 |
+| 50 | P_s | 14 | 11.0 | 12.7 | 13 | 1 | 0 | - | AuthenticBeats Records | - |
+| 51 | MIKEE MYKANIC | 14 | 12.5 | 12.5 | 12 | 2 | 0 | - | - | - |
+| 52 | Giajenno | 26 | 11.8 | 12.3 | 26 | 0 | 25 | Surány | RTM | AK26 |
+| 53 | Újonc Peti | 25 | 12.2 | 12.2 | 22 | 1 | 25 | Budapest | - | Akkezdet Phiai |
 | 54 | Bom | 27 | 12.0 | 12.0 | 22 | 5 | 25 | Budapest | Bloose Broavaz | DSP |
 | 55 | Fluor | 12 | 8.3 | 12.0 | 12 | 0 | 0 | - | - | - |
 | 56 | KalashniKnow | 12 | 12.0 | 12.0 | 12 | 0 | 0 | - | SCBP | - |
 | 57 | Plasztik Planéta | 12 | 11.0 | 12.0 | 12 | 0 | 0 | - | - | - |
-| 58 | Bankos | 22 | 10.8 | 11.9 | 17 | 5 | 6 | Budapest | Criminal | Az Idő Urai |
-| 59 | Manuel | 13 | 11.2 | 11.8 | 11 | 2 | 0 | - | - | - |
-| 60 | G.w.M | 16 | 9.7 | 11.7 | 13 | 3 | 0 | Budapest | - | - |
+| 58 | Manuel | 13 | 11.2 | 11.8 | 11 | 2 | 0 | - | - | - |
+| 59 | G.w.M | 16 | 9.7 | 11.7 | 13 | 3 | 0 | Budapest | - | - |
+| 60 | Bankos | 21 | 10.4 | 11.6 | 16 | 5 | 5 | Budapest | Criminal | Az Idő Urai |
 | 61 | ekhoe | 12 | 11.5 | 11.5 | 11 | 1 | 0 | - | - | - |
 | 62 | Déó | 12 | 8.8 | 11.3 | 11 | 1 | 0 | - | RTM | - |
 | 63 | Dipa | 25 | 11.2 | 11.2 | 21 | 4 | 25 | Budapest | Bloose Broavaz | DSP |
@@ -85,17 +85,17 @@ Unattributed songs: `0`
 | 72 | BigMek | 10 | 7.9 | 9.3 | 10 | 0 | 0 | - | - | - |
 | 73 | Pixa | 12 | 8.1 | 9.1 | 10 | 2 | 0 | - | - | - |
 | 74 | Illegalvoice | 10 | 8.5 | 9.0 | 9 | 1 | 0 | - | - | New Fhészek |
-| 75 | Zenk | 25 | 8.9 | 8.9 | 17 | 8 | 23 | - | Criminal | Az Idő Urai, NKS |
-| 76 | Hibrid | 16 | 8.2 | 8.7 | 9 | 7 | 3 | - | - | Teswér |
+| 75 | Hibrid | 16 | 8.2 | 8.7 | 9 | 7 | 3 | - | - | Teswér |
+| 76 | Zenk | 24 | 8.5 | 8.5 | 16 | 8 | 22 | - | Criminal | Az Idő Urai, NKS |
 | 77 | Fiatal Veterán | 10 | 8.5 | 8.5 | 10 | 0 | 3 | - | - | Teswér |
 | 78 | FILO | 9 | 8.5 | 8.5 | 9 | 0 | 0 | - | - | - |
 | 79 | Szalai | 16 | 8.5 | 8.5 | 4 | 1 | 14 | - | - | ibbigang |
 | 80 | Utcakultúra | 9 | 8.5 | 8.5 | 8 | 1 | 0 | - | - | - |
-| 81 | Nos'chez | 24 | 8.4 | 8.4 | 17 | 7 | 23 | - | Criminal | Az Idő Urai, NKS |
-| 82 | Flemm | 9 | 7.3 | 8.3 | 8 | 1 | 0 | - | - | - |
-| 83 | Ra | 18 | 8.3 | 8.3 | 10 | 7 | 9 | - | Garage | BeatMarket |
-| 84 | Artoscsaba | 14 | 6.4 | 8.1 | 10 | 4 | 3 | - | - | Alakváltók |
-| 85 | Barhx | 11 | 8.1 | 8.1 | 7 | 4 | 0 | - | - | - |
+| 81 | Flemm | 9 | 7.3 | 8.3 | 8 | 1 | 0 | - | - | - |
+| 82 | Ra | 18 | 8.3 | 8.3 | 10 | 7 | 9 | - | Garage | BeatMarket |
+| 83 | Artoscsaba | 14 | 6.4 | 8.1 | 10 | 4 | 3 | - | - | Alakváltók |
+| 84 | Barhx | 11 | 8.1 | 8.1 | 7 | 4 | 0 | - | - | - |
+| 85 | Nos'chez | 23 | 8.0 | 8.0 | 16 | 7 | 22 | - | Criminal | Az Idő Urai, NKS |
 | 86 | Máté | 16 | 8.0 | 8.0 | 16 | 0 | 16 | Pécs | - | Punnany Massif |
 | 87 | RatB | 13 | 8.0 | 8.0 | 13 | 0 | 0 | - | - | - |
 | 88 | Wolfie | 16 | 8.0 | 8.0 | 16 | 0 | 16 | Pécs | - | Punnany Massif |
@@ -109,15 +109,15 @@ Unattributed songs: `0`
 | 96 | Susa | 7 | 7.0 | 7.0 | 7 | 0 | 0 | - | - | - |
 | 97 | Valter | 14 | 7.0 | 7.0 | 3 | 0 | 14 | - | - | ibbigang |
 | 98 | El Magico | 24 | 6.9 | 6.9 | 20 | 4 | 20 | Tatabánya | Garage | Káva |
-| 99 | Hírwevők | 8 | 5.5 | 6.8 | 6 | 2 | 0 | - | - | - |
-| 100 | redOne | 8 | 5.8 | 6.8 | 6 | 2 | 0 | - | RTM | - |
-| 101 | Mes | 8 | 6.2 | 6.7 | 6 | 2 | 0 | - | - | - |
-| 102 | Knozah B | 7 | 5.2 | 6.5 | 5 | 2 | 0 | - | - | - |
-| 103 | Norba | 9 | 4.5 | 6.5 | 8 | 1 | 0 | - | Criminal | - |
-| 104 | Marabela | 19 | 6.1 | 6.1 | 14 | 5 | 0 | - | Vicc Beatz | - |
-| 105 | TM | 8 | 5.1 | 6.1 | 7 | 1 | 0 | - | - | - |
-| 106 | 666GHOST | 6 | 6.0 | 6.0 | 6 | 0 | 0 | - | - | - |
-| 107 | Addamz | 6 | 6.0 | 6.0 | 6 | 0 | 0 | - | - | - |
+| 99 | redOne | 8 | 5.8 | 6.8 | 6 | 2 | 0 | - | RTM | - |
+| 100 | Mes | 8 | 6.2 | 6.7 | 6 | 2 | 0 | - | - | - |
+| 101 | Knozah B | 7 | 5.2 | 6.5 | 5 | 2 | 0 | - | - | - |
+| 102 | Norba | 9 | 4.5 | 6.5 | 8 | 1 | 0 | - | Criminal | - |
+| 103 | Marabela | 19 | 6.1 | 6.1 | 14 | 5 | 0 | - | Vicc Beatz | - |
+| 104 | TM | 8 | 5.1 | 6.1 | 7 | 1 | 0 | - | - | - |
+| 105 | 666GHOST | 6 | 6.0 | 6.0 | 6 | 0 | 0 | - | - | - |
+| 106 | Addamz | 6 | 6.0 | 6.0 | 6 | 0 | 0 | - | - | - |
+| 107 | Hírwevők | 7 | 4.5 | 5.8 | 5 | 2 | 0 | - | - | - |
 | 108 | Kuli†King | 7 | 4.2 | 5.5 | 5 | 2 | 0 | - | goldsoul | - |
 | 109 | Sog | 6 | 4.2 | 5.3 | 6 | 0 | 0 | - | - | - |
 | 110 | Jégcsap | 6 | 3.3 | 5.3 | 5 | 1 | 0 | - | - | - |
@@ -157,43 +157,43 @@ Unattributed songs: `0`
 | 144 | HENN | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
 | 145 | Illúzió | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |
 | 146 | Kamikaze | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | RTM | - |
-| 147 | Keezart | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 148 | Lefty | 3 | 2.5 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 149 | Mollywood | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 150 | MásszemszöG | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 151 | Raptorz | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 152 | Red Bull Pilvaker Allstars | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 153 | Rimfarktush | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 154 | SCBP | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 155 | SteK | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 156 | Tactica | 3 | 2.5 | 3.0 | 3 | 0 | 0 | - | SCBP | - |
-| 157 | YoungBoy Rallo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
-| 158 | Des | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
-| 159 | hazetomika | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
-| 160 | Hívatlanok | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
-| 161 | Kain | 3 | 2.5 | 2.5 | 3 | 0 | 0 | - | - | - |
-| 162 | KIDRIVER | 3 | 2.0 | 2.5 | 3 | 0 | 0 | - | - | - |
-| 163 | KKevin | 3 | 2.0 | 2.5 | 3 | 0 | 0 | - | - | - |
-| 164 | Mr.Siid | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
-| 165 | Potyautas | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
-| 166 | Duffchy | 3 | 1.8 | 2.3 | 3 | 0 | 0 | - | - | - |
-| 167 | Bruno | 4 | 2.2 | 2.2 | 3 | 1 | 3 | - | - | Bruno X Spacc |
-| 168 | Komander | 3 | 1.1 | 2.2 | 3 | 0 | 0 | - | - | - |
-| 169 | Dhok | 3 | 2.1 | 2.1 | 2 | 1 | 0 | - | - | - |
-| 170 | Argon | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 171 | ASK-HM | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 172 | Bloose Broavaz | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 173 | Boki | 3 | 1.5 | 2.0 | 1 | 2 | 0 | - | - | - |
-| 174 | Csoky | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 175 | DaWiz | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 176 | Dharmatic | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 177 | Diws | 2 | 1.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 178 | Dzsudlo | 2 | 1.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 179 | Effective | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 180 | Falkon | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 181 | Földszint | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 182 | Inco | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 183 | K8 | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 147 | Lefty | 3 | 2.5 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 148 | Mollywood | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 149 | MásszemszöG | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 150 | Raptorz | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 151 | Red Bull Pilvaker Allstars | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 152 | Rimfarktush | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 153 | SCBP | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 154 | SteK | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 155 | Tactica | 3 | 2.5 | 3.0 | 3 | 0 | 0 | - | SCBP | - |
+| 156 | YoungBoy Rallo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
+| 157 | Des | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
+| 158 | hazetomika | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
+| 159 | Hívatlanok | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
+| 160 | Kain | 3 | 2.5 | 2.5 | 3 | 0 | 0 | - | - | - |
+| 161 | KIDRIVER | 3 | 2.0 | 2.5 | 3 | 0 | 0 | - | - | - |
+| 162 | KKevin | 3 | 2.0 | 2.5 | 3 | 0 | 0 | - | - | - |
+| 163 | Mr.Siid | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
+| 164 | Potyautas | 3 | 2.5 | 2.5 | 2 | 1 | 0 | - | - | - |
+| 165 | Duffchy | 3 | 1.8 | 2.3 | 3 | 0 | 0 | - | - | - |
+| 166 | Bruno | 4 | 2.2 | 2.2 | 3 | 1 | 3 | - | - | Bruno X Spacc |
+| 167 | Komander | 3 | 1.1 | 2.2 | 3 | 0 | 0 | - | - | - |
+| 168 | Dhok | 3 | 2.1 | 2.1 | 2 | 1 | 0 | - | - | - |
+| 169 | Argon | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 170 | ASK-HM | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 171 | Bloose Broavaz | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 172 | Boki | 3 | 1.5 | 2.0 | 1 | 2 | 0 | - | - | - |
+| 173 | Csoky | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 174 | DaWiz | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 175 | Dharmatic | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 176 | Diws | 2 | 1.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 177 | Dzsudlo | 2 | 1.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 178 | Effective | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 179 | Falkon | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 180 | Földszint | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 181 | Inco | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 182 | K8 | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 183 | Keezart | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 184 | Kisé | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 185 | Kripton | 2 | 1.5 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 186 | Masahiro | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
@@ -204,29 +204,29 @@ Unattributed songs: `0`
 | 191 | Palej Niki | 4 | 2.0 | 2.0 | 1 | 3 | 0 | - | - | - |
 | 192 | Panczy | 3 | 2.0 | 2.0 | 1 | 2 | 0 | - | - | - |
 | 193 | pataki | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 194 | Rhino | 3 | 2.0 | 2.0 | 1 | 2 | 0 | - | - | - |
-| 195 | SM1TH | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 196 | Thysta | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 197 | TKO | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 198 | Triek | 2 | 1.5 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 199 | XIKE | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 200 | Álarc Krú | 2 | 1.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 201 | Altare | 3 | 1.3 | 1.8 | 2 | 1 | 0 | - | - | - |
-| 202 | MC Gőz | 3 | 1.8 | 1.8 | 3 | 0 | 0 | - | - | - |
-| 203 | Loki | 4 | 1.7 | 1.7 | 4 | 0 | 0 | - | - | - |
-| 204 | Szlimmy | 4 | 1.7 | 1.7 | 4 | 0 | 0 | - | - | - |
-| 205 | BMB | 2 | 1.0 | 1.5 | 1 | 1 | 0 | - | - | - |
-| 206 | Fazy | 2 | 1.0 | 1.5 | 2 | 0 | 0 | - | - | - |
-| 207 | Fendo | 2 | 1.5 | 1.5 | 2 | 0 | 0 | - | - | - |
-| 208 | Fülke | 3 | 1.5 | 1.5 | 2 | 1 | 0 | - | - | - |
-| 209 | Game Kutya | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
-| 210 | Gege | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
-| 211 | Juniker | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
-| 212 | Kamion | 2 | 0.8 | 1.5 | 1 | 1 | 0 | - | - | - |
-| 213 | Knyght Ry DRS | 2 | 1.0 | 1.5 | 2 | 0 | 0 | - | - | - |
-| 214 | Kreck | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
-| 215 | Lmen Prala | 2 | 1.5 | 1.5 | 2 | 0 | 0 | - | - | - |
-| 216 | Pimasz | 2 | 1.0 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 194 | SM1TH | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 195 | Thysta | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 196 | TKO | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 197 | Triek | 2 | 1.5 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 198 | XIKE | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 199 | Álarc Krú | 2 | 1.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 200 | Altare | 3 | 1.3 | 1.8 | 2 | 1 | 0 | - | - | - |
+| 201 | MC Gőz | 3 | 1.8 | 1.8 | 3 | 0 | 0 | - | - | - |
+| 202 | Loki | 4 | 1.7 | 1.7 | 4 | 0 | 0 | - | - | - |
+| 203 | Szlimmy | 4 | 1.7 | 1.7 | 4 | 0 | 0 | - | - | - |
+| 204 | BMB | 2 | 1.0 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 205 | Fazy | 2 | 1.0 | 1.5 | 2 | 0 | 0 | - | - | - |
+| 206 | Fendo | 2 | 1.5 | 1.5 | 2 | 0 | 0 | - | - | - |
+| 207 | Fülke | 3 | 1.5 | 1.5 | 2 | 1 | 0 | - | - | - |
+| 208 | Game Kutya | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 209 | Gege | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 210 | Juniker | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 211 | Kamion | 2 | 0.8 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 212 | Knyght Ry DRS | 2 | 1.0 | 1.5 | 2 | 0 | 0 | - | - | - |
+| 213 | Kreck | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 214 | Lmen Prala | 2 | 1.5 | 1.5 | 2 | 0 | 0 | - | - | - |
+| 215 | Pimasz | 2 | 1.0 | 1.5 | 1 | 1 | 0 | - | - | - |
+| 216 | Rhino | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
 | 217 | Smith | 2 | 1.0 | 1.5 | 1 | 1 | 0 | - | - | - |
 | 218 | Do2 | 2 | 1.3 | 1.3 | 2 | 0 | 0 | - | - | - |
 | 219 | Emté | 2 | 0.8 | 1.3 | 1 | 1 | 0 | - | - | - |
@@ -505,11 +505,11 @@ Unattributed songs: `0`
 | 1 | Barbárfivérek | 43 | Deego, Tibbah | Győr | Bloose Broavaz |
 | 2 | Jam Balaya | 37 | Fullánk, Ketioz, Rambo | Győr | Vicc Beatz |
 | 3 | BSW | 36 | Gaben, Mettyú | Somogy | - |
-| 4 | Makaronin | 33 | eSGé, Sosa | Budapest | - |
-| 5 | Ganxsta Zolee és a Kartel | 28 | - | - | - |
+| 4 | Makaronin | 32 | eSGé, Sosa | Budapest | - |
+| 5 | Ganxsta Zolee és a Kartel | 27 | - | - | - |
 | 6 | Hősök | 27 | Eckü, Mentha | Veszprém | - |
-| 7 | Akkezdet Phiai | 26 | Saiid, Újonc Peti | Budapest | - |
-| 8 | AK26 | 25 | Giajenno, Hiro | Surány | RTM |
+| 7 | AK26 | 25 | Giajenno, Hiro | Surány | RTM |
+| 8 | Akkezdet Phiai | 25 | Saiid, Újonc Peti | Budapest | - |
 | 9 | DSP | 25 | Bom, Dipa | Budapest | Bloose Broavaz |
 | 10 | Furakor | 25 | Akr, Fura Csé | Tatabánya | Garage |
 | 11 | Majmok Bolygója | 21 | Essemm, Süti | - | Garage |
@@ -532,7 +532,7 @@ Unattributed songs: `0`
 | 28 | Samurai Flow | 8 | Drezzick, Nomagróf | - | Bloose Broavaz |
 | 29 | Egyenlők | 7 | Ketioz, Phat, Rambo, Siska Finuccsi | Győr | Bloose Broavaz, Vicc Beatz |
 | 30 | Gruppen Family | 7 | Eckü, Siska Finuccsi | - | - |
-| 31 | Az Idő Urai | 6 | Bankos, Nos'chez, Zenk | - | Criminal |
+| 31 | Az Idő Urai | 5 | Bankos, Nos'chez, Zenk | - | Criminal |
 | 32 | Rydu | 5 | Phat, Tkyd | - | Bloose Broavaz |
 | 33 | Alakváltók | 3 | Artoscsaba, Siska Finuccsi | - | - |
 | 34 | Bruno X Spacc | 3 | Bruno, Spacc | - | - |
@@ -546,13 +546,13 @@ Unattributed songs: `0`
 | # | Label | Songs | Persons | Groups | Regions |
 |---|-------|-------|---------|--------|---------|
 | 1 | Bloose Broavaz | 296 | 14 | 7 | - |
-| 2 | Garage | 165 | 8 | 4 | - |
+| 2 | Garage | 164 | 8 | 4 | - |
 | 3 | RTM | 124 | 7 | 1 | - |
 | 4 | Vicc Beatz | 108 | 8 | 2 | - |
 | 5 | SCBP | 105 | 8 | 1 | - |
 | 6 | goldsoul | 57 | 4 | 1 | - |
 | 7 | IFS | 55 | 2 | 1 | - |
-| 8 | Criminal | 41 | 4 | 2 | - |
+| 8 | Criminal | 40 | 4 | 2 | - |
 | 9 | AuthenticBeats Records | 19 | 3 | 0 | - |
 
 ## Regions

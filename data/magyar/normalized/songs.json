@@ -5774,26 +5774,6 @@
   },
   {
     "song_id": "mg-00277",
-    "file": "_other\\_magyar\\_nepzene\\Top-Titel – Naptengeri - YouTube\\Kalika.mp3",
-    "title": "Kalika",
-    "primary_artists": [
-      "Naptengeri"
-    ],
-    "featuring_artists": [],
-    "artists": [
-      "Naptengeri"
-    ],
-    "credits": [
-      {
-        "entity": "Naptengeri",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
-  },
-  {
-    "song_id": "mg-00278",
     "file": "_other\\_magyar\\_nepzene\\Top-Titel – Naptengeri - YouTube\\Naptengeri - The Sun Will See.mp3",
     "title": "The Sun Will See",
     "primary_artists": [
@@ -5813,7 +5793,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00279",
+    "song_id": "mg-00278",
     "file": "_other\\_magyar\\_nepzene\\Top-Titel – Naptengeri - YouTube\\On the Way.mp3",
     "title": "On the Way",
     "primary_artists": [
@@ -5833,7 +5813,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00280",
+    "song_id": "mg-00279",
     "file": "_other\\_magyar\\_nepzene\\Top-Titel – Zagyva Banda - YouTube\\Bagossy Brothers Company - Harmonikás.mp3",
     "title": "Harmonikás",
     "primary_artists": [
@@ -5853,7 +5833,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00281",
+    "song_id": "mg-00280",
     "file": "_other\\_magyar\\_nepzene\\Top-Titel – Zagyva Banda - YouTube\\Bíró Gergő - Ablakomba - Juhászlegény.mp3",
     "title": "Ablakomba - Juhászlegény",
     "primary_artists": [
@@ -5873,7 +5853,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00282",
+    "song_id": "mg-00281",
     "file": "_other\\_magyar\\_nepzene\\Top-Titel – Zagyva Banda - YouTube\\Hungarian folk song - Akkor szép az erdő.mp3",
     "title": "Akkor szép az erdő",
     "primary_artists": [
@@ -5893,7 +5873,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00283",
+    "song_id": "mg-00282",
     "file": "_other\\_magyar\\_nepzene\\Ég az erdő - klemencz kollar laszlo\\02. Pusztinai nagy hegy alatt.mp3",
     "title": "Pusztinai nagy hegy alatt",
     "primary_artists": [
@@ -5913,7 +5893,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00284",
+    "song_id": "mg-00283",
     "file": "_other\\_magyar\\_nepzene\\Ég az erdő - klemencz kollar laszlo\\05. Én istenem altass el engem.mp3",
     "title": "Én istenem altass el engem",
     "primary_artists": [
@@ -5933,7 +5913,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00285",
+    "song_id": "mg-00284",
     "file": "_other\\_magyar\\_pop\\ByeAlex\\ByeAlex és a Slepp - Még mindig... (Lotfi Begi Remix)   OFFICIAL LYRIC VIDEO.mp3",
     "title": "Még mindig",
     "primary_artists": [
@@ -5953,7 +5933,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00286",
+    "song_id": "mg-00285",
     "file": "_other\\_magyar\\_pop\\Cserpes laura\\07. Fekete Dávid, Cserpes Laura - Egy nap (Official Music Video).mp3",
     "title": "Egy nap",
     "primary_artists": [
@@ -5980,7 +5960,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00287",
+    "song_id": "mg-00286",
     "file": "_other\\_magyar\\_pop\\Cserpes laura\\10. Cserpes Laura - Most kezdődik el.mp3",
     "title": "Most kezdődik el",
     "primary_artists": [
@@ -6000,7 +5980,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00288",
+    "song_id": "mg-00287",
     "file": "_other\\_magyar\\_pop\\FollowTheFlow\\Follow The Flow - Anyám mondta [OFFICIAL MUSIC VIDEO].mp3",
     "title": "Anyám mondta",
     "primary_artists": [
@@ -6020,7 +6000,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00289",
+    "song_id": "mg-00288",
     "file": "_other\\_magyar\\_pop\\FollowTheFlow\\Follow The Flow - Maradok távol [OFFICIAL MUSIC VIDEO].mp3",
     "title": "Maradok távol",
     "primary_artists": [
@@ -6040,7 +6020,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00290",
+    "song_id": "mg-00289",
     "file": "_other\\_magyar\\_pop\\FollowTheFlow\\Follow The Flow - Nem tudja senki [OFFICIAL MUSIC VIDEO].mp3",
     "title": "Nem tudja senki",
     "primary_artists": [
@@ -6060,7 +6040,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00291",
+    "song_id": "mg-00290",
     "file": "_other\\_magyar\\_pop\\FollowTheFlow\\Follow The Flow - Világom [OFFICIAL MUSIC VIDEO].mp3",
     "title": "Világom",
     "primary_artists": [
@@ -6080,7 +6060,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00292",
+    "song_id": "mg-00291",
     "file": "_other\\_magyar\\_pop\\Gáspár Laci\\Gáspár Laci - Fülledt, forró nyár OFFICIAL KLIP.mp3",
     "title": "Fülledt, forró nyár OFFICIAL KLIP",
     "primary_artists": [
@@ -6100,7 +6080,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00293",
+    "song_id": "mg-00292",
     "file": "_other\\_magyar\\_pop\\Gáspár Laci\\Gáspár Laci - Hagyd meg nekem a dalt.mp3",
     "title": "Hagyd meg nekem a dalt",
     "primary_artists": [
@@ -6120,7 +6100,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00294",
+    "song_id": "mg-00293",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\FEJJEL LEFELE [320]\\FEJJEL LEFELE [320]\\01. Halott Pénz - Beat My People.mp3",
     "title": "Beat My People",
     "primary_artists": [
@@ -6140,7 +6120,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00295",
+    "song_id": "mg-00294",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\FEJJEL LEFELE [320]\\FEJJEL LEFELE [320]\\06. Halott Pénz km. Szabó Balázs - Kit Érdekel.mp3",
     "title": "Kit Érdekel",
     "primary_artists": [
@@ -6160,7 +6140,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00296",
+    "song_id": "mg-00295",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\FEJJEL LEFELE [320]\\FEJJEL LEFELE [320]\\18. Halott Pénz - Te És Én.mp3",
     "title": "Te És Én",
     "primary_artists": [
@@ -6180,7 +6160,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00297",
+    "song_id": "mg-00296",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\Halott Pénz - Darabokra törted a szívem (official music video).mp3",
     "title": "Darabokra törted a szívem",
     "primary_artists": [
@@ -6200,7 +6180,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00298",
+    "song_id": "mg-00297",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\Halott Pénz - Hello lányok (feat Diaz, Mentha).mp3",
     "title": "Hello lányok (feat Diaz, Mentha)",
     "primary_artists": [
@@ -6220,7 +6200,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00299",
+    "song_id": "mg-00298",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\Halott Pénz - Nem érinthet meg (official music video).mp3",
     "title": "Nem érinthet meg",
     "primary_artists": [
@@ -6240,7 +6220,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00300",
+    "song_id": "mg-00299",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\Halott Pénz - Valami van a levegőben (official music video).mp3",
     "title": "Valami van a levegőben",
     "primary_artists": [
@@ -6260,7 +6240,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00301",
+    "song_id": "mg-00300",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\Halott Pénz - Élnünk kellett volna (feat Agebeat_Kovary).mp3",
     "title": "Élnünk kellett volna (feat Agebeat Kovary)",
     "primary_artists": [
@@ -6280,7 +6260,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00302",
+    "song_id": "mg-00301",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\HORVÁTH TAMÁS _ RAUL - AKARLAK TÉGED (Official Music Video).mp3",
     "title": "AKARLAK TÉGED",
     "primary_artists": [
@@ -6300,7 +6280,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00303",
+    "song_id": "mg-00302",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\HORVÁTH TAMÁS _ RAUL - NÁLÁNÁ É (Official Music Video).mp3",
     "title": "NÁLÁNÁ É",
     "primary_artists": [
@@ -6320,7 +6300,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00304",
+    "song_id": "mg-00303",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\HORVÁTH TAMÁS _ RAUL - SZERETSZ ENGEM (Official Music Video).mp3",
     "title": "SZERETSZ ENGEM",
     "primary_artists": [
@@ -6340,7 +6320,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00305",
+    "song_id": "mg-00304",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\HORVÁTH TAMÁS _ RAUL - TÁNCOL VELEM A VILÁG (Official Music Video).mp3",
     "title": "TÁNCOL VELEM A VILÁG",
     "primary_artists": [
@@ -6360,7 +6340,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00306",
+    "song_id": "mg-00305",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\HORVÁTH TAMÁS _ RAUL - ŐRIZD MEG (Official Music Video).mp3",
     "title": "ŐRIZD MEG",
     "primary_artists": [
@@ -6380,7 +6360,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00307",
+    "song_id": "mg-00306",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\HORVÁTH TAMÁS _ RAUL feat. DENIZ - ŐSZINTE VALLOMÁS (Official Music Video).mp3",
     "title": "ŐSZINTE VALLOMÁS",
     "primary_artists": [
@@ -6408,7 +6388,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00308",
+    "song_id": "mg-00307",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC).mp3",
     "title": "ÚGY CSÓKOLLAK (OFFICIAL MUSIC)",
     "primary_artists": [
@@ -6428,7 +6408,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00309",
+    "song_id": "mg-00308",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\Kowalsky meg a Vega - Amilyen hülye vagy, úgy szeretlek (Official video klip).mp3",
     "title": "Amilyen hülye vagy, úgy szeretlek ( klip)",
     "primary_artists": [
@@ -6448,7 +6428,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00310",
+    "song_id": "mg-00309",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\Kowalsky meg a Vega - Amilyen hülye vagy, úgy szeretlek (Szatmári _ Till Summer Mix).mp3",
     "title": "Amilyen hülye vagy, úgy szeretlek (Szatmári Till Summer Mix)",
     "primary_artists": [
@@ -6468,7 +6448,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00311",
+    "song_id": "mg-00310",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\YOUNG G - Ami belefér Km. IGNI │ OFFICIAL MUSIC VIDEO │.mp3",
     "title": "Ami belefér Km",
     "primary_artists": [
@@ -6488,7 +6468,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00312",
+    "song_id": "mg-00311",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\YOUNG G - ELVETEMÜLT PARTY km. MARIO, GOORE, KicsNyúl │ 2015 OFFICIAL MUSIC VIDEO │.mp3",
     "title": "ELVETEMÜLT PARTY km",
     "primary_artists": [
@@ -6508,7 +6488,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00313",
+    "song_id": "mg-00312",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\HORVÁTH TAMÁS _ RAUL - HAGYJ EL (official music).mp3",
     "title": "HAGYJ EL (official music)",
     "primary_artists": [
@@ -6528,7 +6508,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00314",
+    "song_id": "mg-00313",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\HORVÁTH TAMÁS _ RAUL - VÉGÁLLOMÁS (Official Music Video).mp3",
     "title": "VÉGÁLLOMÁS",
     "primary_artists": [
@@ -6548,7 +6528,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00315",
+    "song_id": "mg-00314",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix - Kozmix A Házban.mp3",
     "title": "Kozmix A Házban",
     "primary_artists": [
@@ -6568,7 +6548,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00316",
+    "song_id": "mg-00315",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix Ha minden véget ér.mp3",
     "title": "Kozmix Ha minden véget ér",
     "primary_artists": [
@@ -6588,7 +6568,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00317",
+    "song_id": "mg-00316",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix Hiszek.mp3",
     "title": "Kozmix Hiszek",
     "primary_artists": [
@@ -6608,7 +6588,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00318",
+    "song_id": "mg-00317",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix Kis Világ  (Actual 2000 Remix).mp3",
     "title": "Kozmix Kis Világ (Actual 2000 Remix)",
     "primary_artists": [
@@ -6628,7 +6608,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00319",
+    "song_id": "mg-00318",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix Kis világ.mp3",
     "title": "Kozmix Kis világ",
     "primary_artists": [
@@ -6648,7 +6628,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00320",
+    "song_id": "mg-00319",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix Mivé Leszünk.mp3",
     "title": "Kozmix Mivé Leszünk",
     "primary_artists": [
@@ -6668,7 +6648,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00321",
+    "song_id": "mg-00320",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix Túl késő.mp3",
     "title": "Kozmix Túl késő",
     "primary_artists": [
@@ -6688,7 +6668,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00322",
+    "song_id": "mg-00321",
     "file": "_other\\_magyar\\_pop\\Kozmix\\Kozmix-Minden most kezdődik el.mp3",
     "title": "Kozmix-Minden most kezdődik el",
     "primary_artists": [
@@ -6708,7 +6688,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00323",
+    "song_id": "mg-00322",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Auth Csilla - JÓL VAGYOK ÉS PONT.mp3",
     "title": "JÓL VAGYOK ÉS PONT",
     "primary_artists": [
@@ -6728,7 +6708,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00324",
+    "song_id": "mg-00323",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Auth Csilla - Szolnoki Péter - Úgy féltelek.mp3",
     "title": "Szolnoki Péter - Úgy féltelek",
     "primary_artists": [
@@ -6748,7 +6728,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00325",
+    "song_id": "mg-00324",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Baby Gabi és Lányi Lala - Darabokra szakítod a szívemet.mp3",
     "title": "Darabokra szakítod a szívemet",
     "primary_artists": [
@@ -6768,7 +6748,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00326",
+    "song_id": "mg-00325",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Back ll Black - Várj.mp3",
     "title": "Várj",
     "primary_artists": [
@@ -6788,7 +6768,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00327",
+    "song_id": "mg-00326",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Balkan Fanatik - Feljött a Nap (SzerencseSzombat, 2014-07-26).mp3",
     "title": "Feljött a Nap (SzerencseSzombat, 2014-07-26)",
     "primary_artists": [
@@ -6808,7 +6788,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00328",
+    "song_id": "mg-00327",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Balogh Brigi - A szerelem fáj (Official Video).mp3",
     "title": "A szerelem fáj",
     "primary_artists": [
@@ -6828,7 +6808,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00329",
+    "song_id": "mg-00328",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Barbee - Sodor az ár (Official).mp3",
     "title": "Sodor az ár (Official)",
     "primary_artists": [
@@ -6848,7 +6828,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00330",
+    "song_id": "mg-00329",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Bereczki Zoltán - Kerek egész.mp3",
     "title": "Kerek egész",
     "primary_artists": [
@@ -6868,7 +6848,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00331",
+    "song_id": "mg-00330",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Bermuda - London.mp3",
     "title": "London",
     "primary_artists": [
@@ -6888,7 +6868,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00332",
+    "song_id": "mg-00331",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Bery _ Eszter Váczi - Egyedül.mp3",
     "title": "Egyedül",
     "primary_artists": [
@@ -6908,7 +6888,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00333",
+    "song_id": "mg-00332",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\BLR _ MILÁN - BÍZD RÁM [ Official Music Video ].mp3",
     "title": "BÍZD RÁM",
     "primary_artists": [
@@ -6928,7 +6908,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00334",
+    "song_id": "mg-00333",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Caramel - Szállok a dallal [with lyrics - dalszöveggel].mp3",
     "title": "Szállok a dallal [with - dalszöveggel]",
     "primary_artists": [
@@ -6948,7 +6928,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00335",
+    "song_id": "mg-00334",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Carpe Diem - Álomhajó.mp3",
     "title": "Álomhajó",
     "primary_artists": [
@@ -6968,7 +6948,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00336",
+    "song_id": "mg-00335",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Charlie - Könnyű álmot hozzon az éj.mp3",
     "title": "Könnyű álmot hozzon az éj",
     "primary_artists": [
@@ -6988,7 +6968,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00337",
+    "song_id": "mg-00336",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Compact Disco - Sound of our Hearts    Eurovision 2012 [HD].mp3",
     "title": "Sound of our Hearts Eurovision 2012",
     "primary_artists": [
@@ -7008,7 +6988,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00338",
+    "song_id": "mg-00337",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Csézy - Akarsz-e.mp3",
     "title": "Akarsz-e",
     "primary_artists": [
@@ -7028,7 +7008,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00339",
+    "song_id": "mg-00338",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Csík Zenekar-Zár az égbolt.mp3",
     "title": "Csík Zenekar-Zár az égbolt",
     "primary_artists": [
@@ -7048,7 +7028,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00340",
+    "song_id": "mg-00339",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Desperado - Akarom öt.mp3",
     "title": "Akarom öt",
     "primary_artists": [
@@ -7068,7 +7048,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00341",
+    "song_id": "mg-00340",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Desperado - Ég Veled!.mp3",
     "title": "Ég Veled!",
     "primary_artists": [
@@ -7088,7 +7068,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00342",
+    "song_id": "mg-00341",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Diaz _ Mentha - Nélküled.mp3",
     "title": "Nélküled",
     "primary_artists": [
@@ -7108,7 +7088,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00343",
+    "song_id": "mg-00342",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Dobrády Ákos és Szekeres Adrienn - Híd a folyót.mp3",
     "title": "Híd a folyót",
     "primary_artists": [
@@ -7128,7 +7108,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00344",
+    "song_id": "mg-00343",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Farkas-Jenser Balázs és Zenekara -- Nézz rám ( Official Music Video ) -- HD.mp3",
     "title": "Farkas-Jenser Balázs és Zenekara -- Nézz rám",
     "primary_artists": [
@@ -7148,7 +7128,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00345",
+    "song_id": "mg-00344",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Fekete Dávid és Cserpes Laura - Egy nap - OFFICIAL MUSIC VIDEO.mp3",
     "title": "Egy nap",
     "primary_artists": [
@@ -7168,7 +7148,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00346",
+    "song_id": "mg-00345",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\GEG - Szólj Rám.mp3",
     "title": "Szólj Rám",
     "primary_artists": [
@@ -7188,7 +7168,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00347",
+    "song_id": "mg-00346",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Holdviola - Bánat utca ( Fonogram 2010 ).mp3",
     "title": "Bánat utca ( Fonogram 2010 )",
     "primary_artists": [
@@ -7208,7 +7188,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00348",
+    "song_id": "mg-00347",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\JUDY SOHA NEM KÉSŐ OFFICIAL VIDEO HD.mov.mp3",
     "title": "JUDY SOHA NEM KÉSŐ .mov",
     "primary_artists": [
@@ -7228,7 +7208,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00349",
+    "song_id": "mg-00348",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\KASZA TIBOR - Nem kell más - klippel.mp3",
     "title": "Nem kell más - klippel",
     "primary_artists": [
@@ -7248,7 +7228,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00350",
+    "song_id": "mg-00349",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Kelemen Kabtban - Nyri Dallam.mp3",
     "title": "Nyri Dallam",
     "primary_artists": [
@@ -7268,7 +7248,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00351",
+    "song_id": "mg-00350",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Kelemen Kabátban - Maradjatok Gyerekek feat. Eckü (HIVATALOS VIDEOKLIP).mp3",
     "title": "Maradjatok Gyerekek feat",
     "primary_artists": [
@@ -7288,7 +7268,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00352",
+    "song_id": "mg-00351",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Király Viktor - Solo (official music video).mp3",
     "title": "Solo",
     "primary_artists": [
@@ -7308,7 +7288,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00353",
+    "song_id": "mg-00352",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\KOCSIS TIBOR - Lásd a csodát.mp3",
     "title": "Lásd a csodát",
     "primary_artists": [
@@ -7328,7 +7308,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00354",
+    "song_id": "mg-00353",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Kállay Saunders András - Csak veled - Official HD Video - MistralMusic.mp3",
     "title": "Csak veled - - MistralMusic",
     "primary_artists": [
@@ -7348,7 +7328,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00355",
+    "song_id": "mg-00354",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Kállay Saunders András - I love You - Official videó HD Mistral Music.mp3",
     "title": "I love You - Official videó Mistral Music",
     "primary_artists": [
@@ -7368,7 +7348,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00356",
+    "song_id": "mg-00355",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Kökény Attila Rád gondolok official video HD klip.mp3",
     "title": "Kökény Attila Rád gondolok klip",
     "primary_artists": [
@@ -7388,7 +7368,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00357",
+    "song_id": "mg-00356",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Linda Kiraly  Szerelem utolsó vérig.mp3",
     "title": "Linda Kiraly Szerelem utolsó vérig",
     "primary_artists": [
@@ -7408,7 +7388,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00358",
+    "song_id": "mg-00357",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Magdolna Ruzsa Végső vallomás.mp3",
     "title": "Magdolna Ruzsa Végső vallomás",
     "primary_artists": [
@@ -7428,7 +7408,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00359",
+    "song_id": "mg-00358",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Majka _ Pápai Joci - Mikor a test örexik (Official Video).mp3",
     "title": "Mikor a test örexik",
     "primary_artists": [
@@ -7448,7 +7428,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00360",
+    "song_id": "mg-00359",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Majka és Curtis - Csak te létezel (Official Video).mp3",
     "title": "Csak te létezel",
     "primary_artists": [
@@ -7468,7 +7448,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00361",
+    "song_id": "mg-00360",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\megasztár 4- molitva.mp3",
     "title": "megasztár 4- molitva",
     "primary_artists": [
@@ -7488,7 +7468,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00362",
+    "song_id": "mg-00361",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Mujahid Zoltán - Túlélő (Official video).mp3",
     "title": "Túlélő",
     "primary_artists": [
@@ -7508,7 +7488,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00363",
+    "song_id": "mg-00362",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\NOX !!! - TÚL A VARÁZSHEGYEN + text.mp3",
     "title": "TÚL A VARÁZSHEGYEN + text",
     "primary_artists": [
@@ -7528,7 +7508,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00364",
+    "song_id": "mg-00363",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Odett - Van az a pillanat.mp3",
     "title": "Van az a pillanat",
     "primary_artists": [
@@ -7548,7 +7528,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00365",
+    "song_id": "mg-00364",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\OPITZ BARBI – Végem   Official Music Video.mp3",
     "title": "Végem",
     "primary_artists": [
@@ -7568,7 +7548,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00366",
+    "song_id": "mg-00365",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Orsi - Ha lemegy a Nap.mp3",
     "title": "Ha lemegy a Nap",
     "primary_artists": [
@@ -7588,7 +7568,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00367",
+    "song_id": "mg-00366",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Puskás Peti - Léggömb (Official HD videoclip).mp3",
     "title": "Léggömb (Official videoclip)",
     "primary_artists": [
@@ -7608,7 +7588,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00368",
+    "song_id": "mg-00367",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Quimby - Ajjajjaj - Hivatalos videoklip.mp3",
     "title": "Ajjajjaj - Hivatalos videoklip",
     "primary_artists": [
@@ -7628,7 +7608,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00369",
+    "song_id": "mg-00368",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Radics Gigi - A szív dala.mp3",
     "title": "A szív dala",
     "primary_artists": [
@@ -7648,7 +7628,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00370",
+    "song_id": "mg-00369",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Rácz Gergő és Orsovai Reni Mostantól (A Dal 2020 döntő).mp3",
     "title": "Rácz Gergő és Orsovai Reni Mostantól (A Dal 2020 döntő)",
     "primary_artists": [
@@ -7668,7 +7648,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00371",
+    "song_id": "mg-00370",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Rúzsa Magdi _ Lofti Begi - Szerelmes vagyok beléd.mp3",
     "title": "Szerelmes vagyok beléd",
     "primary_artists": [
@@ -7688,7 +7668,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00372",
+    "song_id": "mg-00371",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Soerii _ Poolek   Valahol messze (Official Music Video).mp3",
     "title": "Soerii Poolek Valahol messze",
     "primary_artists": [
@@ -7708,7 +7688,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00373",
+    "song_id": "mg-00372",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Splash - Tedd fel a kezed!.mp3",
     "title": "Tedd fel a kezed!",
     "primary_artists": [
@@ -7728,7 +7708,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00374",
+    "song_id": "mg-00373",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Szeresd a testem baby - Baby Sisters.mp3",
     "title": "Baby Sisters",
     "primary_artists": [
@@ -7748,7 +7728,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00375",
+    "song_id": "mg-00374",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Tiltott szerelem.mp3",
     "title": "Tiltott szerelem",
     "primary_artists": [
@@ -7768,7 +7748,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00376",
+    "song_id": "mg-00375",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\TNT - Tiltott perc.mp3",
     "title": "Tiltott perc",
     "primary_artists": [
@@ -7788,7 +7768,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00377",
+    "song_id": "mg-00376",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Tolvai Reni pres. Dj Metzker Viktória - Promise (No!end remix).mp3",
     "title": "Promise (No!end remix)",
     "primary_artists": [
@@ -7808,7 +7788,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00378",
+    "song_id": "mg-00377",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Tolvai Renáta - Hagylak menni VIDEO KLIP 720p HD.mp3",
     "title": "Hagylak menni VIDEO KLIP 720p",
     "primary_artists": [
@@ -7828,7 +7808,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00379",
+    "song_id": "mg-00378",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Tóth Gabi - Elég volt - OFFICIAL MUSIC VIDEO.mp3",
     "title": "Elég volt",
     "primary_artists": [
@@ -7848,7 +7828,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00380",
+    "song_id": "mg-00379",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\United - Hajnalban még a Nap is más.mp3",
     "title": "Hajnalban még a Nap is más",
     "primary_artists": [
@@ -7868,7 +7848,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00381",
+    "song_id": "mg-00380",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\United - Keserű méz.mp3",
     "title": "Keserű méz",
     "primary_artists": [
@@ -7888,7 +7868,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00382",
+    "song_id": "mg-00381",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\United_Végső vallomás.mp3",
     "title": "United Végső vallomás",
     "primary_artists": [
@@ -7908,7 +7888,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00383",
+    "song_id": "mg-00382",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\WELLHELLO - APUVEDDMEG - OFFICIAL LYRIC VIDEO.mp3",
     "title": "APUVEDDMEG",
     "primary_artists": [
@@ -7928,7 +7908,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00384",
+    "song_id": "mg-00383",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\WELLHELLO - RAKPART - OFFICIAL LYRIC VIDEO.mp3",
     "title": "RAKPART",
     "primary_artists": [
@@ -7948,7 +7928,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00385",
+    "song_id": "mg-00384",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\WELLHELLO - RETÚRJEGY - OFFICIAL LYRIC VIDEO.mp3",
     "title": "RETÚRJEGY",
     "primary_artists": [
@@ -7968,7 +7948,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00386",
+    "song_id": "mg-00385",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Wolf Kati - Szerelem miért múlsz.mp3",
     "title": "Szerelem miért múlsz",
     "primary_artists": [
@@ -7988,7 +7968,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00387",
+    "song_id": "mg-00386",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Wolf Kati — What about My Dreams (version 1).mp3",
     "title": "What about My Dreams (version 1)",
     "primary_artists": [
@@ -8008,7 +7988,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00388",
+    "song_id": "mg-00387",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Zséda - Hétköznapi Mennyország ( Official Music Video ).mp3",
     "title": "Hétköznapi Mennyország",
     "primary_artists": [
@@ -8028,7 +8008,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00389",
+    "song_id": "mg-00388",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Zséda Legyen úgy!.mp3",
     "title": "Zséda Legyen úgy!",
     "primary_artists": [
@@ -8048,7 +8028,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00390",
+    "song_id": "mg-00389",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Zséda_Valahol egy férfi vár.mp3",
     "title": "Zséda Valahol egy férfi vár",
     "primary_artists": [
@@ -8068,7 +8048,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00391",
+    "song_id": "mg-00390",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\ÁKOS - IGAZÁN (2014)    Official video, HD.mp3",
     "title": "IGAZÁN (2014)",
     "primary_artists": [
@@ -8088,7 +8068,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00392",
+    "song_id": "mg-00391",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\ÁKOS - TENGERMORAJ (2012) - dalszöveg.mp3",
     "title": "TENGERMORAJ (2012) - dalszöveg",
     "primary_artists": [
@@ -8108,7 +8088,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00393",
+    "song_id": "mg-00392",
     "file": "_other\\_magyar\\_pop\\magyar random\\A hegyekbe fönn.mp3",
     "title": "A hegyekbe fönn",
     "primary_artists": [
@@ -8128,7 +8108,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00394",
+    "song_id": "mg-00393",
     "file": "_other\\_magyar\\_pop\\magyar random\\Balogh Roberto A világ tetején (Official Music Video).mp3",
     "title": "Balogh Roberto A világ tetején",
     "primary_artists": [
@@ -8148,7 +8128,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00395",
+    "song_id": "mg-00394",
     "file": "_other\\_magyar\\_pop\\magyar random\\Dj Szatmári feat Jucus - 100 évet várnék   OFFICIAL MUSIC VIDEO.mp3",
     "title": "100 évet várnék",
     "primary_artists": [
@@ -8176,7 +8156,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00396",
+    "song_id": "mg-00395",
     "file": "_other\\_magyar\\_pop\\magyar random\\DR BRS x Veréb Tomi - Hozzám tartozol (Nika se perimeno) [Official Music Video].mp3",
     "title": "Hozzám tartozol (Nika se perimeno)",
     "primary_artists": [
@@ -8203,7 +8183,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00397",
+    "song_id": "mg-00396",
     "file": "_other\\_magyar\\_pop\\magyar random\\Groovehouse - Ha újra látom.mp3",
     "title": "Ha újra látom",
     "primary_artists": [
@@ -8223,7 +8203,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00398",
+    "song_id": "mg-00397",
     "file": "_other\\_magyar\\_pop\\magyar random\\Groovehouse - Vándor.mp3",
     "title": "Vándor",
     "primary_artists": [
@@ -8243,7 +8223,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00399",
+    "song_id": "mg-00398",
     "file": "_other\\_magyar\\_pop\\magyar random\\Ha szombat este táncol.mp3",
     "title": "Ha szombat este táncol",
     "primary_artists": [
@@ -8263,7 +8243,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00400",
+    "song_id": "mg-00399",
     "file": "_other\\_magyar\\_pop\\magyar random\\Hevesi Tamás - Ezt egy életen át kell játszani.mp3",
     "title": "Ezt egy életen át kell játszani",
     "primary_artists": [
@@ -8283,7 +8263,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00401",
+    "song_id": "mg-00400",
     "file": "_other\\_magyar\\_pop\\magyar random\\Napoleon Boulevard - Júlia nem akar a földön járni.mp3",
     "title": "Júlia nem akar a földön járni",
     "primary_artists": [
@@ -8303,7 +8283,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00402",
+    "song_id": "mg-00401",
     "file": "_other\\_magyar\\_pop\\magyar random\\Rapülők - Lesz még rosszabb (Official Audio).mp3",
     "title": "Lesz még rosszabb",
     "primary_artists": [
@@ -8323,7 +8303,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00403",
+    "song_id": "mg-00402",
     "file": "_other\\_magyar\\_pop\\magyar random\\Rony - Még soha sem.mp3",
     "title": "Még soha sem",
     "primary_artists": [
@@ -8343,7 +8323,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00404",
+    "song_id": "mg-00403",
     "file": "_other\\_magyar\\_pop\\magyar random\\Rácz Gergő x Orsovai Reni - Mostantól (A Dal 2020 győztes dala).mp3",
     "title": "Mostantól (A Dal 2020 győztes dala)",
     "primary_artists": [
@@ -8370,7 +8350,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00405",
+    "song_id": "mg-00404",
     "file": "_other\\_magyar\\_pop\\magyar random\\Soho Party -  Az éjjel soha nem érhet véget.mp3",
     "title": "Az éjjel soha nem érhet véget",
     "primary_artists": [
@@ -8390,7 +8370,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00406",
+    "song_id": "mg-00405",
     "file": "_other\\_magyar\\_pop\\magyar random\\UP! – Nap   Hivatalos videoklip.mp3",
     "title": "Nap Hivatalos videoklip",
     "primary_artists": [
@@ -8410,7 +8390,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00407",
+    "song_id": "mg-00406",
     "file": "_other\\_magyar\\_pop\\magyar random\\Venus - Régi Nyár (1999).mp3",
     "title": "Régi Nyár (1999)",
     "primary_artists": [
@@ -8430,7 +8410,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00408",
+    "song_id": "mg-00407",
     "file": "_other\\_magyar\\_pop\\magyar random\\Wellhello x Halott Pénz - Emlékszem, Sopronban (a Telekom VOLT Fesztivál himnusza).mp3",
     "title": "Emlékszem, Sopronban (a Telekom VOLT Fesztivál himnusza)",
     "primary_artists": [
@@ -8457,7 +8437,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00409",
+    "song_id": "mg-00408",
     "file": "_other\\_magyar\\_pop\\magyar random\\Ágnes Vanilla - Valaki más (Ugyanaz a szív).mp3",
     "title": "Valaki más (Ugyanaz a szív)",
     "primary_artists": [
@@ -8477,7 +8457,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00410",
+    "song_id": "mg-00409",
     "file": "_other\\_magyar\\_pop\\margaret island, Lábas Viki\\Margaret Island – Eső (HIVATALOS VIDEOKLIP).mp3",
     "title": "Eső (HIVATALOS VIDEOKLIP)",
     "primary_artists": [
@@ -8497,7 +8477,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00411",
+    "song_id": "mg-00410",
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna - Egyszer (Official Music Video).mp3",
     "title": "Egyszer",
     "primary_artists": [
@@ -8517,7 +8497,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00412",
+    "song_id": "mg-00411",
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna - Nélküled (Lotfi Begi Remix).mp3",
     "title": "Nélküled (Lotfi Begi Remix)",
     "primary_artists": [
@@ -8537,7 +8517,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00413",
+    "song_id": "mg-00412",
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna - Szerelem.mp3",
     "title": "Szerelem",
     "primary_artists": [
@@ -8557,7 +8537,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00414",
+    "song_id": "mg-00413",
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna - Április (Official Audio).mp3",
     "title": "Április",
     "primary_artists": [
@@ -8577,7 +8557,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00415",
+    "song_id": "mg-00414",
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna feat. Lotfi Begi _ Madarász Gábor - Ég és föld.mp3",
     "title": "Rúzsa Magdolna",
     "primary_artists": [
@@ -8605,7 +8585,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00416",
+    "song_id": "mg-00415",
     "file": "_other\\_magyar\\_pop\\Shygys\\ShyGys - Hello!.mp3",
     "title": "Hello!",
     "primary_artists": [
@@ -8625,7 +8605,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00417",
+    "song_id": "mg-00416",
     "file": "_other\\_magyar\\_pop\\Shygys\\ShyGys - Nem a te hibád.mp3",
     "title": "Nem a te hibád",
     "primary_artists": [
@@ -8645,7 +8625,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00418",
+    "song_id": "mg-00417",
     "file": "_other\\_magyar\\_pop\\Shygys\\Shygys - Vágyom rád.mp3",
     "title": "Vágyom rád",
     "primary_artists": [
@@ -8665,7 +8645,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00419",
+    "song_id": "mg-00418",
     "file": "_other\\_magyar\\_pop\\Shygys\\Szeress akkor is ha neha faj.mp3",
     "title": "Szeress akkor is ha neha faj",
     "primary_artists": [
@@ -8685,7 +8665,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00420",
+    "song_id": "mg-00419",
     "file": "_other\\_magyar\\_pop\\Ámokfutók\\07. Ámokfutók - Angyalok álma (official video)1999.mp3",
     "title": "Angyalok álma 1999",
     "primary_artists": [
@@ -8705,7 +8685,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00421",
+    "song_id": "mg-00420",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\16 tonna feketeszén.mp3",
     "title": "tonna feketeszén",
     "primary_artists": [
@@ -8725,7 +8705,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00422",
+    "song_id": "mg-00421",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\4F Club - Balatoni láz.mp3",
     "title": "Balatoni láz",
     "primary_artists": [
@@ -8745,7 +8725,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00423",
+    "song_id": "mg-00422",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\A.D. stúdió - Páratlan páros dalszöveg [ lyrics ].mp3",
     "title": "Páratlan páros dalszöveg",
     "primary_artists": [
@@ -8765,7 +8745,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00424",
+    "song_id": "mg-00423",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\AD Studio   Nyári eső.mp3",
     "title": "AD Studio Nyári eső",
     "primary_artists": [
@@ -8785,7 +8765,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00425",
+    "song_id": "mg-00424",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\AD Studio - Álmaimban Amerika.mp3",
     "title": "Álmaimban Amerika",
     "primary_artists": [
@@ -8805,7 +8785,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00426",
+    "song_id": "mg-00425",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Azok A Fiúk - Az angyalok a földre vágynak.mp3",
     "title": "Az angyalok a földre vágynak",
     "primary_artists": [
@@ -8825,7 +8805,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00427",
+    "song_id": "mg-00426",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Betty Love - Olyan, mint a méz.mp3",
     "title": "Olyan, mint a méz",
     "primary_artists": [
@@ -8845,7 +8825,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00428",
+    "song_id": "mg-00427",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Bikini - Fagyi.mp3",
     "title": "Fagyi",
     "primary_artists": [
@@ -8865,7 +8845,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00429",
+    "song_id": "mg-00428",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Bon Bon - Valami Amerika.mp3",
     "title": "Valami Amerika",
     "primary_artists": [
@@ -8885,7 +8865,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00430",
+    "song_id": "mg-00429",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Charlie - Nézz az ég felé.mp3",
     "title": "Nézz az ég felé",
     "primary_artists": [
@@ -8905,7 +8885,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00431",
+    "song_id": "mg-00430",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Cseh Tamás-Republic-Kék és narancssárga (2000).mp3",
     "title": "Cseh Tamás-Republic-Kék és narancssárga (2000)",
     "primary_artists": [
@@ -8925,7 +8905,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00432",
+    "song_id": "mg-00431",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Csonka András Ding Dong.mp3",
     "title": "Csonka András Ding Dong",
     "primary_artists": [
@@ -8945,7 +8925,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00433",
+    "song_id": "mg-00432",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Delhusa Gjon - Nika Se Perimeno.mp3",
     "title": "Nika Se Perimeno",
     "primary_artists": [
@@ -8965,7 +8945,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00434",
+    "song_id": "mg-00433",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Első Emelet - Csakazértis szerelem.mp3",
     "title": "Csakazértis szerelem",
     "primary_artists": [
@@ -8985,7 +8965,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00435",
+    "song_id": "mg-00434",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Emergency House - Dübörög a ház.mp3",
     "title": "Dübörög a ház",
     "primary_artists": [
@@ -9005,7 +8985,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00436",
+    "song_id": "mg-00435",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Fiesta - Hasta Manana.mp3",
     "title": "Hasta Manana",
     "primary_artists": [
@@ -9025,7 +9005,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00437",
+    "song_id": "mg-00436",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Fresh - Én is imádlak.mp3",
     "title": "Én is imádlak",
     "primary_artists": [
@@ -9045,7 +9025,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00438",
+    "song_id": "mg-00437",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Groovehouse  szívvel - lélekkel (dalszöveggel).mp3",
     "title": "lélekkel (dalszöveggel)",
     "primary_artists": [
@@ -9065,7 +9045,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00439",
+    "song_id": "mg-00438",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\ha mégegyszer láthatnám (dalszöveggel) - republic.mp3",
     "title": "republic",
     "primary_artists": [
@@ -9085,7 +9065,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00440",
+    "song_id": "mg-00439",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Happy Gang - Sokáig voltam távol.mp3",
     "title": "Sokáig voltam távol",
     "primary_artists": [
@@ -9105,7 +9085,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00441",
+    "song_id": "mg-00440",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Ibolya Oláh - Magyarország.mp3",
     "title": "Magyarország",
     "primary_artists": [
@@ -9125,7 +9105,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00442",
+    "song_id": "mg-00441",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Kerozin - Da Da Da 1998 (club mix) Video.mp3",
     "title": "Da Da Da 1998 (club mix) Video",
     "primary_artists": [
@@ -9145,7 +9125,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00443",
+    "song_id": "mg-00442",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\kerozin halál a májra.mp3",
     "title": "kerozin halál a májra",
     "primary_artists": [
@@ -9165,7 +9145,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00444",
+    "song_id": "mg-00443",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Kerozin Kismalac.mp3",
     "title": "Kerozin Kismalac",
     "primary_artists": [
@@ -9185,7 +9165,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00445",
+    "song_id": "mg-00444",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Kovács Kati - Úgy szeretném meghálálni.mp3",
     "title": "Úgy szeretném meghálálni",
     "primary_artists": [
@@ -9205,7 +9185,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00446",
+    "song_id": "mg-00445",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Kozmix Angyal.mp3",
     "title": "Kozmix Angyal",
     "primary_artists": [
@@ -9225,7 +9205,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00447",
+    "song_id": "mg-00446",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Lord - Szemedben Csillagok.mp3",
     "title": "Szemedben Csillagok",
     "primary_artists": [
@@ -9245,7 +9225,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00448",
+    "song_id": "mg-00447",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Márk - Ments meg szerelem!.mp3",
     "title": "Ments meg szerelem!",
     "primary_artists": [
@@ -9265,7 +9245,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00449",
+    "song_id": "mg-00448",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Nekem a Balaton.mp3",
     "title": "Nekem a Balaton",
     "primary_artists": [
@@ -9285,7 +9265,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00450",
+    "song_id": "mg-00449",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\neoton familia santa maria.mp3",
     "title": "neoton familia santa maria",
     "primary_artists": [
@@ -9305,7 +9285,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00451",
+    "song_id": "mg-00450",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Nika-Papa ne félts!.mp3",
     "title": "Nika-Papa ne félts!",
     "primary_artists": [
@@ -9325,7 +9305,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00452",
+    "song_id": "mg-00451",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Rapülők - Áj láv jú.mp3",
     "title": "Áj láv jú",
     "primary_artists": [
@@ -9345,7 +9325,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00453",
+    "song_id": "mg-00452",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Republic - Erdő közepében ~♥~.mp3",
     "title": "Erdő közepében ~♥~",
     "primary_artists": [
@@ -9365,7 +9345,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00454",
+    "song_id": "mg-00453",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Sing-Sing - Halál a májra.mp3",
     "title": "Halál a májra",
     "primary_artists": [
@@ -9385,7 +9365,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00455",
+    "song_id": "mg-00454",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Spigiboy feat Eros Attila - Valami veget ert (Dance remix).mp3",
     "title": "Valami veget ert (Dance remix)",
     "primary_artists": [
@@ -9413,7 +9393,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00456",
+    "song_id": "mg-00455",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Szűcs Judit - Táncolj még.mp3",
     "title": "Táncolj még",
     "primary_artists": [
@@ -9433,7 +9413,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00457",
+    "song_id": "mg-00456",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\TNT - Sirni tudnék.mp3",
     "title": "Sirni tudnék",
     "primary_artists": [
@@ -9453,7 +9433,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00458",
+    "song_id": "mg-00457",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\TNT - Titkos üzenet.mp3",
     "title": "Titkos üzenet",
     "primary_artists": [
@@ -9473,7 +9453,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00459",
+    "song_id": "mg-00458",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\UFO - Nyár van.mp3",
     "title": "Nyár van",
     "primary_artists": [
@@ -9493,7 +9473,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00460",
+    "song_id": "mg-00459",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Unisex (Szekeres Adrien) - Szebb holnap.mp3",
     "title": "Szebb holnap",
     "primary_artists": [
@@ -9513,7 +9493,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00461",
+    "song_id": "mg-00460",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\V-Tech - Vele minden jó.mp3",
     "title": "Vele minden jó",
     "primary_artists": [
@@ -9533,7 +9513,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00462",
+    "song_id": "mg-00461",
     "file": "_other\\_magyar\\_retro\\Beatrice-\\Beatrice - 8 óra munka.mp3",
     "title": "óra munka",
     "primary_artists": [
@@ -9553,7 +9533,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00463",
+    "song_id": "mg-00462",
     "file": "_other\\_magyar\\_retro\\Beatrice-\\Beatrice - Azok a Boldog Szép Napok ( 87).mp3",
     "title": "Azok a Boldog Szép Napok ( 87)",
     "primary_artists": [
@@ -9573,7 +9553,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00464",
+    "song_id": "mg-00463",
     "file": "_other\\_magyar\\_retro\\Beatrice-\\Beatrice - Pancsoló kislány.mp3",
     "title": "Pancsoló kislány",
     "primary_artists": [
@@ -9593,7 +9573,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00465",
+    "song_id": "mg-00464",
     "file": "_other\\_magyar\\_retro\\Color -- Féltelek.mp3",
     "title": "Color -- Féltelek",
     "primary_artists": [
@@ -9613,7 +9593,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00466",
+    "song_id": "mg-00465",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - A kör.mp3",
     "title": "A kör",
     "primary_artists": [
@@ -9633,7 +9613,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00467",
+    "song_id": "mg-00466",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - A torony.mp3",
     "title": "A torony",
     "primary_artists": [
@@ -9653,7 +9633,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00468",
+    "song_id": "mg-00467",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - Almodtam.mp3",
     "title": "Almodtam",
     "primary_artists": [
@@ -9673,7 +9653,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00469",
+    "song_id": "mg-00468",
     "file": "_other\\_magyar\\_retro\\edda\\EDDA - Erzes.mp3",
     "title": "Erzes",
     "primary_artists": [
@@ -9693,7 +9673,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00470",
+    "song_id": "mg-00469",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - Fohász.mp3",
     "title": "Fohász",
     "primary_artists": [
@@ -9713,7 +9693,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00471",
+    "song_id": "mg-00470",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - Gyere örült.mp3",
     "title": "Gyere örült",
     "primary_artists": [
@@ -9733,7 +9713,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00472",
+    "song_id": "mg-00471",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - Hutlen (koncert).mp3",
     "title": "Hutlen (koncert)",
     "primary_artists": [
@@ -9753,7 +9733,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00473",
+    "song_id": "mg-00472",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - Minden Sarkon Álltam Már.mp3",
     "title": "Minden Sarkon Álltam Már",
     "primary_artists": [
@@ -9773,7 +9753,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00474",
+    "song_id": "mg-00473",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - Szálljunk fel (Szellemvilág) (Album Verzió).mp3",
     "title": "Szálljunk fel (Szellemvilág) (Album Verzió)",
     "primary_artists": [
@@ -9793,7 +9773,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00475",
+    "song_id": "mg-00474",
     "file": "_other\\_magyar\\_retro\\edda\\Edda - Álmodtam egy világot.mp3",
     "title": "Álmodtam egy világot",
     "primary_artists": [
@@ -9813,7 +9793,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00476",
+    "song_id": "mg-00475",
     "file": "_other\\_magyar\\_retro\\edda\\Edda Hűtlen.mp3",
     "title": "Edda Hűtlen",
     "primary_artists": [
@@ -9833,7 +9813,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00477",
+    "song_id": "mg-00476",
     "file": "_other\\_magyar\\_retro\\edda\\EDDA Művek - Érzés.mp3",
     "title": "Érzés",
     "primary_artists": [
@@ -9853,7 +9833,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00478",
+    "song_id": "mg-00477",
     "file": "_other\\_magyar\\_retro\\edda\\Edda Művek-Éjjel érkezem.mp3",
     "title": "Edda Művek-Éjjel érkezem",
     "primary_artists": [
@@ -9873,7 +9853,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00479",
+    "song_id": "mg-00478",
     "file": "_other\\_magyar\\_retro\\edda\\EDDA-Gyere őrült.mp3",
     "title": "EDDA-Gyere őrült",
     "primary_artists": [
@@ -9893,7 +9873,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00480",
+    "song_id": "mg-00479",
     "file": "_other\\_magyar\\_retro\\edda\\Edda-kolykod voltam.mp3",
     "title": "Edda-kolykod voltam",
     "primary_artists": [
@@ -9913,7 +9893,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00481",
+    "song_id": "mg-00480",
     "file": "_other\\_magyar\\_retro\\edda\\Edda-Lelkünkből.mp3",
     "title": "Edda-Lelkünkből",
     "primary_artists": [
@@ -9933,7 +9913,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00482",
+    "song_id": "mg-00481",
     "file": "_other\\_magyar\\_retro\\edda\\Naruto-Edda-Szerelem Keresi a Szerelmet(Csak Bird Ki).mp3",
     "title": "Naruto-Edda-Szerelem Keresi a Szerelmet(Csak Bird Ki)",
     "primary_artists": [
@@ -9953,7 +9933,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00483",
+    "song_id": "mg-00482",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\Act IV,  István, a király  István, a király! - Felkelt a napunk (István és a Nép).mp3",
     "title": "Felkelt a napunk (István és a Nép)",
     "primary_artists": [
@@ -9994,7 +9974,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00484",
+    "song_id": "mg-00483",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\I. Az örökség Nem vagyunk még hozzád méltók Nem kell olyan isten.mp3",
     "title": "I. Az örökség Nem vagyunk még hozzád méltók Nem kell olyan isten",
     "primary_artists": [
@@ -10014,7 +9994,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00485",
+    "song_id": "mg-00484",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\István, a király Act I,  Az örökség  Nincs más út, csak az Isten útja (István,....mp3",
     "title": "István, a király Act I, Az örökség Nincs más út, csak az Isten útja (István",
     "primary_artists": [
@@ -10034,7 +10014,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00486",
+    "song_id": "mg-00485",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\István, a király Act II,  Esztergom  Abcúg Koppány! (Sur, Solt, Bese, István).mp3",
     "title": "István, a király Act II, Esztergom Abcúg Koppány! (Sur, Solt, Bese, István)",
     "primary_artists": [
@@ -10054,7 +10034,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00487",
+    "song_id": "mg-00486",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\István, a király Act II,  Esztergom  Oly távol vagy tolem (és mégis közel) (István, Réka).mp3",
     "title": "István, a király Act II, Esztergom Oly távol vagy tolem (és mégis közel) (István, Réka)",
     "primary_artists": [
@@ -10074,7 +10054,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00488",
+    "song_id": "mg-00487",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\István, a király Act III,  Koppány vezér  Elkésett békevágy (Réka, Koppány, István).mp3",
     "title": "István, a király Act III, Koppány vezér Elkésett békevágy (Réka, Koppány, István)",
     "primary_artists": [
@@ -10094,7 +10074,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00489",
+    "song_id": "mg-00488",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\István, a király Act III,  Koppány vezér  Szállj fel, szabad madár! (Torda, Koppány és....mp3",
     "title": "István, a király Act III, Koppány vezér Szállj fel, szabad madár! (Torda, Koppány és",
     "primary_artists": [
@@ -10114,7 +10094,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00490",
+    "song_id": "mg-00489",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\István, a király Act III,  Koppány vezér  Véres kardot hoztam - Vezess minket, István!....mp3",
     "title": "István, a király Act III, Koppány vezér Véres kardot hoztam - Vezess minket, István!",
     "primary_artists": [
@@ -10134,7 +10114,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00491",
+    "song_id": "mg-00490",
     "file": "_other\\_magyar\\_retro\\István a király rockopera - YouTube\\István, a király Act III,  Koppány vezér  Áldozatunk fogadjátok! (Torda és a Nép).mp3",
     "title": "István, a király Act III, Koppány vezér Áldozatunk fogadjátok! (Torda és a Nép)",
     "primary_artists": [
@@ -10154,7 +10134,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00492",
+    "song_id": "mg-00491",
     "file": "_other\\_magyar\\_retro\\Katona Klári\\Miért nem próbálod meg velem (2).mp3",
     "title": "Miért nem próbálod meg velem (2)",
     "primary_artists": [
@@ -10174,7 +10154,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00493",
+    "song_id": "mg-00492",
     "file": "_other\\_magyar\\_retro\\Katona Klári\\Vigyél el.mp3",
     "title": "Vigyél el",
     "primary_artists": [
@@ -10194,7 +10174,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00494",
+    "song_id": "mg-00493",
     "file": "_other\\_magyar\\_retro\\LGT\\LGT - Egy elfelejtett szó.mp3",
     "title": "Egy elfelejtett szó",
     "primary_artists": [
@@ -10214,7 +10194,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00495",
+    "song_id": "mg-00494",
     "file": "_other\\_magyar\\_retro\\LGT\\LGT - Madarak jönnek - Valaki mondja meg.mp3",
     "title": "Madarak jönnek - Valaki mondja meg",
     "primary_artists": [
@@ -10234,7 +10214,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00496",
+    "song_id": "mg-00495",
     "file": "_other\\_magyar\\_retro\\LGT\\LGT - Nem adom fel..mp3",
     "title": "Nem adom fel",
     "primary_artists": [
@@ -10254,7 +10234,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00497",
+    "song_id": "mg-00496",
     "file": "_other\\_magyar\\_retro\\LGT\\LGT Mindenki másképp csinálja.mp3",
     "title": "LGT Mindenki másképp csinálja",
     "primary_artists": [
@@ -10274,7 +10254,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00498",
+    "song_id": "mg-00497",
     "file": "_other\\_magyar\\_retro\\LGT\\Locomotiv GT - Fiú.mp3",
     "title": "Fiú",
     "primary_artists": [
@@ -10294,7 +10274,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00499",
+    "song_id": "mg-00498",
     "file": "_other\\_magyar\\_retro\\LGT\\Sándor Pál  LGT Show 1979.mp3",
     "title": "Sándor Pál LGT Show 1979",
     "primary_artists": [
@@ -10314,7 +10294,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00500",
+    "song_id": "mg-00499",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Apostol Együttes  Nem tudok élni nélküled.mp3",
     "title": "Apostol Együttes Nem tudok élni nélküled",
     "primary_artists": [
@@ -10334,7 +10314,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00501",
+    "song_id": "mg-00500",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Balu Kapitány főcímdal   Main theme of TaleSpin in Hungary.mp3",
     "title": "Balu Kapitány főcímdal Main theme of TaleSpin in Hungary",
     "primary_artists": [
@@ -10354,7 +10334,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00502",
+    "song_id": "mg-00501",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bikini - Annyi mindent elhittem.mp3",
     "title": "Annyi mindent elhittem",
     "primary_artists": [
@@ -10374,7 +10354,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00503",
+    "song_id": "mg-00502",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bikini - Ki visz majd haza.mp3",
     "title": "Ki visz majd haza",
     "primary_artists": [
@@ -10394,7 +10374,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00504",
+    "song_id": "mg-00503",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bikini - Közeli helyeken.mp3",
     "title": "Közeli helyeken",
     "primary_artists": [
@@ -10414,7 +10394,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00505",
+    "song_id": "mg-00504",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bikini Mielott elmegyek.mp3",
     "title": "Bikini Mielott elmegyek",
     "primary_artists": [
@@ -10434,7 +10414,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00506",
+    "song_id": "mg-00505",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bikini- LEGYEK JÓ.mp3",
     "title": "Bikini- LEGYEK JÓ",
     "primary_artists": [
@@ -10454,7 +10434,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00507",
+    "song_id": "mg-00506",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bonanza Banzai - Induljon a Banzáj.mp3",
     "title": "Induljon a Banzáj",
     "primary_artists": [
@@ -10474,7 +10454,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00508",
+    "song_id": "mg-00507",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bonanza Banzai - Valami véget ért (Something has ended).mp3",
     "title": "Valami véget ért (Something has ended)",
     "primary_artists": [
@@ -10494,7 +10474,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00509",
+    "song_id": "mg-00508",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Bródy János - Földvár felé félúton.mp3",
     "title": "Földvár felé félúton",
     "primary_artists": [
@@ -10514,7 +10494,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00510",
+    "song_id": "mg-00509",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Charlie - Az légy aki vagy.mp3",
     "title": "Az légy aki vagy",
     "primary_artists": [
@@ -10534,7 +10514,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00511",
+    "song_id": "mg-00510",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Charlie - Jég dupla whiskyvel.mp3",
     "title": "Jég dupla whiskyvel",
     "primary_artists": [
@@ -10554,7 +10534,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00512",
+    "song_id": "mg-00511",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Cserháti Zsuzsa - Boldogság gyere haza.mp3",
     "title": "Boldogság gyere haza",
     "primary_artists": [
@@ -10574,7 +10554,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00513",
+    "song_id": "mg-00512",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Cserháti Zsuzsa - Kicsi gyere velem rózsát szedni.mp3",
     "title": "Kicsi gyere velem rózsát szedni",
     "primary_artists": [
@@ -10594,7 +10574,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00514",
+    "song_id": "mg-00513",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Cserháti_Charlie - Száguldás, Porsche....mp3",
     "title": "Száguldás, Porsche",
     "primary_artists": [
@@ -10614,7 +10594,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00515",
+    "song_id": "mg-00514",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Csík Zenekar - Most múlik pontosan.mp3",
     "title": "Most múlik pontosan",
     "primary_artists": [
@@ -10634,7 +10614,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00516",
+    "song_id": "mg-00515",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjen-Most kell eldontenem.mp3",
     "title": "Demjen-Most kell eldontenem",
     "primary_artists": [
@@ -10654,7 +10634,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00517",
+    "song_id": "mg-00516",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén - Hogyan tudnék élni nélküled.mp3",
     "title": "Hogyan tudnék élni nélküled",
     "primary_artists": [
@@ -10674,7 +10654,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00518",
+    "song_id": "mg-00517",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén Ferenc - Féktelen Éj.mp3",
     "title": "Féktelen Éj",
     "primary_artists": [
@@ -10694,7 +10674,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00519",
+    "song_id": "mg-00518",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén Ferenc - Honfoglalás.mp3",
     "title": "Honfoglalás",
     "primary_artists": [
@@ -10714,7 +10694,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00520",
+    "song_id": "mg-00519",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén Ferenc - Jégszív.mp3",
     "title": "Jégszív",
     "primary_artists": [
@@ -10734,7 +10714,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00521",
+    "song_id": "mg-00520",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén Ferenc - Mosolyod börtönében.mp3",
     "title": "Mosolyod börtönében",
     "primary_artists": [
@@ -10754,7 +10734,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00522",
+    "song_id": "mg-00521",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén Ferenc - Várj, míg felkel majd a nap.mp3",
     "title": "Várj, míg felkel majd a nap",
     "primary_artists": [
@@ -10774,7 +10754,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00523",
+    "song_id": "mg-00522",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén Ferenc Szerelemvonat.mp3",
     "title": "Demjén Ferenc Szerelemvonat",
     "primary_artists": [
@@ -10794,7 +10774,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00524",
+    "song_id": "mg-00523",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Demjén Ferenc-Jöjj vissza vándor.wmv.mp3",
     "title": "Demjén Ferenc-Jöjj vissza vándor.wmv",
     "primary_artists": [
@@ -10814,7 +10794,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00525",
+    "song_id": "mg-00524",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Deák Bill Gyula - A felszarvazottak balladája (Rossz vér).mp3",
     "title": "A felszarvazottak balladája (Rossz vér)",
     "primary_artists": [
@@ -10834,7 +10814,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00526",
+    "song_id": "mg-00525",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Dinamit - Engem Ne Sajnáljatok, vinyl studio [Audio] 1980.mp3",
     "title": "Engem Ne Sajnáljatok, vinyl studio [Audio] 1980",
     "primary_artists": [
@@ -10854,7 +10834,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00527",
+    "song_id": "mg-00526",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Dinamit- Tépd el az időt.mp3",
     "title": "Dinamit- Tépd el az időt",
     "primary_artists": [
@@ -10874,7 +10854,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00528",
+    "song_id": "mg-00527",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Edda Művek-A torony.mp3",
     "title": "Edda Művek-A torony",
     "primary_artists": [
@@ -10894,7 +10874,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00529",
+    "song_id": "mg-00528",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Erdő közepében.mp3",
     "title": "Erdő közepében",
     "primary_artists": [
@@ -10914,7 +10894,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00530",
+    "song_id": "mg-00529",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Fenyő Miklós - Várni Rád Egy Éjen Át.mp3",
     "title": "Várni Rád Egy Éjen Át",
     "primary_artists": [
@@ -10934,7 +10914,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00531",
+    "song_id": "mg-00530",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Fonográf  Levél a távolból.mp3",
     "title": "Fonográf Levél a távolból",
     "primary_artists": [
@@ -10954,7 +10934,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00532",
+    "song_id": "mg-00531",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Fonográf - Hunyd le a szemed.mp3",
     "title": "Hunyd le a szemed",
     "primary_artists": [
@@ -10974,7 +10954,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00533",
+    "song_id": "mg-00532",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Fonográf - Viktória.mp3",
     "title": "Viktória",
     "primary_artists": [
@@ -10994,7 +10974,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00534",
+    "song_id": "mg-00533",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Generál - Fűrészdal.mp3",
     "title": "Fűrészdal",
     "primary_artists": [
@@ -11014,7 +10994,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00535",
+    "song_id": "mg-00534",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Homonyik Sándor Sose búcsúzz el Z tv.mp3",
     "title": "Homonyik Sándor Sose búcsúzz el Z tv",
     "primary_artists": [
@@ -11034,7 +11014,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00536",
+    "song_id": "mg-00535",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\HONEYBEAST - A legnagyobb hős [Audio Track].mp3",
     "title": "A legnagyobb hős [Audio Track]",
     "primary_artists": [
@@ -11054,7 +11034,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00537",
+    "song_id": "mg-00536",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\HONEYBEAST - Maradok [Audio Track].mp3",
     "title": "Maradok [Audio Track]",
     "primary_artists": [
@@ -11074,7 +11054,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00538",
+    "song_id": "mg-00537",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hooligans - Királylány.mp3",
     "title": "Királylány",
     "primary_artists": [
@@ -11094,7 +11074,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00539",
+    "song_id": "mg-00538",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hooligans - Legyen valami.mp3",
     "title": "Legyen valami",
     "primary_artists": [
@@ -11114,7 +11094,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00540",
+    "song_id": "mg-00539",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hooligans - Ringass el! (szöveg).mp3",
     "title": "Ringass el! (szöveg)",
     "primary_artists": [
@@ -11134,7 +11114,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00541",
+    "song_id": "mg-00540",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hungaria - Ciao, Marina.mp3",
     "title": "Ciao, Marina",
     "primary_artists": [
@@ -11154,7 +11134,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00542",
+    "song_id": "mg-00541",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hungaria - Hotel Menthol.mp3",
     "title": "Hotel Menthol",
     "primary_artists": [
@@ -11174,7 +11154,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00543",
+    "song_id": "mg-00542",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hungária  Isztambul.mp3",
     "title": "Hungária Isztambul",
     "primary_artists": [
@@ -11194,7 +11174,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00544",
+    "song_id": "mg-00543",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hungária  Micsoda buli.mp3",
     "title": "Hungária Micsoda buli",
     "primary_artists": [
@@ -11214,7 +11194,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00545",
+    "song_id": "mg-00544",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hungária - Csavard Fel A Szőnyeget.mp3",
     "title": "Csavard Fel A Szőnyeget",
     "primary_artists": [
@@ -11234,7 +11214,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00546",
+    "song_id": "mg-00545",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hungária - Csókkirály.mp3",
     "title": "Csókkirály",
     "primary_artists": [
@@ -11254,7 +11234,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00547",
+    "song_id": "mg-00546",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Hungária - Meghalok, hogyha rám nézel - 1980.mp3",
     "title": "Meghalok, hogyha rám nézel - 1980",
     "primary_artists": [
@@ -11274,7 +11254,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00548",
+    "song_id": "mg-00547",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Ihász Gábor- Múlnak a gyermekévek.mp3",
     "title": "Ihász Gábor- Múlnak a gyermekévek",
     "primary_artists": [
@@ -11294,7 +11274,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00549",
+    "song_id": "mg-00548",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Illés - Miért Hagytuk hogy így Legyen.mp3",
     "title": "Miért Hagytuk hogy így Legyen",
     "primary_artists": [
@@ -11314,7 +11294,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00550",
+    "song_id": "mg-00549",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Ismerős Arcok - Nélküled.mp3",
     "title": "Nélküled",
     "primary_artists": [
@@ -11334,7 +11314,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00551",
+    "song_id": "mg-00550",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Karthago - Apáink útján.mp3",
     "title": "Apáink útján",
     "primary_artists": [
@@ -11354,7 +11334,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00552",
+    "song_id": "mg-00551",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Karthago - Requiem.mp3",
     "title": "Requiem",
     "primary_artists": [
@@ -11374,7 +11354,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00553",
+    "song_id": "mg-00552",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\KFT - Afrika.mp3",
     "title": "Afrika",
     "primary_artists": [
@@ -11394,7 +11374,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00554",
+    "song_id": "mg-00553",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\KFT - Balatoni nyár.mp3",
     "title": "Balatoni nyár",
     "primary_artists": [
@@ -11414,7 +11394,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00555",
+    "song_id": "mg-00554",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Koncz Zsuzsa - Ha én rózsa volnék... (1973).mp3",
     "title": "Ha én rózsa volnék",
     "primary_artists": [
@@ -11434,7 +11414,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00556",
+    "song_id": "mg-00555",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Kócos ki ördögök - Metro - Zorán.mp3",
     "title": "Metro - Zorán",
     "primary_artists": [
@@ -11454,7 +11434,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00557",
+    "song_id": "mg-00556",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Legyetek jók ha tudtok.mp3",
     "title": "Legyetek jók ha tudtok",
     "primary_artists": [
@@ -11474,7 +11454,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00558",
+    "song_id": "mg-00557",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\LGT-Ugye mi jó barátok vagyunk.wmv.mp3",
     "title": "LGT-Ugye mi jó barátok vagyunk.wmv",
     "primary_artists": [
@@ -11494,7 +11474,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00559",
+    "song_id": "mg-00558",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Locomotiv GT - Embertelen dal (Original version).mp3",
     "title": "Embertelen dal (Original version)",
     "primary_artists": [
@@ -11514,7 +11494,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00560",
+    "song_id": "mg-00559",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Locomotiv GT - Álomarcú lány.mp3",
     "title": "Álomarcú lány",
     "primary_artists": [
@@ -11534,7 +11514,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00561",
+    "song_id": "mg-00560",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Made In Hungaria  Fenyő Iván - Csókkirály.mp3",
     "title": "Csókkirály",
     "primary_artists": [
@@ -11554,7 +11534,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00562",
+    "song_id": "mg-00561",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Made In Hungaria  Szabó Kimmel Tamás-Csavard fel a szőnyeget.mp3",
     "title": "Made In Hungaria Szabó Kimmel Tamás-Csavard fel a szőnyeget",
     "primary_artists": [
@@ -11574,7 +11554,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00563",
+    "song_id": "mg-00562",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Magna Cum Laude - Pálinka Dal.mp3",
     "title": "Pálinka Dal",
     "primary_artists": [
@@ -11594,7 +11574,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00564",
+    "song_id": "mg-00563",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Magna Cum Laude - Színezd újra (Dalszöveg).mp3",
     "title": "Színezd újra (Dalszöveg)",
     "primary_artists": [
@@ -11614,7 +11594,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00565",
+    "song_id": "mg-00564",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Magna Cum Laude - Vidéki sanzon (Dalszöveg).mp3",
     "title": "Vidéki sanzon (Dalszöveg)",
     "primary_artists": [
@@ -11634,7 +11614,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00566",
+    "song_id": "mg-00565",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Mindenki másképp csinálja.mp3",
     "title": "Mindenki másképp csinálja",
     "primary_artists": [
@@ -11654,7 +11634,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00567",
+    "song_id": "mg-00566",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\MISSH feat. RAUL _ HORVÁTH TAMÁS - BELÉD ESTEM (Official Music Video).mp3",
     "title": "BELÉD ESTEM",
     "primary_artists": [
@@ -11682,7 +11662,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00568",
+    "song_id": "mg-00567",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Neoton Familia - Don Quijote.mp3",
     "title": "Don Quijote",
     "primary_artists": [
@@ -11702,7 +11682,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00569",
+    "song_id": "mg-00568",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Neoton Familia - HOLNAP HAJNALIG.mp3",
     "title": "HOLNAP HAJNALIG",
     "primary_artists": [
@@ -11722,7 +11702,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00570",
+    "song_id": "mg-00569",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Neoton Familia - Na Na, Nagyfiu 1984 + Dalszöveg.mp3",
     "title": "Na Na, Nagyfiu 1984 + Dalszöveg",
     "primary_artists": [
@@ -11742,7 +11722,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00571",
+    "song_id": "mg-00570",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Neoton Família - Nyár Van (eredeti hangminőségben).mp3",
     "title": "Nyár Van (eredeti hangminőségben)",
     "primary_artists": [
@@ -11762,7 +11742,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00572",
+    "song_id": "mg-00571",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\OMEGA (1994) Népstadion - Léna.mp3",
     "title": "Léna",
     "primary_artists": [
@@ -11782,7 +11762,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00573",
+    "song_id": "mg-00572",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Omega - Babylon.mp3",
     "title": "Babylon",
     "primary_artists": [
@@ -11802,7 +11782,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00574",
+    "song_id": "mg-00573",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Open Stage - Aranka Szeretlek (www.openstageproduction.ro) TVR Magyar Adás.mp3",
     "title": "Aranka Szeretlek (www.openstageproduction",
     "primary_artists": [
@@ -11822,7 +11802,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00575",
+    "song_id": "mg-00574",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Ossian - Az Lesz a Győztes (Az Lesz a Győztes).mp3",
     "title": "Az Lesz a Győztes (Az Lesz a Győztes)",
     "primary_artists": [
@@ -11842,7 +11822,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00576",
+    "song_id": "mg-00575",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Ossian - Magányos angyal.mp3",
     "title": "Magányos angyal",
     "primary_artists": [
@@ -11862,7 +11842,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00577",
+    "song_id": "mg-00576",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Ossian Ezredszer.mp3",
     "title": "Ossian Ezredszer",
     "primary_artists": [
@@ -11882,7 +11862,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00578",
+    "song_id": "mg-00577",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Piramis - Ha volna két életem.mp3",
     "title": "Ha volna két életem",
     "primary_artists": [
@@ -11902,7 +11882,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00579",
+    "song_id": "mg-00578",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Piramis - Szállj fel magasra.mp3",
     "title": "Szállj fel magasra",
     "primary_artists": [
@@ -11922,7 +11902,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00580",
+    "song_id": "mg-00579",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Piramis - Szállj.mp3",
     "title": "Szállj",
     "primary_artists": [
@@ -11942,7 +11922,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00581",
+    "song_id": "mg-00580",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Pokolgép - Gép-induló.mp3",
     "title": "Gép-induló",
     "primary_artists": [
@@ -11962,7 +11942,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00582",
+    "song_id": "mg-00581",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Pokolgép - Hol van a szó.mp3",
     "title": "Hol van a szó",
     "primary_artists": [
@@ -11982,7 +11962,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00583",
+    "song_id": "mg-00582",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Presser Gábor - Valaki Mondja Meg.mp3",
     "title": "Valaki Mondja Meg",
     "primary_artists": [
@@ -12002,7 +11982,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00584",
+    "song_id": "mg-00583",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Pásztor Anna, Kiscsillag - Márti dala (MR2 Akusztik Müpa).mp3",
     "title": "Márti dala (MR2 Akusztik Müpa)",
     "primary_artists": [
@@ -12029,7 +12009,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00585",
+    "song_id": "mg-00584",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Quimby - Most múlik pontosan.mp3",
     "title": "Most múlik pontosan",
     "primary_artists": [
@@ -12049,7 +12029,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00586",
+    "song_id": "mg-00585",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic - Ha itt lennél velem.mp3",
     "title": "Ha itt lennél velem",
     "primary_artists": [
@@ -12069,7 +12049,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00587",
+    "song_id": "mg-00586",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic - Nagy kő zuhan.mp3",
     "title": "Nagy kő zuhan",
     "primary_artists": [
@@ -12089,7 +12069,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00588",
+    "song_id": "mg-00587",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic - Repül a bálna.mp3",
     "title": "Repül a bálna",
     "primary_artists": [
@@ -12109,7 +12089,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00589",
+    "song_id": "mg-00588",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic - Szállj el kismadár.mp3",
     "title": "Szállj el kismadár",
     "primary_artists": [
@@ -12129,7 +12109,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00590",
+    "song_id": "mg-00589",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic-67-es út.mp3",
     "title": "Republic-67-es út",
     "primary_artists": [
@@ -12149,7 +12129,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00591",
+    "song_id": "mg-00590",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic-Engedj közelebb.mp3",
     "title": "Republic-Engedj közelebb",
     "primary_artists": [
@@ -12169,7 +12149,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00592",
+    "song_id": "mg-00591",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic-Neked könnyű lehet.mp3",
     "title": "Republic-Neked könnyű lehet",
     "primary_artists": [
@@ -12189,7 +12169,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00593",
+    "song_id": "mg-00592",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Republic-Szeretni valakit,valamiért.mp3",
     "title": "Republic-Szeretni valakit,valamiért",
     "primary_artists": [
@@ -12209,7 +12189,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00594",
+    "song_id": "mg-00593",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\SKORPIÓ   Igy szólt hozzám a dédapám.mp3",
     "title": "SKORPIÓ Igy szólt hozzám a dédapám",
     "primary_artists": [
@@ -12229,7 +12209,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00595",
+    "song_id": "mg-00594",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Sprint együttes- Postakocsi.mp3",
     "title": "Sprint együttes- Postakocsi",
     "primary_artists": [
@@ -12249,7 +12229,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00596",
+    "song_id": "mg-00595",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Studió 11 Zöld mezők.mp3",
     "title": "Studió 11 Zöld mezők",
     "primary_artists": [
@@ -12269,7 +12249,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00597",
+    "song_id": "mg-00596",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Szécsi Pál - Bús szívből énekelni.mp3",
     "title": "Bús szívből énekelni",
     "primary_artists": [
@@ -12289,7 +12269,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00598",
+    "song_id": "mg-00597",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Szűcs Judith - Járd el a Zorba dalát.mp3",
     "title": "Járd el a Zorba dalát",
     "primary_artists": [
@@ -12309,7 +12289,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00599",
+    "song_id": "mg-00598",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Takáts Tamás Blues Band - Pocsolyába léptem....mp3",
     "title": "Pocsolyába léptem",
     "primary_artists": [
@@ -12329,7 +12309,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00600",
+    "song_id": "mg-00599",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Tankcsapda - Be vagyok rúgva (hivatalos videóklip).mp3",
     "title": "Be vagyok rúgva (hivatalos videóklip)",
     "primary_artists": [
@@ -12349,7 +12329,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00601",
+    "song_id": "mg-00600",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Tankcsapda - Mennyország tourist (hivatalos videóklip).mp3",
     "title": "Mennyország tourist (hivatalos videóklip)",
     "primary_artists": [
@@ -12369,7 +12349,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00602",
+    "song_id": "mg-00601",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\TNT - Nem jön álom a szememre.mp3",
     "title": "Nem jön álom a szememre",
     "primary_artists": [
@@ -12389,7 +12369,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00603",
+    "song_id": "mg-00602",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Varga Miklós- Vén Európa, az öreg hölgy.mp3",
     "title": "Varga Miklós- Vén Európa, az öreg hölgy",
     "primary_artists": [
@@ -12409,7 +12389,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00604",
+    "song_id": "mg-00603",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Vikidál Gyula - Soha nem elég (P. Box).mp3",
     "title": "Soha nem elég (P",
     "primary_artists": [
@@ -12429,7 +12409,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00605",
+    "song_id": "mg-00604",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Wolf Kati - Vuk Dala.mp3",
     "title": "Vuk Dala",
     "primary_artists": [
@@ -12449,7 +12429,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00606",
+    "song_id": "mg-00605",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Zorán _ Presser - Valaki mondja meg.mp3",
     "title": "Valaki mondja meg",
     "primary_artists": [
@@ -12469,7 +12449,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00607",
+    "song_id": "mg-00606",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Ős-Neoton - Kell hogy várj.mp3",
     "title": "Kell hogy várj",
     "primary_artists": [
@@ -12489,7 +12469,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00608",
+    "song_id": "mg-00607",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Mate Peter - Ez majdnem szerelem volt.mp3",
     "title": "Ez majdnem szerelem volt",
     "primary_artists": [
@@ -12509,7 +12489,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00609",
+    "song_id": "mg-00608",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter - Kell hogy várj (Treba, aby si počkala).mp3",
     "title": "Kell hogy várj (Treba, aby si počkala)",
     "primary_artists": [
@@ -12529,7 +12509,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00610",
+    "song_id": "mg-00609",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter- Te ott állsz az út végén..mp3",
     "title": "Máté Péter- Te ott állsz az út végén",
     "primary_artists": [
@@ -12549,7 +12529,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00611",
+    "song_id": "mg-00610",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Azért vannak a jó barátok.mp3",
     "title": "Máté Péter-Azért vannak a jó barátok",
     "primary_artists": [
@@ -12569,7 +12549,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00612",
+    "song_id": "mg-00611",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Egy darabot a szívemből..mp3",
     "title": "Máté Péter-Egy darabot a szívemből",
     "primary_artists": [
@@ -12589,7 +12569,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00613",
+    "song_id": "mg-00612",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Egyszer véget ér..mp3",
     "title": "Máté Péter-Egyszer véget ér",
     "primary_artists": [
@@ -12609,7 +12589,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00614",
+    "song_id": "mg-00613",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Elmegyek..mp3",
     "title": "Máté Péter-Elmegyek",
     "primary_artists": [
@@ -12629,7 +12609,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00615",
+    "song_id": "mg-00614",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Ez majdnem szerelem volt.mp3",
     "title": "Máté Péter-Ez majdnem szerelem volt",
     "primary_artists": [
@@ -12649,7 +12629,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00616",
+    "song_id": "mg-00615",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Hull az elsárgult levél..mp3",
     "title": "Máté Péter-Hull az elsárgult levél",
     "primary_artists": [
@@ -12669,7 +12649,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00617",
+    "song_id": "mg-00616",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Kell,hogy várj..mp3",
     "title": "Máté Péter-Kell,hogy várj",
     "primary_artists": [
@@ -12689,7 +12669,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00618",
+    "song_id": "mg-00617",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Most Élsz.mp3",
     "title": "Máté Péter-Most Élsz",
     "primary_artists": [
@@ -12709,7 +12689,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00619",
+    "song_id": "mg-00618",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Ne menj még!.mp3",
     "title": "Máté Péter-Ne menj még!",
     "primary_artists": [
@@ -12729,7 +12709,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00620",
+    "song_id": "mg-00619",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Zene nélkül mit érek Én.mp3",
     "title": "Máté Péter-Zene nélkül mit érek Én",
     "primary_artists": [
@@ -12749,7 +12729,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00621",
+    "song_id": "mg-00620",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Érzés.mp3",
     "title": "Máté Péter-Érzés",
     "primary_artists": [
@@ -12769,7 +12749,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00622",
+    "song_id": "mg-00621",
     "file": "_other\\_magyar\\_retro\\Máté Péter\\Máté Péter-Ő.mp3",
     "title": "Máté Péter-Ő",
     "primary_artists": [
@@ -12789,7 +12769,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00623",
+    "song_id": "mg-00622",
     "file": "_other\\_magyar\\_retro\\Nagy Feró\\Bikini - Jaiao, eladio (Nem félek).mp3",
     "title": "Jaiao, eladio (Nem félek)",
     "primary_artists": [
@@ -12809,7 +12789,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00624",
+    "song_id": "mg-00623",
     "file": "_other\\_magyar\\_retro\\Nagy Feró\\Nagy Feró & Kormorán - A felkelő nap háza.mp3",
     "title": "A felkelő nap háza",
     "primary_artists": [
@@ -12836,7 +12816,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00625",
+    "song_id": "mg-00624",
     "file": "_other\\_magyar\\_retro\\OMEGA együttes\\Omega - Gyöngyhajú lány.mp3",
     "title": "Gyöngyhajú lány",
     "primary_artists": [
@@ -12856,7 +12836,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00626",
+    "song_id": "mg-00625",
     "file": "_other\\_magyar\\_retro\\OMEGA együttes\\Omega - Ha én szél lehetnék.mp3",
     "title": "Ha én szél lehetnék",
     "primary_artists": [
@@ -12876,7 +12856,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00627",
+    "song_id": "mg-00626",
     "file": "_other\\_magyar\\_retro\\OMEGA együttes\\Omega - Petróleum lámpa.mp3",
     "title": "Petróleum lámpa",
     "primary_artists": [
@@ -12896,7 +12876,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00628",
+    "song_id": "mg-00627",
     "file": "_other\\_magyar\\_retro\\OMEGA együttes\\Omega Live - Ezüst esõ.mp3",
     "title": "Ezüst esõ",
     "primary_artists": [
@@ -12916,27 +12896,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00629",
-    "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\01 Létezem.mp3",
-    "title": "Létezem",
-    "primary_artists": [
-      "R-GO"
-    ],
-    "featuring_artists": [],
-    "artists": [
-      "R-GO"
-    ],
-    "credits": [
-      {
-        "entity": "R-GO",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
-  },
-  {
-    "song_id": "mg-00630",
+    "song_id": "mg-00628",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\02 Egy alacsony férfi dilemmái a szerelem körül.mp3",
     "title": "Egy alacsony férfi dilemmái a szerelem körül",
     "primary_artists": [
@@ -12956,7 +12916,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00631",
+    "song_id": "mg-00629",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\03 Bombázó.mp3",
     "title": "Bombázó",
     "primary_artists": [
@@ -12976,7 +12936,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00632",
+    "song_id": "mg-00630",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\05 Látod, így sikerült.mp3",
     "title": "Látod, így sikerült",
     "primary_artists": [
@@ -12996,7 +12956,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00633",
+    "song_id": "mg-00631",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\06 Ballag a katona.mp3",
     "title": "Ballag a katona",
     "primary_artists": [
@@ -13016,7 +12976,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00634",
+    "song_id": "mg-00632",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\10 Szerelmes vagyok, mint egy nagyágyú.mp3",
     "title": "Szerelmes vagyok, mint egy nagyágyú",
     "primary_artists": [
@@ -13036,7 +12996,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00635",
+    "song_id": "mg-00633",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\11 Rég várok valakire.mp3",
     "title": "Rég várok valakire",
     "primary_artists": [
@@ -13056,7 +13016,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00636",
+    "song_id": "mg-00634",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\12 Mindig nyár _75.mp3",
     "title": "Mindig nyár 75",
     "primary_artists": [
@@ -13076,7 +13036,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00637",
+    "song_id": "mg-00635",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\13 Ne félj, te kis bolond.mp3",
     "title": "Ne félj, te kis bolond",
     "primary_artists": [
@@ -13096,7 +13056,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00638",
+    "song_id": "mg-00636",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\14 Monogám vagyok.mp3",
     "title": "Monogám vagyok",
     "primary_artists": [
@@ -13116,7 +13076,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00639",
+    "song_id": "mg-00637",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\Boszorkány.mp3",
     "title": "Boszorkány",
     "primary_artists": [
@@ -13136,7 +13096,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00640",
+    "song_id": "mg-00638",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\Ciao, Marina.mp3",
     "title": "Ciao, Marina",
     "primary_artists": [
@@ -13156,7 +13116,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00641",
+    "song_id": "mg-00639",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\No. 1.mp3",
     "title": "No. 1",
     "primary_artists": [
@@ -13176,7 +13136,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00642",
+    "song_id": "mg-00640",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\R-Go - Hangulatjáték.mp3",
     "title": "Hangulatjáték",
     "primary_artists": [
@@ -13196,7 +13156,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00643",
+    "song_id": "mg-00641",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\R-GO - Létezem.mp3",
     "title": "Létezem",
     "primary_artists": [
@@ -13216,7 +13176,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00644",
+    "song_id": "mg-00642",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\R-GO Bombázó.mp3",
     "title": "R-GO Bombázó",
     "primary_artists": [
@@ -13236,7 +13196,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00645",
+    "song_id": "mg-00643",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\R-GO Szeretlek is + nem is.mp3",
     "title": "R-GO Szeretlek is + nem is",
     "primary_artists": [
@@ -13256,7 +13216,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00646",
+    "song_id": "mg-00644",
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\R-GOAz Idő.mp3",
     "title": "R-GOAz Idő",
     "primary_artists": [
@@ -13276,7 +13236,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00647",
+    "song_id": "mg-00645",
     "file": "_other\\_magyar\\_retro\\Zorán\\Neked írom a dalt (Live at Arena   2019).mp3",
     "title": "Neked írom a dalt (Live at Arena 2019)",
     "primary_artists": [
@@ -13296,7 +13256,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00648",
+    "song_id": "mg-00646",
     "file": "_other\\_magyar\\_retro\\Zorán\\Szobrok.mp3",
     "title": "Szobrok",
     "primary_artists": [
@@ -13316,7 +13276,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00649",
+    "song_id": "mg-00647",
     "file": "_other\\_magyar\\_retro\\Zorán\\Zorán - A szerelemnek múlnia kell.mp3",
     "title": "A szerelemnek múlnia kell",
     "primary_artists": [
@@ -13336,7 +13296,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00650",
+    "song_id": "mg-00648",
     "file": "_other\\_magyar\\_retro\\Zorán\\Zorán - Apám Hitte (LIve at Arena   2017).mp3",
     "title": "Apám Hitte (LIve at Arena 2017)",
     "primary_artists": [
@@ -13356,7 +13316,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00651",
+    "song_id": "mg-00649",
     "file": "_other\\_magyar\\_retro\\Zorán\\Zorán - Kell ott fenn egy ország (Live at Arena   2003).mp3",
     "title": "Kell ott fenn egy ország (Live at Arena 2003)",
     "primary_artists": [
@@ -13376,7 +13336,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00652",
+    "song_id": "mg-00650",
     "file": "_other\\_magyar\\_retro\\Zorán\\Zorán - Kell ott fenn egy ország.mp3",
     "title": "Kell ott fenn egy ország",
     "primary_artists": [
@@ -13396,7 +13356,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00653",
+    "song_id": "mg-00651",
     "file": "_other\\_magyar\\_retro\\Zorán\\Zorán - Te majd kézenfogsz....mp3",
     "title": "Te majd kézenfogsz",
     "primary_artists": [
@@ -13416,7 +13376,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00654",
+    "song_id": "mg-00652",
     "file": "_other\\_magyar\\_retro\\Zorán\\zorán romantika.mp3",
     "title": "zorán romantika",
     "primary_artists": [
@@ -13436,7 +13396,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00655",
+    "song_id": "mg-00653",
     "file": "_other\\_magyar\\_retro\\Zorán\\Zorán- Ha másképp szeretnél.mp3",
     "title": "Zorán- Ha másképp szeretnél",
     "primary_artists": [
@@ -13456,7 +13416,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00656",
+    "song_id": "mg-00654",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\Akosh - Adj hitet.mp3",
     "title": "Adj hitet",
     "primary_artists": [
@@ -13476,7 +13436,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00657",
+    "song_id": "mg-00655",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\Ilyenek voltunk.mp3",
     "title": "Ilyenek voltunk",
     "primary_artists": [
@@ -13496,7 +13456,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00658",
+    "song_id": "mg-00656",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\ákos  hello.mp3",
     "title": "ákos hello",
     "primary_artists": [
@@ -13516,7 +13476,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00659",
+    "song_id": "mg-00657",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\ÁKOS - A FÉNYBE NÉZZ (2010)    Official video, HD.mp3",
     "title": "A FÉNYBE NÉZZ (2010)",
     "primary_artists": [
@@ -13536,7 +13496,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00660",
+    "song_id": "mg-00658",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\Ákos - Keresem az utam.mp3",
     "title": "Keresem az utam",
     "primary_artists": [
@@ -13556,7 +13516,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00661",
+    "song_id": "mg-00659",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\Ákos - Minden ami szép volt.mp3",
     "title": "Minden ami szép volt",
     "primary_artists": [
@@ -13576,7 +13536,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00662",
+    "song_id": "mg-00660",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\Ákos - valami véget ért.mp3",
     "title": "valami véget ért",
     "primary_artists": [
@@ -13596,7 +13556,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00663",
+    "song_id": "mg-00661",
     "file": "_other\\_magyar\\_retro\\Ákos best of\\ÁKOS - ÉRINTŐ (Duett Janicsák Vecával) (2011)  Official video, HD.mp3",
     "title": "ÉRINTŐ (Duett Janicsák Vecával) (2011)",
     "primary_artists": [
@@ -13616,7 +13576,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00664",
+    "song_id": "mg-00662",
     "file": "_other\\_magyar\\_rock\\A VÉN EURÓPA.mp3",
     "title": "A VÉN EURÓPA",
     "primary_artists": [
@@ -13636,7 +13596,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00665",
+    "song_id": "mg-00663",
     "file": "_other\\_magyar\\_rock\\Alcohol - Rockhimnusz (hivatalos   official video) - a  Remélem zavarok  albumról.mp3",
     "title": "Rockhimnusz (hivatalos ) - a Remélem zavarok albumról",
     "primary_artists": [
@@ -13656,7 +13616,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00666",
+    "song_id": "mg-00664",
     "file": "_other\\_magyar\\_rock\\Aljas kúszóbab Video Klippek\\ALJAS KÚSZÓBAB - FEKETE RÓZSA.mp3",
     "title": "FEKETE RÓZSA",
     "primary_artists": [
@@ -13676,7 +13636,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00667",
+    "song_id": "mg-00665",
     "file": "_other\\_magyar\\_rock\\Anna and the Barbies feat. Kiss Tibi Márti dala (official video) FULL HD.mp3",
     "title": "Anna and the Barbies",
     "primary_artists": [
@@ -13704,7 +13664,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00668",
+    "song_id": "mg-00666",
     "file": "_other\\_magyar\\_rock\\AWS - Viszlát nyár  [Hivatalos videó 2017] A DAL 2018 WINNER.mp3",
     "title": "Viszlát nyár [Hivatalos videó 2017] A DAL 2018 WINNER",
     "primary_artists": [
@@ -13724,7 +13684,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00669",
+    "song_id": "mg-00667",
     "file": "_other\\_magyar\\_rock\\Bagossy Brothers Company  - Olyan Ő (Official Video).mp3",
     "title": "Olyan Ő",
     "primary_artists": [
@@ -13744,7 +13704,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00670",
+    "song_id": "mg-00668",
     "file": "_other\\_magyar\\_rock\\Deák, Tunyogi, Varga, Vikidál, P Mobil  - A zöld, a bíbor és a fekete.mp3",
     "title": "A zöld, a bíbor és a fekete",
     "primary_artists": [
@@ -13792,7 +13752,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00671",
+    "song_id": "mg-00669",
     "file": "_other\\_magyar\\_rock\\Embör vigyázz!\\10 - Áll egy ifjú.mp3",
     "title": "Áll egy ifjú",
     "primary_artists": [
@@ -13812,7 +13772,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00672",
+    "song_id": "mg-00670",
     "file": "_other\\_magyar\\_rock\\Embör vigyázz!\\14 - Csendőrség.mp3",
     "title": "Csendőrség",
     "primary_artists": [
@@ -13832,7 +13792,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00673",
+    "song_id": "mg-00671",
     "file": "_other\\_magyar\\_rock\\Embör vigyázz!\\CPg- Erd_s Péter.mp3",
     "title": "CPg- Erd s Péter",
     "primary_artists": [
@@ -13852,7 +13812,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00674",
+    "song_id": "mg-00672",
     "file": "_other\\_magyar\\_rock\\Foals\\Foals - Late Night (Solomun Remix).mp3",
     "title": "Late Night (Solomun Remix)",
     "primary_artists": [
@@ -13872,7 +13832,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00675",
+    "song_id": "mg-00673",
     "file": "_other\\_magyar\\_rock\\Foals\\Foals - Spanish Sahara.mp3",
     "title": "Spanish Sahara",
     "primary_artists": [
@@ -13892,7 +13852,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00676",
+    "song_id": "mg-00674",
     "file": "_other\\_magyar\\_rock\\KOWALSKY\\Kowalsky meg a Vega - Ki van ez találva.mp3",
     "title": "Ki van ez találva",
     "primary_artists": [
@@ -13912,7 +13872,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00677",
+    "song_id": "mg-00675",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\09-Psalmus Hungaricus.mp3",
     "title": "Psalmus Hungaricus",
     "primary_artists": [
@@ -13932,7 +13892,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00678",
+    "song_id": "mg-00676",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Csodaszarvas\\04 Egészséges Fejbőr - Magyarország.wma",
     "title": "Magyarország",
     "primary_artists": [
@@ -13952,7 +13912,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00679",
+    "song_id": "mg-00677",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Csodaszarvas\\14 Egészséges Fejbőr - Esküszünk.wma",
     "title": "Esküszünk",
     "primary_artists": [
@@ -13972,7 +13932,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00680",
+    "song_id": "mg-00678",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Divízió 88 Commendante.mp3",
     "title": "Divízió 88 Commendante",
     "primary_artists": [
@@ -13992,7 +13952,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00681",
+    "song_id": "mg-00679",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges Fejbőr - Kronológia\\15 Fekete majmok.wma",
     "title": "Fekete majmok",
     "primary_artists": [
@@ -14012,7 +13972,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00682",
+    "song_id": "mg-00680",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\01-Nem_adjuk_fel_!.wma",
     "title": "Nem adjuk fel !",
     "primary_artists": [
@@ -14032,7 +13992,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00683",
+    "song_id": "mg-00681",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\08-Requiem.wma",
     "title": "Requiem",
     "primary_artists": [
@@ -14052,7 +14012,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00684",
+    "song_id": "mg-00682",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\14-Holdvilagarok.wma",
     "title": "Holdvilagarok",
     "primary_artists": [
@@ -14072,7 +14032,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00685",
+    "song_id": "mg-00683",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Hungarica - Ide szlettem.mp3",
     "title": "Ide szlettem",
     "primary_artists": [
@@ -14092,7 +14052,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00686",
+    "song_id": "mg-00684",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\- Kárpátia - 03 - Neveket akarok hallani.wma",
     "title": "Neveket akarok hallani",
     "primary_artists": [
@@ -14112,7 +14072,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00687",
+    "song_id": "mg-00685",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\- Kárpátia - 04 - Igazán szeretni.wma",
     "title": "Igazán szeretni",
     "primary_artists": [
@@ -14132,7 +14092,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00688",
+    "song_id": "mg-00686",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\02-Veterán.wma",
     "title": "Veterán",
     "primary_artists": [
@@ -14152,7 +14112,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00689",
+    "song_id": "mg-00687",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\06-Rozsdaette penge.wma",
     "title": "Rozsdaette penge",
     "primary_artists": [
@@ -14172,7 +14132,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00690",
+    "song_id": "mg-00688",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\08-Szép vagy,  gyönyörű vagy Magyarország.wma",
     "title": "Szép vagy, gyönyörű vagy Magyarország",
     "primary_artists": [
@@ -14192,7 +14152,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00691",
+    "song_id": "mg-00689",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Hol vagytok székelyek\\01 Hol vagytok székelyek.mp3",
     "title": "Hol vagytok székelyek",
     "primary_artists": [
@@ -14212,7 +14172,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00692",
+    "song_id": "mg-00690",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\01 Egy nap az élet.mp3",
     "title": "Egy nap az élet",
     "primary_artists": [
@@ -14232,7 +14192,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00693",
+    "song_id": "mg-00691",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\02 Magyarnak születtem.mp3",
     "title": "Magyarnak születtem",
     "primary_artists": [
@@ -14252,7 +14212,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00694",
+    "song_id": "mg-00692",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\05 Barátom mond merre vagy.mp3",
     "title": "Barátom mond merre vagy",
     "primary_artists": [
@@ -14272,7 +14232,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00695",
+    "song_id": "mg-00693",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\09 A világtól elzárva.mp3",
     "title": "A világtól elzárva",
     "primary_artists": [
@@ -14292,7 +14252,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00696",
+    "song_id": "mg-00694",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\11 Erdély szabad!.mp3",
     "title": "Erdély szabad!",
     "primary_artists": [
@@ -14312,7 +14272,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00697",
+    "song_id": "mg-00695",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia 2006\\- Kárpátia - 06 - Pálinka.wma",
     "title": "Pálinka",
     "primary_artists": [
@@ -14332,7 +14292,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00698",
+    "song_id": "mg-00696",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia 2006\\- Kárpátia - 07 - Bánatvirág.wma",
     "title": "Bánatvirág",
     "primary_artists": [
@@ -14352,7 +14312,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00699",
+    "song_id": "mg-00697",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia 2006\\- Kárpátia - 10 - Hegyek fölött.wma",
     "title": "Hegyek fölött",
     "primary_artists": [
@@ -14372,7 +14332,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00700",
+    "song_id": "mg-00698",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kimagozva__96\\06 A mi hazánk I.wma",
     "title": "A mi hazánk I",
     "primary_artists": [
@@ -14392,7 +14352,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00701",
+    "song_id": "mg-00699",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\01 - KÁRPÁTOK, ZENGJETEK.wma",
     "title": "KÁRPÁTOK, ZENGJETEK",
     "primary_artists": [
@@ -14412,7 +14372,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00702",
+    "song_id": "mg-00700",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\02 - ABBÓL A FÁBÓL.wma",
     "title": "ABBÓL A FÁBÓL",
     "primary_artists": [
@@ -14432,7 +14392,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00703",
+    "song_id": "mg-00701",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\03 - LESZ MÉG.wma",
     "title": "LESZ MÉG",
     "primary_artists": [
@@ -14452,7 +14412,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00704",
+    "song_id": "mg-00702",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\04 - HŐSÖK.wma",
     "title": "HŐSÖK",
     "primary_artists": [
@@ -14472,7 +14432,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00705",
+    "song_id": "mg-00703",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\10 - FELVIDÉKI TÁJ.wma",
     "title": "FELVIDÉKI TÁJ",
     "primary_artists": [
@@ -14492,7 +14452,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00706",
+    "song_id": "mg-00704",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Tűzzel,vassal_rock\\04-Egy az Isten, egy a nemzet.wma",
     "title": "Egy az Isten, egy a nemzet",
     "primary_artists": [
@@ -14512,7 +14472,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00707",
+    "song_id": "mg-00705",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\01-Magyarország katonái.wma",
     "title": "Magyarország katonái",
     "primary_artists": [
@@ -14532,7 +14492,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00708",
+    "song_id": "mg-00706",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\02-Mesélj még nekem.wma",
     "title": "Mesélj még nekem",
     "primary_artists": [
@@ -14552,7 +14512,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00709",
+    "song_id": "mg-00707",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\05-Ott, ahol zúg a négy folyó.wma",
     "title": "Ott, ahol zúg a négy folyó",
     "primary_artists": [
@@ -14572,7 +14532,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00710",
+    "song_id": "mg-00708",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\08-Ugye, gondolsz néha rám.wma",
     "title": "Ugye, gondolsz néha rám",
     "primary_artists": [
@@ -14592,7 +14552,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00711",
+    "song_id": "mg-00709",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\revizios dalok\\Bácska,Bánát akarja.mp3",
     "title": "Bácska,Bánát akarja",
     "primary_artists": [
@@ -14612,7 +14572,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00712",
+    "song_id": "mg-00710",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\revizios dalok\\Hazánk része,Kárpátalja.mp3",
     "title": "Hazánk része,Kárpátalja",
     "primary_artists": [
@@ -14632,7 +14592,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00713",
+    "song_id": "mg-00711",
     "file": "_other\\_magyar\\_rock\\Ocho Macho - Jó nekem (official music video).mp3",
     "title": "Jó nekem",
     "primary_artists": [
@@ -14652,7 +14612,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00714",
+    "song_id": "mg-00712",
     "file": "_other\\_magyar\\_rock\\Pokolgép - Pokoli Szinjáték\\Itt és most.mp3",
     "title": "Itt és most",
     "primary_artists": [
@@ -14672,7 +14632,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00715",
+    "song_id": "mg-00713",
     "file": "_other\\_magyar\\_rock\\Pokolgép - Pokoli Szinjáték\\Pokolgép - Itélet Helyett.mp3",
     "title": "Itélet Helyett",
     "primary_artists": [
@@ -14692,7 +14652,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00716",
+    "song_id": "mg-00714",
     "file": "_other\\_magyar\\_rock\\proSECTURA\\Prosectura - Ádzseszkó (Hivatalos videoklip   Official music video).mp3",
     "title": "Ádzseszkó (Hivatalos videoklip )",
     "primary_artists": [
@@ -14712,7 +14672,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00717",
+    "song_id": "mg-00715",
     "file": "_other\\_magyar\\_rock\\subscribe válogatás\\SUBSCRIBE - Álomtégla.mp3",
     "title": "Álomtégla",
     "primary_artists": [
@@ -14732,7 +14692,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "mg-00718",
+    "song_id": "mg-00716",
     "file": "_other\\_magyar\\_rock\\Supernem\\Supernem  Surfpunk.mp3",
     "title": "Supernem Surfpunk",
     "primary_artists": [
@@ -14752,7 +14712,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00719",
+    "song_id": "mg-00717",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\101-tankcsapda-alm-azt_mondom_allj-legacy.mp3",
     "title": "tankcsapda-alm-azt mondom allj-legacy",
     "primary_artists": [
@@ -14772,7 +14732,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00720",
+    "song_id": "mg-00718",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\102-tankcsapda-alm-be_vagyok_rugva-legacy.mp3",
     "title": "tankcsapda-alm-be vagyok rugva-legacy",
     "primary_artists": [
@@ -14792,7 +14752,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00721",
+    "song_id": "mg-00719",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\104-tankcsapda-alm-ez_az_a_haz-legacy.mp3",
     "title": "tankcsapda-alm-ez az a haz-legacy",
     "primary_artists": [
@@ -14812,7 +14772,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00722",
+    "song_id": "mg-00720",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\114-tankcsapda-alm-adjon_az_eg-legacy.mp3",
     "title": "tankcsapda-alm-adjon az eg-legacy",
     "primary_artists": [
@@ -14832,7 +14792,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00723",
+    "song_id": "mg-00721",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\115-tankcsapda-alm-mennyorszag_tourist-legacy.mp3",
     "title": "tankcsapda-alm-mennyorszag tourist-legacy",
     "primary_artists": [
@@ -14852,7 +14812,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00724",
+    "song_id": "mg-00722",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\201-tankcsapda-alm-fiuk_olebe_a_lanyok-legacy.mp3",
     "title": "tankcsapda-alm-fiuk olebe a lanyok-legacy",
     "primary_artists": [
@@ -14872,7 +14832,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00725",
+    "song_id": "mg-00723",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\Tankcsapda - Adjon az eg.mp3",
     "title": "Adjon az eg",
     "primary_artists": [
@@ -14892,7 +14852,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00726",
+    "song_id": "mg-00724",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\Tankcsapda-Be Vagyok Rugva.mp3",
     "title": "Tankcsapda-Be Vagyok Rugva",
     "primary_artists": [
@@ -14912,7 +14872,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00727",
+    "song_id": "mg-00725",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\Tankcsapda-Menyorszag tourist.mp3",
     "title": "Tankcsapda-Menyorszag tourist",
     "primary_artists": [
