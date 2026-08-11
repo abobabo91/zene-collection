@@ -61,7 +61,7 @@ Genres and sub-genres are derived purely from the folder structure:
 `new/`, `new good/`, `_music_scripts/`, `_playlists/`, `_dupes_removed/`. The last is the
 holding pen for tracks pulled out during a dedupe pass — it is not part of the collection,
 and anything left there would be counted as such and land in `main_genre: other`, since it
-matches no genre rule. It currently holds **146 files (617 MB)** removed on 2026-08-11,
+matches no genre rule. It currently holds **145 files** removed on 2026-08-11,
 mirroring their original paths so any of them can be put back. `rebuild.py`'s CSV scan derives its exclusions from the same
 constant; the two lists used to be written out separately and had already drifted, so
 `_playlists` was excluded from the catalog but counted in the CSV.
@@ -92,14 +92,14 @@ Rebuilds the catalog from disk and opens the dashboard at http://localhost:8765.
 | `build_catalog.py` | Genre classifier — scans disk, writes `genre_catalog.json` |
 | `index.html` | Dashboard — Chart.js, vanilla JS, dark theme |
 | `serve.py` | Rebuild catalog + serve locally |
-| `genre_catalog.json` | Generated catalog (14,830 entries as of 2026-08-11) |
+| `genre_catalog.json` | Generated catalog (14,831 entries as of 2026-08-11) |
 | `build_mp3_timeline.py` | Generates `mp3_sorted_filtered.csv` (all mp3s sorted by date) |
 | `rebuild.py` | Rebuild catalog + CSV if anything changed — **commits and pushes on its own** |
 
 `rebuild.py` takes no arguments and always ends in `git add -A && commit && push`. To
 rebuild without publishing, call `build_catalog.py` and `rebuild.rebuild_csv()` directly.
 
-The catalog holds **14,830** entries and the CSV **14,831**; the one extra row is the
+The catalog holds **14,831** entries and the CSV **14,832**; the one extra row is the
 `bizarring` keyword-blocklist file, which the CSV scan does not filter.
 
 ## Tech
