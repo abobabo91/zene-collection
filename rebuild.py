@@ -9,7 +9,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 ZENE = Path(r"C:\Users\abele\Desktop\zene")
 STATE_FILE = HERE / ".last_rebuild"
-SKIP = {"new", "new good", "_music_scripts", "_playlists"}
+SKIP = {"new", "new good", "_music_scripts", "_playlists", "_dupes_removed"}
 
 
 def get_last_rebuild() -> float:
@@ -59,12 +59,17 @@ def rebuild_catalog():
 
 def rebuild_csv():
     print("  Rebuilding mp3_sorted_filtered.csv...")
-    # PowerShell to scan and sort all mp3s
+    # The exclusion list is derived from SKIP rather than repeated. It used to be spelled
+    # out here and had already drifted - `_playlists` was excluded from the catalog but
+    # counted in the CSV, so the two views of the same collection disagreed.
+    clauses = " -and ".join(
+        f"$_.FullName -notlike '{ZENE}\\{name}\\*'" for name in sorted(SKIP)
+    )
+    # `-File` matters: `_magyar rap/el bago/ultimohombre/ultimohombre.mp3` is a directory
+    # whose name ends in .mp3, so `-Filter *.mp3` alone returns it as if it were a track.
     ps_cmd = (
-        "Get-ChildItem -Path 'C:\\Users\\abele\\Desktop\\zene' -Filter *.mp3 -Recurse | "
-        "Where-Object { $_.FullName -notlike 'C:\\Users\\abele\\Desktop\\zene\\new\\*' "
-        "-and $_.FullName -notlike 'C:\\Users\\abele\\Desktop\\zene\\new good\\*' "
-        "-and $_.FullName -notlike 'C:\\Users\\abele\\Desktop\\zene\\_music_scripts\\*' } | "
+        f"Get-ChildItem -Path '{ZENE}' -Filter *.mp3 -Recurse -File | "
+        f"Where-Object {{ {clauses} }} | "
         "Sort-Object LastWriteTime -Descending | "
         "Select-Object FullName, @{Name='LastWriteTime';Expression={$_.LastWriteTime.ToString('yyyy. MM. dd. H:mm:ss')}} | "
         "Export-Csv -Path '" + str(HERE / "mp3_sorted_filtered_raw.csv") + "' -NoTypeInformation -Encoding UTF8"

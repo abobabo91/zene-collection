@@ -1,6 +1,11 @@
 """
 Scan the full music library and produce a JSON catalog with genre tags
-derived from the folder structure. Excludes: new/, new good/, _music_scripts/, _playlists/.
+derived from the folder structure.
+
+Excludes: new/, new good/, _music_scripts/, _playlists/, _dupes_removed/.
+`_dupes_removed` is the holding pen for tracks pulled out during a dedupe pass. It is not
+part of the collection, and anything left in it would otherwise be counted as such - and
+land in `main_genre: other`, since it matches no genre rule.
 """
 
 import json
@@ -12,7 +17,7 @@ from pathlib import Path
 ZENE = Path(r"C:\Users\abele\Desktop\zene")
 OUTPUT = Path(__file__).parent / "genre_catalog.json"
 
-SKIP_ROOTS = {"new", "new good", "_music_scripts", "_playlists"}
+SKIP_ROOTS = {"new", "new good", "_music_scripts", "_playlists", "_dupes_removed"}
 
 # Keywords in file paths to exclude (case-insensitive)
 BLOCKLIST_KEYWORDS = {"bizarring"}

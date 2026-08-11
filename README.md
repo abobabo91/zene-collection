@@ -34,7 +34,7 @@ Genres and sub-genres are derived purely from the folder structure:
 | trap | `_trap/` | region |
 | hungarian rap | `_magyar rap/` | — |
 | hungarian trap | `_magyar trap/` | — |
-| pop | `_other/_pop/` | billboard, kpop, modern, oldschool |
+| pop | `_other/_pop/` | kpop, modern, oldschool |
 | electronic | `_other/_elektro/` | deep house, house & techno, psytrance, dnb, etc. |
 | hungarian | `_other/_magyar/` | rock, pop, retro, nepzene, etc. |
 | r&b | `_other/_rnb/` | — |
@@ -56,6 +56,26 @@ Genres and sub-genres are derived purely from the folder structure:
 
 4. **Keyword blocklist** for excluding specific files from the catalog without exposing filenames in the code
 
+### Excluded from the catalog
+
+`new/`, `new good/`, `_music_scripts/`, `_playlists/`, `_dupes_removed/`. The last is the
+holding pen for tracks pulled out during a dedupe pass — it is not part of the collection,
+and anything left there would be counted as such and land in `main_genre: other`, since it
+matches no genre rule. `rebuild.py`'s CSV scan derives its exclusions from the same
+constant; the two lists used to be written out separately and had already drifted, so
+`_playlists` was excluded from the catalog but counted in the CSV.
+
+`_other/_pop/_billboard/<year>/` no longer exists — that tree was reorganised into
+per-artist folders plus `_oldschool_pop` / `_modern` / `_kpop` / `_random` during the
+2026-08-11 dedupe. The `billboard` sub-genre disappeared with it (554 tracks carried it);
+those files are now `pop` with no sub-genre, or gone. `POP_SUB` still maps the folder name
+so an old tree would classify, but nothing on disk uses it.
+
+A **directory can be named `.mp3`**: `_magyar rap/el bago/ultimohombre/ultimohombre.mp3` is
+a folder holding four real tracks. `os.walk` descends into it correctly, but PowerShell's
+`Get-ChildItem -Filter *.mp3` returns the folder itself as a row, which is why the CSV scan
+passes `-File`.
+
 ## Quick start (local)
 
 ```
@@ -71,8 +91,15 @@ Rebuilds the catalog from disk and opens the dashboard at http://localhost:8765.
 | `build_catalog.py` | Genre classifier — scans disk, writes `genre_catalog.json` |
 | `index.html` | Dashboard — Chart.js, vanilla JS, dark theme |
 | `serve.py` | Rebuild catalog + serve locally |
-| `genre_catalog.json` | Generated catalog (~15k entries) |
+| `genre_catalog.json` | Generated catalog (14,975 entries as of 2026-08-11) |
 | `build_mp3_timeline.py` | Generates `mp3_sorted_filtered.csv` (all mp3s sorted by date) |
+| `rebuild.py` | Rebuild catalog + CSV if anything changed — **commits and pushes on its own** |
+
+`rebuild.py` takes no arguments and always ends in `git add -A && commit && push`. To
+rebuild without publishing, call `build_catalog.py` and `rebuild.rebuild_csv()` directly.
+
+The catalog holds **14,975** entries and the CSV **14,976**; the one extra row is the
+`bizarring` keyword-blocklist file, which the CSV scan does not filter.
 
 ## Tech
 
