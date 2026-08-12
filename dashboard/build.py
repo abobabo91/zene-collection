@@ -25,9 +25,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 #: A repó gyökere. Az idővonal és a gráf 2026-08-12 óta ide, ugyanebbe a repóba tartozik
 #: (`timeline/`, `graph/`), így a forrásuk testvérmappa, nem külön repó.
 REPO = os.path.dirname(HERE)
-#: Az audio profilok viszont továbbra is külön repó a `_music_scripts` alatt, és lehet,
-#: hogy nincs is meg - a begyűjtés kihagyja, ha hiányzik.
 SCRIPTS = os.path.dirname(REPO)
+#: Az audio profilok külön projekt: a `_elektro_classifier` 2026-08-12-én beolvadt a
+#: `music-generation` repóba `projects/library-classifier` néven. Amíg a régi helyre
+#: mutattunk, az audio fül 404-elt az élő oldalon. Ha nincs meg, a begyűjtés kihagyja.
+AUDIO_SRC = os.path.join(os.path.dirname(SCRIPTS), "music-generation",
+                         "projects", "library-classifier", "data")
 #: A kimenet a `docs/`, mert a GitHub Pages csak a repó gyökeréből vagy a `docs/`-ból tud
 #: kiszolgálni. A gyökér nem jöhet szóba: a `graph/` és a `timeline/` ott már a *forrás*, a
 #: dashboard pedig ugyanilyen nevű almappákba másol, tehát ütköznének.
@@ -39,7 +42,7 @@ SOURCES = [
      ["index.html", "genre_catalog.json", "recent_playlists.json"]),
     ("graph", "Előadó-gráf", os.path.join(REPO, "graph"),
      ["index.html"]),
-    ("audio", "Audio profilok", os.path.join(SCRIPTS, "_elektro_classifier"),
+    ("audio", "Audio profilok", AUDIO_SRC,
      [("zene_library.html", "index.html")]),
 ]
 
@@ -102,7 +105,7 @@ def counts():
     except (OSError, ValueError):
         pass
     try:
-        feats = os.path.join(SCRIPTS, "_elektro_classifier", "features_long.json")
+        feats = os.path.join(AUDIO_SRC, "features_long.json")
         rows = json.load(open(feats, encoding="utf-8"))
         out["audio"] = sum(1 for v in rows.values()
                            if isinstance(v, dict) and "feature_vector" in v)
