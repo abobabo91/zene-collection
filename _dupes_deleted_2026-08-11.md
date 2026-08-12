@@ -147,3 +147,12 @@
 - `_trap\_usa random\_random\Don toliver playlist\Don Toliver - No Idea [Official Music Video].mp3`
 - `_trap\_usa random\_random\Rap Caviar   Spotify\Rap Caviar 2016 Music Playlist  Best 50 RAP  Hip-Hop Hits\Young M.A  OOOUUU  (Official Video).mp3`
 - `_trap\_usa random\_random\WSHH\Uncle Murda x Cam ron  Camron Voice (Remix)  (WSHH Exclusive - Official Audio).mp3`
+
+## Second pass, 2026-08-12 (6 files)
+
+- `Alessia Cara - Scars To Your Beautiful (Audio).mp3`
+- `Justin Timberlake - CAN_T STOP THE FEELING! (Original Song from DreamWorks Animation_s _TROLLS_).mp3`
+- `_other\_pop\_random\Martin Garrix _ Bebe Rexha - In the Name of Love (Official Video).mp3`
+- `_other\_pop\_random\MØ - Final Song (Official Video).mp3`
+- `_trap\_usa random\post malone\Post Malone - rockstar ft. 21 Savage.mp3`
+- `_trap\_usa random\_random\HIPHOPTXL\Various Artists - Hip Hop TXL Vol 13 (DatPiff.com)\01 - Rockie Fresh - God Is Great (DatPiff Exclusive).mp3`
