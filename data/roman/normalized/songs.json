@@ -89,19 +89,27 @@
   {
     "song_id": "rn-00005",
     "file": "_other\\_roman\\_modern pop\\Adrian Sina - Angel feat. Sandra N. ( official video HD ).mp3",
-    "title": "Angel feat",
+    "title": "Angel",
     "primary_artists": [
       "Adrian Sina"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sandra N"
+    ],
     "artists": [
-      "Adrian Sina"
+      "Adrian Sina",
+      "Sandra N"
     ],
     "credits": [
       {
         "entity": "Adrian Sina",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sandra N",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -109,7 +117,7 @@
   {
     "song_id": "rn-00006",
     "file": "_other\\_roman\\_modern pop\\Alexandra Stan\\Alexandra Stan - Ecoute (feat. Havana)   Official Music Video.mp3",
-    "title": "Ecoute (feat",
+    "title": "Ecoute (feat. Havana)",
     "primary_artists": [
       "Alexandra Stan"
     ],
@@ -149,7 +157,7 @@
   {
     "song_id": "rn-00008",
     "file": "_other\\_roman\\_modern pop\\Alexandra Stan\\ALEXANDRA STAN - Mr. Saxobeat.mp3",
-    "title": "Mr",
+    "title": "Mr. Saxobeat",
     "primary_artists": [
       "Alexandra Stan"
     ],
@@ -540,15 +548,18 @@
   {
     "song_id": "rn-00026",
     "file": "_other\\_roman\\_modern pop\\HOT in Dance\\Alex Pizzuti, Max + Johann - Boom (Official Music Video) ft. Jo.mp3",
-    "title": "Boom ft",
+    "title": "Boom",
     "primary_artists": [
       "Alex Pizzuti",
       "Max + Johann"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jo"
+    ],
     "artists": [
       "Alex Pizzuti",
-      "Max + Johann"
+      "Max + Johann",
+      "Jo"
     ],
     "credits": [
       {
@@ -560,6 +571,11 @@
         "entity": "Max + Johann",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jo",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -681,7 +697,7 @@
   {
     "song_id": "rn-00032",
     "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Deja Vu (feat. Bob Taylor) [Official Music Video].mp3",
-    "title": "Deja Vu (feat",
+    "title": "Deja Vu (feat. Bob Taylor)",
     "primary_artists": [
       "INNA"
     ],
@@ -1670,7 +1686,7 @@
   {
     "song_id": "rn-00078",
     "file": "_other\\_roman\\_old pop\\Mix – Alex Velea- Dragoste la prima vedere feat  Connect-R [Official video HQ]\\Simplu - Mr. Originality.mp3",
-    "title": "Mr",
+    "title": "Mr. Originality",
     "primary_artists": [
       "Simplu"
     ],
@@ -1932,19 +1948,27 @@
   {
     "song_id": "rn-00090",
     "file": "_other\\_roman\\_trap\\Călinacho\\Calinacho - Sinaia ft. Amuly (Official Video).mp3",
-    "title": "Sinaia ft",
+    "title": "Sinaia",
     "primary_artists": [
       "Calinacho"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Amuly"
+    ],
     "artists": [
-      "Calinacho"
+      "Calinacho",
+      "Amuly"
     ],
     "credits": [
       {
         "entity": "Calinacho",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Amuly",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1979,7 +2003,7 @@
   {
     "song_id": "rn-00092",
     "file": "_other\\_roman\\_trap\\Dhali\\Dhali - BEZOS (feat. Bvcovia, MARKO GLASS & Oscar) Official Video.mp3",
-    "title": "BEZOS (feat",
+    "title": "BEZOS (feat. Bvcovia, MARKO GLASS & Oscar)",
     "primary_artists": [
       "Dhali"
     ],
@@ -2135,19 +2159,27 @@
   {
     "song_id": "rn-00099",
     "file": "_other\\_roman\\_trap\\Horace - KUMFUG feat. Azteca (Audio).mp3",
-    "title": "KUMFUG feat",
+    "title": "KUMFUG",
     "primary_artists": [
       "Horace"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Azteca"
+    ],
     "artists": [
-      "Horace"
+      "Horace",
+      "Azteca"
     ],
     "credits": [
       {
         "entity": "Horace",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Azteca",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2222,19 +2254,27 @@
   {
     "song_id": "rn-00103",
     "file": "_other\\_roman\\_trap\\OSCAR - Prophet ft. Alex Bittman (Official Video).mp3",
-    "title": "Prophet ft",
+    "title": "Prophet",
     "primary_artists": [
       "OSCAR"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Alex Bittman"
+    ],
     "artists": [
-      "OSCAR"
+      "OSCAR",
+      "Alex Bittman"
     ],
     "credits": [
       {
         "entity": "OSCAR",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Alex Bittman",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

@@ -82,6 +82,22 @@ def clean_artist_text(text: str) -> str:
     return re.sub(r"\s+", " ", value).strip(" .-_,")
 
 
+def strip_audio_ext(name: str) -> str:
+    """Drop a real audio extension, and only that.
+
+    `clean_title` is called on whole filenames *and* on the title half of an already-split
+    name, and `Path(x).stem` cannot tell the difference: it removes everything after the
+    last dot. `I Love It ft. Fabolous` became `I Love It ft`, `2 Reasons ft. T.I.` became
+    `Reasons ft. T`. Every `Artist - Title ft. Guest` filename silently lost its guest,
+    which is why those songs never credited the featured artist.
+    """
+    lowered = name.lower()
+    for ext in AUDIO_EXTS:
+        if lowered.endswith(ext):
+            return name[: -len(ext)]
+    return name
+
+
 def clean_title(filename: str) -> str:
     """Turn a filename into a display title.
 
@@ -90,7 +106,7 @@ def clean_title(filename: str) -> str:
     `Baby Keem - 16 (Official Audio)` cleaned to `()`, then to nothing. So the stripped
     number is remembered and handed back when the rest evaporates.
     """
-    stem = UNICODE_DASH_RE.sub("-", Path(filename).stem)
+    stem = UNICODE_DASH_RE.sub("-", strip_audio_ext(filename))
     title = _clean_title_body(stem)
     if not title:
         # Retry without the track-number strips; a number is a better title than nothing.

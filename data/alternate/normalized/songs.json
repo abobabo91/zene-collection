@@ -723,19 +723,27 @@
   {
     "song_id": "al-00036",
     "file": "_other\\_alternate\\_random\\Best Jazzanova\\Jazzanova - No Use feat. Clara Hill (Official Video).mp3",
-    "title": "No Use feat",
+    "title": "No Use",
     "primary_artists": [
       "Jazzanova"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Clara Hill"
+    ],
     "artists": [
-      "Jazzanova"
+      "Jazzanova",
+      "Clara Hill"
     ],
     "credits": [
       {
         "entity": "Jazzanova",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Clara Hill",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1851,7 +1859,7 @@
   {
     "song_id": "al-00092",
     "file": "_other\\_alternate\\_random\\John Frusciante - YouTube\\John Frusciante - Dying Song [J.Fuentes Remix].mp3",
-    "title": "Dying Song [J",
+    "title": "Dying Song [J.Fuentes Remix]",
     "primary_artists": [
       "John Frusciante"
     ],
@@ -2111,19 +2119,27 @@
   {
     "song_id": "al-00105",
     "file": "_other\\_alternate\\_random\\Last Night - Copy\\Snoh Aalegra - Nothing Burns Like The Cold (Lyric Video) ft. Vince Staples.mp3",
-    "title": "Nothing Burns Like The Cold ft",
+    "title": "Nothing Burns Like The Cold",
     "primary_artists": [
       "Snoh Aalegra"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Vince Staples"
+    ],
     "artists": [
-      "Snoh Aalegra"
+      "Snoh Aalegra",
+      "Vince Staples"
     ],
     "credits": [
       {
         "entity": "Snoh Aalegra",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Vince Staples",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2839,7 +2855,7 @@
   {
     "song_id": "al-00141",
     "file": "_other\\_alternate\\_random\\Mix – Kreayshawn\\Kreayshawn - Go Hard (La.La.La) (Video).mp3",
-    "title": "Go Hard (La.La",
+    "title": "Go Hard (La.La.La) (Video)",
     "primary_artists": [
       "Kreayshawn"
     ],
@@ -2879,7 +2895,7 @@
   {
     "song_id": "al-00143",
     "file": "_other\\_alternate\\_random\\Mix – Kreayshawn\\Kreayshawn - Summertime feat. V-Nasty - Pseudo VHS Video.mp3",
-    "title": "Summertime feat",
+    "title": "Summertime",
     "primary_artists": [
       "Kreayshawn"
     ],
@@ -3259,7 +3275,7 @@
   {
     "song_id": "al-00162",
     "file": "_other\\_alternate\\_random\\Mk Gee\\Mk.gee - Overtime (pt. 1).mp3",
-    "title": "Overtime (pt",
+    "title": "Overtime (pt. 1)",
     "primary_artists": [
       "Mk Gee"
     ],
@@ -3279,7 +3295,7 @@
   {
     "song_id": "al-00163",
     "file": "_other\\_alternate\\_random\\Noah Lindsey Cyrus - YouTu\\Noah Cyrus - Again ft. XXXTENTACION (Official Vide.mp3",
-    "title": "Again ft",
+    "title": "Again",
     "primary_artists": [
       "Noah Cyrus"
     ],
@@ -3773,19 +3789,27 @@
   {
     "song_id": "al-00187",
     "file": "_other\\_alternate\\_random\\Snakehips - Cruel (Official Video) ft. ZAYN.mp3",
-    "title": "Cruel ft",
+    "title": "Cruel",
     "primary_artists": [
       "Snakehips"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "ZAYN"
+    ],
     "artists": [
-      "Snakehips"
+      "Snakehips",
+      "ZAYN"
     ],
     "credits": [
       {
         "entity": "Snakehips",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "ZAYN",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5108,7 +5132,7 @@
   {
     "song_id": "al-00253",
     "file": "_other\\_alternate\\BANKS\\BANKS - Bedroom Wall (Prod. Totally Enormous Extinct Dinosaurs).mp3",
-    "title": "Bedroom Wall (Prod",
+    "title": "Bedroom Wall (Prod. Totally Enormous Extinct Dinosaurs)",
     "primary_artists": [
       "BANKS"
     ],
@@ -5188,7 +5212,7 @@
   {
     "song_id": "al-00257",
     "file": "_other\\_alternate\\Billie Eilish\\Billie Eilish - 6.18.18 (song for xxxtentacion).mp3",
-    "title": "18",
+    "title": "18.18 (song for xxxtentacion)",
     "primary_artists": [
       "Billie Eilish"
     ],
@@ -5676,19 +5700,27 @@
   {
     "song_id": "al-00281",
     "file": "_other\\_alternate\\Charli xcx\\Clean Bandit - Rather Be ft. Jess Glynne [Official Video].mp3",
-    "title": "Rather Be ft",
+    "title": "Rather Be",
     "primary_artists": [
       "Clean Bandit"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jess Glynne"
+    ],
     "artists": [
-      "Clean Bandit"
+      "Clean Bandit",
+      "Jess Glynne"
     ],
     "credits": [
       {
         "entity": "Clean Bandit",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jess Glynne",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6120,15 +6152,23 @@
     "primary_artists": [
       "Marshmello"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Me Feat. CHVRCHES"
+    ],
     "artists": [
-      "Marshmello"
+      "Marshmello",
+      "Me Feat. CHVRCHES"
     ],
     "credits": [
       {
         "entity": "Marshmello",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Me Feat. CHVRCHES",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6196,19 +6236,27 @@
   {
     "song_id": "al-00307",
     "file": "_other\\_alternate\\Coldplay\\Coldplay - Princess Of China ft. Rihanna.mp3",
-    "title": "Princess Of China ft",
+    "title": "Princess Of China",
     "primary_artists": [
       "Coldplay"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rihanna"
+    ],
     "artists": [
-      "Coldplay"
+      "Coldplay",
+      "Rihanna"
     ],
     "credits": [
       {
         "entity": "Coldplay",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rihanna",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6776,7 +6824,7 @@
   {
     "song_id": "al-00336",
     "file": "_other\\_alternate\\FLETCHER\\FLETCHER - Shh... Don_t Say It (Official Video).mp3",
-    "title": "Shh",
+    "title": "Shh... Don t Say It",
     "primary_artists": [
       "FLETCHER"
     ],
@@ -6816,7 +6864,7 @@
   {
     "song_id": "al-00338",
     "file": "_other\\_alternate\\FLETCHER\\FLETCHER, Kito - Bitter (ft. Trevor Daniel).mp3",
-    "title": "Bitter (ft",
+    "title": "Bitter (ft. Trevor Daniel)",
     "primary_artists": [
       "FLETCHER",
       "Kito"
@@ -7571,7 +7619,7 @@
   {
     "song_id": "al-00375",
     "file": "_other\\_alternate\\halsey\\Halsey - Forever ... (is a long time) (Visualizer).mp3",
-    "title": "Forever",
+    "title": "Forever ... (is a long time) (Visualizer)",
     "primary_artists": [
       "Halsey"
     ],
@@ -7731,19 +7779,27 @@
   {
     "song_id": "al-00383",
     "file": "_other\\_alternate\\halsey\\Halsey - Strangers (Audio) ft. Lauren Jauregui.mp3",
-    "title": "Strangers (Audio) ft",
+    "title": "Strangers (Audio)",
     "primary_artists": [
       "Halsey"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lauren Jauregui"
+    ],
     "artists": [
-      "Halsey"
+      "Halsey",
+      "Lauren Jauregui"
     ],
     "credits": [
       {
         "entity": "Halsey",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lauren Jauregui",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7771,19 +7827,27 @@
   {
     "song_id": "al-00385",
     "file": "_other\\_alternate\\halsey\\Halsey - Without Me (Audio) ft. Juice WRLD.mp3",
-    "title": "Without Me (Audio) ft",
+    "title": "Without Me (Audio)",
     "primary_artists": [
       "Halsey"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Juice WRLD"
+    ],
     "artists": [
-      "Halsey"
+      "Halsey",
+      "Juice WRLD"
     ],
     "credits": [
       {
         "entity": "Halsey",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Juice WRLD",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8258,7 +8322,7 @@
   {
     "song_id": "al-00409",
     "file": "_other\\_alternate\\james blake\\James Blake - Overgrown (Deluxe Edition) 2013 Dance 320kbps CBR MP3 [VX] [P2PDL]\\04 James Blake - Take a Fall For Me (feat. RZA).mp3",
-    "title": "Take a Fall For Me (feat",
+    "title": "Take a Fall For Me (feat. RZA)",
     "primary_artists": [
       "James Blake"
     ],
@@ -9254,7 +9318,7 @@
   {
     "song_id": "al-00458",
     "file": "_other\\_alternate\\Low Roar\\Low Roar -  Bones  (feat. Jófríõur Ákadóttir) [Official Audio].mp3",
-    "title": "Bones (feat",
+    "title": "Bones (feat. Jófríõur Ákadóttir)",
     "primary_artists": [
       "Low Roar"
     ],

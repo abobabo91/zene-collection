@@ -336,6 +336,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Clara Hill": {
+    "song_ids": [
+      "al-00036"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00036"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Big Thief": {
     "song_ids": [
       "al-00037",
@@ -776,6 +787,17 @@
       "al-00105"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vince Staples": {
+    "song_ids": [
+      "al-00105"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00105"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1238,6 +1260,17 @@
       "al-00187"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ZAYN": {
+    "song_ids": [
+      "al-00187"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00187"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1758,6 +1791,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Jess Glynne": {
+    "song_ids": [
+      "al-00281"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00281"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Doechii": {
     "song_ids": [
       "al-00282",
@@ -1827,6 +1871,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Me Feat. CHVRCHES": {
+    "song_ids": [
+      "al-00303"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00303"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Coldplay": {
     "song_ids": [
       "al-00304",
@@ -1845,6 +1900,17 @@
       "al-00309"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rihanna": {
+    "song_ids": [
+      "al-00307"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00307"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2185,6 +2251,31 @@
       "al-00365"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lauren Jauregui": {
+    "song_ids": [
+      "al-00383"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00383"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Juice WRLD": {
+    "song_ids": [
+      "al-00385",
+      "al-00543"
+    ],
+    "primary_song_ids": [
+      "al-00543"
+    ],
+    "feature_song_ids": [
+      "al-00385"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2720,17 +2811,6 @@
     "primary_song_ids": [
       "al-00543",
       "al-00544"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Juice WRLD": {
-    "song_ids": [
-      "al-00543"
-    ],
-    "primary_song_ids": [
-      "al-00543"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

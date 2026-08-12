@@ -400,6 +400,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "RomBerg": {
+    "song_ids": [
+      "ru-00040"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ru-00040"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "MiyaGi": {
     "song_ids": [
       "ru-00041",
@@ -563,6 +574,17 @@
       "ru-00069"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ty Dolla $ign": {
+    "song_ids": [
+      "ru-00069"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ru-00069"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

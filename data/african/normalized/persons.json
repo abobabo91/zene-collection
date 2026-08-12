@@ -45,12 +45,15 @@
   },
   "Alpha P": {
     "song_ids": [
-      "af-00004"
+      "af-00004",
+      "af-00081"
     ],
     "primary_song_ids": [
       "af-00004"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "af-00081"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -168,6 +171,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Mavo": {
+    "song_ids": [
+      "af-00012"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00012"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Davido": {
     "song_ids": [
       "af-00016",
@@ -186,7 +200,18 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "You ft": {
+  "Popcaan": {
+    "song_ids": [
+      "af-00016"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00016"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "You ft. Omah Lay": {
     "song_ids": [
       "af-00018"
     ],
@@ -241,21 +266,25 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Spax": {
+  "Adekunle Gold": {
     "song_ids": [
-      "af-00026"
+      "af-00024",
+      "af-00048"
     ],
-    "primary_song_ids": [
-      "af-00026"
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00024",
+      "af-00048"
     ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
   "Wizkid": {
     "song_ids": [
+      "af-00025",
       "af-00026",
       "af-00108",
+      "af-00136",
       "af-00138",
       "af-00139",
       "af-00140",
@@ -265,7 +294,8 @@
       "af-00144",
       "af-00145",
       "af-00146",
-      "af-00147"
+      "af-00147",
+      "af-00189"
     ],
     "primary_song_ids": [
       "af-00026",
@@ -281,8 +311,36 @@
       "af-00147"
     ],
     "feature_song_ids": [
-      "af-00139"
+      "af-00025",
+      "af-00136",
+      "af-00139",
+      "af-00189"
     ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Reekado Banks": {
+    "song_ids": [
+      "af-00025",
+      "af-00094"
+    ],
+    "primary_song_ids": [
+      "af-00094"
+    ],
+    "feature_song_ids": [
+      "af-00025"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Spax": {
+    "song_ids": [
+      "af-00026"
+    ],
+    "primary_song_ids": [
+      "af-00026"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -344,6 +402,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Ayman hanad": {
+    "song_ids": [
+      "af-00039"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00039"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "ROOKS": {
     "song_ids": [
       "af-00042"
@@ -402,17 +471,6 @@
       "af-00050"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Adekunle Gold": {
-    "song_ids": [
-      "af-00048"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "af-00048"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -492,6 +550,21 @@
       "af-00053"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "WizKid": {
+    "song_ids": [
+      "af-00053",
+      "af-00135",
+      "af-00137"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00053",
+      "af-00135",
+      "af-00137"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -625,6 +698,17 @@
       "af-00060"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Love Renaissance": {
+    "song_ids": [
+      "af-00060"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00060"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -828,6 +912,7 @@
   "Omah Lay": {
     "song_ids": [
       "af-00080",
+      "af-00081",
       "af-00082",
       "af-00083",
       "af-00084",
@@ -852,6 +937,7 @@
       "af-00090"
     ],
     "feature_song_ids": [
+      "af-00081",
       "af-00091"
     ],
     "via_group_song_ids": [],
@@ -860,13 +946,16 @@
   "Justin Bieber": {
     "song_ids": [
       "af-00081",
-      "af-00082"
+      "af-00082",
+      "af-00108"
     ],
     "primary_song_ids": [
       "af-00081",
       "af-00082"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "af-00108"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -931,17 +1020,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Reekado Banks": {
-    "song_ids": [
-      "af-00094"
-    ],
-    "primary_song_ids": [
-      "af-00094"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "4AM": {
     "song_ids": [
       "af-00095"
@@ -955,12 +1033,15 @@
   },
   "Diamond Platnumz": {
     "song_ids": [
-      "af-00096"
+      "af-00096",
+      "af-00177"
     ],
     "primary_song_ids": [
       "af-00096"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "af-00177"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -994,6 +1075,22 @@
       "af-00098"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tems": {
+    "song_ids": [
+      "af-00108",
+      "af-00122",
+      "af-00123"
+    ],
+    "primary_song_ids": [
+      "af-00122",
+      "af-00123"
+    ],
+    "feature_song_ids": [
+      "af-00108"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1051,6 +1148,50 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "TERRI": {
+    "song_ids": [
+      "af-00118"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00118"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "SPOTLESS": {
+    "song_ids": [
+      "af-00118"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00118"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "CEEZA MILLI": {
+    "song_ids": [
+      "af-00118"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00118"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "WIZKID": {
+    "song_ids": [
+      "af-00118"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00118"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Trendz": {
     "song_ids": [
       "af-00119"
@@ -1079,19 +1220,6 @@
     ],
     "primary_song_ids": [
       "af-00121"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Tems": {
-    "song_ids": [
-      "af-00122",
-      "af-00123"
-    ],
-    "primary_song_ids": [
-      "af-00122",
-      "af-00123"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1193,6 +1321,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Ty Dolla $ign": {
+    "song_ids": [
+      "af-00135"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00135"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Lagos To Kampala": {
     "song_ids": [
       "af-00136"
@@ -1222,6 +1361,61 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "af-00139"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chris Brown": {
+    "song_ids": [
+      "af-00140"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00140"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ella Mai": {
+    "song_ids": [
+      "af-00144"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00144"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Terri": {
+    "song_ids": [
+      "af-00145"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00145"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tay Iwar": {
+    "song_ids": [
+      "af-00147"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00147"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Projexx": {
+    "song_ids": [
+      "af-00147"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00147"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1267,6 +1461,61 @@
       "af-00151"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "C'buda M": {
+    "song_ids": [
+      "af-00151"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00151"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alfa Kat": {
+    "song_ids": [
+      "af-00151"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00151"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Banaba Des": {
+    "song_ids": [
+      "af-00151"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00151"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sdida": {
+    "song_ids": [
+      "af-00151"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00151"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Man T": {
+    "song_ids": [
+      "af-00151"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00151"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1402,6 +1651,46 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Aymos": {
+    "song_ids": [
+      "af-00165"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00165"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Maphorisa": {
+    "song_ids": [
+      "af-00165"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00165"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kabza De Small": {
+    "song_ids": [
+      "af-00165",
+      "af-00180",
+      "af-00189",
+      "af-00190"
+    ],
+    "primary_song_ids": [
+      "af-00180",
+      "af-00189",
+      "af-00190"
+    ],
+    "feature_song_ids": [
+      "af-00165"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "MI CASA": {
     "song_ids": [
       "af-00166",
@@ -1518,6 +1807,20 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Dj Maphorisa": {
+    "song_ids": [
+      "af-00177",
+      "af-00180"
+    ],
+    "primary_song_ids": [
+      "af-00180"
+    ],
+    "feature_song_ids": [
+      "af-00177"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Distruction Boyz": {
     "song_ids": [
       "af-00179"
@@ -1529,29 +1832,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Dj Maphorisa": {
+  "Zhao": {
     "song_ids": [
-      "af-00180"
+      "af-00179"
     ],
-    "primary_song_ids": [
-      "af-00180"
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00179"
     ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Kabza De Small": {
-    "song_ids": [
-      "af-00180",
-      "af-00189",
-      "af-00190"
-    ],
-    "primary_song_ids": [
-      "af-00180",
-      "af-00189",
-      "af-00190"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1585,6 +1873,17 @@
       "af-00184"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daliwonga": {
+    "song_ids": [
+      "af-00190"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00190"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1735,19 +2034,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "S.N": {
-    "song_ids": [
-      "af-00202",
-      "af-00203"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "af-00202",
-      "af-00203"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Zakes Bantwini": {
     "song_ids": [
       "af-00207",
@@ -1847,6 +2133,17 @@
       "af-00219"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "F.S": {
+    "song_ids": [
+      "af-00219"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00219"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

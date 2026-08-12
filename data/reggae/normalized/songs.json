@@ -584,7 +584,7 @@
   {
     "song_id": "rg-00029",
     "file": "_other\\_reggea\\Burning Spear - Hail H.I.M. - 01 - Hail H.I.M..mp3",
-    "title": "Hail H.I.M. - 01 - Hail H.I",
+    "title": "Hail H.I.M. - 01 - Hail H.I.M",
     "primary_artists": [
       "Burning Spear"
     ],
@@ -724,19 +724,27 @@
   {
     "song_id": "rg-00036",
     "file": "_other\\_reggea\\Gentleman - To The Top ft. Christopher Martin (Official Video).mp3",
-    "title": "To The Top ft",
+    "title": "To The Top",
     "primary_artists": [
       "Gentleman"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Christopher Martin"
+    ],
     "artists": [
-      "Gentleman"
+      "Gentleman",
+      "Christopher Martin"
     ],
     "credits": [
       {
         "entity": "Gentleman",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Christopher Martin",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -904,7 +912,7 @@
   {
     "song_id": "rg-00045",
     "file": "_other\\_reggea\\John Holt Strange Things\\Protoje - Who Knows ft. Chronixx (Official Music V.mp3",
-    "title": "Who Knows ft",
+    "title": "Who Knows",
     "primary_artists": [
       "Protoje"
     ],
@@ -1024,19 +1032,27 @@
   {
     "song_id": "rg-00051",
     "file": "_other\\_reggea\\Marley family\\Damian Marley - Road to Zion ft. Nas.mp3",
-    "title": "Road to Zion ft",
+    "title": "Road to Zion",
     "primary_artists": [
       "Damian Marley"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nas"
+    ],
     "artists": [
-      "Damian Marley"
+      "Damian Marley",
+      "Nas"
     ],
     "credits": [
       {
         "entity": "Damian Marley",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nas",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1144,7 +1160,7 @@
   {
     "song_id": "rg-00057",
     "file": "_other\\_reggea\\Marley family\\Stephen  RAGGA  Marley - Rock Stone (ft. Capleton & Sizzla) (Official Video).mp3",
-    "title": "Rock Stone (ft",
+    "title": "Rock Stone (ft. Capleton & Sizzla)",
     "primary_artists": [
       "Stephen RAGGA Marley"
     ],
@@ -1164,19 +1180,34 @@
   {
     "song_id": "rg-00058",
     "file": "_other\\_reggea\\Marley family\\Stephen Marley - Made In Africa ft. Wale, The Cast of Fela.mp3",
-    "title": "Made In Africa ft",
+    "title": "Made In Africa",
     "primary_artists": [
       "Stephen Marley"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Wale",
+      "The Cast of Fela"
+    ],
     "artists": [
-      "Stephen Marley"
+      "Stephen Marley",
+      "Wale",
+      "The Cast of Fela"
     ],
     "credits": [
       {
         "entity": "Stephen Marley",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Wale",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "The Cast of Fela",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1184,19 +1215,27 @@
   {
     "song_id": "rg-00059",
     "file": "_other\\_reggea\\Marley family\\Stephen Marley - Scars On My Feet ft. Waka Flocka Flame.mp3",
-    "title": "Scars On My Feet ft",
+    "title": "Scars On My Feet",
     "primary_artists": [
       "Stephen Marley"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Waka Flocka Flame"
+    ],
     "artists": [
-      "Stephen Marley"
+      "Stephen Marley",
+      "Waka Flocka Flame"
     ],
     "credits": [
       {
         "entity": "Stephen Marley",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Waka Flocka Flame",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1204,7 +1243,7 @@
   {
     "song_id": "rg-00060",
     "file": "_other\\_reggea\\Marley family\\Stick Figure –  Smokin_ Love  (feat. Collie Buddz).mp3",
-    "title": "Smokin Love (feat",
+    "title": "Smokin Love (feat. Collie Buddz)",
     "primary_artists": [
       "Stick Figure"
     ],
@@ -1284,7 +1323,7 @@
   {
     "song_id": "rg-00064",
     "file": "_other\\_reggea\\Mungo_s Hi-Fi - Did You Really Know (feat. Soom T).mp3",
-    "title": "Did You Really Know (feat",
+    "title": "Did You Really Know (feat. Soom T)",
     "primary_artists": [
       "Mungo s Hi-Fi"
     ],
@@ -1883,7 +1922,7 @@
   {
     "song_id": "rg-00092",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Smoking Love (feat. Collie Buddz).mp3",
-    "title": "Smoking Love (feat",
+    "title": "Smoking Love (feat. Collie Buddz)",
     "primary_artists": [
       "Stick Figure"
     ],
@@ -1943,7 +1982,7 @@
   {
     "song_id": "rg-00095",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure –  Choice is Yours  (feat. Slightly Stoopid) [Audio].mp3",
-    "title": "Choice is Yours (feat",
+    "title": "Choice is Yours (feat. Slightly Stoopid) [Audio]",
     "primary_artists": [
       "Stick Figure"
     ],

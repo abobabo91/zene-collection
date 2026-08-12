@@ -41,6 +41,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Miczura Mónika": {
+    "song_ids": [
+      "mg-00009"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00009"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vági Tamás": {
+    "song_ids": [
+      "mg-00009"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00009"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Hiperkarma": {
     "song_ids": [
       "mg-00012",
@@ -130,6 +152,17 @@
       "mg-00041"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Juci Németh": {
+    "song_ids": [
+      "mg-00027"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00027"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -397,6 +430,28 @@
       "mg-00083"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deryl Rose": {
+    "song_ids": [
+      "mg-00081"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00081"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RFX": {
+    "song_ids": [
+      "mg-00081"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00081"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1332,17 +1387,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kiss T": {
-    "song_ids": [
-      "mg-00241"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "mg-00241"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Ez a világ nekem való This World Is Made For Me": {
     "song_ids": [
       "mg-00243"
@@ -1980,6 +2024,17 @@
       "mg-00350"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eckü": {
+    "song_ids": [
+      "mg-00350"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00350"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

@@ -162,19 +162,34 @@
   {
     "song_id": "mg-00009",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Vacak feat. Miczura Mónika (vokál) & Vági Tamás (kürt).mp3",
-    "title": "Vacak feat",
+    "title": "Vacak",
     "primary_artists": [
       "Elefánt"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Miczura Mónika",
+      "Vági Tamás"
+    ],
     "artists": [
-      "Elefánt"
+      "Elefánt",
+      "Miczura Mónika",
+      "Vági Tamás"
     ],
     "credits": [
       {
         "entity": "Elefánt",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Miczura Mónika",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Vági Tamás",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -522,19 +537,27 @@
   {
     "song_id": "mg-00027",
     "file": "_other\\_magyar\\_alternativ\\Kis Pál és a Borz\\Kispál és a Borz - De Szeretnék - feat. Juci Németh.mp3",
-    "title": "De Szeretnék - feat",
+    "title": "De Szeretnék",
     "primary_artists": [
       "Kis Pál és a Borz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Juci Németh"
+    ],
     "artists": [
-      "Kis Pál és a Borz"
+      "Kis Pál és a Borz",
+      "Juci Németh"
     ],
     "credits": [
       {
         "entity": "Kis Pál és a Borz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Juci Németh",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1109,7 +1132,7 @@
   {
     "song_id": "mg-00056",
     "file": "_other\\_magyar\\_cigany\\_Mulatós\\Apostol együttes Nem tudok élni nélküled - 2015.04.29. - tv2.hu fem3cafe.mp3",
-    "title": "2015.04.29. - tv2",
+    "title": "2015.04.29. - tv2.hu fem3cafe",
     "primary_artists": [
       "Apostol együttes Nem tudok élni nélküled"
     ],
@@ -1169,7 +1192,7 @@
   {
     "song_id": "mg-00059",
     "file": "_other\\_magyar\\_cigany\\_Mulatós\\Dupla KáVé - A füredi Anna-bálon - 5. album - 2001 - Feliratozva.mp3",
-    "title": "A füredi Anna-bálon - 5",
+    "title": "A füredi Anna-bálon - 5. album - 2001 - Feliratozva",
     "primary_artists": [
       "Dupla KáVé"
     ],
@@ -1189,7 +1212,7 @@
   {
     "song_id": "mg-00060",
     "file": "_other\\_magyar\\_cigany\\_Mulatós\\Dupla KáVé - Kék a szeme - Vocal - Ha nem tudom, nem fáj - 2. album - 1999.mp3",
-    "title": "Kék a szeme - Vocal - Ha nem tudom, nem fáj - 2",
+    "title": "Kék a szeme - Vocal - Ha nem tudom, nem fáj - 2. album - 1999",
     "primary_artists": [
       "Dupla KáVé"
     ],
@@ -1623,19 +1646,34 @@
   {
     "song_id": "mg-00081",
     "file": "_other\\_magyar\\_cigany\\Astro Music\\AW - HÚZ A SÖTÉT feat. Deryl Rose, RFX (Official Visualizer).mp3",
-    "title": "HÚZ A SÖTÉT feat",
+    "title": "HÚZ A SÖTÉT",
     "primary_artists": [
       "AW"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Deryl Rose",
+      "RFX"
+    ],
     "artists": [
-      "AW"
+      "AW",
+      "Deryl Rose",
+      "RFX"
     ],
     "credits": [
       {
         "entity": "AW",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Deryl Rose",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "RFX",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1663,7 +1701,7 @@
   {
     "song_id": "mg-00083",
     "file": "_other\\_magyar\\_cigany\\Astro Music\\AW - ÖRÖK SZABÁLY (feat. Deryl Rose, RFX).mp3",
-    "title": "ÖRÖK SZABÁLY (feat",
+    "title": "ÖRÖK SZABÁLY (feat. Deryl Rose, RFX)",
     "primary_artists": [
       "AW"
     ],
@@ -2541,7 +2579,7 @@
   {
     "song_id": "mg-00125",
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior Az Én Világom (2004)\\05. LL Junior - Mr. Raggamoffin.mp3",
-    "title": "Mr",
+    "title": "Mr. Raggamoffin",
     "primary_artists": [
       "L.L. Junior"
     ],
@@ -3008,7 +3046,7 @@
   {
     "song_id": "mg-00148",
     "file": "_other\\_magyar\\_cigany\\Mario Official\\MARIO - Te vagy km. Marioka _ OFFICIAL MUSIC VIDEO.mp3",
-    "title": "Te vagy km",
+    "title": "Te vagy km. Marioka",
     "primary_artists": [
       "Mario"
     ],
@@ -3798,7 +3836,7 @@
   {
     "song_id": "mg-00185",
     "file": "_other\\_magyar\\_cigany\\young g\\YOUNG G - Csak a zene km. Teewolution (Dalszöveg).mp3",
-    "title": "Csak a zene km",
+    "title": "Csak a zene km. Teewolution (Dalszöveg)",
     "primary_artists": [
       "Young G"
     ],
@@ -5036,23 +5074,15 @@
     "primary_artists": [
       "Csík Zenekar"
     ],
-    "featuring_artists": [
-      "Kiss T"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Csík Zenekar",
-      "Kiss T"
+      "Csík Zenekar"
     ],
     "credits": [
       {
         "entity": "Csík Zenekar",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Kiss T",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5727,7 +5757,7 @@
   {
     "song_id": "mg-00275",
     "file": "_other\\_magyar\\_nepzene\\Top-Titel – Muzsikás - YouTube\\Pearly Clouds feat. Gary Lucas - Édesanyám rózsafája - 2016.09.30. - Fonó Budai Zeneház.mp3",
-    "title": "Édesanyám rózsafája - 2016.09.30",
+    "title": "Édesanyám rózsafája - 2016.09.30. - Fonó Budai Zeneház",
     "primary_artists": [
       "Pearly Clouds"
     ],
@@ -5915,7 +5945,7 @@
   {
     "song_id": "mg-00284",
     "file": "_other\\_magyar\\_pop\\ByeAlex\\ByeAlex és a Slepp - Még mindig... (Lotfi Begi Remix)   OFFICIAL LYRIC VIDEO.mp3",
-    "title": "Még mindig",
+    "title": "Még mindig... (Lotfi Begi Remix)",
     "primary_artists": [
       "ByeAlex és a Slepp"
     ],
@@ -6450,7 +6480,7 @@
   {
     "song_id": "mg-00310",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\YOUNG G - Ami belefér Km. IGNI │ OFFICIAL MUSIC VIDEO │.mp3",
-    "title": "Ami belefér Km",
+    "title": "Ami belefér Km. IGNI │ │",
     "primary_artists": [
       "Young G"
     ],
@@ -6470,7 +6500,7 @@
   {
     "song_id": "mg-00311",
     "file": "_other\\_magyar\\_pop\\HORVÁTH TOMI ÉS RAUL\\Egyveleg - JANKÓ - ÚGY CSÓKOLLAK (OFFICIAL MUSIC)\\YOUNG G - ELVETEMÜLT PARTY km. MARIO, GOORE, KicsNyúl │ 2015 OFFICIAL MUSIC VIDEO │.mp3",
-    "title": "ELVETEMÜLT PARTY km",
+    "title": "ELVETEMÜLT PARTY km. MARIO, GOORE, KicsNyúl │ 2015 │",
     "primary_artists": [
       "Young G"
     ],
@@ -7250,19 +7280,27 @@
   {
     "song_id": "mg-00350",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Kelemen Kabátban - Maradjatok Gyerekek feat. Eckü (HIVATALOS VIDEOKLIP).mp3",
-    "title": "Maradjatok Gyerekek feat",
+    "title": "Maradjatok Gyerekek",
     "primary_artists": [
       "Kelemen Kabátban"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Eckü"
+    ],
     "artists": [
-      "Kelemen Kabátban"
+      "Kelemen Kabátban",
+      "Eckü"
     ],
     "credits": [
       {
         "entity": "Kelemen Kabátban",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Eckü",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11396,7 +11434,7 @@
   {
     "song_id": "mg-00554",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Koncz Zsuzsa - Ha én rózsa volnék... (1973).mp3",
-    "title": "Ha én rózsa volnék",
+    "title": "Ha én rózsa volnék... (1973)",
     "primary_artists": [
       "Koncz Zsuzsa"
     ],
@@ -11784,7 +11822,7 @@
   {
     "song_id": "mg-00573",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Open Stage - Aranka Szeretlek (www.openstageproduction.ro) TVR Magyar Adás.mp3",
-    "title": "Aranka Szeretlek (www.openstageproduction",
+    "title": "Aranka Szeretlek (www.openstageproduction.ro) TVR Magyar Adás",
     "primary_artists": [
       "N/A"
     ],
@@ -12391,7 +12429,7 @@
   {
     "song_id": "mg-00603",
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Vikidál Gyula - Soha nem elég (P. Box).mp3",
-    "title": "Soha nem elég (P",
+    "title": "Soha nem elég (P. Box)",
     "primary_artists": [
       "Vikidál Gyula"
     ],

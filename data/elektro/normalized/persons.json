@@ -227,6 +227,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Rökkurró": {
+    "song_ids": [
+      "el-00022"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00022"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Jones Meadow": {
     "song_ids": [
       "el-00024"
@@ -881,6 +892,17 @@
       "el-00279"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RUNAGROUND": {
+    "song_ids": [
+      "el-00088"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00088"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2032,6 +2054,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Demi Lovato": {
+    "song_ids": [
+      "el-00219"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00219"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Sabi": {
     "song_ids": [
       "el-00221"
@@ -2088,6 +2121,20 @@
       "el-00335"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Justin Bieber": {
+    "song_ids": [
+      "el-00229",
+      "el-00335"
+    ],
+    "primary_song_ids": [
+      "el-00335"
+    ],
+    "feature_song_ids": [
+      "el-00229"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2418,6 +2465,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Chet Faker Unofficial Video": {
+    "song_ids": [
+      "el-00261"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00261"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Kai": {
     "song_ids": [
       "el-00262"
@@ -2648,6 +2706,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "John Newman Alex": {
+    "song_ids": [
+      "el-00287"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00287"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "RUN DMC": {
     "song_ids": [
       "el-00288"
@@ -2691,23 +2760,37 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Halsey": {
+    "song_ids": [
+      "el-00289",
+      "el-00293"
+    ],
+    "primary_song_ids": [
+      "el-00293"
+    ],
+    "feature_song_ids": [
+      "el-00289"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daya": {
+    "song_ids": [
+      "el-00290"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00290"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "The Chainsmokers Tritonal Emily Warren": {
     "song_ids": [
       "el-00292"
     ],
     "primary_song_ids": [
       "el-00292"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Halsey": {
-    "song_ids": [
-      "el-00293"
-    ],
-    "primary_song_ids": [
-      "el-00293"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2842,6 +2925,31 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Tove Lo": {
+    "song_ids": [
+      "el-00305",
+      "el-00809"
+    ],
+    "primary_song_ids": [
+      "el-00809"
+    ],
+    "feature_song_ids": [
+      "el-00305"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Matthew Koma": {
+    "song_ids": [
+      "el-00306"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00306"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Alesso Vs OneRepublic": {
     "song_ids": [
       "el-00307"
@@ -2883,6 +2991,28 @@
       "el-00314"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hurts": {
+    "song_ids": [
+      "el-00315"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00315"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tinie Tempah": {
+    "song_ids": [
+      "el-00316"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00316"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2932,6 +3062,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Aloma Steele": {
+    "song_ids": [
+      "el-00322"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00322"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "DallasK": {
     "song_ids": [
       "el-00323"
@@ -2940,6 +3081,30 @@
       "el-00323"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lauv": {
+    "song_ids": [
+      "el-00323"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00323"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sia": {
+    "song_ids": [
+      "el-00325",
+      "el-00331"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00325",
+      "el-00331"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2992,17 +3157,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Sia": {
-    "song_ids": [
-      "el-00331"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "el-00331"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Bebe Rexha": {
     "song_ids": [
       "el-00332",
@@ -3033,17 +3187,6 @@
     ],
     "primary_song_ids": [
       "el-00334"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Justin Bieber": {
-    "song_ids": [
-      "el-00335"
-    ],
-    "primary_song_ids": [
-      "el-00335"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3285,6 +3428,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Conrad Sewell": {
+    "song_ids": [
+      "el-00352"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00352"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Laurent Wolf": {
     "song_ids": [
       "el-00353"
@@ -3390,6 +3544,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Ilsey Juber": {
+    "song_ids": [
+      "el-00363"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00363"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Riton": {
     "song_ids": [
       "el-00364"
@@ -3409,6 +3574,28 @@
       "el-00364"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mufasa": {
+    "song_ids": [
+      "el-00364"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00364"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hypeman": {
+    "song_ids": [
+      "el-00364"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00364"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -4158,6 +4345,17 @@
       "el-00493"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Amaral": {
+    "song_ids": [
+      "el-00493"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00493"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -5074,6 +5272,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Cumbiafrica": {
+    "song_ids": [
+      "el-00618"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00618"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Jessi Selm": {
     "song_ids": [
       "el-00619"
@@ -5236,6 +5445,17 @@
       "el-00635"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Doddy": {
+    "song_ids": [
+      "el-00635"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00635"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -5508,6 +5728,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Delilah Montagu": {
+    "song_ids": [
+      "el-00686"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00686"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "BLR": {
     "song_ids": [
       "el-00687"
@@ -5560,6 +5791,17 @@
       "el-00692"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Yxng Bane": {
+    "song_ids": [
+      "el-00692"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00692"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -5966,6 +6208,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Zedd": {
+    "song_ids": [
+      "el-00739"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00739"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Axwell": {
     "song_ids": [
       "el-00740",
@@ -6102,6 +6355,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Pharrell Williams": {
+    "song_ids": [
+      "el-00759"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00759"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Julian Casablancas": {
+    "song_ids": [
+      "el-00761"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00761"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "B1": {
     "song_ids": [
       "el-00764"
@@ -6129,6 +6404,17 @@
       "el-00769"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lorde": {
+    "song_ids": [
+      "el-00769"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00769"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -6186,6 +6472,17 @@
       "el-00779"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nia Pearl": {
+    "song_ids": [
+      "el-00779"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00779"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -6287,6 +6584,28 @@
       "el-00881"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Beyoncé": {
+    "song_ids": [
+      "el-00790"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00790"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Arrow Benjamin": {
+    "song_ids": [
+      "el-00790"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00790"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -6397,6 +6716,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Jess Glynne": {
+    "song_ids": [
+      "el-00801"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00801"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Shouse": {
     "song_ids": [
       "el-00803"
@@ -6416,6 +6746,17 @@
       "el-00804"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tei Shi": {
+    "song_ids": [
+      "el-00804"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00804"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -6441,14 +6782,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Tove Lo": {
+  "Sanna Hartfield": {
     "song_ids": [
-      "el-00809"
+      "el-00806"
     ],
-    "primary_song_ids": [
-      "el-00809"
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00806"
     ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -6953,6 +7294,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Sam Smith": {
+    "song_ids": [
+      "el-00881"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00881"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Howling": {
     "song_ids": [
       "el-00883"
@@ -7054,6 +7406,19 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Graham Candy": {
+    "song_ids": [
+      "el-00893",
+      "el-00901"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00893",
+      "el-00901"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Passenger": {
     "song_ids": [
       "el-00894"
@@ -7100,6 +7465,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Madelyn Grant": {
+    "song_ids": [
+      "el-00898"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00898"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Sidney Samson": {
     "song_ids": [
       "el-00899"
@@ -7130,6 +7506,17 @@
       "el-00902"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Danelle Sandoval": {
+    "song_ids": [
+      "el-00902"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00902"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -7174,6 +7561,19 @@
       "el-00905"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jasmine Thompson": {
+    "song_ids": [
+      "el-00905",
+      "el-00926"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00905",
+      "el-00926"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -7229,6 +7629,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Parson James": {
+    "song_ids": [
+      "el-00914"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00914"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Lost Frequencies": {
     "song_ids": [
       "el-00915",
@@ -7261,6 +7672,17 @@
       "el-00917"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sena Sener": {
+    "song_ids": [
+      "el-00917"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00917"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -7914,6 +8336,17 @@
       "el-00991"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "King Combs": {
+    "song_ids": [
+      "el-00991"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00991"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -9237,6 +9670,17 @@
       "el-01148"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sarah McLachlan": {
+    "song_ids": [
+      "el-01148"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01148"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

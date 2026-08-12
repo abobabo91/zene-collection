@@ -158,6 +158,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Brian": {
+    "song_ids": [
+      "rk-00023"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00023"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tony Gold": {
+    "song_ids": [
+      "rk-00023"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00023"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "The Kinks": {
     "song_ids": [
       "rk-00024"
@@ -710,6 +732,28 @@
       "rk-00146"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "M. Shadows": {
+    "song_ids": [
+      "rk-00146"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00146"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Synyster Gates": {
+    "song_ids": [
+      "rk-00146"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00146"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1900,6 +1944,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Rahzel": {
+    "song_ids": [
+      "rk-00339"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00339"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dani Filth": {
+    "song_ids": [
+      "rk-00345"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00345"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Draper": {
     "song_ids": [
       "rk-00349",
@@ -1911,6 +1977,72 @@
       "rk-00349",
       "rk-00350",
       "rk-00351"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Grimes": {
+    "song_ids": [
+      "rk-00376"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00376"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Underoath": {
+    "song_ids": [
+      "rk-00384"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00384"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lil Uzi Vert": {
+    "song_ids": [
+      "rk-00385"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00385"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daryl Palumbo": {
+    "song_ids": [
+      "rk-00385"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00385"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Glassjaw": {
+    "song_ids": [
+      "rk-00385"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00385"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AURORA": {
+    "song_ids": [
+      "rk-00389"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00389"
     ],
     "via_group_song_ids": [],
     "groups": []

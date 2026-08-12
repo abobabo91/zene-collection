@@ -484,6 +484,12 @@ def prefer_display(name: str, mappings: dict, config: dict) -> str:
     c = canonicalize(name, mappings)
     if not c:
         return "N/A"
+    # An artist name does not contain ` - `; that shape is `Artist - Album` or an unsplit
+    # `Artist - Title`. Guarding here rather than case by case, because every rule that
+    # lets more of a filename through produces a fresh crop of them - repairing
+    # `clean_title` alone created four.
+    if " - " in c and normalize_key(c) not in KNOWN_ARTISTS:
+        return "N/A"
     # A name the mappings file lists is never junk. `is_junk_name` rejects `^\d{1,3}\s+`
     # to stop track numbers becoming artists, which also discards every artist whose name
     # begins with a number - 3 Doors Down, 5 Seconds of Summer, 98 Degrees.

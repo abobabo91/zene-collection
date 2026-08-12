@@ -402,6 +402,11 @@ def prefer_display_name(name: str, mappings: dict) -> str:
             return canonical
         if is_junk_name(canonical, normalize_key(canonical), BLOCKLIST_ARTISTS):
             return UNKNOWN_ARTIST
+        # An artist name does not contain ` - `; that shape is `Artist - Album` or an
+        # unsplit `Artist - Title`. Every rule that lets more of a filename through
+        # produces a fresh crop of them.
+        if " - " in canonical and normalize_key(canonical) not in KNOWN_ARTISTS:
+            return UNKNOWN_ARTIST
         return canonical
     cleaned = clean_artist_text(name)
     if is_junk_name(cleaned, normalize_key(cleaned), BLOCKLIST_ARTISTS):

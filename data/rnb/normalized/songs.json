@@ -169,19 +169,27 @@
   {
     "song_id": "r-00009",
     "file": "_other\\_rnb\\_modern\\Alina Baraz\\Alina Baraz - Electric ft. Khalid (Ryan Riback Remix) [Official Audio].mp3",
-    "title": "Electric ft",
+    "title": "Electric",
     "primary_artists": [
       "Alina Baraz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Khalid"
+    ],
     "artists": [
-      "Alina Baraz"
+      "Alina Baraz",
+      "Khalid"
     ],
     "credits": [
       {
         "entity": "Alina Baraz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Khalid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -209,19 +217,27 @@
   {
     "song_id": "r-00011",
     "file": "_other\\_rnb\\_modern\\Alina Baraz\\Alina Baraz - Floating ft. Khalid (Official Audio).mp3",
-    "title": "Floating ft",
+    "title": "Floating",
     "primary_artists": [
       "Alina Baraz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Khalid"
+    ],
     "artists": [
-      "Alina Baraz"
+      "Alina Baraz",
+      "Khalid"
     ],
     "credits": [
       {
         "entity": "Alina Baraz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Khalid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -249,19 +265,27 @@
   {
     "song_id": "r-00013",
     "file": "_other\\_rnb\\_modern\\Alina Baraz\\Alina Baraz - Off the Grid feat. Khalid (SOFI TUKKER Remix) [Official Audio].mp3",
-    "title": "Off the Grid feat",
+    "title": "Off the Grid",
     "primary_artists": [
       "Alina Baraz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Khalid"
+    ],
     "artists": [
-      "Alina Baraz"
+      "Alina Baraz",
+      "Khalid"
     ],
     "credits": [
       {
         "entity": "Alina Baraz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Khalid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -269,19 +293,27 @@
   {
     "song_id": "r-00014",
     "file": "_other\\_rnb\\_modern\\Alina Baraz\\Alina Baraz - Until I Met You feat. Nas (Official Lyric Video).mp3",
-    "title": "Until I Met You feat",
+    "title": "Until I Met You",
     "primary_artists": [
       "Alina Baraz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nas"
+    ],
     "artists": [
-      "Alina Baraz"
+      "Alina Baraz",
+      "Nas"
     ],
     "credits": [
       {
         "entity": "Alina Baraz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nas",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -404,19 +436,34 @@
   {
     "song_id": "r-00020",
     "file": "_other\\_rnb\\_modern\\Amaarae\\Amaarae - SAD GIRLZ LUV MONEY (Remix) ft. Kali Uchis, Moliy.mp3",
-    "title": "SAD GIRLZ LUV MONEY (Remix) ft",
+    "title": "SAD GIRLZ LUV MONEY (Remix)",
     "primary_artists": [
       "Amaarae"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kali Uchis",
+      "Moliy"
+    ],
     "artists": [
-      "Amaarae"
+      "Amaarae",
+      "Kali Uchis",
+      "Moliy"
     ],
     "credits": [
       {
         "entity": "Amaarae",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kali Uchis",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Moliy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1264,19 +1311,27 @@
   {
     "song_id": "r-00063",
     "file": "_other\\_rnb\\_modern\\coi leray\\Coi Leray - Better Days ft. Fetty Wap (Animation Visualizer).mp3",
-    "title": "Better Days ft",
+    "title": "Better Days",
     "primary_artists": [
       "Coi Leray"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Fetty Wap"
+    ],
     "artists": [
-      "Coi Leray"
+      "Coi Leray",
+      "Fetty Wap"
     ],
     "credits": [
       {
         "entity": "Coi Leray",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Fetty Wap",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1284,7 +1339,7 @@
   {
     "song_id": "r-00064",
     "file": "_other\\_rnb\\_modern\\coi leray\\Coi Leray - By Myself Prod. Emdot.mp3",
-    "title": "By Myself Prod",
+    "title": "By Myself Prod. Emdot",
     "primary_artists": [
       "Coi Leray"
     ],
@@ -1540,19 +1595,27 @@
   {
     "song_id": "r-00076",
     "file": "_other\\_rnb\\_modern\\denileigh\\DaniLeigh -  Cant Relate  Ft. YBN Nahmir _ YG (Be Yourself Tour).mp3",
-    "title": "Cant Relate Ft",
+    "title": "Cant Relate",
     "primary_artists": [
       "DaniLeigh"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "YBN Nahmir YG"
+    ],
     "artists": [
-      "DaniLeigh"
+      "DaniLeigh",
+      "YBN Nahmir YG"
     ],
     "credits": [
       {
         "entity": "DaniLeigh",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "YBN Nahmir YG",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1560,19 +1623,27 @@
   {
     "song_id": "r-00077",
     "file": "_other\\_rnb\\_modern\\denileigh\\DaniLeigh - Cravin ft. G-Eazy (Official Video).mp3",
-    "title": "Cravin ft",
+    "title": "Cravin",
     "primary_artists": [
       "DaniLeigh"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "G-Eazy"
+    ],
     "artists": [
-      "DaniLeigh"
+      "DaniLeigh",
+      "G-Eazy"
     ],
     "credits": [
       {
         "entity": "DaniLeigh",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "G-Eazy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1580,19 +1651,27 @@
   {
     "song_id": "r-00078",
     "file": "_other\\_rnb\\_modern\\denileigh\\DaniLeigh - Easy ft. Chris Brown (Remix   Official Audio).mp3",
-    "title": "Easy ft",
+    "title": "Easy",
     "primary_artists": [
       "DaniLeigh"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Chris Brown"
+    ],
     "artists": [
-      "DaniLeigh"
+      "DaniLeigh",
+      "Chris Brown"
     ],
     "credits": [
       {
         "entity": "DaniLeigh",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Chris Brown",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1620,19 +1699,27 @@
   {
     "song_id": "r-00080",
     "file": "_other\\_rnb\\_modern\\denileigh\\DaniLeigh - Levi High ft. DaBaby (Official Audio).mp3",
-    "title": "Levi High ft",
+    "title": "Levi High",
     "primary_artists": [
       "DaniLeigh"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "DaBaby"
+    ],
     "artists": [
-      "DaniLeigh"
+      "DaniLeigh",
+      "DaBaby"
     ],
     "credits": [
       {
         "entity": "DaniLeigh",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "DaBaby",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1660,19 +1747,27 @@
   {
     "song_id": "r-00082",
     "file": "_other\\_rnb\\_modern\\denileigh\\DaniLeigh - Lil Bebe ft. Lil Baby (Remix).mp3",
-    "title": "Lil Bebe ft",
+    "title": "Lil Bebe",
     "primary_artists": [
       "DaniLeigh"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lil Baby"
+    ],
     "artists": [
-      "DaniLeigh"
+      "DaniLeigh",
+      "Lil Baby"
     ],
     "credits": [
       {
         "entity": "DaniLeigh",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lil Baby",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1680,19 +1775,34 @@
   {
     "song_id": "r-00083",
     "file": "_other\\_rnb\\_modern\\denileigh\\DaniLeigh - Lil Bebe ft. Nio Garcia, Rauw Alejandro (Bebecito Remix   Official Audio).mp3",
-    "title": "Lil Bebe ft",
+    "title": "Lil Bebe",
     "primary_artists": [
       "DaniLeigh"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nio Garcia",
+      "Rauw Alejandro"
+    ],
     "artists": [
-      "DaniLeigh"
+      "DaniLeigh",
+      "Nio Garcia",
+      "Rauw Alejandro"
     ],
     "credits": [
       {
         "entity": "DaniLeigh",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nio Garcia",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1740,7 +1850,7 @@
   {
     "song_id": "r-00086",
     "file": "_other\\_rnb\\_modern\\dvsn\\dvsn - ...Again (feat. Shantel May) [Chopnotslop Remix].mp3",
-    "title": "Again (feat",
+    "title": "Again (feat. Shantel May) [Chopnotslop Remix]",
     "primary_artists": [
       "dvsn"
     ],
@@ -1820,7 +1930,7 @@
   {
     "song_id": "r-00090",
     "file": "_other\\_rnb\\_modern\\dvsn\\dvsn - Flawless Do It Well Pt. 3 (feat. Summer Walker) [Chopnotslop Remix].mp3",
-    "title": "Flawless Do It Well Pt. 3 (feat",
+    "title": "Flawless Do It Well Pt. 3 (feat. Summer Walker) [Chopnotslop Remix]",
     "primary_artists": [
       "dvsn"
     ],
@@ -1840,7 +1950,7 @@
   {
     "song_id": "r-00091",
     "file": "_other\\_rnb\\_modern\\dvsn\\dvsn - Friends (feat. PARTYNEXTDOOR) [Official Audio].mp3",
-    "title": "Friends (feat",
+    "title": "Friends (feat. PARTYNEXTDOOR)",
     "primary_artists": [
       "dvsn"
     ],
@@ -1960,7 +2070,7 @@
   {
     "song_id": "r-00097",
     "file": "_other\\_rnb\\_modern\\dvsn\\dvsn - P.O.V. (Official Audio).mp3",
-    "title": "P.O",
+    "title": "P.O.V",
     "primary_artists": [
       "dvsn"
     ],
@@ -2100,19 +2210,27 @@
   {
     "song_id": "r-00104",
     "file": "_other\\_rnb\\_modern\\jhené aiko\\Jhené Aiko - Bed Peace (Explicit) ft. Childish Gambino.mp3",
-    "title": "Bed Peace (Explicit) ft",
+    "title": "Bed Peace (Explicit)",
     "primary_artists": [
       "Jhené Aiko"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Childish Gambino"
+    ],
     "artists": [
-      "Jhené Aiko"
+      "Jhené Aiko",
+      "Childish Gambino"
     ],
     "credits": [
       {
         "entity": "Jhené Aiko",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Childish Gambino",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2140,7 +2258,7 @@
   {
     "song_id": "r-00106",
     "file": "_other\\_rnb\\_modern\\Jorja Smith Essentials\\Presenting Jorja Smith\\Burna Boy - Gum Body (Feat. Jorja Smith) [Official Music Video].mp3",
-    "title": "Gum Body (Feat",
+    "title": "Gum Body (Feat. Jorja Smith)",
     "primary_artists": [
       "Burna Boy"
     ],
@@ -2287,7 +2405,7 @@
   {
     "song_id": "r-00113",
     "file": "_other\\_rnb\\_modern\\Jorja Smith Essentials\\Presenting Jorja Smith\\Jorja Smith - Bussdown (feat. Shaybo).mp3",
-    "title": "Bussdown (feat",
+    "title": "Bussdown (feat. Shaybo)",
     "primary_artists": [
       "Jorja Smith"
     ],
@@ -2327,7 +2445,7 @@
   {
     "song_id": "r-00115",
     "file": "_other\\_rnb\\_modern\\Jorja Smith Essentials\\Presenting Jorja Smith\\Jorja Smith - Come Over (feat. Popcaan).mp3",
-    "title": "Come Over (feat",
+    "title": "Come Over (feat. Popcaan)",
     "primary_artists": [
       "Jorja Smith"
     ],
@@ -2407,19 +2525,27 @@
   {
     "song_id": "r-00119",
     "file": "_other\\_rnb\\_modern\\Jorja Smith Essentials\\Presenting Jorja Smith\\Jorja Smith - Let Me Down ft. Stormzy.mp3",
-    "title": "Let Me Down ft",
+    "title": "Let Me Down",
     "primary_artists": [
       "Jorja Smith"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Stormzy"
+    ],
     "artists": [
-      "Jorja Smith"
+      "Jorja Smith",
+      "Stormzy"
     ],
     "credits": [
       {
         "entity": "Jorja Smith",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Stormzy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2601,19 +2727,27 @@
   {
     "song_id": "r-00128",
     "file": "_other\\_rnb\\_modern\\Jorja Smith Essentials\\Presenting Jorja Smith\\Maverick Sabre - Slow Down Feat. Jorja Smith.mp3",
-    "title": "Slow Down Feat",
+    "title": "Slow Down",
     "primary_artists": [
       "Maverick Sabre"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jorja Smith"
+    ],
     "artists": [
-      "Maverick Sabre"
+      "Maverick Sabre",
+      "Jorja Smith"
     ],
     "credits": [
       {
         "entity": "Maverick Sabre",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jorja Smith",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2681,7 +2815,7 @@
   {
     "song_id": "r-00132",
     "file": "_other\\_rnb\\_modern\\kehlani\\Kehlani - Nights Like This (Lyrics) (ft. Ty Dolla $ign).mp3",
-    "title": "Nights Like This (ft",
+    "title": "Nights Like This (ft. Ty Dolla $ign)",
     "primary_artists": [
       "Kehlani"
     ],
@@ -3349,7 +3483,7 @@
   {
     "song_id": "r-00165",
     "file": "_other\\_rnb\\_modern\\SZA\\Famous Dex - Japan (Prod. JGramm) [Official Lyric Video].mp3",
-    "title": "Japan (Prod",
+    "title": "Japan (Prod. JGramm)",
     "primary_artists": [
       "Famous Dex"
     ],
@@ -3469,19 +3603,27 @@
   {
     "song_id": "r-00171",
     "file": "_other\\_rnb\\_modern\\SZA\\SZA - Hit Different (Official Video) ft. Ty Dolla $ign.mp3",
-    "title": "Hit Different ft",
+    "title": "Hit Different",
     "primary_artists": [
       "SZA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ty Dolla $ign"
+    ],
     "artists": [
-      "SZA"
+      "SZA",
+      "Ty Dolla $ign"
     ],
     "credits": [
       {
         "entity": "SZA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ty Dolla $ign",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3509,19 +3651,27 @@
   {
     "song_id": "r-00173",
     "file": "_other\\_rnb\\_modern\\SZA\\SZA - Love Galore (Official Music Video) ft. Travis Scott.mp3",
-    "title": "Love Galore ft",
+    "title": "Love Galore",
     "primary_artists": [
       "SZA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Travis Scott"
+    ],
     "artists": [
-      "SZA"
+      "SZA",
+      "Travis Scott"
     ],
     "credits": [
       {
         "entity": "SZA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Travis Scott",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3685,19 +3835,27 @@
   {
     "song_id": "r-00181",
     "file": "_other\\_rnb\\_modern\\tinashe\\Tinashe - 2 On (Explicit) ft. SchoolBoy Q.mp3",
-    "title": "On (Explicit) ft",
+    "title": "On (Explicit)",
     "primary_artists": [
       "Tinashe"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "SchoolBoy Q"
+    ],
     "artists": [
-      "Tinashe"
+      "Tinashe",
+      "SchoolBoy Q"
     ],
     "credits": [
       {
         "entity": "Tinashe",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "SchoolBoy Q",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3745,19 +3903,27 @@
   {
     "song_id": "r-00184",
     "file": "_other\\_rnb\\_modern\\tinashe\\Tinashe - Die A Little Bit ft. Ms Banks.mp3",
-    "title": "Die A Little Bit ft",
+    "title": "Die A Little Bit",
     "primary_artists": [
       "Tinashe"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ms Banks"
+    ],
     "artists": [
-      "Tinashe"
+      "Tinashe",
+      "Ms Banks"
     ],
     "credits": [
       {
         "entity": "Tinashe",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ms Banks",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3785,7 +3951,7 @@
   {
     "song_id": "r-00186",
     "file": "_other\\_rnb\\_modern\\tinashe\\Tinashe - Pretend (feat. A$AP Rocky) [Lyrics On Screen].mp3",
-    "title": "Pretend (feat",
+    "title": "Pretend (feat. A$AP Rocky) [ On Screen]",
     "primary_artists": [
       "Tinashe"
     ],
@@ -3845,19 +4011,27 @@
   {
     "song_id": "r-00189",
     "file": "_other\\_rnb\\_modern\\tinashe\\Tinashe Official - Vulnerable (Audio) ft. Travi$ Scott.mp3",
-    "title": "Vulnerable (Audio) ft",
+    "title": "Vulnerable (Audio)",
     "primary_artists": [
       "Tinashe"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Travi$ Scott"
+    ],
     "artists": [
-      "Tinashe"
+      "Tinashe",
+      "Travi$ Scott"
     ],
     "credits": [
       {
         "entity": "Tinashe",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Travi$ Scott",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4525,7 +4699,7 @@
   {
     "song_id": "r-00223",
     "file": "_other\\_rnb\\_modern\\weeknd\\The Weeknd - Trilogy\\Disc 2 - Thursday\\04 The Weeknd - The Zone (feat. Drake).mp3",
-    "title": "The Zone (feat",
+    "title": "The Zone (feat. Drake)",
     "primary_artists": [
       "The Weeknd"
     ],
@@ -4545,7 +4719,7 @@
   {
     "song_id": "r-00224",
     "file": "_other\\_rnb\\_modern\\weeknd\\The Weeknd - Trilogy\\Disc 2 - Thursday\\06 The Weeknd - The Birds Pt. 2.mp3",
-    "title": "The Birds Pt",
+    "title": "The Birds Pt. 2",
     "primary_artists": [
       "The Weeknd"
     ],
@@ -4625,7 +4799,7 @@
   {
     "song_id": "r-00228",
     "file": "_other\\_rnb\\_modern\\weeknd\\The Weeknd - Trilogy\\Disc 3 - Echoes Of Silence\\06 The Weeknd - Same Old Song (feat. Juicy J).mp3",
-    "title": "Same Old Song (feat",
+    "title": "Same Old Song (feat. Juicy J)",
     "primary_artists": [
       "The Weeknd"
     ],
@@ -4905,19 +5079,27 @@
   {
     "song_id": "r-00242",
     "file": "_other\\_rnb\\_modern\\zacari\\Zacari - Blossom ft. Justin Nozuka (Official Visualizer).mp3",
-    "title": "Blossom ft",
+    "title": "Blossom",
     "primary_artists": [
       "Zacari"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Justin Nozuka"
+    ],
     "artists": [
-      "Zacari"
+      "Zacari",
+      "Justin Nozuka"
     ],
     "credits": [
       {
         "entity": "Zacari",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Justin Nozuka",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4985,19 +5167,34 @@
   {
     "song_id": "r-00246",
     "file": "_other\\_rnb\\_modern\\zacari\\Zacari - Rainy Day ft. Isaiah Rashad & Buddy.mp3",
-    "title": "Rainy Day ft",
+    "title": "Rainy Day",
     "primary_artists": [
       "Zacari"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Isaiah Rashad",
+      "Buddy"
+    ],
     "artists": [
-      "Zacari"
+      "Zacari",
+      "Isaiah Rashad",
+      "Buddy"
     ],
     "credits": [
       {
         "entity": "Zacari",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Isaiah Rashad",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Buddy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5005,19 +5202,27 @@
   {
     "song_id": "r-00247",
     "file": "_other\\_rnb\\_modern\\zacari\\Zacari - This Woman_s Work ft. Che Ecru.mp3",
-    "title": "This Woman s Work ft",
+    "title": "This Woman s Work",
     "primary_artists": [
       "Zacari"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Che Ecru"
+    ],
     "artists": [
-      "Zacari"
+      "Zacari",
+      "Che Ecru"
     ],
     "credits": [
       {
         "entity": "Zacari",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Che Ecru",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5193,19 +5398,34 @@
   {
     "song_id": "r-00256",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Alicia Keys Playlist\\Alicia Keys - Diary (Live) ft. Tony! Toni! Tone!, Jermaine Paul.mp3",
-    "title": "Diary (Live) ft",
+    "title": "Diary (Live)",
     "primary_artists": [
       "Alicia Keys"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tony! Toni! Tone!",
+      "Jermaine Paul"
+    ],
     "artists": [
-      "Alicia Keys"
+      "Alicia Keys",
+      "Tony! Toni! Tone!",
+      "Jermaine Paul"
     ],
     "credits": [
       {
         "entity": "Alicia Keys",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tony! Toni! Tone!",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Jermaine Paul",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5273,19 +5493,27 @@
   {
     "song_id": "r-00260",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Avant Hits\\Avant - Lie About Us ft. Nicole Scherzinger (Official Video).mp3",
-    "title": "Lie About Us ft",
+    "title": "Lie About Us",
     "primary_artists": [
       "Avant"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nicole Scherzinger"
+    ],
     "artists": [
-      "Avant"
+      "Avant",
+      "Nicole Scherzinger"
     ],
     "credits": [
       {
         "entity": "Avant",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nicole Scherzinger",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5653,19 +5881,27 @@
   {
     "song_id": "r-00279",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Kut klose slow jams\\Whitney Houston - Heartbreak Hotel ft. Faith Evans _ Kelly Price (Official Video).mp3",
-    "title": "Heartbreak Hotel ft",
+    "title": "Heartbreak Hotel",
     "primary_artists": [
       "Whitney Houston"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Faith Evans Kelly Price"
+    ],
     "artists": [
-      "Whitney Houston"
+      "Whitney Houston",
+      "Faith Evans Kelly Price"
     ],
     "credits": [
       {
         "entity": "Whitney Houston",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Faith Evans Kelly Price",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6000,19 +6236,27 @@
   {
     "song_id": "r-00296",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - Hit The Freeway ft. Loon (Official Music Video).mp3",
-    "title": "Hit The Freeway ft",
+    "title": "Hit The Freeway",
     "primary_artists": [
       "Toni Braxton"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Loon"
+    ],
     "artists": [
-      "Toni Braxton"
+      "Toni Braxton",
+      "Loon"
     ],
     "credits": [
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Loon",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6288,7 +6532,7 @@
   {
     "song_id": "r-00310",
     "file": "_other\\_rnb\\_random\\Bando Jonez\\Bando Jonez - Clique On Fire (Feat. Mika Means & Blanco) [Prod. By Riri].mp3",
-    "title": "Clique On Fire (Feat",
+    "title": "Clique On Fire (Feat. Mika Means & Blanco)",
     "primary_artists": [
       "Bando Jonez"
     ],
@@ -6463,19 +6707,27 @@
   {
     "song_id": "r-00318",
     "file": "_other\\_rnb\\_random\\bedtime rnb\\wRoNg - ZAYN FT. KEHLANI (lyrics).mp3",
-    "title": "ZAYN FT",
+    "title": "ZAYN",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kehlani"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Kehlani"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kehlani",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -6523,19 +6775,34 @@
   {
     "song_id": "r-00321",
     "file": "_other\\_rnb\\_random\\Blxst Mix\\Blxst - Chosen ft. Ty Dolla $ign, Tyga (Audio).mp3",
-    "title": "Chosen ft",
+    "title": "Chosen",
     "primary_artists": [
       "Blxst"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ty Dolla $ign",
+      "Tyga"
+    ],
     "artists": [
-      "Blxst"
+      "Blxst",
+      "Ty Dolla $ign",
+      "Tyga"
     ],
     "credits": [
       {
         "entity": "Blxst",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ty Dolla $ign",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Tyga",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6703,19 +6970,27 @@
   {
     "song_id": "r-00330",
     "file": "_other\\_rnb\\_random\\Eric Bellinger\\Eric Bellinger - Focused On You Feat. 2 Chainz.mp3",
-    "title": "Focused On You Feat",
+    "title": "Focused On You",
     "primary_artists": [
       "Eric Bellinger"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "2 Chainz"
+    ],
     "artists": [
-      "Eric Bellinger"
+      "Eric Bellinger",
+      "2 Chainz"
     ],
     "credits": [
       {
         "entity": "Eric Bellinger",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "2 Chainz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6851,19 +7126,27 @@
   {
     "song_id": "r-00337",
     "file": "_other\\_rnb\\_random\\GoldLink Radio\\GoldLink - Got Friends (Audio) ft. Miguel.mp3",
-    "title": "Got Friends (Audio) ft",
+    "title": "Got Friends (Audio)",
     "primary_artists": [
       "GoldLink"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Miguel"
+    ],
     "artists": [
-      "GoldLink"
+      "GoldLink",
+      "Miguel"
     ],
     "credits": [
       {
         "entity": "GoldLink",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Miguel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6911,19 +7194,27 @@
   {
     "song_id": "r-00340",
     "file": "_other\\_rnb\\_random\\Highline R&B\\Sainvil - HBK ft. Melii (Official Visualizer).mp3",
-    "title": "HBK ft",
+    "title": "HBK",
     "primary_artists": [
       "Sainvil"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Melii"
+    ],
     "artists": [
-      "Sainvil"
+      "Sainvil",
+      "Melii"
     ],
     "credits": [
       {
         "entity": "Sainvil",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Melii",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6931,7 +7222,7 @@
   {
     "song_id": "r-00341",
     "file": "_other\\_rnb\\_random\\Highline R&B\\Saweetie - Back to the Streets (feat. Jhené Aiko) [Official Music Video].mp3",
-    "title": "Back to the Streets (feat",
+    "title": "Back to the Streets (feat. Jhené Aiko)",
     "primary_artists": [
       "Saweetie"
     ],
@@ -7078,7 +7369,7 @@
   {
     "song_id": "r-00348",
     "file": "_other\\_rnb\\_random\\jade mckenzie\\Jade Mckenzie - lately (Prod. tmhwks).mp3",
-    "title": "lately (Prod",
+    "title": "lately (Prod. tmhwks)",
     "primary_artists": [
       "Jade McKenzie"
     ],
@@ -7232,7 +7523,7 @@
   {
     "song_id": "r-00355",
     "file": "_other\\_rnb\\_random\\Masego\\Sinead Harnett - Stickin_ (feat. Masego & VanJess).mp3",
-    "title": "Stickin (feat",
+    "title": "Stickin (feat. Masego & VanJess)",
     "primary_artists": [
       "Sinead Harnett"
     ],
@@ -7279,7 +7570,7 @@
   {
     "song_id": "r-00357",
     "file": "_other\\_rnb\\_random\\Mix - Yussef Dayes\\Odeal - You're Stuck (feat. Summer Walker).mp3",
-    "title": "You're Stuck (feat",
+    "title": "You're Stuck (feat. Summer Walker)",
     "primary_artists": [
       "Odeal"
     ],
@@ -7885,7 +8176,7 @@
   {
     "song_id": "r-00385",
     "file": "_other\\_rnb\\_random\\rnb\\Mac Miller Anderson Paak - Dang! (feat. Anderson .Paak).mp3",
-    "title": "Dang! (",
+    "title": "Dang! (feat. Anderson .Paak)",
     "primary_artists": [
       "N/A"
     ],
@@ -8005,7 +8296,7 @@
   {
     "song_id": "r-00391",
     "file": "_other\\_rnb\\_random\\rnb\\Major Lazer MØ Justin Bieber - Cold Water (feat. Justin Bieber _ MØ).mp3",
-    "title": "Cold Water (feat",
+    "title": "Cold Water (feat. Justin Bieber MØ)",
     "primary_artists": [
       "Major Lazer MØ Justin Bieber"
     ],
@@ -8025,7 +8316,7 @@
   {
     "song_id": "r-00392",
     "file": "_other\\_rnb\\_random\\rnb\\O.T. Genasis Young Dolph - Cut It (feat. Young Dolph).mp3",
-    "title": "Cut It (feat",
+    "title": "Cut It (feat. Young Dolph)",
     "primary_artists": [
       "N/A"
     ],
@@ -8125,19 +8416,27 @@
   {
     "song_id": "r-00397",
     "file": "_other\\_rnb\\_random\\SiR\\SiR - Hair Down (Official Video) ft. Kendrick Lamar.mp3",
-    "title": "Hair Down ft",
+    "title": "Hair Down",
     "primary_artists": [
       "SiR"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kendrick Lamar"
+    ],
     "artists": [
-      "SiR"
+      "SiR",
+      "Kendrick Lamar"
     ],
     "credits": [
       {
         "entity": "SiR",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kendrick Lamar",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8145,7 +8444,7 @@
   {
     "song_id": "r-00398",
     "file": "_other\\_rnb\\_random\\SiR\\SiR - John Redcorn (Live Session)   Vevo Ctrl.At.Home.mp3",
-    "title": "John Redcorn (Live Session) Vevo Ctrl.At",
+    "title": "John Redcorn (Live Session) Vevo Ctrl.At.Home",
     "primary_artists": [
       "SiR"
     ],
@@ -8185,19 +8484,27 @@
   {
     "song_id": "r-00400",
     "file": "_other\\_rnb\\_random\\SiR\\SiR - Still Blue (Audio) ft. Jill Scott.mp3",
-    "title": "Still Blue (Audio) ft",
+    "title": "Still Blue (Audio)",
     "primary_artists": [
       "SiR"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jill Scott"
+    ],
     "artists": [
-      "SiR"
+      "SiR",
+      "Jill Scott"
     ],
     "credits": [
       {
         "entity": "SiR",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jill Scott",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8225,7 +8532,7 @@
   {
     "song_id": "r-00402",
     "file": "_other\\_rnb\\_random\\smooth vibin_\\Adekunle Gold - Firewood (Afro Pop Vol. 1) (feat. Tekno) [Official Audio].mp3",
-    "title": "Firewood (Afro Pop Vol. 1) (feat",
+    "title": "Firewood (Afro Pop Vol. 1) (feat. Tekno)",
     "primary_artists": [
       "Adekunle Gold"
     ],
@@ -8265,19 +8572,27 @@
   {
     "song_id": "r-00404",
     "file": "_other\\_rnb\\_random\\smooth vibin_\\Arin Ray - Communication ft. DRAM (Official Video).mp3",
-    "title": "Communication ft",
+    "title": "Communication",
     "primary_artists": [
       "Arin Ray"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "DRAM"
+    ],
     "artists": [
-      "Arin Ray"
+      "Arin Ray",
+      "DRAM"
     ],
     "credits": [
       {
         "entity": "Arin Ray",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "DRAM",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8305,19 +8620,27 @@
   {
     "song_id": "r-00406",
     "file": "_other\\_rnb\\_random\\smooth vibin_\\Col3trane - Pretty ft. Mahalia (Official Music Video).mp3",
-    "title": "Pretty ft",
+    "title": "Pretty",
     "primary_artists": [
       "Col3trane"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Mahalia"
+    ],
     "artists": [
-      "Col3trane"
+      "Col3trane",
+      "Mahalia"
     ],
     "credits": [
       {
         "entity": "Col3trane",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Mahalia",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8585,19 +8908,27 @@
   {
     "song_id": "r-00420",
     "file": "_other\\_rnb\\_random\\Summer Walker\\Summer Walker - Playing Games (Extended Version) Feat. Bryson Tiller [Official Audio].mp3",
-    "title": "Playing Games (Extended Version) Feat",
+    "title": "Playing Games (Extended Version)",
     "primary_artists": [
       "Summer Walker"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Bryson Tiller"
+    ],
     "artists": [
-      "Summer Walker"
+      "Summer Walker",
+      "Bryson Tiller"
     ],
     "credits": [
       {
         "entity": "Summer Walker",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Bryson Tiller",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8665,19 +8996,27 @@
   {
     "song_id": "r-00424",
     "file": "_other\\_rnb\\_random\\The Way You\\Blu Cantrell - Breathe (Rap Video Version) ft. Sean Paul.mp3",
-    "title": "Breathe (Rap Video Version) ft",
+    "title": "Breathe (Rap Video Version)",
     "primary_artists": [
       "Blu Cantrell"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sean Paul"
+    ],
     "artists": [
-      "Blu Cantrell"
+      "Blu Cantrell",
+      "Sean Paul"
     ],
     "credits": [
       {
         "entity": "Blu Cantrell",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sean Paul",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8820,7 +9159,7 @@
   {
     "song_id": "r-00431",
     "file": "_other\\_rnb\\As Long As You Love Me - Justin Bieber (Feat. Big Sean) FULL SONG [HQ] [New Single].mp3",
-    "title": "Justin Bieber (Feat",
+    "title": "Justin Bieber (Feat. Big Sean) FULL SONG [New Single]",
     "primary_artists": [
       "N/A"
     ],
@@ -9048,19 +9387,41 @@
   {
     "song_id": "r-00442",
     "file": "_other\\_rnb\\ashanti\\Ashanti - Rain On Me (Remix) ft. Ja Rule, Charli Baltimore, Hussein Fatal.mp3",
-    "title": "Rain On Me (Remix) ft",
+    "title": "Rain On Me (Remix)",
     "primary_artists": [
       "Ashanti"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ja Rule",
+      "Charli Baltimore",
+      "Hussein Fatal"
+    ],
     "artists": [
-      "Ashanti"
+      "Ashanti",
+      "Ja Rule",
+      "Charli Baltimore",
+      "Hussein Fatal"
     ],
     "credits": [
       {
         "entity": "Ashanti",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ja Rule",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Charli Baltimore",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Hussein Fatal",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9304,19 +9665,27 @@
   {
     "song_id": "r-00454",
     "file": "_other\\_rnb\\August Alsina - YouTube\\August Alsina - Downtown ft. Kidd Kidd (Official Video).mp3",
-    "title": "Downtown ft",
+    "title": "Downtown",
     "primary_artists": [
       "August Alsina"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kidd Kidd"
+    ],
     "artists": [
-      "August Alsina"
+      "August Alsina",
+      "Kidd Kidd"
     ],
     "credits": [
       {
         "entity": "August Alsina",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kidd Kidd",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9324,19 +9693,27 @@
   {
     "song_id": "r-00455",
     "file": "_other\\_rnb\\August Alsina - YouTube\\August Alsina - Get Ya Money ft. Fabolous.mp3",
-    "title": "Get Ya Money ft",
+    "title": "Get Ya Money",
     "primary_artists": [
       "August Alsina"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Fabolous"
+    ],
     "artists": [
-      "August Alsina"
+      "August Alsina",
+      "Fabolous"
     ],
     "credits": [
       {
         "entity": "August Alsina",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Fabolous",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9344,19 +9721,27 @@
   {
     "song_id": "r-00456",
     "file": "_other\\_rnb\\August Alsina - YouTube\\August Alsina - I Luv This Shit (Explicit) ft. Trinidad James.mp3",
-    "title": "I Luv This Shit (Explicit) ft",
+    "title": "I Luv This Shit (Explicit)",
     "primary_artists": [
       "August Alsina"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Trinidad James"
+    ],
     "artists": [
-      "August Alsina"
+      "August Alsina",
+      "Trinidad James"
     ],
     "credits": [
       {
         "entity": "August Alsina",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Trinidad James",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9384,19 +9769,27 @@
   {
     "song_id": "r-00458",
     "file": "_other\\_rnb\\August Alsina - YouTube\\August Alsina - Make It Home ft. Jeezy.mp3",
-    "title": "Make It Home ft",
+    "title": "Make It Home",
     "primary_artists": [
       "August Alsina"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jeezy"
+    ],
     "artists": [
-      "August Alsina"
+      "August Alsina",
+      "Jeezy"
     ],
     "credits": [
       {
         "entity": "August Alsina",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jeezy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9404,19 +9797,27 @@
   {
     "song_id": "r-00459",
     "file": "_other\\_rnb\\August Alsina - YouTube\\August Alsina - No Love ft. Nicki Minaj.mp3",
-    "title": "No Love ft",
+    "title": "No Love",
     "primary_artists": [
       "August Alsina"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nicki Minaj"
+    ],
     "artists": [
-      "August Alsina"
+      "August Alsina",
+      "Nicki Minaj"
     ],
     "credits": [
       {
         "entity": "August Alsina",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nicki Minaj",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9449,11 +9850,13 @@
       "August Alsina"
     ],
     "featuring_artists": [
-      "B.o.B"
+      "B.o.B",
+      "Yo Gotti"
     ],
     "artists": [
       "August Alsina",
-      "B.o.B"
+      "B.o.B",
+      "Yo Gotti"
     ],
     "credits": [
       {
@@ -9463,6 +9866,11 @@
       },
       {
         "entity": "B.o.B",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Yo Gotti",
         "entity_type": "person",
         "role": "feature"
       }
@@ -9660,19 +10068,27 @@
   {
     "song_id": "r-00471",
     "file": "_other\\_rnb\\August Alsina - YouTube\\The Product 2\\August Alsina - Confessions Interlude [Part 2] ft. The Dream Bandz.mp3",
-    "title": "Confessions Interlude [Part 2] ft",
+    "title": "Confessions Interlude [Part 2]",
     "primary_artists": [
       "August Alsina"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "The Dream Bandz"
+    ],
     "artists": [
-      "August Alsina"
+      "August Alsina",
+      "The Dream Bandz"
     ],
     "credits": [
       {
         "entity": "August Alsina",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "The Dream Bandz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10312,19 +10728,27 @@
   {
     "song_id": "r-00502",
     "file": "_other\\_rnb\\Cassie\\Cassie - I Love It ft. Fabolous.mp3",
-    "title": "I Love It ft",
+    "title": "I Love It",
     "primary_artists": [
       "Cassie"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Fabolous"
+    ],
     "artists": [
-      "Cassie"
+      "Cassie",
+      "Fabolous"
     ],
     "credits": [
       {
         "entity": "Cassie",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Fabolous",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10812,7 +11236,7 @@
   {
     "song_id": "r-00527",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown & OHB - Before The Trap Nights In Tarzana (Full Mixtape)\\Chris Brown & OHB - I Lean (Ft. Tracy T & Hoody Baby) [Before The Trap].mp3",
-    "title": "I Lean (Ft",
+    "title": "I Lean (Ft. Tracy T & Hoody Baby) [Before The Trap]",
     "primary_artists": [
       "Chris Brown",
       "OHB"
@@ -10839,7 +11263,7 @@
   {
     "song_id": "r-00528",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown & OHB - Before The Trap Nights In Tarzana (Full Mixtape)\\Chris Brown & OHB - Wrist Remix (Ft. Young Thug & Young Jeezy) [Before The Trap].mp3",
-    "title": "Wrist Remix (Ft",
+    "title": "Wrist Remix (Ft. Young Thug & Young Jeezy) [Before The Trap]",
     "primary_artists": [
       "Chris Brown",
       "OHB"
@@ -11603,19 +12027,27 @@
   {
     "song_id": "r-00564",
     "file": "_other\\_rnb\\Ciara\\Ciara - I_m Out (Explicit) ft. Nicki Minaj.mp3",
-    "title": "I m Out (Explicit) ft",
+    "title": "I m Out (Explicit)",
     "primary_artists": [
       "Ciara"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nicki Minaj"
+    ],
     "artists": [
-      "Ciara"
+      "Ciara",
+      "Nicki Minaj"
     ],
     "credits": [
       {
         "entity": "Ciara",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nicki Minaj",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12040,19 +12472,27 @@
   {
     "song_id": "r-00583",
     "file": "_other\\_rnb\\Dreezy\\Dreezy - Close To You ft. T-Pain.mp3",
-    "title": "Close To You ft",
+    "title": "Close To You",
     "primary_artists": [
       "Dreezy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "T-Pain"
+    ],
     "artists": [
-      "Dreezy"
+      "Dreezy",
+      "T-Pain"
     ],
     "credits": [
       {
         "entity": "Dreezy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "T-Pain",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12060,19 +12500,27 @@
   {
     "song_id": "r-00584",
     "file": "_other\\_rnb\\Dreezy\\Dreezy - Love Someone ft. Jacquees (Official Video).mp3",
-    "title": "Love Someone ft",
+    "title": "Love Someone",
     "primary_artists": [
       "Dreezy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jacquees"
+    ],
     "artists": [
-      "Dreezy"
+      "Dreezy",
+      "Jacquees"
     ],
     "credits": [
       {
         "entity": "Dreezy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jacquees",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12080,19 +12528,34 @@
   {
     "song_id": "r-00585",
     "file": "_other\\_rnb\\Dreezy\\Dreezy - Spar ft. 6LACK, Kodak Black (Offcial Video).mp3",
-    "title": "Spar ft",
+    "title": "Spar",
     "primary_artists": [
       "Dreezy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "6LACK",
+      "Kodak Black"
+    ],
     "artists": [
-      "Dreezy"
+      "Dreezy",
+      "6LACK",
+      "Kodak Black"
     ],
     "credits": [
       {
         "entity": "Dreezy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "6LACK",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Kodak Black",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12447,7 +12910,7 @@
   {
     "song_id": "r-00603",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2001) -  Mama_s Gun (The Dutch Edition)\\Mama_s Gun\\Erykah Badu - 04 - ..._ On.mp3",
-    "title": "",
+    "title": "On",
     "primary_artists": [
       "Erykah Badu"
     ],
@@ -12727,7 +13190,7 @@
   {
     "song_id": "r-00617",
     "file": "_other\\_rnb\\frank ocean\\Frank_Ocean-Nostalgia-Ultra_(Official_Mixtape)-2011-DjLeak\\03_Frank_Ocean_-_Novacane-Djleak.com.mp3",
-    "title": "Novacane-Djleak",
+    "title": "Novacane-Djleak.com",
     "primary_artists": [
       "Frank Ocean"
     ],
@@ -12747,7 +13210,7 @@
   {
     "song_id": "r-00618",
     "file": "_other\\_rnb\\frank ocean\\Frank_Ocean-Nostalgia-Ultra_(Official_Mixtape)-2011-DjLeak\\10_Frank_Ocean_-_Swim_Good-Djleak.com.mp3",
-    "title": "Swim Good-Djleak",
+    "title": "Swim Good-Djleak.com",
     "primary_artists": [
       "Frank Ocean"
     ],
@@ -13155,19 +13618,27 @@
   {
     "song_id": "r-00638",
     "file": "_other\\_rnb\\Jacquees\\Jacquees - At The Club ft. Dej Loaf.mp3",
-    "title": "At The Club ft",
+    "title": "At The Club",
     "primary_artists": [
       "Jacquees"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Dej Loaf"
+    ],
     "artists": [
-      "Jacquees"
+      "Jacquees",
+      "Dej Loaf"
     ],
     "credits": [
       {
         "entity": "Jacquees",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Dej Loaf",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13175,19 +13646,34 @@
   {
     "song_id": "r-00639",
     "file": "_other\\_rnb\\Jacquees\\Jacquees - B.E.D. (Remix) ft. Ty Dolla $ign, Quavo.mp3",
-    "title": "B.E.D. (Remix) ft",
+    "title": "B.E.D. (Remix)",
     "primary_artists": [
       "Jacquees"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ty Dolla $ign",
+      "Quavo"
+    ],
     "artists": [
-      "Jacquees"
+      "Jacquees",
+      "Ty Dolla $ign",
+      "Quavo"
     ],
     "credits": [
       {
         "entity": "Jacquees",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ty Dolla $ign",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Quavo",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13411,19 +13897,34 @@
   {
     "song_id": "r-00650",
     "file": "_other\\_rnb\\Jeremih\\Jeremih - All The Time (Official Lyric Video) (Explicit) ft. Lil Wayne, Natasha Mosley.mp3",
-    "title": "All The Time (Explicit) ft",
+    "title": "All The Time (Explicit)",
     "primary_artists": [
       "Jeremih"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lil Wayne",
+      "Natasha Mosley"
+    ],
     "artists": [
-      "Jeremih"
+      "Jeremih",
+      "Lil Wayne",
+      "Natasha Mosley"
     ],
     "credits": [
       {
         "entity": "Jeremih",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Natasha Mosley",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13451,7 +13952,7 @@
   {
     "song_id": "r-00652",
     "file": "_other\\_rnb\\Jeremih\\Jeremih - Down On Me ft. 50 Cent.mp3",
-    "title": "Down On Me ft",
+    "title": "Down On Me",
     "primary_artists": [
       "Jeremih"
     ],
@@ -13511,19 +14012,27 @@
   {
     "song_id": "r-00655",
     "file": "_other\\_rnb\\Kat DeLuna - Run The Show ft. Busta Rhymes.mp3",
-    "title": "Run The Show ft",
+    "title": "Run The Show",
     "primary_artists": [
       "Kat DeLuna"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Busta Rhymes"
+    ],
     "artists": [
-      "Kat DeLuna"
+      "Kat DeLuna",
+      "Busta Rhymes"
     ],
     "credits": [
       {
         "entity": "Kat DeLuna",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Busta Rhymes",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13571,7 +14080,7 @@
   {
     "song_id": "r-00658",
     "file": "_other\\_rnb\\Keyshia Cole Videos\\Sean Paul - Give It Up To Me (feat. Keyshia Cole) [Disney Version] (Official Video).mp3",
-    "title": "Give It Up To Me (feat",
+    "title": "Give It Up To Me (feat. Keyshia Cole) [Disney Version]",
     "primary_artists": [
       "Sean Paul"
     ],
@@ -13919,15 +14428,23 @@
     "primary_artists": [
       "Miguel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "J. Cole"
+    ],
     "artists": [
-      "Miguel"
+      "Miguel",
+      "J. Cole"
     ],
     "credits": [
       {
         "entity": "Miguel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "J. Cole",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13975,19 +14492,27 @@
   {
     "song_id": "r-00677",
     "file": "_other\\_rnb\\Miguel\\Miguel - Sky Walker (Official Video) ft. Travis Scott.mp3",
-    "title": "Sky Walker ft",
+    "title": "Sky Walker",
     "primary_artists": [
       "Miguel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Travis Scott"
+    ],
     "artists": [
-      "Miguel"
+      "Miguel",
+      "Travis Scott"
     ],
     "credits": [
       {
         "entity": "Miguel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Travis Scott",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13999,15 +14524,23 @@
     "primary_artists": [
       "Miguel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "C. Tangana"
+    ],
     "artists": [
-      "Miguel"
+      "Miguel",
+      "C. Tangana"
     ],
     "credits": [
       {
         "entity": "Miguel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "C. Tangana",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14249,19 +14782,27 @@
   {
     "song_id": "r-00690",
     "file": "_other\\_rnb\\Miguel\\Miguel Features\\Janelle Monáe - PrimeTime ft. Miguel [Official Video].mp3",
-    "title": "PrimeTime ft",
+    "title": "PrimeTime",
     "primary_artists": [
       "Janelle Monáe"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Miguel"
+    ],
     "artists": [
-      "Janelle Monáe"
+      "Janelle Monáe",
+      "Miguel"
     ],
     "credits": [
       {
         "entity": "Janelle Monáe",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Miguel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14296,19 +14837,34 @@
   {
     "song_id": "r-00692",
     "file": "_other\\_rnb\\Miguel\\Miguel Features\\ScHoolboy Q - Overtime ft. Miguel, Justine Skye.mp3",
-    "title": "Overtime ft",
+    "title": "Overtime",
     "primary_artists": [
       "ScHoolboy Q"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Miguel",
+      "Justine Skye"
+    ],
     "artists": [
-      "ScHoolboy Q"
+      "ScHoolboy Q",
+      "Miguel",
+      "Justine Skye"
     ],
     "credits": [
       {
         "entity": "ScHoolboy Q",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Miguel",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Justine Skye",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14336,19 +14892,27 @@
   {
     "song_id": "r-00694",
     "file": "_other\\_rnb\\Murphy Lee - Wat Da Hook Gon Be ft. Jermaine Dupri.mp3",
-    "title": "Wat Da Hook Gon Be ft",
+    "title": "Wat Da Hook Gon Be",
     "primary_artists": [
       "Murphy Lee"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jermaine Dupri"
+    ],
     "artists": [
-      "Murphy Lee"
+      "Murphy Lee",
+      "Jermaine Dupri"
     ],
     "credits": [
       {
         "entity": "Murphy Lee",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jermaine Dupri",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14640,15 +15204,23 @@
     "primary_artists": [
       "Cassidy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "R. Kelly"
+    ],
     "artists": [
-      "Cassidy"
+      "Cassidy",
+      "R. Kelly"
     ],
     "credits": [
       {
         "entity": "Cassidy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "R. Kelly",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15024,19 +15596,27 @@
   {
     "song_id": "r-00728",
     "file": "_other\\_rnb\\T-Pain top songs\\Chris Brown - Kiss Kiss ft. T-Pain.mp3",
-    "title": "Kiss Kiss ft",
+    "title": "Kiss Kiss",
     "primary_artists": [
       "Chris Brown"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "T-Pain"
+    ],
     "artists": [
-      "Chris Brown"
+      "Chris Brown",
+      "T-Pain"
     ],
     "credits": [
       {
         "entity": "Chris Brown",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "T-Pain",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15125,19 +15705,34 @@
   {
     "song_id": "r-00732",
     "file": "_other\\_rnb\\T-Pain top songs\\Ne-Yo - The Way You Move ft. Trey Songz, T-Pain (Official Music Video).mp3",
-    "title": "The Way You Move ft",
+    "title": "The Way You Move",
     "primary_artists": [
       "Ne-Yo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Trey Songz",
+      "T-Pain"
+    ],
     "artists": [
-      "Ne-Yo"
+      "Ne-Yo",
+      "Trey Songz",
+      "T-Pain"
     ],
     "credits": [
       {
         "entity": "Ne-Yo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Trey Songz",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "T-Pain",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15165,19 +15760,27 @@
   {
     "song_id": "r-00734",
     "file": "_other\\_rnb\\T-Pain top songs\\T-Pain - Bartender (Official HD Video) ft. Akon.mp3",
-    "title": "Bartender ft",
+    "title": "Bartender",
     "primary_artists": [
       "T-Pain"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Akon"
+    ],
     "artists": [
-      "T-Pain"
+      "T-Pain",
+      "Akon"
     ],
     "credits": [
       {
         "entity": "T-Pain",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Akon",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15185,19 +15788,27 @@
   {
     "song_id": "r-00735",
     "file": "_other\\_rnb\\T-Pain top songs\\T-Pain - Church ft. Teddy Verseti.mp3",
-    "title": "Church ft",
+    "title": "Church",
     "primary_artists": [
       "T-Pain"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Teddy Verseti"
+    ],
     "artists": [
-      "T-Pain"
+      "T-Pain",
+      "Teddy Verseti"
     ],
     "credits": [
       {
         "entity": "T-Pain",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Teddy Verseti",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15573,15 +16184,23 @@
     "primary_artists": [
       "Trey Songz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "T.I"
+    ],
     "artists": [
-      "Trey Songz"
+      "Trey Songz",
+      "T.I"
     ],
     "credits": [
       {
         "entity": "Trey Songz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "T.I",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15637,19 +16256,27 @@
   {
     "song_id": "r-00756",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz - Bottoms Up ft. Nicki Minaj [Official Video].mp3",
-    "title": "Bottoms Up ft",
+    "title": "Bottoms Up",
     "primary_artists": [
       "Trey Songz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nicki Minaj"
+    ],
     "artists": [
-      "Trey Songz"
+      "Trey Songz",
+      "Nicki Minaj"
     ],
     "credits": [
       {
         "entity": "Trey Songz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nicki Minaj",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15697,19 +16324,27 @@
   {
     "song_id": "r-00759",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz - Touchin, Lovin ft. Nicki Minaj [Official Video].mp3",
-    "title": "Touchin, Lovin ft",
+    "title": "Touchin, Lovin",
     "primary_artists": [
       "Trey Songz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nicki Minaj"
+    ],
     "artists": [
-      "Trey Songz"
+      "Trey Songz",
+      "Nicki Minaj"
     ],
     "credits": [
       {
         "entity": "Trey Songz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nicki Minaj",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15737,19 +16372,48 @@
   {
     "song_id": "r-00761",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz Features - YouTube\\Kid Ink - Show Me REMIX (Audio) ft. Trey Songz, Juicy J, 2 Chainz, Chris Brown.mp3",
-    "title": "Show Me REMIX (Audio) ft",
+    "title": "Show Me REMIX (Audio)",
     "primary_artists": [
       "Kid Ink"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Trey Songz",
+      "Juicy J",
+      "2 Chainz",
+      "Chris Brown"
+    ],
     "artists": [
-      "Kid Ink"
+      "Kid Ink",
+      "Trey Songz",
+      "Juicy J",
+      "2 Chainz",
+      "Chris Brown"
     ],
     "credits": [
       {
         "entity": "Kid Ink",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Trey Songz",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Juicy J",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "2 Chainz",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Chris Brown",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15757,19 +16421,34 @@
   {
     "song_id": "r-00762",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz Features - YouTube\\Lloyd - Be The One ft. Trey Songz, Young Jeezy.mp3",
-    "title": "Be The One ft",
+    "title": "Be The One",
     "primary_artists": [
       "Lloyd"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Trey Songz",
+      "Young Jeezy"
+    ],
     "artists": [
-      "Lloyd"
+      "Lloyd",
+      "Trey Songz",
+      "Young Jeezy"
     ],
     "credits": [
       {
         "entity": "Lloyd",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Trey Songz",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Young Jeezy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15857,19 +16536,27 @@
   {
     "song_id": "r-00767",
     "file": "_other\\_rnb\\usher\\010 - Usher ft.  Beyonce _ Lil Wayne - Love In This Club, Part II   (™ LaFace).MP3",
-    "title": "Usher ft",
+    "title": "Usher",
     "primary_artists": [
       "Usher"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Part II"
+    ],
     "artists": [
-      "Usher"
+      "Usher",
+      "Part II"
     ],
     "credits": [
       {
         "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Part II",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16363,19 +17050,27 @@
   {
     "song_id": "r-00790",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\Usher - DJ Got Us Fallin_ In Love (Official Music Video) ft. Pitbull.mp3",
-    "title": "DJ Got Us Fallin In Love ft",
+    "title": "DJ Got Us Fallin In Love",
     "primary_artists": [
       "Usher"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Pitbull"
+    ],
     "artists": [
-      "Usher"
+      "Usher",
+      "Pitbull"
     ],
     "credits": [
       {
         "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Pitbull",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

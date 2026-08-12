@@ -455,19 +455,34 @@
   {
     "song_id": "rk-00023",
     "file": "_other\\_rock\\_psychedelic rock\\Green Onions\\Shaggy - Hey Sexy Lady ft. Brian & Tony Gold (Official Music Video).mp3",
-    "title": "Hey Sexy Lady ft",
+    "title": "Hey Sexy Lady",
     "primary_artists": [
       "Shaggy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Brian",
+      "Tony Gold"
+    ],
     "artists": [
-      "Shaggy"
+      "Shaggy",
+      "Brian",
+      "Tony Gold"
     ],
     "credits": [
       {
         "entity": "Shaggy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Brian",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Tony Gold",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -795,7 +810,7 @@
   {
     "song_id": "rk-00040",
     "file": "_other\\_rock\\_psychedelic rock\\Psychedelic Rock Modern\\Das Kope - L.A.X.  (Official Video).mp3",
-    "title": "L.A",
+    "title": "L.A.X",
     "primary_artists": [
       "Das Kope"
     ],
@@ -2934,15 +2949,30 @@
     "primary_artists": [
       "Good Charlotte"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "M. Shadows",
+      "Synyster Gates"
+    ],
     "artists": [
-      "Good Charlotte"
+      "Good Charlotte",
+      "M. Shadows",
+      "Synyster Gates"
     ],
     "credits": [
       {
         "entity": "Good Charlotte",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "M. Shadows",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Synyster Gates",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3411,7 +3441,7 @@
   {
     "song_id": "rk-00169",
     "file": "_other\\_rock\\_random\\Maybeshewill Discography\\Maybeshewill - He Films the Clouds, Pt. 2.mp3",
-    "title": "He Films the Clouds, Pt",
+    "title": "He Films the Clouds, Pt. 2",
     "primary_artists": [
       "Maybeshewill"
     ],
@@ -4618,7 +4648,7 @@
   {
     "song_id": "rk-00229",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - I_ll Take You There (Feat. Shayley Bourget).mp3",
-    "title": "I ll Take You There (Feat",
+    "title": "I ll Take You There (Feat. Shayley Bourget)",
     "primary_artists": [
       "N/A"
     ],
@@ -6278,7 +6308,7 @@
   {
     "song_id": "rk-00312",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Hurt People (feat. Madison Love) (lyric.mp3",
-    "title": "Hurt People (feat",
+    "title": "Hurt People (feat. Madison Love) (lyric",
     "primary_artists": [
       "Two Feet"
     ],
@@ -6398,7 +6428,7 @@
   {
     "song_id": "rk-00318",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Same Old Song (S.O.S. Part 1) (Audio).mp3",
-    "title": "Same Old Song (S.O.S",
+    "title": "Same Old Song (S.O.S. Part 1) (Audio)",
     "primary_artists": [
       "Two Feet"
     ],
@@ -6818,19 +6848,27 @@
   {
     "song_id": "rk-00339",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\BRING ME THE HORIZON - heavy metal ft. Rahzel [Official Audio].mp3",
-    "title": "heavy metal ft",
+    "title": "heavy metal",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rahzel"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "Rahzel"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rahzel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6938,19 +6976,27 @@
   {
     "song_id": "rk-00345",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\Bring Me The Horizon - wonderful life (Official Lyric Video) ft. Dani Filth.mp3",
-    "title": "wonderful life ft",
+    "title": "wonderful life",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Dani Filth"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "Dani Filth"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Dani Filth",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7582,19 +7628,27 @@
   {
     "song_id": "rk-00376",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - nihilist blues ft. Grimes (.mp3",
-    "title": "nihilist blues ft",
+    "title": "nihilist blues",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Grimes"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "Grimes"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Grimes",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7742,19 +7796,27 @@
   {
     "song_id": "rk-00384",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - a bulleT w  my namE On (Lyric Video) ft. Underoath.mp3",
-    "title": "a bulleT w my namE On ft",
+    "title": "a bulleT w my namE On",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Underoath"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "Underoath"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Underoath",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7762,19 +7824,41 @@
   {
     "song_id": "rk-00385",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - AmEN! (Official Video) ft. Lil Uzi Vert, Daryl Palumbo, Glassjaw.mp3",
-    "title": "AmEN! ft",
+    "title": "AmEN!",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lil Uzi Vert",
+      "Daryl Palumbo",
+      "Glassjaw"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "Lil Uzi Vert",
+      "Daryl Palumbo",
+      "Glassjaw"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lil Uzi Vert",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Daryl Palumbo",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Glassjaw",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7842,19 +7926,27 @@
   {
     "song_id": "rk-00389",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - liMOusIne (Lyric Video) ft. AURORA.mp3",
-    "title": "liMOusIne ft",
+    "title": "liMOusIne",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "AURORA"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "AURORA"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "AURORA",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9042,7 +9134,7 @@
   {
     "song_id": "rk-00449",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Figure .09.mp3",
-    "title": "Figure",
+    "title": "Figure .09",
     "primary_artists": [
       "Linkin Park"
     ],
@@ -9282,7 +9374,7 @@
   {
     "song_id": "rk-00461",
     "file": "_other\\_rock\\Linkin Park Discography\\Meteora\\Linkin Park - Meteora - 08 - Figure.09.mp3",
-    "title": "Meteora - 08 - Figure",
+    "title": "Meteora - 08 - Figure.09",
     "primary_artists": [
       "Linkin Park"
     ],
@@ -11222,7 +11314,7 @@
   {
     "song_id": "rk-00555",
     "file": "_other\\_rock\\roxette\\Roxette - 1986 - Pearls of Passion\\18 I Call Your Name (Montezuma Demo - 26.07.86) (eXtra track).mp3",
-    "title": "07",
+    "title": "86) (eXtra track)",
     "primary_artists": [
       "Roxette"
     ],
@@ -12290,7 +12382,7 @@
   {
     "song_id": "rk-00608",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan 2009 No Baggage album\\Dolores O_Riordan - 01. Switch Off The Moment (No Baggage).mp3",
-    "title": "01",
+    "title": "Switch Off The Moment (No Baggage)",
     "primary_artists": [
       "Dolores O Riordan"
     ],
@@ -12310,7 +12402,7 @@
   {
     "song_id": "rk-00609",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan 2009 No Baggage album\\Dolores O_Riordan - 02. Skeleton (No Baggage).mp3",
-    "title": "02",
+    "title": "Skeleton (No Baggage)",
     "primary_artists": [
       "Dolores O Riordan"
     ],
@@ -12330,7 +12422,7 @@
   {
     "song_id": "rk-00610",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan 2009 No Baggage album\\Dolores O_Riordan - 07. Apple Of My Eye (No Baggage).mp3",
-    "title": "07",
+    "title": "Apple Of My Eye (No Baggage)",
     "primary_artists": [
       "Dolores O Riordan"
     ],
@@ -12390,7 +12482,7 @@
   {
     "song_id": "rk-00613",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\The Cranberries - Zombie (Alt. Version).mp3",
-    "title": "Zombie (Alt",
+    "title": "Zombie (Alt. Version)",
     "primary_artists": [
       "The Cranberries"
     ],

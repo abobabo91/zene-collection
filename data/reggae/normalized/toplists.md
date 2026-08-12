@@ -1,7 +1,7 @@
 # Reggae Local Music Toplists
 
 Songs: `108`
-Persons: `64`
+Persons: `69`
 Unattributed songs: `15`
 
 ## Persons
@@ -14,10 +14,10 @@ Unattributed songs: `15`
 | 4 | Shaggy | 3 | 2.0 | 3.0 | 3 | 0 | 0 | - | - | - |
 | 5 | Alpha Blondy | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 6 | Alton Ellis | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 7 | Damian Marley | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 7 | Damian Marley | 2 | 1.5 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 8 | DUANE STEPHENSON | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 9 | Gregory Isaacs | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
-| 10 | Stephen Marley | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
+| 10 | Stephen Marley | 2 | 0.8 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 11 | Zamunda | 2 | 2.0 | 2.0 | 2 | 0 | 0 | - | - | - |
 | 12 | Liam Bailey | 2 | 1.5 | 1.5 | 1 | 1 | 0 | - | - | - |
 | 13 | Wyclef Jean | 2 | 1.5 | 1.5 | 2 | 0 | 0 | - | - | - |
@@ -34,7 +34,7 @@ Unattributed songs: `15`
 | 24 | Don Carlos | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 25 | Dreamlets | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 26 | FANTAN MOJAH | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 27 | Gentleman | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
+| 27 | Gentleman | 1 | 0.5 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 28 | Glen Adams | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 29 | Jah Cure | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 30 | KONSHENS | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
@@ -63,12 +63,17 @@ Unattributed songs: `15`
 | 53 | Vybz Kartel | 1 | 0.5 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 54 | War | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 55 | Ziggy Marley | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 56 | Fox | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
-| 57 | Keith | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
-| 58 | Ken | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
-| 59 | LAURYN HILL Turn your lights down low | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
-| 60 | Me Reggae Dub | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
-| 61 | Natasha Watkins | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
-| 62 | Rayvon | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
-| 63 | Refugee All Stars | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
-| 64 | Rvssian | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 56 | Christopher Martin | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 57 | Fox | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 58 | Keith | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
+| 59 | Ken | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
+| 60 | LAURYN HILL Turn your lights down low | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 61 | Me Reggae Dub | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 62 | Nas | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 63 | Natasha Watkins | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 64 | Rayvon | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 65 | Refugee All Stars | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
+| 66 | Rvssian | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 67 | Waka Flocka Flame | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 68 | The Cast of Fela | 1 | 0.3 | 0.3 | 0 | 1 | 0 | - | - | - |
+| 69 | Wale | 1 | 0.3 | 0.3 | 0 | 1 | 0 | - | - | - |

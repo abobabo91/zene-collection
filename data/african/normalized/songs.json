@@ -243,19 +243,27 @@
   {
     "song_id": "af-00012",
     "file": "_other\\_african music\\_afrobeats\\CKay - BODY (danz) ft. Mavo.mp3",
-    "title": "BODY (danz) ft",
+    "title": "BODY (danz)",
     "primary_artists": [
       "CKay"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Mavo"
+    ],
     "artists": [
-      "CKay"
+      "CKay",
+      "Mavo"
     ],
     "credits": [
       {
         "entity": "CKay",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Mavo",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -263,7 +271,7 @@
   {
     "song_id": "af-00013",
     "file": "_other\\_african music\\_afrobeats\\CKay Official Music Videos\\CKay -  By Your Side (feat. Blxckie) [Official Audio].mp3",
-    "title": "By Your Side (feat",
+    "title": "By Your Side (feat. Blxckie)",
     "primary_artists": [
       "CKay"
     ],
@@ -303,7 +311,7 @@
   {
     "song_id": "af-00015",
     "file": "_other\\_african music\\_afrobeats\\CKay Official Music Videos\\CKay - Love Nwantiti (ft. ElGrandeToto) [North African Remix] [Official Music Video].mp3",
-    "title": "Love Nwantiti (ft",
+    "title": "Love Nwantiti (ft. ElGrandeToto) [North African Remix]",
     "primary_artists": [
       "CKay"
     ],
@@ -323,19 +331,27 @@
   {
     "song_id": "af-00016",
     "file": "_other\\_african music\\_afrobeats\\Davido\\Davido - Risky (Official Video) ft. Popcaan.mp3",
-    "title": "Risky ft",
+    "title": "Risky",
     "primary_artists": [
       "Davido"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Popcaan"
+    ],
     "artists": [
-      "Davido"
+      "Davido",
+      "Popcaan"
     ],
     "credits": [
       {
         "entity": "Davido",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Popcaan",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -368,11 +384,11 @@
       "Davido"
     ],
     "featuring_artists": [
-      "You ft"
+      "You ft. Omah Lay"
     ],
     "artists": [
       "Davido",
-      "You ft"
+      "You ft. Omah Lay"
     ],
     "credits": [
       {
@@ -381,7 +397,7 @@
         "role": "primary"
       },
       {
-        "entity": "You ft",
+        "entity": "You ft. Omah Lay",
         "entity_type": "person",
         "role": "feature"
       }
@@ -521,19 +537,27 @@
   {
     "song_id": "af-00024",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez - Kelegbe Megbe Remix ft. Adekunle Gold (Official Audio).mp3",
-    "title": "Kelegbe Megbe Remix ft",
+    "title": "Kelegbe Megbe Remix",
     "primary_artists": [
       "DJ Tunez"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Adekunle Gold"
+    ],
     "artists": [
-      "DJ Tunez"
+      "DJ Tunez",
+      "Adekunle Gold"
     ],
     "credits": [
       {
         "entity": "DJ Tunez",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Adekunle Gold",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -541,19 +565,34 @@
   {
     "song_id": "af-00025",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez - Turn Up Ft. Wizkid x Reekado Banks (OFFICIAL AUDIO 2018).mp3",
-    "title": "Turn Up Ft",
+    "title": "Turn Up",
     "primary_artists": [
       "DJ Tunez"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Wizkid",
+      "Reekado Banks"
+    ],
     "artists": [
-      "DJ Tunez"
+      "DJ Tunez",
+      "Wizkid",
+      "Reekado Banks"
     ],
     "credits": [
       {
         "entity": "DJ Tunez",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Wizkid",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Reekado Banks",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -561,7 +600,7 @@
   {
     "song_id": "af-00026",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez, Spax, Wizkid - Gbese 2.0 (Official Audio).mp3",
-    "title": "Gbese 2",
+    "title": "Gbese 2.0",
     "primary_artists": [
       "DJ Tunez",
       "Spax",
@@ -842,19 +881,27 @@
   {
     "song_id": "af-00039",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\Isma IP - 05 -sitiri sitiri gam - (Official Audio) ft. Ayman hanad.mp3",
-    "title": "sitiri sitiri gam - ft",
+    "title": "sitiri sitiri gam",
     "primary_artists": [
       "ISMA IP"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ayman hanad"
+    ],
     "artists": [
-      "ISMA IP"
+      "ISMA IP",
+      "Ayman hanad"
     ],
     "credits": [
       {
         "entity": "ISMA IP",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ayman hanad",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -862,7 +909,7 @@
   {
     "song_id": "af-00040",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\ISMA IP - Booti 6 [Mr Jawi EP] (Prod. Emage & Tonic).mp3",
-    "title": "Booti 6 [Mr Jawi EP] (Prod",
+    "title": "Booti 6 [Mr Jawi EP] (Prod. Emage & Tonic)",
     "primary_artists": [
       "ISMA IP"
     ],
@@ -882,7 +929,7 @@
   {
     "song_id": "af-00041",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\ISMA IP - IYEYOW (Prod. Emage X Tonic)[Official Video].mp3",
-    "title": "IYEYOW (Prod",
+    "title": "IYEYOW (Prod. Emage X Tonic)",
     "primary_artists": [
       "ISMA IP"
     ],
@@ -969,7 +1016,7 @@
   {
     "song_id": "af-00045",
     "file": "_other\\_african music\\_afrobeats\\Jorja Smith - Be Honest (feat. Burna Boy).mp3",
-    "title": "Be Honest (feat",
+    "title": "Be Honest (feat. Burna Boy)",
     "primary_artists": [
       "Jorja Smith"
     ],
@@ -1174,19 +1221,27 @@
   {
     "song_id": "af-00053",
     "file": "_other\\_african music\\_afrobeats\\Kcee - Psycho (Official Video) ft. WizKid.mp3",
-    "title": "Psycho ft",
+    "title": "Psycho",
     "primary_artists": [
       "Kcee"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "WizKid"
+    ],
     "artists": [
-      "Kcee"
+      "Kcee",
+      "WizKid"
     ],
     "credits": [
       {
         "entity": "Kcee",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "WizKid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1328,19 +1383,22 @@
   {
     "song_id": "af-00060",
     "file": "_other\\_african music\\_afrobeats\\Manny Norté, 6LACK, Rema, Tion Wayne - 4AM (Official Video) ft. Love Renaissance (LVRN).mp3",
-    "title": "4AM ft",
+    "title": "4AM",
     "primary_artists": [
       "Manny Norté",
       "6LACK",
       "Rema",
       "Tion Wayne"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Love Renaissance"
+    ],
     "artists": [
       "Manny Norté",
       "6LACK",
       "Rema",
-      "Tion Wayne"
+      "Tion Wayne",
+      "Love Renaissance"
     ],
     "credits": [
       {
@@ -1362,6 +1420,11 @@
         "entity": "Tion Wayne",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Love Renaissance",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1389,7 +1452,7 @@
   {
     "song_id": "af-00062",
     "file": "_other\\_african music\\_afrobeats\\Metro Boomin - Borrowed Love (feat. Swae Lee & WizKid).mp3",
-    "title": "Borrowed Love (feat",
+    "title": "Borrowed Love (feat. Swae Lee & WizKid)",
     "primary_artists": [
       "Metro Boomin"
     ],
@@ -1814,19 +1877,34 @@
   {
     "song_id": "af-00081",
     "file": "_other\\_african music\\_afrobeats\\Omah Lay\\Justin Bieber - Peaches (Masterkraft Remix) ft. Alpha P & Omah Lay.mp3",
-    "title": "Peaches (Masterkraft Remix) ft",
+    "title": "Peaches (Masterkraft Remix)",
     "primary_artists": [
       "Justin Bieber"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Alpha P",
+      "Omah Lay"
+    ],
     "artists": [
-      "Justin Bieber"
+      "Justin Bieber",
+      "Alpha P",
+      "Omah Lay"
     ],
     "credits": [
       {
         "entity": "Justin Bieber",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Alpha P",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Omah Lay",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1941,7 +2019,7 @@
   {
     "song_id": "af-00087",
     "file": "_other\\_african music\\_afrobeats\\Omah Lay\\Omah Lay - tell everybody (feat. Tay Iwar) (Official Audio).mp3",
-    "title": "tell everybody (feat",
+    "title": "tell everybody (feat. Tay Iwar)",
     "primary_artists": [
       "Omah Lay"
     ],
@@ -2420,19 +2498,34 @@
   {
     "song_id": "af-00108",
     "file": "_other\\_african music\\_afrobeats\\Rema\\Wizkid - Essence (Audio) ft. Justin Bieber, Tems.mp3",
-    "title": "Essence (Audio) ft",
+    "title": "Essence (Audio)",
     "primary_artists": [
       "Wizkid"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Justin Bieber",
+      "Tems"
+    ],
     "artists": [
-      "Wizkid"
+      "Wizkid",
+      "Justin Bieber",
+      "Tems"
     ],
     "credits": [
       {
         "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Justin Bieber",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Tems",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2620,19 +2713,48 @@
   {
     "song_id": "af-00118",
     "file": "_other\\_african music\\_afrobeats\\STARBOY - SOCO ft. TERRI X SPOTLESS X CEEZA MILLI X WIZKID (OFFICIAL VIDEO).mp3",
-    "title": "SOCO ft",
+    "title": "SOCO",
     "primary_artists": [
       "STARBOY"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "TERRI",
+      "SPOTLESS",
+      "CEEZA MILLI",
+      "WIZKID"
+    ],
     "artists": [
-      "STARBOY"
+      "STARBOY",
+      "TERRI",
+      "SPOTLESS",
+      "CEEZA MILLI",
+      "WIZKID"
     ],
     "credits": [
       {
         "entity": "STARBOY",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "TERRI",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "SPOTLESS",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "CEEZA MILLI",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "WIZKID",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2998,19 +3120,34 @@
   {
     "song_id": "af-00135",
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\Kranium - Can_t Believe ft. Ty Dolla $ign & WizKid (Dance Video).mp3",
-    "title": "Can t Believe ft",
+    "title": "Can t Believe",
     "primary_artists": [
       "Kranium"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ty Dolla $ign",
+      "WizKid"
+    ],
     "artists": [
-      "Kranium"
+      "Kranium",
+      "Ty Dolla $ign",
+      "WizKid"
     ],
     "credits": [
       {
         "entity": "Kranium",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ty Dolla $ign",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "WizKid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3018,19 +3155,27 @@
   {
     "song_id": "af-00136",
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\Lagos To Kampala (Official Music Video) - Runtown ft. Wizkid.mp3",
-    "title": "Runtown ft",
+    "title": "Runtown",
     "primary_artists": [
       "Lagos To Kampala"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Wizkid"
+    ],
     "artists": [
-      "Lagos To Kampala"
+      "Lagos To Kampala",
+      "Wizkid"
     ],
     "credits": [
       {
         "entity": "Lagos To Kampala",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Wizkid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3038,19 +3183,27 @@
   {
     "song_id": "af-00137",
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\Larry Gaaga - Low (Official Audio) ft. WizKid.mp3",
-    "title": "Low ft",
+    "title": "Low",
     "primary_artists": [
       "Larry Gaaga"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "WizKid"
+    ],
     "artists": [
-      "Larry Gaaga"
+      "Larry Gaaga",
+      "WizKid"
     ],
     "credits": [
       {
         "entity": "Larry Gaaga",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "WizKid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3120,19 +3273,27 @@
   {
     "song_id": "af-00140",
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid - African Bad Gyal feat. Chris Brown (Audio).mp3",
-    "title": "African Bad Gyal feat",
+    "title": "African Bad Gyal",
     "primary_artists": [
       "Wizkid"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Chris Brown"
+    ],
     "artists": [
-      "Wizkid"
+      "Wizkid",
+      "Chris Brown"
     ],
     "credits": [
       {
         "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Chris Brown",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3200,19 +3361,27 @@
   {
     "song_id": "af-00144",
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid _Made In Lagos_ (Full Album)\\WizKid - Piece of Me (Audio) ft. Ella Mai.mp3",
-    "title": "Piece of Me (Audio) ft",
+    "title": "Piece of Me (Audio)",
     "primary_artists": [
       "Wizkid"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ella Mai"
+    ],
     "artists": [
-      "Wizkid"
+      "Wizkid",
+      "Ella Mai"
     ],
     "credits": [
       {
         "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ella Mai",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3220,19 +3389,27 @@
   {
     "song_id": "af-00145",
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid _Made In Lagos_ (Full Album)\\WizKid - Roma (Audio) ft. Terri.mp3",
-    "title": "Roma (Audio) ft",
+    "title": "Roma (Audio)",
     "primary_artists": [
       "Wizkid"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Terri"
+    ],
     "artists": [
-      "Wizkid"
+      "Wizkid",
+      "Terri"
     ],
     "credits": [
       {
         "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Terri",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3260,19 +3437,34 @@
   {
     "song_id": "af-00147",
     "file": "_other\\_african music\\_afrobeats\\Wizkid\\WizKid _Made In Lagos_ (Full Album)\\WizKid - True Love (Audio) ft. Tay Iwar, Projexx.mp3",
-    "title": "True Love (Audio) ft",
+    "title": "True Love (Audio)",
     "primary_artists": [
       "Wizkid"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tay Iwar",
+      "Projexx"
+    ],
     "artists": [
-      "Wizkid"
+      "Wizkid",
+      "Tay Iwar",
+      "Projexx"
     ],
     "credits": [
       {
         "entity": "Wizkid",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tay Iwar",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Projexx",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3355,19 +3547,55 @@
   {
     "song_id": "af-00151",
     "file": "_other\\_african music\\_amapiano\\@costatitchworld - Big Flexa ft. C'buda M, Alfa Kat, Banaba Des, Sdida & Man T (Official Music Video).mp3",
-    "title": "Big Flexa ft",
+    "title": "Big Flexa",
     "primary_artists": [
       "@costatitchworld"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "C'buda M",
+      "Alfa Kat",
+      "Banaba Des",
+      "Sdida",
+      "Man T"
+    ],
     "artists": [
-      "@costatitchworld"
+      "@costatitchworld",
+      "C'buda M",
+      "Alfa Kat",
+      "Banaba Des",
+      "Sdida",
+      "Man T"
     ],
     "credits": [
       {
         "entity": "@costatitchworld",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "C'buda M",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Alfa Kat",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Banaba Des",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Sdida",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Man T",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3680,19 +3908,41 @@
   {
     "song_id": "af-00165",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Mas Musiq - Zaka (Official Video) ft. Aymos, DJ Maphorisa & Kabza De Small.mp3",
-    "title": "Zaka ft",
+    "title": "Zaka",
     "primary_artists": [
       "Mas Musiq"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Aymos",
+      "DJ Maphorisa",
+      "Kabza De Small"
+    ],
     "artists": [
-      "Mas Musiq"
+      "Mas Musiq",
+      "Aymos",
+      "DJ Maphorisa",
+      "Kabza De Small"
     ],
     "credits": [
       {
         "entity": "Mas Musiq",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Aymos",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "DJ Maphorisa",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Kabza De Small",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3944,19 +4194,34 @@
   {
     "song_id": "af-00177",
     "file": "_other\\_african music\\_amapiano\\Colors of Africa - Mafikizolo Ft. Diamond Platnumz & Dj Maphorisa (Official Video).mp3",
-    "title": "Mafikizolo Ft",
+    "title": "Mafikizolo",
     "primary_artists": [
       "Colors of Africa"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Diamond Platnumz",
+      "Dj Maphorisa"
+    ],
     "artists": [
-      "Colors of Africa"
+      "Colors of Africa",
+      "Diamond Platnumz",
+      "Dj Maphorisa"
     ],
     "credits": [
       {
         "entity": "Colors of Africa",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Diamond Platnumz",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Dj Maphorisa",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3984,19 +4249,27 @@
   {
     "song_id": "af-00179",
     "file": "_other\\_african music\\_amapiano\\Distruction Boyz - Nevermind (Radio Edit) ft. Zhao.mp3",
-    "title": "Nevermind ft",
+    "title": "Nevermind",
     "primary_artists": [
       "Distruction Boyz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Zhao"
+    ],
     "artists": [
-      "Distruction Boyz"
+      "Distruction Boyz",
+      "Zhao"
     ],
     "credits": [
       {
         "entity": "Distruction Boyz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Zhao",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4215,19 +4488,27 @@
   {
     "song_id": "af-00189",
     "file": "_other\\_african music\\_amapiano\\Kabza De Small - Need You Tonight Ft. Wizkid.mp3",
-    "title": "Need You Tonight Ft",
+    "title": "Need You Tonight",
     "primary_artists": [
       "Kabza De Small"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Wizkid"
+    ],
     "artists": [
-      "Kabza De Small"
+      "Kabza De Small",
+      "Wizkid"
     ],
     "credits": [
       {
         "entity": "Kabza De Small",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Wizkid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4235,19 +4516,27 @@
   {
     "song_id": "af-00190",
     "file": "_other\\_african music\\_amapiano\\Kabza De Small – Balanc’ise Ft. Daliwonga.mp3",
-    "title": "Balanc’ise Ft",
+    "title": "Balanc’ise",
     "primary_artists": [
       "Kabza De Small"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Daliwonga"
+    ],
     "artists": [
-      "Kabza De Small"
+      "Kabza De Small",
+      "Daliwonga"
     ],
     "credits": [
       {
         "entity": "Kabza De Small",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Daliwonga",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4533,18 +4822,15 @@
   {
     "song_id": "af-00202",
     "file": "_other\\_african music\\_amapiano\\TitoM & Yuppe - Tshwala Bam [Ft. S.N.E & EeQue] (Official Music Video).mp3",
-    "title": "Tshwala Bam [",
+    "title": "Tshwala Bam [Ft. S.N.E & EeQue]",
     "primary_artists": [
       "TitoM",
       "Yuppe"
     ],
-    "featuring_artists": [
-      "S.N"
-    ],
+    "featuring_artists": [],
     "artists": [
       "TitoM",
-      "Yuppe",
-      "S.N"
+      "Yuppe"
     ],
     "credits": [
       {
@@ -4556,11 +4842,6 @@
         "entity": "Yuppe",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "S.N",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4568,20 +4849,17 @@
   {
     "song_id": "af-00203",
     "file": "_other\\_african music\\_amapiano\\TitoM, Yuppe and Burna Boy - Tshwala Bam Remix [Ft. S.N.E] (Official Video).mp3",
-    "title": "Tshwala Bam Remix [",
+    "title": "Tshwala Bam Remix [Ft. S.N.E]",
     "primary_artists": [
       "TitoM",
       "Yuppe",
       "Burna Boy"
     ],
-    "featuring_artists": [
-      "S.N"
-    ],
+    "featuring_artists": [],
     "artists": [
       "TitoM",
       "Yuppe",
-      "Burna Boy",
-      "S.N"
+      "Burna Boy"
     ],
     "credits": [
       {
@@ -4598,11 +4876,6 @@
         "entity": "Burna Boy",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "S.N",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4805,7 +5078,7 @@
   {
     "song_id": "af-00213",
     "file": "_other\\_african music\\_caribbean\\Ir-Sais - Dream Girl (Prod. Iri) - Audio Only.mp3",
-    "title": "Dream Girl (Prod",
+    "title": "Dream Girl (Prod. Iri) - Audio Only",
     "primary_artists": [
       "Ir-Sais"
     ],
@@ -4929,15 +5202,23 @@
     "primary_artists": [
       "Skillibeng"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "F.S"
+    ],
     "artists": [
-      "Skillibeng"
+      "Skillibeng",
+      "F.S"
     ],
     "credits": [
       {
         "entity": "Skillibeng",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "F.S",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5025,7 +5306,7 @@
   {
     "song_id": "af-00224",
     "file": "_other\\_african music\\_old\\Papa Wemba - Chacun pour soi (feat. Diamond Platnumz).mp3",
-    "title": "Chacun pour soi (feat",
+    "title": "Chacun pour soi (feat. Diamond Platnumz)",
     "primary_artists": [
       "Papa Wemba"
     ],

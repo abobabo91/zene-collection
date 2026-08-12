@@ -585,6 +585,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Ego": {
+    "song_ids": [
+      "ir-00107"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00107"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Salah Edin": {
     "song_ids": [
       "ir-00109",
@@ -849,6 +860,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Marc Anthony": {
+    "song_ids": [
+      "ir-00135"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00135"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "simplu": {
     "song_ids": [
       "ir-00136",
@@ -924,13 +946,16 @@
   "Logic": {
     "song_ids": [
       "ir-00145",
-      "ir-00146"
+      "ir-00146",
+      "ir-00147"
     ],
     "primary_song_ids": [
       "ir-00145",
       "ir-00146"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "ir-00147"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -955,6 +980,17 @@
       "ir-00147"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mohammed Yahya Jay-Jay": {
+    "song_ids": [
+      "ir-00147"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00147"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1042,6 +1078,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Diane Birch": {
+    "song_ids": [
+      "ir-00154"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00154"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Dizzee Rascal": {
     "song_ids": [
       "ir-00156"
@@ -1053,7 +1100,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "will.i": {
+  "will.i.am": {
     "song_ids": [
       "ir-00156"
     ],
@@ -1277,6 +1324,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Verb T": {
+    "song_ids": [
+      "ir-00174"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00174"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Dirty Dike": {
     "song_ids": [
       "ir-00175",
@@ -1289,6 +1347,28 @@
       "ir-00177"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fliptrix": {
+    "song_ids": [
+      "ir-00175"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00175"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Remus": {
+    "song_ids": [
+      "ir-00176"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00176"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1619,6 +1699,22 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Tinie Tempah": {
+    "song_ids": [
+      "ir-00221",
+      "ir-00228",
+      "ir-00229"
+    ],
+    "primary_song_ids": [
+      "ir-00228",
+      "ir-00229"
+    ],
+    "feature_song_ids": [
+      "ir-00221"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Ryan Oakes": {
     "song_ids": [
       "ir-00222"
@@ -1627,6 +1723,17 @@
       "ir-00222"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Catie Lee": {
+    "song_ids": [
+      "ir-00222"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00222"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1668,16 +1775,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Tinie Tempah": {
+  "Eric Turner": {
     "song_ids": [
-      "ir-00228",
       "ir-00229"
     ],
-    "primary_song_ids": [
-      "ir-00228",
+    "primary_song_ids": [],
+    "feature_song_ids": [
       "ir-00229"
     ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },

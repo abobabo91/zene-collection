@@ -76,7 +76,7 @@
   {
     "song_id": "ru-00004",
     "file": "_other\\_russian\\777 🇷🇺\\The Limba & Andro - X.O (Mood video).mp3",
-    "title": "X",
+    "title": "X.O (Mood video)",
     "primary_artists": [
       "The Limba",
       "Andro"
@@ -854,19 +854,27 @@
   {
     "song_id": "ru-00040",
     "file": "_other\\_russian\\MiyaGi Playlist - YouTube\\GAZIROVKA - Black (ШКОЛЬНАЯ ПАРОДИЯ) БЛЭК БАКАРДИ feat. RomBerg.mp3",
-    "title": "Black (ШКОЛЬНАЯ ПАРОДИЯ) БЛЭК БАКАРДИ feat",
+    "title": "Black (ШКОЛЬНАЯ ПАРОДИЯ) БЛЭК БАКАРДИ",
     "primary_artists": [
       "GAZIROVKA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "RomBerg"
+    ],
     "artists": [
-      "GAZIROVKA"
+      "GAZIROVKA",
+      "RomBerg"
     ],
     "credits": [
       {
         "entity": "GAZIROVKA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "RomBerg",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1094,7 +1102,7 @@
   {
     "song_id": "ru-00052",
     "file": "_other\\_russian\\MiyaGi Playlist - YouTube\\Эндшпиль – Я подарю... (Ston Heng prod.).mp3",
-    "title": "Я подарю... (Ston Heng prod",
+    "title": "Я подарю... (Ston Heng prod.)",
     "primary_artists": [
       "MiyaGi"
     ],
@@ -1377,7 +1385,7 @@
   {
     "song_id": "ru-00064",
     "file": "_other\\_russian\\Prince Of Falls - YouTube\\SEV - Run (Prod. SEV).mp3",
-    "title": "Run (Prod",
+    "title": "Run (Prod. SEV)",
     "primary_artists": [
       "SEV"
     ],
@@ -1477,19 +1485,27 @@
   {
     "song_id": "ru-00069",
     "file": "_other\\_russian\\Russian RnB\\Jeremih - Impatient ft. Ty Dolla $ign (Official Audio).mp3",
-    "title": "Impatient ft",
+    "title": "Impatient",
     "primary_artists": [
       "Jeremih"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ty Dolla $ign"
+    ],
     "artists": [
-      "Jeremih"
+      "Jeremih",
+      "Ty Dolla $ign"
     ],
     "credits": [
       {
         "entity": "Jeremih",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ty Dolla $ign",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1965,7 +1981,7 @@
   {
     "song_id": "ru-00093",
     "file": "_other\\_russian\\русский ряд\\Madeintyo - I Want ft. 2 Chainz [Official Video].mp3",
-    "title": "I Want ft",
+    "title": "I Want",
     "primary_artists": [
       "Madeintyo"
     ],

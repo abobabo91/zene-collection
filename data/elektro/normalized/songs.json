@@ -138,7 +138,7 @@
   {
     "song_id": "el-00007",
     "file": "_other\\_elektro\\deep_house\\ACRAZE - Do It To It (Ft. Cherish).mp3",
-    "title": "Do It To It (Ft",
+    "title": "Do It To It (Ft. Cherish)",
     "primary_artists": [
       "ACRAZE"
     ],
@@ -186,7 +186,7 @@
   {
     "song_id": "el-00009",
     "file": "_other\\_elektro\\deep_house\\Adriatique & Marino Canal - Home (feat. Delhia De France).mp3",
-    "title": "Home (feat",
+    "title": "Home (feat. Delhia De France)",
     "primary_artists": [
       "Adriatique",
       "Marino Canal"
@@ -461,19 +461,27 @@
   {
     "song_id": "el-00022",
     "file": "_other\\_elektro\\deep_house\\Chillout Lounge\\Fejká - Svanur feat. Rökkurró.mp3",
-    "title": "Svanur feat",
+    "title": "Svanur",
     "primary_artists": [
       "Fejká"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rökkurró"
+    ],
     "artists": [
-      "Fejká"
+      "Fejká",
+      "Rökkurró"
     ],
     "credits": [
       {
         "entity": "Fejká",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rökkurró",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1261,7 +1269,7 @@
   {
     "song_id": "el-00059",
     "file": "_other\\_elektro\\deep_house\\Deep House Summer Vibes ☀️ Chill Out Lounge\\Jacala, Rayasa & FERGO - On Me (feat. Thandi).mp3",
-    "title": "On Me (feat",
+    "title": "On Me (feat. Thandi)",
     "primary_artists": [
       "Jacala",
       "Rayasa",
@@ -1343,7 +1351,7 @@
   {
     "song_id": "el-00062",
     "file": "_other\\_elektro\\deep_house\\Deep House Summer Vibes ☀️ Chill Out Lounge\\RushLow, Worzii - About U (ft. LissA).mp3",
-    "title": "About U (ft",
+    "title": "About U (ft. LissA)",
     "primary_artists": [
       "RushLow",
       "Worzii"
@@ -1773,7 +1781,7 @@
   {
     "song_id": "el-00082",
     "file": "_other\\_elektro\\deep_house\\Kenny Hectyc - Addicted (feat. Erica iJi).mp3",
-    "title": "Addicted (feat",
+    "title": "Addicted (feat. Erica iJi)",
     "primary_artists": [
       "Kenny Hectyc"
     ],
@@ -1881,7 +1889,7 @@
   {
     "song_id": "el-00087",
     "file": "_other\\_elektro\\deep_house\\Mr. Probz – Waves (Robin Schulz Remix) [Emily from CLUBLANDLV.COM].mp3",
-    "title": "Waves (Robin Schulz Remix) [Emily from CLUBLANDLV",
+    "title": "Waves (Robin Schulz Remix) [Emily from CLUBLANDLV.COM]",
     "primary_artists": [
       "Mr. Probz"
     ],
@@ -1901,19 +1909,27 @@
   {
     "song_id": "el-00088",
     "file": "_other\\_elektro\\deep_house\\Nico _ Vinz - Am I Wrong ft. RUNAGROUND (Dj Dark _ Dj Vianu Remix).mp3",
-    "title": "Am I Wrong ft",
+    "title": "Am I Wrong",
     "primary_artists": [
       "Nico & Vinz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "RUNAGROUND"
+    ],
     "artists": [
-      "Nico & Vinz"
+      "Nico & Vinz",
+      "RUNAGROUND"
     ],
     "credits": [
       {
         "entity": "Nico & Vinz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "RUNAGROUND",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3103,7 +3119,7 @@
   {
     "song_id": "el-00144",
     "file": "_other\\_elektro\\dnb_dubstep\\dnb_chill\\Phaeleh - Afterglow (feat. Soundmouse).mp3",
-    "title": "Afterglow (feat",
+    "title": "Afterglow (feat. Soundmouse)",
     "primary_artists": [
       "Phaeleh"
     ],
@@ -3331,7 +3347,7 @@
   {
     "song_id": "el-00155",
     "file": "_other\\_elektro\\dnb_dubstep\\Major Lazer - Get Free (Ft. Amber Coffman) (Andy C Remix).mp3",
-    "title": "Get Free (Ft",
+    "title": "Get Free (Ft. Amber Coffman) (Andy C Remix)",
     "primary_artists": [
       "Major Lazer"
     ],
@@ -3411,7 +3427,7 @@
   {
     "song_id": "el-00159",
     "file": "_other\\_elektro\\dnb_dubstep\\Metrik - Freefall VIP (feat. Reija Lee).mp3",
-    "title": "Freefall VIP (feat",
+    "title": "Freefall VIP (feat. Reija Lee)",
     "primary_artists": [
       "Metrik"
     ],
@@ -3926,7 +3942,7 @@
   {
     "song_id": "el-00183",
     "file": "_other\\_elektro\\edm_electronic_pop\\02 Clean Bandit - Rather Be (Feat. Jess Glynne ).mp3",
-    "title": "Rather Be (Feat",
+    "title": "Rather Be (Feat. Jess Glynne )",
     "primary_artists": [
       "Clean Bandit"
     ],
@@ -3986,7 +4002,7 @@
   {
     "song_id": "el-00186",
     "file": "_other\\_elektro\\edm_electronic_pop\\16 Route 94 - My Love (Feat.Jess Glyne).mp3",
-    "title": "My Love (Feat",
+    "title": "My Love (Feat.Jess Glyne)",
     "primary_artists": [
       "Route 94"
     ],
@@ -4086,7 +4102,7 @@
   {
     "song_id": "el-00191",
     "file": "_other\\_elektro\\edm_electronic_pop\\26 Duke Dumont - I Got You (Feat.Jax Jones).mp3",
-    "title": "I Got You (Feat",
+    "title": "I Got You (Feat.Jax Jones)",
     "primary_artists": [
       "Duke Dumont"
     ],
@@ -4106,7 +4122,7 @@
   {
     "song_id": "el-00192",
     "file": "_other\\_elektro\\edm_electronic_pop\\60 David Guetta - Lovers on the Sun (Feat. Sam Martin).mp3",
-    "title": "Lovers on the Sun (Feat",
+    "title": "Lovers on the Sun (Feat. Sam Martin)",
     "primary_artists": [
       "David Guetta"
     ],
@@ -4226,7 +4242,7 @@
   {
     "song_id": "el-00198",
     "file": "_other\\_elektro\\edm_electronic_pop\\84 Calvin Harris - Outside (Feat. Ellie Goulding).mp3",
-    "title": "Outside (Feat",
+    "title": "Outside (Feat. Ellie Goulding)",
     "primary_artists": [
       "Calvin Harris"
     ],
@@ -4266,7 +4282,7 @@
   {
     "song_id": "el-00200",
     "file": "_other\\_elektro\\edm_electronic_pop\\Alex Cheatle - I ve Been So Wrong (ft. Flume _ Ta-ku).mp3",
-    "title": "I ve Been So Wrong (ft",
+    "title": "I ve Been So Wrong (ft. Flume Ta-ku)",
     "primary_artists": [
       "Alex Cheatle"
     ],
@@ -4286,7 +4302,7 @@
   {
     "song_id": "el-00201",
     "file": "_other\\_elektro\\edm_electronic_pop\\Alex Cruz - All I Knew (ft. Jasmine Thompson).mp3",
-    "title": "All I Knew (ft",
+    "title": "All I Knew (ft. Jasmine Thompson)",
     "primary_artists": [
       "Alex Cruz"
     ],
@@ -4669,19 +4685,27 @@
   {
     "song_id": "el-00219",
     "file": "_other\\_elektro\\edm_electronic_pop\\Cheat Codes - No Promises ft. Demi Lovato.mp3",
-    "title": "No Promises ft",
+    "title": "No Promises",
     "primary_artists": [
       "Cheat Codes"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Demi Lovato"
+    ],
     "artists": [
-      "Cheat Codes"
+      "Cheat Codes",
+      "Demi Lovato"
     ],
     "credits": [
       {
         "entity": "Cheat Codes",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Demi Lovato",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4689,7 +4713,7 @@
   {
     "song_id": "el-00220",
     "file": "_other\\_elektro\\edm_electronic_pop\\Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie).mp3",
-    "title": "Rockabye (feat",
+    "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
     "primary_artists": [
       "Clean Bandit"
     ],
@@ -4877,19 +4901,27 @@
   {
     "song_id": "el-00229",
     "file": "_other\\_elektro\\edm_electronic_pop\\DJ Snake - Let Me Love You ft. Justin Bieber (Official Video).mp3",
-    "title": "Let Me Love You ft",
+    "title": "Let Me Love You",
     "primary_artists": [
       "DJ Snake"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Justin Bieber"
+    ],
     "artists": [
-      "DJ Snake"
+      "DJ Snake",
+      "Justin Bieber"
     ],
     "credits": [
       {
         "entity": "DJ Snake",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Justin Bieber",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5212,7 +5244,7 @@
   {
     "song_id": "el-00245",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Charlie Puth, Selena Gomez - We Don_t Talk Anymore (feat. Selena Gomez).mp3",
-    "title": "We Don t Talk Anymore (feat",
+    "title": "We Don t Talk Anymore (feat. Selena Gomez)",
     "primary_artists": [
       "Charlie Puth",
       "Selena Gomez"
@@ -5585,19 +5617,27 @@
   {
     "song_id": "el-00261",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Flume - Left Alone feat. Chet Faker (Ta-ku Remix) Unofficial Video.mp3",
-    "title": "Left Alone feat",
+    "title": "Left Alone",
     "primary_artists": [
       "Flume"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Chet Faker Unofficial Video"
+    ],
     "artists": [
-      "Flume"
+      "Flume",
+      "Chet Faker Unofficial Video"
     ],
     "credits": [
       {
         "entity": "Flume",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Chet Faker Unofficial Video",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5739,7 +5779,7 @@
   {
     "song_id": "el-00268",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\gnash, Olivia O_Brien - i hate u, i love u (feat. olivia o_brien).mp3",
-    "title": "i hate u, i love u (feat",
+    "title": "i hate u, i love u (feat. olivia o brien)",
     "primary_artists": [
       "gnash",
       "Olivia O Brien"
@@ -5894,7 +5934,7 @@
   {
     "song_id": "el-00275",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Major Lazer _ DJ Snake - Lean On (feat. MØ) (Official Music Video).mp3",
-    "title": "Lean On (feat",
+    "title": "Lean On (feat. MØ)",
     "primary_artists": [
       "Major Lazer DJ Snake"
     ],
@@ -6121,7 +6161,7 @@
   {
     "song_id": "el-00286",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Robin Schulz - Headlights [feat. Ilsey] [Official Video].mp3",
-    "title": "Headlights [feat",
+    "title": "Headlights [feat. Ilsey]",
     "primary_artists": [
       "Robin Schulz"
     ],
@@ -6141,19 +6181,27 @@
   {
     "song_id": "el-00287",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Rudimental - Not Giving In ft. John Newman _ Alex - lyrics (HD - 720p).mp3",
-    "title": "Not Giving In ft",
+    "title": "Not Giving In",
     "primary_artists": [
       "Rudimental"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "John Newman Alex"
+    ],
     "artists": [
-      "Rudimental"
+      "Rudimental",
+      "John Newman Alex"
     ],
     "credits": [
       {
         "entity": "Rudimental",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "John Newman Alex",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6188,19 +6236,27 @@
   {
     "song_id": "el-00289",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\The Chainsmokers - Closer (Lyric) ft. Halsey.mp3",
-    "title": "Closer (Lyric) ft",
+    "title": "Closer (Lyric)",
     "primary_artists": [
       "The Chainsmokers"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Halsey"
+    ],
     "artists": [
-      "The Chainsmokers"
+      "The Chainsmokers",
+      "Halsey"
     ],
     "credits": [
       {
         "entity": "The Chainsmokers",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Halsey",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6208,19 +6264,27 @@
   {
     "song_id": "el-00290",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\The Chainsmokers - Don t Let Me Down ft. Daya.mp3",
-    "title": "Don t Let Me Down ft",
+    "title": "Don t Let Me Down",
     "primary_artists": [
       "The Chainsmokers"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Daya"
+    ],
     "artists": [
-      "The Chainsmokers"
+      "The Chainsmokers",
+      "Daya"
     ],
     "credits": [
       {
         "entity": "The Chainsmokers",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Daya",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6228,7 +6292,7 @@
   {
     "song_id": "el-00291",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\The Chainsmokers - New York City (ft. Victoria Zaro).mp3",
-    "title": "New York City (ft",
+    "title": "New York City (ft. Victoria Zaro)",
     "primary_artists": [
       "The Chainsmokers"
     ],
@@ -6523,19 +6587,27 @@
   {
     "song_id": "el-00305",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\ALESSO\\Alesso - Heroes (we could be) ft. Tove Lo.mp3",
-    "title": "Heroes (we could be) ft",
+    "title": "Heroes (we could be)",
     "primary_artists": [
       "Alesso"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tove Lo"
+    ],
     "artists": [
-      "Alesso"
+      "Alesso",
+      "Tove Lo"
     ],
     "credits": [
       {
         "entity": "Alesso",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tove Lo",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6543,19 +6615,27 @@
   {
     "song_id": "el-00306",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\ALESSO\\Alesso - Years ft. Matthew Koma.mp3",
-    "title": "Years ft",
+    "title": "Years",
     "primary_artists": [
       "Alesso"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Matthew Koma"
+    ],
     "artists": [
-      "Alesso"
+      "Alesso",
+      "Matthew Koma"
     ],
     "credits": [
       {
         "entity": "Alesso",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Matthew Koma",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6723,15 +6803,18 @@
   {
     "song_id": "el-00315",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Calvin Harris & Alesso - Under Control (Official Video) ft. Hurts.mp3",
-    "title": "Under Control ft",
+    "title": "Under Control",
     "primary_artists": [
       "Calvin Harris",
       "Alesso"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Hurts"
+    ],
     "artists": [
       "Calvin Harris",
-      "Alesso"
+      "Alesso",
+      "Hurts"
     ],
     "credits": [
       {
@@ -6743,6 +6826,11 @@
         "entity": "Alesso",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Hurts",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6750,19 +6838,27 @@
   {
     "song_id": "el-00316",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Calvin Harris - Drinking From the Bottle (Lyric Video) ft. Tinie Tempah.mp3",
-    "title": "Drinking From the Bottle ft",
+    "title": "Drinking From the Bottle",
     "primary_artists": [
       "Calvin Harris"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tinie Tempah"
+    ],
     "artists": [
-      "Calvin Harris"
+      "Calvin Harris",
+      "Tinie Tempah"
     ],
     "credits": [
       {
         "entity": "Calvin Harris",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tinie Tempah",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6892,19 +6988,27 @@
   {
     "song_id": "el-00322",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Culture Code - Dreamers ft. Aloma Steele.mp3",
-    "title": "Dreamers ft",
+    "title": "Dreamers",
     "primary_artists": [
       "Culture Code"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Aloma Steele"
+    ],
     "artists": [
-      "Culture Code"
+      "Culture Code",
+      "Aloma Steele"
     ],
     "credits": [
       {
         "entity": "Culture Code",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Aloma Steele",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6912,19 +7016,27 @@
   {
     "song_id": "el-00323",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\DallasK - Try Again (Lyric Video) ft. Lauv.mp3",
-    "title": "Try Again ft",
+    "title": "Try Again",
     "primary_artists": [
       "DallasK"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lauv"
+    ],
     "artists": [
-      "DallasK"
+      "DallasK",
+      "Lauv"
     ],
     "credits": [
       {
         "entity": "DallasK",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lauv",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6952,19 +7064,27 @@
   {
     "song_id": "el-00325",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\David Guetta\\David Guetta - Titanium feat. Sia.mp3",
-    "title": "Titanium feat",
+    "title": "Titanium",
     "primary_artists": [
       "David Guetta"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sia"
+    ],
     "artists": [
-      "David Guetta"
+      "David Guetta",
+      "Sia"
     ],
     "credits": [
       {
         "entity": "David Guetta",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sia",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7187,7 +7307,7 @@
   {
     "song_id": "el-00334",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\David Guetta, Zara Larsson - This One_s For You (feat. Zara Larsson) - Official Song UEFA EURO 2016.mp3",
-    "title": "This One s For You (feat",
+    "title": "This One s For You (feat. Zara Larsson) - Official Song UEFA EURO 2016",
     "primary_artists": [
       "David Guetta",
       "Zara Larsson"
@@ -7545,7 +7665,7 @@
   {
     "song_id": "el-00349",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\KASKADE\\Kaskade _ Adam K. - Raining (Dance.Love Edit) [feat. Sunsun].mp3",
-    "title": "Raining (Dance.Love Edit) [feat",
+    "title": "Raining (Dance.Love Edit) [feat. Sunsun]",
     "primary_artists": [
       "Kaskade Adam K"
     ],
@@ -7613,19 +7733,27 @@
   {
     "song_id": "el-00352",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Kygo - Firestone ft. Conrad Sewell (Official Video).mp3",
-    "title": "Firestone ft",
+    "title": "Firestone",
     "primary_artists": [
       "Kygo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Conrad Sewell"
+    ],
     "artists": [
-      "Kygo"
+      "Kygo",
+      "Conrad Sewell"
     ],
     "credits": [
       {
         "entity": "Kygo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Conrad Sewell",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7840,19 +7968,27 @@
   {
     "song_id": "el-00363",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Paris Blohm - Fire In The Sun ft. Ilsey Juber (Original Mix).mp3",
-    "title": "Fire In The Sun ft",
+    "title": "Fire In The Sun",
     "primary_artists": [
       "Paris Blohm"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ilsey Juber"
+    ],
     "artists": [
-      "Paris Blohm"
+      "Paris Blohm",
+      "Ilsey Juber"
     ],
     "credits": [
       {
         "entity": "Paris Blohm",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ilsey Juber",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7860,15 +7996,20 @@
   {
     "song_id": "el-00364",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Riton x Nightcrawlers - Friday ft. Mufasa & Hypeman (Dopamine Re-edit) [Official Video].mp3",
-    "title": "Friday ft",
+    "title": "Friday",
     "primary_artists": [
       "Riton",
       "Nightcrawlers"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Mufasa",
+      "Hypeman"
+    ],
     "artists": [
       "Riton",
-      "Nightcrawlers"
+      "Nightcrawlers",
+      "Mufasa",
+      "Hypeman"
     ],
     "credits": [
       {
@@ -7880,6 +8021,16 @@
         "entity": "Nightcrawlers",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Mufasa",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Hypeman",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8009,7 +8160,7 @@
   {
     "song_id": "el-00370",
     "file": "_other\\_elektro\\edm_electronic_pop\\Futago - Californication (feat. Amy Kirkpatrick).mp3",
-    "title": "Californication (feat",
+    "title": "Californication (feat. Amy Kirkpatrick)",
     "primary_artists": [
       "Futago"
     ],
@@ -10516,19 +10667,27 @@
   {
     "song_id": "el-00493",
     "file": "_other\\_elektro\\experimental\\Moby - The Singles - The Complete list\\Escapar (Slipping Away) - Moby feat. Amaral - Lyrics.mp3",
-    "title": "Moby feat",
+    "title": "Moby",
     "primary_artists": [
       "Escapar"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Amaral"
+    ],
     "artists": [
-      "Escapar"
+      "Escapar",
+      "Amaral"
     ],
     "credits": [
       {
         "entity": "Escapar",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Amaral",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10991,7 +11150,7 @@
   {
     "song_id": "el-00516",
     "file": "_other\\_elektro\\experimental\\You are Liquid\\Christian Löffler - Haul (feat. Mohna).mp3",
-    "title": "Haul (feat",
+    "title": "Haul (feat. Mohna)",
     "primary_artists": [
       "Christian Löffler"
     ],
@@ -11298,7 +11457,7 @@
   {
     "song_id": "el-00531",
     "file": "_other\\_elektro\\experimental_chill\\_random\\Lonely in the Rain - Chasing My Dreams (feat. SOMOH).mp3",
-    "title": "Chasing My Dreams (feat",
+    "title": "Chasing My Dreams (feat. SOMOH)",
     "primary_artists": [
       "Lonely in the Rain"
     ],
@@ -11619,7 +11778,7 @@
   {
     "song_id": "el-00546",
     "file": "_other\\_elektro\\experimental_chill\\Color Plus - Only.you.mp3",
-    "title": "Only",
+    "title": "Only.you",
     "primary_artists": [
       "Color Plus"
     ],
@@ -13137,19 +13296,27 @@
   {
     "song_id": "el-00618",
     "file": "_other\\_elektro\\house_afro_organic\\Afro House Remix Sabia que no x Reezy\\Hugel - Morenita - feat. Cumbiafrica.mp3",
-    "title": "Morenita - feat",
+    "title": "Morenita",
     "primary_artists": [
       "Hugel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Cumbiafrica"
+    ],
     "artists": [
-      "Hugel"
+      "Hugel",
+      "Cumbiafrica"
     ],
     "credits": [
       {
         "entity": "Hugel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Cumbiafrica",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13197,7 +13364,7 @@
   {
     "song_id": "el-00621",
     "file": "_other\\_elektro\\house_afro_organic\\Afro House Remix Sabia que no x Reezy\\Kryder - Fade Till Sunrise, Pt. II (Döts & Victor Garde Remix) [Official Audio].mp3",
-    "title": "Fade Till Sunrise, Pt",
+    "title": "Fade Till Sunrise, Pt. II (Döts & Victor Garde Remix)",
     "primary_artists": [
       "Kryder"
     ],
@@ -13217,7 +13384,7 @@
   {
     "song_id": "el-00622",
     "file": "_other\\_elektro\\house_afro_organic\\Afro House Remix Sabia que no x Reezy\\Malóne, CJ Jeff - Missing (Back To You) [feat. Ellivia] (Official Audio).mp3",
-    "title": "Missing (Back To You) [feat",
+    "title": "Missing (Back To You) [feat. Ellivia]",
     "primary_artists": [
       "Malóne",
       "CJ Jeff"
@@ -13365,7 +13532,7 @@
   {
     "song_id": "el-00628",
     "file": "_other\\_elektro\\house_afro_organic\\Keinemusik - The Party is Over\\Logic1000 – What You Like (feat. Yunè Pinku) (Official Visualiser).mp3",
-    "title": "What You Like (feat",
+    "title": "What You Like (feat. Yunè Pinku) (Official Visualiser)",
     "primary_artists": [
       "Logic1000"
     ],
@@ -13513,19 +13680,27 @@
   {
     "song_id": "el-00635",
     "file": "_other\\_elektro\\house_afro_organic\\Mussulo Video  - Dj Malvado & Dj Aka-m ft. Doddy.mp3",
-    "title": "Dj Malvado & Dj Aka-m ft",
+    "title": "Dj Malvado & Dj Aka-m",
     "primary_artists": [
       "Mussulo Video"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Doddy"
+    ],
     "artists": [
-      "Mussulo Video"
+      "Mussulo Video",
+      "Doddy"
     ],
     "credits": [
       {
         "entity": "Mussulo Video",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Doddy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13827,7 +14002,7 @@
   {
     "song_id": "el-00650",
     "file": "_other\\_elektro\\house_afro_organic\\VANCO - MA TNSANI (FEAT. AYA) 🇿🇦🇰🇼 [AFRO HOUSE, MELODIC HOUSE & TECHNO].mp3",
-    "title": "MA TNSANI (FEAT",
+    "title": "MA TNSANI (FEAT. AYA) 🇿🇦🇰🇼 [AFRO HOUSE, MELODIC HOUSE & TECHNO]",
     "primary_artists": [
       "VANCO"
     ],
@@ -14566,7 +14741,7 @@
   {
     "song_id": "el-00685",
     "file": "_other\\_elektro\\house_techno\\Beshken - Right Time (feat. Soraya).mp3",
-    "title": "Right Time (feat",
+    "title": "Right Time (feat. Soraya)",
     "primary_artists": [
       "Beshken"
     ],
@@ -14586,19 +14761,27 @@
   {
     "song_id": "el-00686",
     "file": "_other\\_elektro\\house_techno\\Black Coffee _ David Guetta - Drive feat. Delilah Montagu [Ultra Music].mp3",
-    "title": "Drive feat",
+    "title": "Drive",
     "primary_artists": [
       "Black Coffee David Guetta"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Delilah Montagu"
+    ],
     "artists": [
-      "Black Coffee David Guetta"
+      "Black Coffee David Guetta",
+      "Delilah Montagu"
     ],
     "credits": [
       {
         "entity": "Black Coffee David Guetta",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Delilah Montagu",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14713,19 +14896,27 @@
   {
     "song_id": "el-00692",
     "file": "_other\\_elektro\\house_techno\\coca\\Banx _ Ranx + Ella Eyre - Answerphone ft. Yxng Bane (Official Video).mp3",
-    "title": "Answerphone ft",
+    "title": "Answerphone",
     "primary_artists": [
       "Banx Ranx + Ella Eyre"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Yxng Bane"
+    ],
     "artists": [
-      "Banx Ranx + Ella Eyre"
+      "Banx Ranx + Ella Eyre",
+      "Yxng Bane"
     ],
     "credits": [
       {
         "entity": "Banx Ranx + Ella Eyre",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Yxng Bane",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15489,7 +15680,7 @@
   {
     "song_id": "el-00730",
     "file": "_other\\_elektro\\house_techno\\Henry Krinkle\\BAYNK - DOWN (ft. Golden Vessel & Akurei).mp3",
-    "title": "DOWN (ft",
+    "title": "DOWN (ft. Golden Vessel & Akurei)",
     "primary_artists": [
       "BAYNK"
     ],
@@ -15529,7 +15720,7 @@
   {
     "song_id": "el-00732",
     "file": "_other\\_elektro\\house_techno\\Henry Land _ Samuel - Demons (Ft. Jasmine Thompson _ Hilman).mp3",
-    "title": "Demons (Ft",
+    "title": "Demons (Ft. Jasmine Thompson Hilman)",
     "primary_artists": [
       "Henry Land Samuel"
     ],
@@ -15669,19 +15860,27 @@
   {
     "song_id": "el-00739",
     "file": "_other\\_elektro\\house_techno\\house\\Ariana Grande - Break Free ft. Zedd.mp3",
-    "title": "Break Free ft",
+    "title": "Break Free",
     "primary_artists": [
       "Ariana Grande"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Zedd"
+    ],
     "artists": [
-      "Ariana Grande"
+      "Ariana Grande",
+      "Zedd"
     ],
     "credits": [
       {
         "entity": "Ariana Grande",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Zedd",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16013,7 +16212,7 @@
   {
     "song_id": "el-00755",
     "file": "_other\\_elektro\\house_techno\\house\\Daft Punk\\14. Daft Punk - Get Lucky (Radio Edit) [Feat. Pharrell Williams].m4a",
-    "title": "Get Lucky [Feat",
+    "title": "Get Lucky [Feat. Pharrell Williams]",
     "primary_artists": [
       "Daft Punk"
     ],
@@ -16093,19 +16292,27 @@
   {
     "song_id": "el-00759",
     "file": "_other\\_elektro\\house_techno\\house\\Daft Punk\\Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams.mp3",
-    "title": "Get Lucky ft",
+    "title": "Get Lucky",
     "primary_artists": [
       "Daft Punk"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Pharrell Williams"
+    ],
     "artists": [
-      "Daft Punk"
+      "Daft Punk",
+      "Pharrell Williams"
     ],
     "credits": [
       {
         "entity": "Daft Punk",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Pharrell Williams",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16133,19 +16340,27 @@
   {
     "song_id": "el-00761",
     "file": "_other\\_elektro\\house_techno\\house\\Daft Punk\\Daft Punk - Instant Crush (Official Video) ft. Julian Casablancas.mp3",
-    "title": "Instant Crush ft",
+    "title": "Instant Crush",
     "primary_artists": [
       "Daft Punk"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Julian Casablancas"
+    ],
     "artists": [
-      "Daft Punk"
+      "Daft Punk",
+      "Julian Casablancas"
     ],
     "credits": [
       {
         "entity": "Daft Punk",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Julian Casablancas",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16153,7 +16368,7 @@
   {
     "song_id": "el-00762",
     "file": "_other\\_elektro\\house_techno\\house\\Daft Punk\\Daft Punk - Random Access Memories (JP Deluxe Edition) 2013 320kbps CBR MP3 [VX]\\08 Daft Punk - Get Lucky (feat. Pharrell Williams).mp3",
-    "title": "Get Lucky (feat",
+    "title": "Get Lucky (feat. Pharrell Williams)",
     "primary_artists": [
       "Daft Punk"
     ],
@@ -16213,7 +16428,7 @@
   {
     "song_id": "el-00765",
     "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\03. Disclosure - Latch (Feat. Sam Smith - Album Version).mp3",
-    "title": "Latch (Feat",
+    "title": "Latch (Feat. Sam Smith - Album Version)",
     "primary_artists": [
       "Disclosure"
     ],
@@ -16233,7 +16448,7 @@
   {
     "song_id": "el-00766",
     "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\05. Disclosure - White Noise (Feat. AlunaGeorge - Album Version).mp3",
-    "title": "White Noise (Feat",
+    "title": "White Noise (Feat. AlunaGeorge - Album Version)",
     "primary_artists": [
       "Disclosure"
     ],
@@ -16253,7 +16468,7 @@
   {
     "song_id": "el-00767",
     "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\14. Disclosure - Help Me Lose My Mind (Feat. London Grammar).mp3",
-    "title": "Help Me Lose My Mind (Feat",
+    "title": "Help Me Lose My Mind (Feat. London Grammar)",
     "primary_artists": [
       "Disclosure"
     ],
@@ -16293,19 +16508,27 @@
   {
     "song_id": "el-00769",
     "file": "_other\\_elektro\\house_techno\\house\\disclosure\\Disclosure - Magnets ft. Lorde.mp3",
-    "title": "Magnets ft",
+    "title": "Magnets",
     "primary_artists": [
       "Disclosure"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lorde"
+    ],
     "artists": [
-      "Disclosure"
+      "Disclosure",
+      "Lorde"
     ],
     "credits": [
       {
         "entity": "Disclosure",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lorde",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16493,19 +16716,27 @@
   {
     "song_id": "el-00779",
     "file": "_other\\_elektro\\house_techno\\house\\Kabza De Small - Nia Lo (Official Video) ft. Nia Pearl.mp3",
-    "title": "Nia Lo ft",
+    "title": "Nia Lo",
     "primary_artists": [
       "Kabza De Small"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nia Pearl"
+    ],
     "artists": [
-      "Kabza De Small"
+      "Kabza De Small",
+      "Nia Pearl"
     ],
     "credits": [
       {
         "entity": "Kabza De Small",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nia Pearl",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16713,19 +16944,34 @@
   {
     "song_id": "el-00790",
     "file": "_other\\_elektro\\house_techno\\house\\Naughty Boy - Runnin  (Lose It All) ft. Beyoncé, Arrow Benjamin.mp3",
-    "title": "Runnin (Lose It All) ft",
+    "title": "Runnin (Lose It All)",
     "primary_artists": [
       "Naughty Boy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Beyoncé",
+      "Arrow Benjamin"
+    ],
     "artists": [
-      "Naughty Boy"
+      "Naughty Boy",
+      "Beyoncé",
+      "Arrow Benjamin"
     ],
     "credits": [
       {
         "entity": "Naughty Boy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Beyoncé",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Arrow Benjamin",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16881,7 +17127,7 @@
   {
     "song_id": "el-00798",
     "file": "_other\\_elektro\\house_techno\\house\\RAC - Something About Us (ft. Liz Anjos).mp3",
-    "title": "Something About Us (ft",
+    "title": "Something About Us (ft. Liz Anjos)",
     "primary_artists": [
       "RAC"
     ],
@@ -16941,19 +17187,27 @@
   {
     "song_id": "el-00801",
     "file": "_other\\_elektro\\house_techno\\house\\Route 94 - My Love (Official Video) ft. Jess Glynne.mp3",
-    "title": "My Love ft",
+    "title": "My Love",
     "primary_artists": [
       "Route 94"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jess Glynne"
+    ],
     "artists": [
-      "Route 94"
+      "Route 94",
+      "Jess Glynne"
     ],
     "credits": [
       {
         "entity": "Route 94",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jess Glynne",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17001,19 +17255,27 @@
   {
     "song_id": "el-00804",
     "file": "_other\\_elektro\\house_techno\\house\\Shy Girls - Arrest Me ft. Tei Shi (Noah Breakfast Remix).mp3",
-    "title": "Arrest Me ft",
+    "title": "Arrest Me",
     "primary_artists": [
       "Shy Girls"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tei Shi"
+    ],
     "artists": [
-      "Shy Girls"
+      "Shy Girls",
+      "Tei Shi"
     ],
     "credits": [
       {
         "entity": "Shy Girls",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tei Shi",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17041,19 +17303,27 @@
   {
     "song_id": "el-00806",
     "file": "_other\\_elektro\\house_techno\\house\\STWO - You ft. Sanna Hartfield.mp3",
-    "title": "You ft",
+    "title": "You",
     "primary_artists": [
       "STWO"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sanna Hartfield"
+    ],
     "artists": [
-      "STWO"
+      "STWO",
+      "Sanna Hartfield"
     ],
     "credits": [
       {
         "entity": "STWO",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sanna Hartfield",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17221,7 +17491,7 @@
   {
     "song_id": "el-00815",
     "file": "_other\\_elektro\\house_techno\\house\\XYLØ - L.A. Love Song.mp3",
-    "title": "L.A",
+    "title": "L.A. Love Song",
     "primary_artists": [
       "XYLØ"
     ],
@@ -17349,7 +17619,7 @@
   {
     "song_id": "el-00821",
     "file": "_other\\_elektro\\house_techno\\house_chill\\Babel - Incredibly Close (feat. Wrenn).mp3",
-    "title": "Incredibly Close (feat",
+    "title": "Incredibly Close (feat. Wrenn)",
     "primary_artists": [
       "Babel"
     ],
@@ -17764,7 +18034,7 @@
   {
     "song_id": "el-00841",
     "file": "_other\\_elektro\\house_techno\\house_chill\\Chris Isaac - Wicked Game (ft. Seren) (Chillion Re.mp3",
-    "title": "Wicked Game (ft",
+    "title": "Wicked Game (ft. Seren) (Chillion Re",
     "primary_artists": [
       "Chris Isaac"
     ],
@@ -18064,7 +18334,7 @@
   {
     "song_id": "el-00856",
     "file": "_other\\_elektro\\house_techno\\house_chill\\shallou - count on (feat. colin).mp3",
-    "title": "count on (feat",
+    "title": "count on (feat. colin)",
     "primary_artists": [
       "shallou"
     ],
@@ -18232,7 +18502,7 @@
   {
     "song_id": "el-00864",
     "file": "_other\\_elektro\\house_techno\\James Hersey - What I ve Done (Feast. Remix).mp3",
-    "title": "What I ve Done (Feast",
+    "title": "What I ve Done (Feast. Remix)",
     "primary_artists": [
       "James Hersey"
     ],
@@ -18452,7 +18722,7 @@
   {
     "song_id": "el-00875",
     "file": "_other\\_elektro\\house_techno\\Milky Chance  - Stolen Dance (FlicFlac Edit) 4clubbers.pl.mp3",
-    "title": "Stolen Dance (FlicFlac Edit) 4clubbers",
+    "title": "Stolen Dance (FlicFlac Edit) 4clubbers.pl",
     "primary_artists": [
       "Milky Chance"
     ],
@@ -18572,19 +18842,27 @@
   {
     "song_id": "el-00881",
     "file": "_other\\_elektro\\house_techno\\Naughty Boy - La La La [Audio] ft. Sam Smith.mp3",
-    "title": "La La La [Audio] ft",
+    "title": "La La La [Audio]",
     "primary_artists": [
       "Naughty Boy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sam Smith"
+    ],
     "artists": [
-      "Naughty Boy"
+      "Naughty Boy",
+      "Sam Smith"
     ],
     "credits": [
       {
         "entity": "Naughty Boy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sam Smith",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -18827,19 +19105,27 @@
   {
     "song_id": "el-00893",
     "file": "_other\\_elektro\\house_techno\\Parov Stelar - The Sun feat. Graham Candy (LCAW Remix).mp3",
-    "title": "The Sun feat",
+    "title": "The Sun",
     "primary_artists": [
       "Parov Stelar"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Graham Candy"
+    ],
     "artists": [
-      "Parov Stelar"
+      "Parov Stelar",
+      "Graham Candy"
     ],
     "credits": [
       {
         "entity": "Parov Stelar",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Graham Candy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -18907,7 +19193,7 @@
   {
     "song_id": "el-00897",
     "file": "_other\\_elektro\\house_techno\\Perturbator -  Hard Wired (feat. Isabella Goloversic)  [ Dangerous Days  - Official].mp3",
-    "title": "Hard Wired (feat",
+    "title": "Hard Wired (feat. Isabella Goloversic) [ Dangerous Days - Official]",
     "primary_artists": [
       "Perturbator"
     ],
@@ -18927,19 +19213,27 @@
   {
     "song_id": "el-00898",
     "file": "_other\\_elektro\\house_techno\\PILERATS - PILERATS RAT PACK #1 - 01 Odesza - Sun Models Ft. Madelyn Grant.mp3",
-    "title": "PILERATS RAT PACK #1 - 01 Odesza - Sun Models Ft",
+    "title": "PILERATS RAT PACK #1 - 01 Odesza - Sun Models",
     "primary_artists": [
       "PILERATS"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Madelyn Grant"
+    ],
     "artists": [
-      "PILERATS"
+      "PILERATS",
+      "Madelyn Grant"
     ],
     "credits": [
       {
         "entity": "PILERATS",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Madelyn Grant",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -18987,19 +19281,27 @@
   {
     "song_id": "el-00901",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Alle Farben - She Moves feat. Graham Candy (Hippie Sabotage Remix).mp3",
-    "title": "She Moves feat",
+    "title": "She Moves",
     "primary_artists": [
       "Alle Farben"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Graham Candy"
+    ],
     "artists": [
-      "Alle Farben"
+      "Alle Farben",
+      "Graham Candy"
     ],
     "credits": [
       {
         "entity": "Alle Farben",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Graham Candy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19007,19 +19309,27 @@
   {
     "song_id": "el-00902",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Burak Yeter - Tuesday ft. Danelle Sandoval.mp3",
-    "title": "Tuesday ft",
+    "title": "Tuesday",
     "primary_artists": [
       "Burak Yeter"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Danelle Sandoval"
+    ],
     "artists": [
-      "Burak Yeter"
+      "Burak Yeter",
+      "Danelle Sandoval"
     ],
     "credits": [
       {
         "entity": "Burak Yeter",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Danelle Sandoval",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19075,19 +19385,27 @@
   {
     "song_id": "el-00905",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Felix Jaehn - Ain’t Nobody (Loves Me Better) ft. Jasmine Thompson.mp3",
-    "title": "Ain’t Nobody (Loves Me Better) ft",
+    "title": "Ain’t Nobody (Loves Me Better)",
     "primary_artists": [
       "Felix Jaehn"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jasmine Thompson"
+    ],
     "artists": [
-      "Felix Jaehn"
+      "Felix Jaehn",
+      "Jasmine Thompson"
     ],
     "credits": [
       {
         "entity": "Felix Jaehn",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jasmine Thompson",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19255,19 +19573,27 @@
   {
     "song_id": "el-00914",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Kygo - Stole The Show feat. Parson James [Official Music Video - YTMAs].mp3",
-    "title": "Stole The Show feat",
+    "title": "Stole The Show",
     "primary_artists": [
       "Kygo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Parson James"
+    ],
     "artists": [
-      "Kygo"
+      "Kygo",
+      "Parson James"
     ],
     "credits": [
       {
         "entity": "Kygo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Parson James",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19323,19 +19649,27 @@
   {
     "song_id": "el-00917",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Mahmut Orhan - Feel feat. Sena Sener (Official Video).mp3",
-    "title": "Feel feat",
+    "title": "Feel",
     "primary_artists": [
       "Mahmut Orhan"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sena Sener"
+    ],
     "artists": [
-      "Mahmut Orhan"
+      "Mahmut Orhan",
+      "Sena Sener"
     ],
     "credits": [
       {
         "entity": "Mahmut Orhan",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sena Sener",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19450,7 +19784,7 @@
   {
     "song_id": "el-00923",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\gnash Olivia O_Brien Robin Schulz - i hate u, i love u (feat. olivia o_brien) - Robin Schulz Remix.mp3",
-    "title": "i hate u, i love u (feat",
+    "title": "i hate u, i love u (feat. olivia o brien) - Robin Schulz Remix",
     "primary_artists": [
       "gnash Olivia O Brien Robin Schulz"
     ],
@@ -19510,19 +19844,27 @@
   {
     "song_id": "el-00926",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz - Sun Goes Down feat. Jasmine Thompson (Official Video).mp3",
-    "title": "Sun Goes Down feat",
+    "title": "Sun Goes Down",
     "primary_artists": [
       "Robin Schulz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jasmine Thompson"
+    ],
     "artists": [
-      "Robin Schulz"
+      "Robin Schulz",
+      "Jasmine Thompson"
     ],
     "credits": [
       {
         "entity": "Robin Schulz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jasmine Thompson",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19570,7 +19912,7 @@
   {
     "song_id": "el-00929",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz – OK (feat. James Blunt) (Official Music Video).mp3",
-    "title": "OK (feat",
+    "title": "OK (feat. James Blunt)",
     "primary_artists": [
       "Robin Schulz"
     ],
@@ -19790,7 +20132,7 @@
   {
     "song_id": "el-00940",
     "file": "_other\\_elektro\\house_techno\\Sahara_-_Tyalee__Club_Version____DStrikT___www.muzicafree.net__.mp3",
-    "title": "Tyalee Club Version DStrikT www.muzicafree",
+    "title": "Tyalee Club Version DStrikT www.muzicafree.net",
     "primary_artists": [
       "Sahara"
     ],
@@ -19810,7 +20152,7 @@
   {
     "song_id": "el-00941",
     "file": "_other\\_elektro\\house_techno\\Sango _ Waldo - Crossroads (feat. SPZRKT).mp3",
-    "title": "Crossroads (feat",
+    "title": "Crossroads (feat. SPZRKT)",
     "primary_artists": [
       "Sango Waldo"
     ],
@@ -20871,19 +21213,27 @@
   {
     "song_id": "el-00991",
     "file": "_other\\_elektro\\house_techno\\Teyana Taylor - How You Want It (HYWI) ft. King Combs (Official Video).mp3",
-    "title": "How You Want It (HYWI) ft",
+    "title": "How You Want It (HYWI)",
     "primary_artists": [
       "Teyana Taylor"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "King Combs"
+    ],
     "artists": [
-      "Teyana Taylor"
+      "Teyana Taylor",
+      "King Combs"
     ],
     "credits": [
       {
         "entity": "Teyana Taylor",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "King Combs",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -21093,7 +21443,7 @@
   {
     "song_id": "el-01001",
     "file": "_other\\_elektro\\house_techno\\USB Players - Must Have Been (ft. I AM L).mp3",
-    "title": "Must Have Been (ft",
+    "title": "Must Have Been (ft. I AM L)",
     "primary_artists": [
       "USB Players"
     ],
@@ -22011,7 +22361,7 @@
   {
     "song_id": "el-01043",
     "file": "_other\\_elektro\\trance_dance_rave\\eurodance\\David DeeJay\\David DeeJay feat Dony - So Bizzare www.50Music.net.mp3",
-    "title": "So Bizzare www.50Music",
+    "title": "So Bizzare www.50Music.net",
     "primary_artists": [
       "David Deejay"
     ],
@@ -23305,7 +23655,7 @@
   {
     "song_id": "el-01105",
     "file": "_other\\_elektro\\trance_dance_rave\\Simina Grigoriu - Boondocks [01.06.2011 @ Beatport] (1).mp3",
-    "title": "Boondocks [01.06",
+    "title": "Boondocks [01.06.2011 @ Beatport] (1)",
     "primary_artists": [
       "Simina Grigoriu"
     ],
@@ -24266,7 +24616,7 @@
   {
     "song_id": "el-01147",
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Delerium - Silence (ft. Sarah McLachlan) (Airscape Remix) [Official Music Video].mp3",
-    "title": "Silence (ft",
+    "title": "Silence (ft. Sarah McLachlan) (Airscape Remix)",
     "primary_artists": [
       "Delerium"
     ],
@@ -24286,19 +24636,27 @@
   {
     "song_id": "el-01148",
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Delerium - Silence ft. Sarah McLachlan (Tiesto Mix).mp3",
-    "title": "Silence ft",
+    "title": "Silence",
     "primary_artists": [
       "Delerium"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sarah McLachlan"
+    ],
     "artists": [
-      "Delerium"
+      "Delerium",
+      "Sarah McLachlan"
     ],
     "credits": [
       {
         "entity": "Delerium",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sarah McLachlan",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -24506,7 +24864,7 @@
   {
     "song_id": "el-01159",
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Paul van Dyk - Let Go (Feat. Rea).mp3",
-    "title": "Let Go (Feat",
+    "title": "Let Go (Feat. Rea)",
     "primary_artists": [
       "Paul van Dyk"
     ],

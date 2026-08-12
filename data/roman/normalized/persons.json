@@ -56,6 +56,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Sandra N": {
+    "song_ids": [
+      "rn-00005"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00005"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Alexandra Stan": {
     "song_ids": [
       "rn-00006",
@@ -267,6 +278,17 @@
       "rn-00026"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jo": {
+    "song_ids": [
+      "rn-00026"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00026"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -855,6 +877,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Amuly": {
+    "song_ids": [
+      "rn-00090"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00090"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Foreign Boys": {
     "song_ids": [
       "rn-00091"
@@ -927,6 +960,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Azteca": {
+    "song_ids": [
+      "rn-00099"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00099"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "KILLA FONIC": {
     "song_ids": [
       "rn-00100"
@@ -972,6 +1016,17 @@
       "rn-00103"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex Bittman": {
+    "song_ids": [
+      "rn-00103"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00103"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

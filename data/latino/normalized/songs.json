@@ -124,19 +124,27 @@
   {
     "song_id": "lt-00006",
     "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby Bash - Cyclone ft. T-Pain.mp3",
-    "title": "Cyclone ft",
+    "title": "Cyclone",
     "primary_artists": [
       "Baby Bash"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "T-Pain"
+    ],
     "artists": [
-      "Baby Bash"
+      "Baby Bash",
+      "T-Pain"
     ],
     "credits": [
       {
         "entity": "Baby Bash",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "T-Pain",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -259,19 +267,27 @@
   {
     "song_id": "lt-00012",
     "file": "_other\\_latino\\_oldschool\\bachata\\La Factoria - Perdoname ft. Eddy Lover.mp3",
-    "title": "Perdoname ft",
+    "title": "Perdoname",
     "primary_artists": [
       "La Factoria"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Eddy Lover"
+    ],
     "artists": [
-      "La Factoria"
+      "La Factoria",
+      "Eddy Lover"
     ],
     "credits": [
       {
         "entity": "La Factoria",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Eddy Lover",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -392,19 +408,27 @@
   {
     "song_id": "lt-00018",
     "file": "_other\\_latino\\_oldschool\\bachata\\Santana - Maria Maria ft. The Product G&B (Official Video).mp3",
-    "title": "Maria Maria ft",
+    "title": "Maria Maria",
     "primary_artists": [
       "Santana"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "The Product G"
+    ],
     "artists": [
-      "Santana"
+      "Santana",
+      "The Product G"
     ],
     "credits": [
       {
         "entity": "Santana",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "The Product G",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -732,19 +756,27 @@
   {
     "song_id": "lt-00035",
     "file": "_other\\_latino\\_oldschool\\Calema\\Rapaz 100 Juiz - Preparado ft. Calema.mp3",
-    "title": "Preparado ft",
+    "title": "Preparado",
     "primary_artists": [
       "Rapaz 100 Juiz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Calema"
+    ],
     "artists": [
-      "Rapaz 100 Juiz"
+      "Rapaz 100 Juiz",
+      "Calema"
     ],
     "credits": [
       {
         "entity": "Rapaz 100 Juiz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -752,7 +784,7 @@
   {
     "song_id": "lt-00036",
     "file": "_other\\_latino\\_oldschool\\Calema\\SoulPlay - Corazón (Maluma feat. Nego do Borel) SOULPLAY COVER.mp3",
-    "title": "Corazón (Maluma feat",
+    "title": "Corazón (Maluma feat. Nego do Borel) SOULPLAY COVER",
     "primary_artists": [
       "SoulPlay"
     ],
@@ -892,7 +924,7 @@
   {
     "song_id": "lt-00043",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Binhan - Guiné Nha Terra (Feat. Monica Seka).mp3",
-    "title": "Guiné Nha Terra (Feat",
+    "title": "Guiné Nha Terra (Feat. Monica Seka)",
     "primary_artists": [
       "Binhan"
     ],
@@ -980,7 +1012,7 @@
   {
     "song_id": "lt-00047",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Claudio Fénix - Volta Só Já (feat. Lil Saint)   Official Video.mp3",
-    "title": "Volta Só Já (feat",
+    "title": "Volta Só Já (feat. Lil Saint)",
     "primary_artists": [
       "Claudio Fénix"
     ],
@@ -1128,7 +1160,7 @@
   {
     "song_id": "lt-00054",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Garry - Vida Kim Skodji (Feat. Petcha) [Video Oficial] “NovoCiclo“ Parte2 - 2023.mp3",
-    "title": "Vida Kim Skodji (Feat",
+    "title": "Vida Kim Skodji (Feat. Petcha) “NovoCiclo“ Parte2 - 2023",
     "primary_artists": [
       "Garry"
     ],
@@ -1188,7 +1220,7 @@
   {
     "song_id": "lt-00057",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Ir-sais - Amore (Prod.Iri).mp3",
-    "title": "Amore (Prod",
+    "title": "Amore (Prod.Iri)",
     "primary_artists": [
       "Ir-sais"
     ],
@@ -1424,7 +1456,7 @@
   {
     "song_id": "lt-00068",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Soarito - O Lamento (feat. C4 Pedro) Official Vídeo.mp3",
-    "title": "O Lamento (feat",
+    "title": "O Lamento (feat. C4 Pedro) Official Vídeo",
     "primary_artists": [
       "Soarito"
     ],
@@ -1612,7 +1644,7 @@
   {
     "song_id": "lt-00077",
     "file": "_other\\_latino\\_oldschool\\soca\\Kat DeLuna - Push Push (feat. Akon) NEW SINGLE 2010.mp3",
-    "title": "Push Push (feat",
+    "title": "Push Push (feat. Akon) NEW SINGLE 2010",
     "primary_artists": [
       "Kat DeLuna"
     ],
@@ -1632,7 +1664,7 @@
   {
     "song_id": "lt-00078",
     "file": "_other\\_latino\\_oldschool\\soca\\Kevin Lyttle - Turn Me On (feat. Spraga Benz) [Official Video].mp3",
-    "title": "Turn Me On (feat",
+    "title": "Turn Me On (feat. Spraga Benz)",
     "primary_artists": [
       "Kevin Lyttle"
     ],
@@ -2936,7 +2968,7 @@
   {
     "song_id": "lt-00136",
     "file": "_other\\_latino\\Bad Bunny\\044. Bad Bunny - MIA (feat. Drake).mp3",
-    "title": "MIA (feat",
+    "title": "MIA (feat. Drake)",
     "primary_artists": [
       "Bad Bunny"
     ],
@@ -4575,19 +4607,41 @@
   {
     "song_id": "lt-00209",
     "file": "_other\\_latino\\J  Balvin\\J Balvin - Safari ft. Pharrell Williams, BIA, Sky.mp3",
-    "title": "Safari ft",
+    "title": "Safari",
     "primary_artists": [
       "J Balvin"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Pharrell Williams",
+      "BIA",
+      "Sky"
+    ],
     "artists": [
-      "J Balvin"
+      "J Balvin",
+      "Pharrell Williams",
+      "BIA",
+      "Sky"
     ],
     "credits": [
       {
         "entity": "J Balvin",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Pharrell Williams",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "BIA",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Sky",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4682,7 +4736,7 @@
   {
     "song_id": "lt-00214",
     "file": "_other\\_latino\\Justin Quiles\\03. Justin Quiles x Arcangel x Dalex -  Como Si Nah (feat. KEVVO) [Official Music Video].mp3",
-    "title": "Como Si Nah (feat",
+    "title": "Como Si Nah (feat. KEVVO)",
     "primary_artists": [
       "Justin Quiles",
       "Arcángel",
@@ -4716,19 +4770,27 @@
   {
     "song_id": "lt-00215",
     "file": "_other\\_latino\\Justin Quiles\\Gadiel - Has Cambiado (Official Video) ft. Justin Quiles.mp3",
-    "title": "Has Cambiado ft",
+    "title": "Has Cambiado",
     "primary_artists": [
       "Gadiel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Justin Quiles"
+    ],
     "artists": [
-      "Gadiel"
+      "Gadiel",
+      "Justin Quiles"
     ],
     "credits": [
       {
         "entity": "Gadiel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Justin Quiles",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4736,19 +4798,27 @@
   {
     "song_id": "lt-00216",
     "file": "_other\\_latino\\Justin Quiles\\Justin Quiles - Otra Copa ft. Farruko [Official Audio].mp3",
-    "title": "Otra Copa ft",
+    "title": "Otra Copa",
     "primary_artists": [
       "Justin Quiles"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Farruko"
+    ],
     "artists": [
-      "Justin Quiles"
+      "Justin Quiles",
+      "Farruko"
     ],
     "credits": [
       {
         "entity": "Justin Quiles",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Farruko",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4898,7 +4968,7 @@
   {
     "song_id": "lt-00222",
     "file": "_other\\_latino\\Lou Bega - Mambo No. 5 (A Little Bit Of...).mp3",
-    "title": "Mambo No. 5 (A Little Bit Of",
+    "title": "Mambo No. 5 (A Little Bit Of...)",
     "primary_artists": [
       "Lou Bega"
     ],
@@ -4918,19 +4988,27 @@
   {
     "song_id": "lt-00223",
     "file": "_other\\_latino\\Luis Fonsi - Despacito ft. Daddy Yankee.mp3",
-    "title": "Despacito ft",
+    "title": "Despacito",
     "primary_artists": [
       "Luis Fonsi"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Daddy Yankee"
+    ],
     "artists": [
-      "Luis Fonsi"
+      "Luis Fonsi",
+      "Daddy Yankee"
     ],
     "credits": [
       {
         "entity": "Luis Fonsi",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Daddy Yankee",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5590,19 +5668,27 @@
   {
     "song_id": "lt-00251",
     "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Wisin - Escápate Conmigo (Official Video) ft. Ozuna.mp3",
-    "title": "Escápate Conmigo ft",
+    "title": "Escápate Conmigo",
     "primary_artists": [
       "Wisin"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ozuna"
+    ],
     "artists": [
-      "Wisin"
+      "Wisin",
+      "Ozuna"
     ],
     "credits": [
       {
         "entity": "Wisin",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5991,19 +6077,27 @@
   {
     "song_id": "lt-00270",
     "file": "_other\\_latino\\Shakira\\Shakira - Can_t Remember to Forget You ft. Rihanna.mp3",
-    "title": "Can t Remember to Forget You ft",
+    "title": "Can t Remember to Forget You",
     "primary_artists": [
       "Shakira"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rihanna"
+    ],
     "artists": [
-      "Shakira"
+      "Shakira",
+      "Rihanna"
     ],
     "credits": [
       {
         "entity": "Shakira",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rihanna",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

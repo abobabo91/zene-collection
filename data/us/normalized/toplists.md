@@ -13,7 +13,7 @@ Unattributed songs: `223`
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
 | 1 | Eminem | 231 | 180.1 | 193.0 | 172 | 4 | 55 | Detroit | - | Bad Meets Evil, D12 |
 | 2 | YoungBoy Never Broke Again | 142 | 139.3 | 140.5 | 139 | 3 | 0 | Louisiana | - | - |
-| 3 | Lil Wayne | 146 | 131.2 | 136.7 | 129 | 17 | 0 | Louisiana | Young Money | - |
+| 3 | Lil Wayne | 146 | 131.7 | 136.7 | 129 | 17 | 0 | Louisiana | Young Money | - |
 | 4 | Kodak Black | 109 | 104.5 | 106.2 | 104 | 5 | 0 | Florida | - | - |
 | 5 | Young Thug | 109 | 88.9 | 97.9 | 88 | 23 | 0 | Atlanta | YSL | - |
 | 6 | Future | 106 | 89.7 | 96.6 | 90 | 16 | 0 | Atlanta | - | - |

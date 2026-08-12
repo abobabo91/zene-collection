@@ -110,6 +110,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "T-Pain": {
+    "song_ids": [
+      "lt-00006"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00006"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Lucky Luciano": {
     "song_ids": [
       "lt-00008"
@@ -151,6 +162,17 @@
       "lt-00012"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eddy Lover": {
+    "song_ids": [
+      "lt-00012"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00012"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -217,7 +239,8 @@
       "lt-00247",
       "lt-00248",
       "lt-00249",
-      "lt-00250"
+      "lt-00250",
+      "lt-00251"
     ],
     "primary_song_ids": [
       "lt-00015",
@@ -249,7 +272,8 @@
       "lt-00250"
     ],
     "feature_song_ids": [
-      "lt-00164"
+      "lt-00164",
+      "lt-00251"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -278,6 +302,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "The Product G": {
+    "song_ids": [
+      "lt-00018"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00018"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Calema": {
     "song_ids": [
       "lt-00020",
@@ -295,6 +330,7 @@
       "lt-00032",
       "lt-00033",
       "lt-00034",
+      "lt-00035",
       "lt-00037"
     ],
     "primary_song_ids": [
@@ -315,7 +351,9 @@
       "lt-00034",
       "lt-00037"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "lt-00035"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1308,7 +1346,8 @@
       "lt-00160",
       "lt-00161",
       "lt-00162",
-      "lt-00163"
+      "lt-00163",
+      "lt-00223"
     ],
     "primary_song_ids": [
       "lt-00160",
@@ -1316,7 +1355,9 @@
       "lt-00162",
       "lt-00163"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "lt-00223"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1380,6 +1421,7 @@
       "lt-00165",
       "lt-00187",
       "lt-00214",
+      "lt-00215",
       "lt-00216",
       "lt-00217"
     ],
@@ -1390,7 +1432,9 @@
       "lt-00216",
       "lt-00217"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "lt-00215"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1429,12 +1473,15 @@
   },
   "Farruko": {
     "song_ids": [
-      "lt-00170"
+      "lt-00170",
+      "lt-00216"
     ],
     "primary_song_ids": [
       "lt-00170"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "lt-00216"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1610,6 +1657,39 @@
       "lt-00207"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pharrell Williams": {
+    "song_ids": [
+      "lt-00209"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00209"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BIA": {
+    "song_ids": [
+      "lt-00209"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00209"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sky": {
+    "song_ids": [
+      "lt-00209"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00209"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1929,6 +2009,17 @@
       "lt-00275"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rihanna": {
+    "song_ids": [
+      "lt-00270"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00270"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
