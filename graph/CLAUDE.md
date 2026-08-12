@@ -1,10 +1,16 @@
-# zene-local-music-graph
+# zene-collection / graph
 
-Song-by-song music graph for a ~15k-song local library across 9 areas.
+Song-by-song music graph for a ~15k-song local library across 19 areas.
+
+**This is a subdirectory of `zene-collection`, not its own repo** (merged 2026-08-12 with the
+timeline and the dashboard). `rebuild.py` here is a plain builder: it writes files and returns
+an exit code, and does **not** touch git. Run `../rebuild.py` to rebuild the graph, timeline
+and dashboard together and commit them as one change.
 
 ## First read
 
-Read `README.md` for areas, scripts, and workflow.
+Read `README.md` for areas, scripts, and workflow, and `../README.md` for how the three
+pieces fit together.
 
 ## Scripts
 

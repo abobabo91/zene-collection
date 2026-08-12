@@ -1,6 +1,12 @@
-# zene-genre-timeline
+# zene-collection / timeline
 
-Genre catalog builder and interactive timeline visualization for a personal music collection (~15k mp3s).
+Genre catalog builder and interactive timeline visualization for a personal music collection
+(~15k mp3s).
+
+**This is a subdirectory of `zene-collection`, not its own repo** (merged 2026-08-12 with the
+artist graph and the dashboard). `rebuild.py` here is a plain builder: it writes files and
+returns an exit code, and does **not** touch git. Run `../rebuild.py` to rebuild all three
+together and commit them as one change.
 
 ## First read
 
