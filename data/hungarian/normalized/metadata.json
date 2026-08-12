@@ -3,10 +3,10 @@
   "schema_version": 1,
   "counts": {
     "songs": 2193,
-    "persons": 486,
+    "persons": 488,
     "groups": 38,
     "labels": 9,
-    "unattributed_songs": 0
+    "unattributed_songs": 4
   },
   "notes": [
     "Songs are the source of truth; persons, groups and labels are derived indexes.",

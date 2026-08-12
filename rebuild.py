@@ -1,4 +1,17 @@
-"""Rebuild all areas, toplists, and visualization. Only rebuilds what changed."""
+"""Rebuild all areas, toplists, and visualization. Only rebuilds what changed.
+
+    python rebuild.py              # rebuild, then commit and push
+    python rebuild.py --no-push    # rebuild and commit, leave pushing to the caller
+    python rebuild.py --dry-run    # say what would rebuild, touch nothing
+
+`--no-push` exists because this script is also a step inside `youtube/refresh.py`, and a
+push that happens as a side effect of an orchestration step is a push nobody approved.
+
+The argument parsing exists for the same class of reason: the script used to ignore argv
+entirely, so `python rebuild.py --help` - the obvious way to find out what it does - ran a
+full rebuild and pushed to GitHub instead of printing usage.
+"""
+import argparse
 import json
 import os
 import subprocess
@@ -77,19 +90,31 @@ def has_changes(roots: list[Path], since: float, area: str) -> bool:
 
 
 def run(cmd: list[str], desc: str):
+    """Always decode as UTF-8. `text=True` alone decodes with the Windows locale codepage,
+    cp1250 here, which cannot represent what the builders print - artist names carry Hungarian
+    and Spanish accents. That raised UnicodeDecodeError inside subprocess's reader thread and
+    aborted the whole rebuild partway through `magyar` on 2026-08-12."""
     print(f"  {desc}...")
-    r = subprocess.run([sys.executable] + cmd, cwd=str(PROJECT_ROOT), capture_output=True, text=True)
+    r = subprocess.run([sys.executable] + cmd, cwd=str(PROJECT_ROOT), capture_output=True,
+                       text=True, encoding="utf-8", errors="replace")
     if r.returncode != 0:
-        print(f"    ERROR: {r.stderr[:200]}")
-    else:
-        # Print first line of output (summary)
-        first = r.stdout.strip().split("\n")[0] if r.stdout.strip() else "done"
-        print(f"    {first}")
+        print(f"    ERROR: {(r.stderr or '')[:300]}")
+        return False
+    first = r.stdout.strip().split("\n")[0] if (r.stdout or "").strip() else "done"
+    print(f"    {first}")
+    return True
 
 
 def main():
+    ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0],
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--no-push", action="store_true",
+                    help="commit but do not push; for callers that own the push")
+    ap.add_argument("--dry-run", action="store_true",
+                    help="report which areas changed and exit")
+    args = ap.parse_args()
+
     last = get_last_rebuild()
-    now = os.path.getmtime(__file__)  # use current time
     import time
     now = time.time()
 
@@ -109,33 +134,55 @@ def main():
         return
 
     print(f"Changes detected in: {', '.join(changed)}")
+    if args.dry_run:
+        print("(dry run - nothing rebuilt, nothing committed)")
+        return
 
     # Rebuild changed areas
+    failed = []
     for area in changed:
         if area == "us":
-            run(["build_us_graph.py"], f"US rap/trap")
+            ok = run(["build_us_graph.py"], "US rap/trap")
         elif area == "hungarian":
-            run(["build_hungarian_graph.py"], "Hungarian rap/trap")
+            ok = run(["build_hungarian_graph.py"], "Hungarian rap/trap")
         else:
-            run(["build_other_graph.py", area], f"{area}")
+            ok = run(["build_other_graph.py", area], f"{area}")
+        if not ok:
+            failed.append(area)
 
     # Always rebuild toplists + visualization if anything changed
-    run(["build_toplists.py"], "Toplists")
-    run(["build_visualization.py"], "Visualization")
+    for script, label in (("build_toplists.py", "Toplists"),
+                          ("build_visualization.py", "Visualization")):
+        if not run([script], label):
+            failed.append(label.lower())
+
+    # A partial rebuild must not look like a finished one. Saving the timestamp would tell
+    # the next run those areas are current, so a build that died halfway would never be
+    # retried; committing would publish a graph that is half old and half new.
+    if failed:
+        print(f"\nFAILED: {', '.join(failed)}")
+        print("Not saving the rebuild timestamp and not committing - rerun after fixing, "
+              "so the failed areas are picked up again.")
+        return 1
 
     save_rebuild_time(now)
 
     # Git commit + push if there are changes
     r = subprocess.run(["git", "status", "--porcelain"], cwd=str(PROJECT_ROOT), capture_output=True, text=True)
     if r.stdout.strip():
-        print("\nCommitting and pushing...")
         subprocess.run(["git", "add", "-A"], cwd=str(PROJECT_ROOT))
         subprocess.run(["git", "commit", "-m", "Rebuild: " + ", ".join(changed)], cwd=str(PROJECT_ROOT))
-        subprocess.run(["git", "push"], cwd=str(PROJECT_ROOT))
-        print("Pushed to GitHub.")
+        if args.no_push:
+            print("\nCommitted. --no-push: the caller owns the push.")
+        else:
+            subprocess.run(["git", "push"], cwd=str(PROJECT_ROOT))
+            print("Pushed to GitHub.")
     else:
         print("\nNo data changes to commit.")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    # Propagate the exit code: refresh.py decides whether to carry on based on it, and a
+    # rebuild that failed silently returning 0 is how a half-built graph reaches the playlists.
+    raise SystemExit(main() or 0)
