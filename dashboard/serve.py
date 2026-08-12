@@ -14,13 +14,16 @@ import webbrowser
 from http.server import HTTPServer, SimpleHTTPRequestHandler
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-PORT = 8766                      # a genre_timeline saját serve.py-ja a 8765-öt használja
+#: A begyűjtött oldal a `docs/`-ban van, mert a GitHub Pages onnan szolgál ki - ugyanazt a
+#: fát nézzük itt is, hogy a lokális nézet és a publikált oldal ne tudjon szétcsúszni.
+OUT = os.path.join(os.path.dirname(HERE), "docs")
+PORT = 8766                      # a timeline saját serve.py-ja a 8765-öt használja
 
 if "--no-build" not in sys.argv:
     print("Dashboardok begyűjtése...")
     subprocess.run([sys.executable, os.path.join(HERE, "build.py")], check=True)
 
-os.chdir(HERE)
+os.chdir(OUT)
 print(f"\nhttp://localhost:{PORT}\nCtrl+C a leállításhoz.\n")
 webbrowser.open(f"http://localhost:{PORT}")
 HTTPServer(("", PORT), SimpleHTTPRequestHandler).serve_forever()

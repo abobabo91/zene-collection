@@ -1,5 +1,2 @@
-# generált tartalom — a build.py mindig újramásolja a forrás repókból
-# a HTML-eket viszont követjük, hogy a repó önmagában megnyitható legyen
-timeline/genre_catalog.json
 __pycache__/
 *.pyc

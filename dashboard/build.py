@@ -28,6 +28,10 @@ REPO = os.path.dirname(HERE)
 #: Az audio profilok viszont továbbra is külön repó a `_music_scripts` alatt, és lehet,
 #: hogy nincs is meg - a begyűjtés kihagyja, ha hiányzik.
 SCRIPTS = os.path.dirname(REPO)
+#: A kimenet a `docs/`, mert a GitHub Pages csak a repó gyökeréből vagy a `docs/`-ból tud
+#: kiszolgálni. A gyökér nem jöhet szóba: a `graph/` és a `timeline/` ott már a *forrás*, a
+#: dashboard pedig ugyanilyen nevű almappákba másol, tehát ütköznének.
+OUT = os.path.join(REPO, "docs")
 
 #: (célmappa, cím, forrásfájlok) - az első fájl mindig a belépő index.html
 SOURCES = [
@@ -114,7 +118,7 @@ def main():
     if dry:
         print("(dry run - semmit nem írok)")
     for slug, label, src, files in SOURCES:
-        dst = os.path.join(HERE, slug)
+        dst = os.path.join(OUT, slug)
         if not dry:
             os.makedirs(dst, exist_ok=True)
         for entry in files:
@@ -161,10 +165,12 @@ def main():
             ("graph", "Előadó-gráf", graph_desc),
             ("audio", "Audio profilok", audio_desc),
         ])
-    open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(
+    os.makedirs(OUT, exist_ok=True)
+    open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(
         LANDING.replace("__CARDS__", cards))
     print(f"  index.html (nyitólap)   idővonal={n['timeline']} gráf={n['graph']} "
           f"audio={n['audio']}")
+    print(f"  -> {OUT}  (ezt szolgálja ki a GitHub Pages)")
 
 
 LANDING = """<!doctype html>
