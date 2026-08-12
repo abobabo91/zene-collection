@@ -1,15 +1,15 @@
-"""Rebuild all areas, toplists, and visualization. Only rebuilds what changed.
+"""Rebuild all graph areas, toplists, and visualization. Only rebuilds what changed.
 
-    python rebuild.py              # rebuild, then commit and push
-    python rebuild.py --no-push    # rebuild and commit, leave pushing to the caller
+    python rebuild.py              # rebuild the changed areas
     python rebuild.py --dry-run    # say what would rebuild, touch nothing
 
-`--no-push` exists because this script is also a step inside `youtube/refresh.py`, and a
-push that happens as a side effect of an orchestration step is a push nobody approved.
+**This is a builder, not an entry point.** It writes files and returns an exit code; it does
+not touch git. Run `../rebuild.py` to rebuild the graph, timeline and dashboard together and
+commit them as one change - they are one repo and one logical unit.
 
-The argument parsing exists for the same class of reason: the script used to ignore argv
-entirely, so `python rebuild.py --help` - the obvious way to find out what it does - ran a
-full rebuild and pushed to GitHub instead of printing usage.
+The argument parsing matters: the script used to ignore argv entirely, so
+`python rebuild.py --help` - the obvious way to find out what it does - ran a full rebuild
+and pushed to GitHub instead of printing usage.
 """
 import argparse
 import json
@@ -108,8 +108,9 @@ def run(cmd: list[str], desc: str):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0],
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--no-push", action="store_true",
-                    help="commit but do not push; for callers that own the push")
+    # --no-push is accepted and ignored: this is a pure builder now, git lives in the root
+    # rebuild.py. Kept so older invocations and notes do not fail on an unknown flag.
+    ap.add_argument("--no-push", action="store_true", help=argparse.SUPPRESS)
     ap.add_argument("--dry-run", action="store_true",
                     help="report which areas changed and exit")
     args = ap.parse_args()
@@ -158,31 +159,20 @@ def main():
 
     # A partial rebuild must not look like a finished one. Saving the timestamp would tell
     # the next run those areas are current, so a build that died halfway would never be
-    # retried; committing would publish a graph that is half old and half new.
+    # retried, and the dashboard would publish a graph that is half old and half new.
     if failed:
         print(f"\nFAILED: {', '.join(failed)}")
-        print("Not saving the rebuild timestamp and not committing - rerun after fixing, "
-              "so the failed areas are picked up again.")
+        print("Not saving the rebuild timestamp - rerun after fixing, so the failed areas "
+              "are picked up again.")
         return 1
 
     save_rebuild_time(now)
-
-    # Git commit + push if there are changes
-    r = subprocess.run(["git", "status", "--porcelain"], cwd=str(PROJECT_ROOT), capture_output=True, text=True)
-    if r.stdout.strip():
-        subprocess.run(["git", "add", "-A"], cwd=str(PROJECT_ROOT))
-        subprocess.run(["git", "commit", "-m", "Rebuild: " + ", ".join(changed)], cwd=str(PROJECT_ROOT))
-        if args.no_push:
-            print("\nCommitted. --no-push: the caller owns the push.")
-        else:
-            subprocess.run(["git", "push"], cwd=str(PROJECT_ROOT))
-            print("Pushed to GitHub.")
-    else:
-        print("\nNo data changes to commit.")
+    print(f"\nrebuilt: {', '.join(changed)}")
     return 0
 
 
 if __name__ == "__main__":
-    # Propagate the exit code: refresh.py decides whether to carry on based on it, and a
-    # rebuild that failed silently returning 0 is how a half-built graph reaches the playlists.
+    # Propagate the exit code: the root rebuild.py stops the pipeline on it, and refresh.py
+    # in the youtube repo stops before the playlists. A failed rebuild that returns 0 is how
+    # a half-built graph reaches everything downstream.
     raise SystemExit(main() or 0)

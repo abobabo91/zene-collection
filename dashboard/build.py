@@ -22,13 +22,18 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 HERE = os.path.dirname(os.path.abspath(__file__))
-SCRIPTS = os.path.dirname(HERE)
+#: A repó gyökere. Az idővonal és a gráf 2026-08-12 óta ide, ugyanebbe a repóba tartozik
+#: (`timeline/`, `graph/`), így a forrásuk testvérmappa, nem külön repó.
+REPO = os.path.dirname(HERE)
+#: Az audio profilok viszont továbbra is külön repó a `_music_scripts` alatt, és lehet,
+#: hogy nincs is meg - a begyűjtés kihagyja, ha hiányzik.
+SCRIPTS = os.path.dirname(REPO)
 
 #: (célmappa, cím, forrásfájlok) - az első fájl mindig a belépő index.html
 SOURCES = [
-    ("timeline", "Idővonal", os.path.join(SCRIPTS, "genre_timeline"),
+    ("timeline", "Idővonal", os.path.join(REPO, "timeline"),
      ["index.html", "genre_catalog.json", "recent_playlists.json"]),
-    ("graph", "Előadó-gráf", os.path.join(SCRIPTS, "_local_music_graph"),
+    ("graph", "Előadó-gráf", os.path.join(REPO, "graph"),
      ["index.html"]),
     ("audio", "Audio profilok", os.path.join(SCRIPTS, "_elektro_classifier"),
      [("zene_library.html", "index.html")]),
@@ -77,12 +82,12 @@ def counts():
     """
     out = {"timeline": None, "graph": None, "audio": None}
     try:
-        catalog = os.path.join(SCRIPTS, "genre_timeline", "genre_catalog.json")
+        catalog = os.path.join(REPO, "timeline", "genre_catalog.json")
         out["timeline"] = len(json.load(open(catalog, encoding="utf-8")))
     except (OSError, ValueError):
         pass
     try:
-        data = os.path.join(SCRIPTS, "_local_music_graph", "data")
+        data = os.path.join(REPO, "graph", "data")
         total, areas = 0, 0
         for area in sorted(os.listdir(data)):
             songs = os.path.join(data, area, "normalized", "songs.json")
@@ -103,9 +108,15 @@ def counts():
 
 
 def main():
+    # A gyökér `rebuild.py` minden szakaszra ráadja a `--dry-run`-t, tehát ezt itt tényleg
+    # be kell tartani - különben a "semmit nem ír" futás mégis felülírja a dashboardot.
+    dry = "--dry-run" in sys.argv
+    if dry:
+        print("(dry run - semmit nem írok)")
     for slug, label, src, files in SOURCES:
         dst = os.path.join(HERE, slug)
-        os.makedirs(dst, exist_ok=True)
+        if not dry:
+            os.makedirs(dst, exist_ok=True)
         for entry in files:
             name, out = entry if isinstance(entry, tuple) else (entry, entry)
             s = os.path.join(src, name)
@@ -113,12 +124,17 @@ def main():
                 print(f"  !! hiányzik: {s}")
                 continue
             d = os.path.join(dst, out)
+            if dry:
+                print(f"  {slug}/{out:<22} {os.path.getsize(s)/1024:>8.0f} KB   <- {name} (nem másolom)")
+                continue
             if out.endswith(".html"):
                 html = open(s, encoding="utf-8").read()
                 open(d, "w", encoding="utf-8").write(inject(html, slug))
             else:
                 shutil.copy2(s, d)
             print(f"  {slug}/{out:<22} {os.path.getsize(d)/1024:>8.0f} KB   <- {name}")
+    if dry:
+        return
 
     # Magyar ezres elválasztó a szóköz. Csak a számra kell alkalmazni - a `,`-t a teljes
     # mondaton lecserélve a tagmondatok vesszői is eltűnnek.

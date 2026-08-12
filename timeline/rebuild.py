@@ -1,10 +1,11 @@
 """Rebuild genre catalog and mp3 timeline. Only rebuilds if files changed since last run.
 
-    python rebuild.py              # rebuild, then commit and push
-    python rebuild.py --no-push    # rebuild and commit, leave pushing to the caller
+    python rebuild.py              # rebuild the catalog and the CSV
+    python rebuild.py --dry-run    # accepted for symmetry; this builder has nothing to skip
 
-`--no-push` is for callers that own the push, so a push never happens as an unapproved side
-effect of a rebuild step.
+**This is a builder, not an entry point.** It writes files and returns an exit code; it does
+not touch git. Run `../rebuild.py` to rebuild the graph, timeline and dashboard together and
+commit them as one change.
 """
 import argparse
 import csv
@@ -111,8 +112,10 @@ def rebuild_csv():
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0],
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--no-push", action="store_true",
-                    help="commit but do not push; for callers that own the push")
+    # --no-push is accepted and ignored: git lives in the root rebuild.py now.
+    ap.add_argument("--no-push", action="store_true", help=argparse.SUPPRESS)
+    ap.add_argument("--dry-run", action="store_true",
+                    help="say whether a rebuild is needed, write nothing")
     args = ap.parse_args()
 
     last = get_last_rebuild()
@@ -128,6 +131,10 @@ def main():
         print("No new mp3s since last rebuild. Nothing to do.")
         return 0
 
+    if args.dry_run:
+        print("Changes detected. (dry run - would rebuild the catalog and the CSV)")
+        return 0
+
     print("Changes detected. Rebuilding...")
     if not rebuild_catalog():
         # Not saving the timestamp: a failed catalog must be retried, and the CSV built
@@ -137,19 +144,7 @@ def main():
     rebuild_csv()
 
     STATE_FILE.write_text(str(now))
-
-    # Git commit + push
-    r = subprocess.run(["git", "status", "--porcelain"], cwd=str(HERE), capture_output=True, text=True)
-    if r.stdout.strip():
-        subprocess.run(["git", "add", "-A"], cwd=str(HERE))
-        subprocess.run(["git", "commit", "-m", "Rebuild: new music added"], cwd=str(HERE))
-        if args.no_push:
-            print("\nCommitted. --no-push: the caller owns the push.")
-        else:
-            subprocess.run(["git", "push"], cwd=str(HERE))
-            print("Pushed to GitHub Pages.")
-    else:
-        print("\nNo data changes to commit.")
+    print("\ncatalog and CSV rebuilt")
     return 0
 
 
