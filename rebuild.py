@@ -1,4 +1,12 @@
-"""Rebuild genre catalog and mp3 timeline. Only rebuilds if files changed since last run."""
+"""Rebuild genre catalog and mp3 timeline. Only rebuilds if files changed since last run.
+
+    python rebuild.py              # rebuild, then commit and push
+    python rebuild.py --no-push    # rebuild and commit, leave pushing to the caller
+
+`--no-push` is for callers that own the push, so a push never happens as an unapproved side
+effect of a rebuild step.
+"""
+import argparse
 import csv
 import os
 import subprocess
@@ -51,10 +59,18 @@ def has_changes(since: float) -> bool:
 
 
 def rebuild_catalog():
+    """`encoding="utf-8"` is required: `text=True` alone decodes with the Windows locale
+    codepage (cp1250), which cannot represent the accented artist names the catalog prints,
+    and the resulting UnicodeDecodeError aborts the rebuild partway."""
     print("  Rebuilding genre catalog...")
-    r = subprocess.run([sys.executable, "build_catalog.py"], cwd=str(HERE), capture_output=True, text=True)
-    first = r.stdout.strip().split("\n")[0] if r.stdout.strip() else "done"
+    r = subprocess.run([sys.executable, "build_catalog.py"], cwd=str(HERE), capture_output=True,
+                       text=True, encoding="utf-8", errors="replace")
+    if r.returncode != 0:
+        print(f"    ERROR: {(r.stderr or '')[:300]}")
+        return False
+    first = r.stdout.strip().split("\n")[0] if (r.stdout or "").strip() else "done"
     print(f"    {first}")
+    return True
 
 
 def rebuild_csv():
@@ -93,6 +109,12 @@ def rebuild_csv():
 
 
 def main():
+    ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0],
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--no-push", action="store_true",
+                    help="commit but do not push; for callers that own the push")
+    args = ap.parse_args()
+
     last = get_last_rebuild()
     now = time.time()
 
@@ -104,10 +126,14 @@ def main():
 
     if last > 0 and not has_changes(last):
         print("No new mp3s since last rebuild. Nothing to do.")
-        return
+        return 0
 
     print("Changes detected. Rebuilding...")
-    rebuild_catalog()
+    if not rebuild_catalog():
+        # Not saving the timestamp: a failed catalog must be retried, and the CSV built
+        # beside it would describe a collection the catalog does not.
+        print("\nFAILED: the catalog did not build. Not saving the timestamp, not committing.")
+        return 1
     rebuild_csv()
 
     STATE_FILE.write_text(str(now))
@@ -115,14 +141,17 @@ def main():
     # Git commit + push
     r = subprocess.run(["git", "status", "--porcelain"], cwd=str(HERE), capture_output=True, text=True)
     if r.stdout.strip():
-        print("\nCommitting and pushing...")
         subprocess.run(["git", "add", "-A"], cwd=str(HERE))
         subprocess.run(["git", "commit", "-m", "Rebuild: new music added"], cwd=str(HERE))
-        subprocess.run(["git", "push"], cwd=str(HERE))
-        print("Pushed to GitHub Pages.")
+        if args.no_push:
+            print("\nCommitted. --no-push: the caller owns the push.")
+        else:
+            subprocess.run(["git", "push"], cwd=str(HERE))
+            print("Pushed to GitHub Pages.")
     else:
         print("\nNo data changes to commit.")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main() or 0)

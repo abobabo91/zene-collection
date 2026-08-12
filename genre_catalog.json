@@ -774,6 +774,12 @@
     "modified": "2026-08-11 13:26:39"
   },
   {
+    "file": "_other\\_pop\\Pitbull\\Pitbull - Feel This Moment.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 13:26:39"
+  },
+  {
     "file": "_other\\_pop\\Pitbull\\Pitbull - Give Me Everything.mp3",
     "main_genre": "pop",
     "sub_genre": null,
@@ -996,6 +1002,12 @@
     "modified": "2026-08-11 13:26:39"
   },
   {
+    "file": "_other\\_rnb\\Bow Wow\\Bow Wow - My Baby ft.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-08-11 13:26:39"
+  },
+  {
     "file": "_other\\_rnb\\Bow Wow\\Bow Wow ft Omarion - Let me hold you GOOD.mp3",
     "main_genre": "r&b",
     "sub_genre": null,
@@ -1039,6 +1051,12 @@
   },
   {
     "file": "_other\\_rnb\\Cassie\\Cassie - Me _ U.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-08-11 13:26:39"
+  },
+  {
+    "file": "_other\\_rnb\\Ciara\\Ciara - Body Party.mp3",
     "main_genre": "r&b",
     "sub_genre": null,
     "modified": "2026-08-11 13:26:39"
@@ -1570,6 +1588,102 @@
     "main_genre": "pop",
     "sub_genre": null,
     "modified": "2026-08-11 12:33:44"
+  },
+  {
+    "file": "_other\\_alternate\\Awolnation - Sail.mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_alternate\\Imagine Dragons\\Imagine Dragons - Radioactive.mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\Baauer - Harlem Shake.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\Icona Pop - I Love It.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\Swedish House Mafia - Don_t You Worry Child.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\Calvin Harris\\Calvin Harris - I Need Your Love.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\Calvin Harris\\Calvin Harris - Sweet Nothing.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\Jason Derulo\\Jason Derulo - The Other Side.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\Justin Timberlake\\Justin Timberlake - Mirrors.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\Selena Gomez\\Selena Gomez - Come _ Get It.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\_random\\Anna Kendrick - Cups (Pitch Perfect_s “When I’m Gone”).mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\_random\\Psy - Gangnam Style.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\_random\\Will.I.Am - #Thatpower.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\_random\\Will.I.Am - Scream _ Shout.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_pop\\_random\\Ylvis - The Fox.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
+  },
+  {
+    "file": "_other\\_rnb\\Robin Thicke - Blurred Lines.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-08-11 12:02:56"
   },
   {
     "file": "_other\\_alternate\\42 Vance Joy - Riptide.mp3",
@@ -4638,6 +4752,24 @@
     "modified": "2026-08-08 18:43:08"
   },
   {
+    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Flume (Deluxe Edition)\\Flume – Skin\\04 Numb _ Getting Colder (feat. Kučk.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-08 18:43:08"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Flume (Deluxe Edition)\\Flume – Skin\\08 Smoke _ Retribution (feat. Vince.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-08 18:43:08"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Flume (Deluxe Edition)\\Flume – Skin\\11 You Know (feat. Allan Kingdom _ R.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-08 18:43:08"
+  },
+  {
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Peace Is The Mission\\01 Be Together (feat. Wild Belle).mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -5833,6 +5965,12 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\house\\coca\\Round Table Knights - Calypso (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2026-08-08 18:43:08"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\house\\Daft Punk\\14. Daft Punk - Get Lucky (Radio Edit) [Feat. Pharrell Williams].mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 18:43:08"
@@ -7185,6 +7323,48 @@
     "file": "_other\\_classical\\Ludovico Einaudi - Life.mp3",
     "main_genre": "classical",
     "sub_genre": null,
+    "modified": "2026-08-08 18:12:03"
+  },
+  {
+    "file": "_other\\_elektro\\experimental\\Moby\\1999 - Play\\03 Porcelain.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "experimental",
+    "modified": "2026-08-08 18:12:03"
+  },
+  {
+    "file": "_other\\_elektro\\experimental\\Moby\\1999 - Play\\04 Why Does My Heart Feel So Bad_.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "experimental",
+    "modified": "2026-08-08 18:12:03"
+  },
+  {
+    "file": "_other\\_elektro\\experimental\\Moby\\1999 - Play\\07 Bodyrock.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "experimental",
+    "modified": "2026-08-08 18:12:03"
+  },
+  {
+    "file": "_other\\_elektro\\experimental\\Moby\\1999 - Play\\08 Natural Blues.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "experimental",
+    "modified": "2026-08-08 18:12:03"
+  },
+  {
+    "file": "_other\\_elektro\\experimental\\Moby\\1999 - Play\\12 Down Slow.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "experimental",
+    "modified": "2026-08-08 18:12:03"
+  },
+  {
+    "file": "_other\\_elektro\\experimental\\Moby\\2002 - 18\\02 In This World.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "experimental",
+    "modified": "2026-08-08 18:12:03"
+  },
+  {
+    "file": "_other\\_elektro\\experimental\\Moby\\2002 - 18\\14 At Least We Tried.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "experimental",
     "modified": "2026-08-08 18:12:03"
   },
   {
@@ -16260,6 +16440,426 @@
     "modified": "2025-05-13 17:27:14"
   },
   {
+    "file": "_other\\_magyar\\_modern_pop\\Analog Balaton\\Analog Balaton - Fent (Official video).mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "modern pop",
+    "modified": "2025-05-09 11:15:37"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\Justify (Freestyle).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:56"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\Log Off.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:55"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Mozzy – Behind Them Walls (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:52"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Blac Youngsta – Anybody (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:50"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\One Time.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:49"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\GloRilla, Gloss Up, Slimeroni, K Carbon, Aleza & Tay Keith - Wrong One (AUDIO).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:47"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Yo Gotti, Big Boogie – Foundation (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:44"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Yo Gotti, Blac Youngsta – Fire Us (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:42"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Lil Poppa – Place We Dream About (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:39"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Yo Gotti, EST Gee, BIG30 – Soldier (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:38"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Lehla Samia – You Want It (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:34"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Lil Poppa, YTB Fatt – 4 Dat Money (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:32"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\Cha Cha Cha.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:31"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, 42 Dugg – Bae (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:25"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, GloRilla – Pop It (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:25"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\Overstood.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:23"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Mozzy, Rich Homie Quan – Broad Day (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:21"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\50 50.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:18"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\Moneybagg Yo & Sexyy Red - Big Dawg (AUDIO).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:18"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Moneybagg Yo, GloRilla & CMG The Label - Gangsta Art 2\\CMG The Label, Yo Gotti, EST Gee – FA FA FA (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:14"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\SOON.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:14"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\(FREE) Shiva X Rhove Type Beat - RESIDENCE.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:13"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\(FREE) Simba La Rue X Keta Type Beat - SINNER.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:10"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Big League.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:06"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Meant Dat.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:03"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Wait In Line.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:02"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Really.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:13:01"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Blac Ball.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:54"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Moral Of Da Story.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:39"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Top Dolla.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:39"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Strong.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:36"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Dog House.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:25"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Hold Me Down.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:23"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Brick or Sum.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:20"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Major Payne.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:08"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\OK.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:06"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\KeKe.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:12:05"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Buss Down.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:52"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Pledge.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:50"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Tomorrow.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:48"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\1st of Jan.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:35"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Hood Rich.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:34"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Pole.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:31"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\G Code.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:21"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Rocky Road.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:18"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\See Wat I’m Sayin.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:18"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Gangsta Art.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:08"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Paparazzi.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:05"
+  },
+  {
+    "file": "_trap\\memphis\\yo gotti\\Yo Gotti & CMG The Label - Gangsta Art (FULL ALBUM)\\Steppers.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2025-05-09 11:11:04"
+  },
+  {
+    "file": "_trap\\florida\\Kodak Black\\sniper gang\\Super Gremlin.mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2025-05-07 14:22:48"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\belac\\Dub City.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2025-04-30 18:22:50"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\belac\\Money.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2025-04-30 18:22:20"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\belac\\All My Love.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2025-04-30 18:22:11"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\belac\\Told You.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2025-04-30 18:21:48"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\belac\\Be with Me 2009.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2025-04-30 18:21:27"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\belac\\Young World (Smokey Bubblin' B Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2025-04-30 18:21:23"
+  },
+  {
+    "file": "_trap\\california\\_random\\yg\\YG'S GREATEST HITS\\Act Right.mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:24:45"
+  },
+  {
+    "file": "_trap\\california\\_random\\yg\\YG'S GREATEST HITS\\Don't Tell 'Em.mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:24:02"
+  },
+  {
+    "file": "_trap\\california\\_random\\yg\\YG'S GREATEST HITS\\Toxic.mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:24:02"
+  },
+  {
+    "file": "_trap\\california\\_random\\yg\\YG'S GREATEST HITS\\Bicken Back Being Bool (1).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:23:20"
+  },
+  {
+    "file": "_trap\\california\\_random\\yg\\YG'S GREATEST HITS\\My Nigga.mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:23:20"
+  },
+  {
+    "file": "_trap\\california\\_random\\Nipsey Hussle\\This Is Nipsey Hussle-Nipsey Hussle, YG\\Last Time That I Checc'd (feat. YG).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:21:05"
+  },
+  {
+    "file": "_trap\\california\\_random\\Nipsey Hussle\\This Is Nipsey Hussle-Nipsey Hussle, YG\\Blue Laces 2.mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:19:59"
+  },
+  {
+    "file": "_trap\\california\\_random\\Nipsey Hussle\\This Is Nipsey Hussle-Nipsey Hussle, YG\\Nipsey Hussle  Ocean Views  (WSHH Exclusive - Official Music Video).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:19:11"
+  },
+  {
+    "file": "_trap\\california\\_random\\Nipsey Hussle\\This Is Nipsey Hussle-Nipsey Hussle, YG\\Nipsey Hussle - I Don't Stress.mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:19:00"
+  },
+  {
+    "file": "_trap\\california\\_random\\Nipsey Hussle\\This Is Nipsey Hussle-Nipsey Hussle, YG\\Nipsey Hussle - Rap Niggas (Official Video).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2025-04-23 19:18:57"
+  },
+  {
+    "file": "_trap\\atlanta\\_random\\Young Scooter\\Official Music Videos\\Young Scooter - Trap Museum ft. Lil Keed (Official Music Video).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2025-04-19 20:20:20"
+  },
+  {
+    "file": "_trap\\atlanta\\_random\\Young Scooter\\Medellin.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2025-04-19 20:19:18"
+  },
+  {
+    "file": "_trap\\atlanta\\_random\\Young Scooter\\Do It Big.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2025-04-19 20:18:59"
+  },
+  {
     "file": "_other\\_magyar\\_rock\\Aljas kúszóbab Video Klippek\\ALJAS KÚSZÓBAB - FEKETE RÓZSA.mp3",
     "main_genre": "hungarian",
     "sub_genre": "rock",
@@ -21330,6 +21930,36 @@
     "modified": "2024-04-16 14:35:35"
   },
   {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\- Kárpátia - 03 - Neveket akarok hallani.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2024-04-16 13:55:28"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\- Kárpátia - 04 - Igazán szeretni.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2024-04-16 13:55:23"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia 2006\\- Kárpátia - 06 - Pálinka.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2024-04-16 13:55:17"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia 2006\\- Kárpátia - 10 - Hegyek fölött.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2024-04-16 13:55:12"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia 2006\\- Kárpátia - 07 - Bánatvirág.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2024-04-16 13:55:06"
+  },
+  {
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\United - Keserű méz.mp3",
     "main_genre": "hungarian",
     "sub_genre": "pop",
@@ -21424,6 +22054,12 @@
     "main_genre": "trap",
     "sub_genre": "usa",
     "modified": "2024-04-13 16:51:08"
+  },
+  {
+    "file": "_rap\\florida\\Rick Ross\\MMG_Presents_Self_Made_Vol_1-(2011)\\10 Don_t Let Me Go (feat. Gunplay).mp3",
+    "main_genre": "rap",
+    "sub_genre": "florida",
+    "modified": "2024-04-13 16:50:40"
   },
   {
     "file": "_rap\\luisiana\\boosie\\Bad Azz album - YouTube\\I Represent (feat. Webbie).mp3",
@@ -25284,6 +25920,30 @@
     "modified": "2023-10-05 05:02:57"
   },
   {
+    "file": "_magyar rap\\_random\\rimfarktush_-_infarktush\\18. Hova tartunk.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-10-05 04:04:17"
+  },
+  {
+    "file": "_magyar rap\\_random\\rimfarktush_-_infarktush\\17. Utca.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-10-05 04:04:06"
+  },
+  {
+    "file": "_magyar rap\\_random\\rimfarktush_-_infarktush\\16. Otthon édes otthon.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-10-05 04:03:54"
+  },
+  {
+    "file": "_magyar rap\\_random\\rimfarktush_-_infarktush\\13. Infarktush km. Teoz, J-Boy.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-10-05 04:03:38"
+  },
+  {
     "file": "_trap\\chicago\\fredo santana\\Fredo Santana - Walking Legend (DatPiff.com)\\07 - Fredo Santana-My Wrist Feat Gino Marley Prod By Will-A-Fool.mp3",
     "main_genre": "trap",
     "sub_genre": "chicago",
@@ -26880,6 +27540,12 @@
     "modified": "2023-09-25 05:08:44"
   },
   {
+    "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Fehér hollo (2007)\\01 Akarom hogy érezd.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "cigany",
+    "modified": "2023-09-25 05:08:28"
+  },
+  {
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Falak (2005)\\07 - LL Junior - Szabadság.mp3",
     "main_genre": "hungarian",
     "sub_genre": "cigany",
@@ -28380,6 +29046,30 @@
     "modified": "2023-09-22 03:21:50"
   },
   {
+    "file": "_magyar rap\\IFS\\IFS-Túlóra\\IFS-Donor.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-22 03:08:17"
+  },
+  {
+    "file": "_magyar rap\\IFS\\IFS-Túlóra\\IFS- Rózsák a Betonban.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-22 03:08:08"
+  },
+  {
+    "file": "_magyar rap\\IFS\\IFS-Túlóra\\IFS- Szerelmes Szám.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-22 03:07:59"
+  },
+  {
+    "file": "_magyar rap\\IFS\\IFS-Túlóra\\IFS-11.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-22 03:07:49"
+  },
+  {
     "file": "_trap\\detroit\\42 dugg\\42 Dugg - FREE DEM BOYZ (Full Album)\\We Know.mp3",
     "main_genre": "trap",
     "sub_genre": "detroit",
@@ -28972,6 +29662,78 @@
     "main_genre": "hungarian rap",
     "sub_genre": null,
     "modified": "2023-09-20 04:59:19"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 9 -a szenvedő mosolya.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:59:05"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 8- hmmm....mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:58:57"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 7 -telepi funk.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:58:46"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 5 -mielőtt a kegyelem végleg eltün.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:58:37"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 4 -van egy álmom.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:58:28"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 3 -amit az asztalra letettem.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:58:18"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 2 -kevés dolog.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:58:04"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 17 -a cartier ege.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:57:55"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 15 -kultúra.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:57:44"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 14 társadalmi hip-hop.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:57:35"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 12 -két lejjel zsebembe.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:57:22"
+  },
+  {
+    "file": "_magyar rap\\2arc\\KULTURTROGERRAP\\2arc- 11 -a néma zongorista.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2023-09-20 04:56:43"
   },
   {
     "file": "_trap\\_usa random\\dababy\\From_A_City_Where_Nobody_Made_It-(DatPiff.com)\\YNR Choppa No Love Take Over (Album) - YouTube\\No Love Anthem.mp3",
@@ -38520,6 +39282,36 @@
     "modified": "2021-01-16 21:11:17"
   },
   {
+    "file": "_trap\\louisiana\\NBA Youngboy\\Nobody Safe\\15 Can_t Let The World In.mp3",
+    "main_genre": "trap",
+    "sub_genre": "louisiana",
+    "modified": "2021-01-16 21:11:07"
+  },
+  {
+    "file": "_trap\\louisiana\\NBA Youngboy\\Nobody Safe\\13 Sorry Momma (feat. Rod Wave).mp3",
+    "main_genre": "trap",
+    "sub_genre": "louisiana",
+    "modified": "2021-01-16 21:11:05"
+  },
+  {
+    "file": "_trap\\louisiana\\NBA Youngboy\\Nobody Safe\\08 Doors Up.mp3",
+    "main_genre": "trap",
+    "sub_genre": "louisiana",
+    "modified": "2021-01-16 21:11:03"
+  },
+  {
+    "file": "_trap\\louisiana\\NBA Youngboy\\Nobody Safe\\06 So Sorry.mp3",
+    "main_genre": "trap",
+    "sub_genre": "louisiana",
+    "modified": "2021-01-16 21:11:02"
+  },
+  {
+    "file": "_trap\\louisiana\\NBA Youngboy\\Nobody Safe\\04 Bankroll.mp3",
+    "main_genre": "trap",
+    "sub_genre": "louisiana",
+    "modified": "2021-01-16 21:11:01"
+  },
+  {
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\MONICA\\Monica, Brandy - It All Belongs To Me (Official Video).mp3",
     "main_genre": "r&b",
     "sub_genre": null,
@@ -42384,6 +43176,18 @@
     "modified": "2020-10-16 06:50:06"
   },
   {
+    "file": "_trap\\phily\\lil uzi vert\\Lil Uzi Vert - Luv Is Rage 2 (2017) [iTunes AAC]\\16 XO TOUR Llif3.mp3",
+    "main_genre": "trap",
+    "sub_genre": "philadelphia",
+    "modified": "2020-10-16 06:50:04"
+  },
+  {
+    "file": "_trap\\phily\\lil uzi vert\\Lil Uzi Vert - Luv Is Rage 2 (2017) [iTunes AAC]\\11 Pretty Mami.mp3",
+    "main_genre": "trap",
+    "sub_genre": "philadelphia",
+    "modified": "2020-10-16 06:50:02"
+  },
+  {
     "file": "_trap\\chicago\\lil reese\\Lil Reese - Supa Savage 2 (DatPiff.com)\\15 - Lil Reese - Lil Reese So Fast (Prod By Dree The Drummer).mp3",
     "main_genre": "trap",
     "sub_genre": "chicago",
@@ -43408,6 +44212,12 @@
     "main_genre": "r&b",
     "sub_genre": null,
     "modified": "2020-09-20 13:28:30"
+  },
+  {
+    "file": "_trap\\chicago\\Lil Durk\\Lil Durk - Remember My Name (Deluxe)\\03 Like Me (feat. Jeremih).mp3",
+    "main_genre": "trap",
+    "sub_genre": "chicago",
+    "modified": "2020-09-20 13:28:26"
   },
   {
     "file": "_trap\\toronto\\KIlly\\KILLY - Very Scary (Official Music Video).mp3",
@@ -48144,6 +48954,42 @@
     "modified": "2020-04-18 07:43:08"
   },
   {
+    "file": "_other\\_alternate\\Jamie xx – In Colour\\06 Stranger In a Room (feat. Oliver.mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2020-03-29 12:02:32"
+  },
+  {
+    "file": "_other\\_alternate\\Jamie xx – In Colour\\08 Loud Places (feat. Romy).mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2020-03-29 12:02:32"
+  },
+  {
+    "file": "_other\\_alternate\\Jamie xx – In Colour\\09 I Know There_s Gonna Be (Good Tim.mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2020-03-29 12:02:32"
+  },
+  {
+    "file": "_other\\_alternate\\Jamie xx – In Colour\\10 The Rest Is Noise.mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2020-03-29 12:02:32"
+  },
+  {
+    "file": "_other\\_alternate\\Jamie xx – In Colour\\03 SeeSaw (feat. Romy).mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2020-03-29 12:02:30"
+  },
+  {
+    "file": "_other\\_alternate\\Jamie xx – In Colour\\05 Just Saying.mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2020-03-29 12:02:30"
+  },
+  {
     "file": "_other\\_alternate\\james blake\\James Blake - Overgrown (Deluxe Edition) 2013 Dance 320kbps CBR MP3 [VX] [P2PDL]\\09 James Blake - To the Last.mp3",
     "main_genre": "alternative",
     "sub_genre": null,
@@ -50400,6 +51246,36 @@
     "modified": "2019-10-21 08:52:40"
   },
   {
+    "file": "_trap\\_usa random\\travis scott\\Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC\\08 outside.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2019-10-21 08:52:34"
+  },
+  {
+    "file": "_trap\\_usa random\\travis scott\\Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC\\09 goosebumps.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2019-10-21 08:52:34"
+  },
+  {
+    "file": "_trap\\_usa random\\travis scott\\Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC\\11 pick up the phone.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2019-10-21 08:52:34"
+  },
+  {
+    "file": "_trap\\_usa random\\travis scott\\Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC\\05 beibs in the trap.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2019-10-21 08:52:32"
+  },
+  {
+    "file": "_trap\\_usa random\\travis scott\\Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC\\03 coordinate.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2019-10-21 08:52:30"
+  },
+  {
     "file": "_trap\\_usa random\\travis scott\\Travis Scott - ASTROWORLD (2018) Mp3 (320kbps) [Hunter]\\12. YOSEMITE.mp3",
     "main_genre": "trap",
     "sub_genre": "usa",
@@ -50794,6 +51670,18 @@
     "main_genre": "trap",
     "sub_genre": "atlanta",
     "modified": "2019-08-31 00:27:32"
+  },
+  {
+    "file": "_trap\\atlanta\\Young Thug\\Young Thug - No, My Name is JEFFERY (2016) [M4a~iTunes]~[Hunter] [FRG]\\No, My Name is JEFFERY\\04 Future Swag.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2019-08-31 00:27:26"
+  },
+  {
+    "file": "_trap\\atlanta\\Young Thug\\Young Thug - No, My Name is JEFFERY (2016) [M4a~iTunes]~[Hunter] [FRG]\\No, My Name is JEFFERY\\02 Floyd Mayweather (feat. Gunna _ G.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2019-08-31 00:27:24"
   },
   {
     "file": "_trap\\atlanta\\Young Thug\\Young Thug - BEAUTIFUL THUGGER GIRLS (2017) Mp3.320kbps [WR Music]\\Young Thug - BEAUTIFUL THUGGER GIRLS (2017) [Hunter]\\10 Feel It.mp3",
@@ -51694,6 +52582,24 @@
     "main_genre": "trap",
     "sub_genre": "new york",
     "modified": "2019-06-14 10:30:28"
+  },
+  {
+    "file": "_trap\\new york\\A$AP\\A$AP Mob - Cozy Tapes, Vol. 2 Too Cozy (2017) [iTunes AAC]\\14. Coziest (feat. A$AP Twelvyy _ Zack).mp3",
+    "main_genre": "trap",
+    "sub_genre": "new york",
+    "modified": "2019-06-14 10:29:12"
+  },
+  {
+    "file": "_trap\\new york\\A$AP\\A$AP Mob - Cozy Tapes, Vol. 2 Too Cozy (2017) [iTunes AAC]\\7. Byf (feat. A$AP Rocky, A$AP Ant _ Smooky MarGielaa).mp3",
+    "main_genre": "trap",
+    "sub_genre": "new york",
+    "modified": "2019-06-14 10:29:02"
+  },
+  {
+    "file": "_trap\\new york\\A$AP\\A$AP Mob - Cozy Tapes, Vol. 2 Too Cozy (2017) [iTunes AAC]\\6. Walk On Water (feat. A$AP Twelvyy, A$AP Ant, A$AP Nast, A$AP Ferg _ Playboi Carti).mp3",
+    "main_genre": "trap",
+    "sub_genre": "new york",
+    "modified": "2019-06-14 10:27:30"
   },
   {
     "file": "_other\\_magyar\\_retro\\R-GO - The best of R-GO\\02 Egy alacsony férfi dilemmái a szerelem körül.mp3",
@@ -54726,6 +55632,54 @@
     "modified": "2018-08-27 13:58:12"
   },
   {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\02 Jocelyn Flores.mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\04 Everybody Dies in Their Nightmare.mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\06 Save Me.mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\07 Dead Inside (Interlude).mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\08 Fuck Love (feat. Trippie Redd).mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\09 Carry On.mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\10 Orlando.mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - 17 (2017) [iTunes AAC]\\11 Ayala (Outro).mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2018-08-27 13:58:06"
+  },
+  {
     "file": "_other\\_rock\\The Pretty Reckless\\2010 - The Pretty Reckless\\04. Zombie.mp3",
     "main_genre": "rock",
     "sub_genre": null,
@@ -57184,6 +58138,66 @@
     "main_genre": "hungarian rap",
     "sub_genre": null,
     "modified": "2017-10-24 14:07:18"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\20.The Sopranos _ Hibrid - Visz a szerencse (REMIX) (prod.Luigi).mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:57:24"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\18.Februar _ Fiatal Veteran - Be kell_ hogy vard.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:56:06"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\13.Februar - Odupla.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:54:02"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\12.Februar - Volvo S80.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:53:46"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\10.Gyilkos Februar - Koka Kola.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:53:02"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\08.Februar _ CR - Tulipan (prod.CR).mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:51:50"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\07.Februar - Adriana Le Cerva.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:51:12"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\06.Februar _ CR - Chris Moltisanti.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:50:44"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\04.Beksz - Igy megy ez felenk.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:49:36"
+  },
+  {
+    "file": "_magyar rap\\SCBP\\turha\\The_Sopranos_A_Mixtape_2017\\03.Februar - Koszonom jol.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2017-10-16 08:49:08"
   },
   {
     "file": "_rap\\_usa other\\_random\\_Vicious Infatuations_ - Filey _ GingerBeatMan.mp3",
@@ -60834,6 +61848,24 @@
     "modified": "2016-07-18 13:51:46"
   },
   {
+    "file": "_trap\\atlanta\\21Savage\\21_Savage_amp_amp_Metro_Boomin_-_Savage_Mode_2016\\21 Savage _ Metro Boomin - Savage Mode (2016)\\04 Savage Mode.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2016-07-14 11:00:28"
+  },
+  {
+    "file": "_trap\\atlanta\\21Savage\\21_Savage_amp_amp_Metro_Boomin_-_Savage_Mode_2016\\21 Savage _ Metro Boomin - Savage Mode (2016)\\03 X B_tch (feat. Future).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2016-07-14 11:00:16"
+  },
+  {
+    "file": "_trap\\atlanta\\21Savage\\21_Savage_amp_amp_Metro_Boomin_-_Savage_Mode_2016\\21 Savage _ Metro Boomin - Savage Mode (2016)\\02 No Heart.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2016-07-14 10:59:58"
+  },
+  {
     "file": "_magyar rap\\_random\\Mix – ASK-Hazai Márka - Tűz víz repülő (alap Suhov karc Dj Globe)\\KETIOZ - FENT A KETYÓSÉKNÁL (KÖZR. VICC BEATZ).mp3",
     "main_genre": "hungarian rap",
     "sub_genre": null,
@@ -61248,6 +62280,24 @@
     "modified": "2016-05-21 08:07:44"
   },
   {
+    "file": "_trap\\california\\_random\\yg\\YG - My Crazy Life [Deluxe Edition] [2014] [EXPLICIT] [iTunes Plus] [M4V] + [M4A-256]-V3nom [GLT]\\10 Who Do You Love_ (feat. Drake).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2016-05-21 08:04:04"
+  },
+  {
+    "file": "_trap\\california\\_random\\yg\\YG - My Crazy Life [Deluxe Edition] [2014] [EXPLICIT] [iTunes Plus] [M4V] + [M4A-256]-V3nom [GLT]\\07 My Nigga (feat. Jeezy _ Rich Homi.mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2016-05-21 08:03:56"
+  },
+  {
+    "file": "_trap\\california\\_random\\yg\\YG - My Crazy Life [Deluxe Edition] [2014] [EXPLICIT] [iTunes Plus] [M4V] + [M4A-256]-V3nom [GLT]\\04 Left, Right (feat. DJ Mustard).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2016-05-21 08:03:52"
+  },
+  {
     "file": "_trap\\_usa random\\Lupe Fiasco\\Lupe Fiasco Tetsuo _ Youth [2015] 320 CD\\Tetsuo _ Youth\\15 They.Resurrect.Over.New. Ft. Ab-Soul _ Troi.mp3",
     "main_genre": "trap",
     "sub_genre": "usa",
@@ -61380,6 +62430,18 @@
     "modified": "2016-05-21 07:48:38"
   },
   {
+    "file": "_trap\\atlanta\\Future\\Future - Beast Mode [Hip-Hop _ Rap] [2015] Album [iTunes Plus M4A AAC] [UJ.rip]\\03 Aintchu (feat. Juvenile).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2016-05-21 07:47:16"
+  },
+  {
+    "file": "_trap\\atlanta\\Future\\Future - Beast Mode [Hip-Hop _ Rap] [2015] Album [iTunes Plus M4A AAC] [UJ.rip]\\04 No Basic.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2016-05-21 07:47:16"
+  },
+  {
     "file": "_trap\\atlanta\\_random\\2 Chainz\\2_Chainz-B.O.A.T.S_II-Metime-(Deluxe_Edition)\\09 - U Da Realest.mp3",
     "main_genre": "trap",
     "sub_genre": "atlanta",
@@ -61390,6 +62452,12 @@
     "main_genre": "trap",
     "sub_genre": "atlanta",
     "modified": "2016-05-21 07:43:36"
+  },
+  {
+    "file": "_trap\\atlanta\\_random\\2 Chainz\\2 Chainz - Collegrove [iTunes]\\04 - Gotta Lotta (feat. Lil Wayne).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2016-05-21 07:40:40"
   },
   {
     "file": "_trap\\_usa random\\SchoolBoy Q\\18 2 Raw (feat. Jay Rock).mp3",
@@ -61492,6 +62560,18 @@
     "main_genre": "trap",
     "sub_genre": "philadelphia",
     "modified": "2016-05-21 07:29:26"
+  },
+  {
+    "file": "_rap\\_usa other\\Wiz Khalifa\\Wiz Khalifa - Blacc Hollywood (Deluxe Version)\\15 You and Your Friends (feat. Snoop Dogg _ Ty Dolla $ign).mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2016-05-21 07:27:56"
+  },
+  {
+    "file": "_rap\\_usa other\\Wiz Khalifa\\Wiz Khalifa - Blacc Hollywood (Deluxe Version)\\06 Ass Drop.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2016-05-21 07:27:52"
   },
   {
     "file": "_trap\\_usa random\\Vince Staples\\Winter In Prague\\02 - LORD (DatPiff Exclusive).mp3",
@@ -63066,6 +64146,24 @@
     "modified": "2016-04-28 04:08:24"
   },
   {
+    "file": "_rap\\_usa other\\Kanye West\\Kanye West - My Beautiful Dark Twisted Fantasy (iTunes Rip) - zeMedia\\07 Monster (feat. Jay-Z, Rick Ross, Nicki Minaj _ Bon Iver).mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2016-04-27 09:03:36"
+  },
+  {
+    "file": "_rap\\_usa other\\Kanye West\\Kanye West - My Beautiful Dark Twisted Fantasy (iTunes Rip) - zeMedia\\12 Blame Game (feat. John Legend).mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2016-04-27 09:03:36"
+  },
+  {
+    "file": "_rap\\_usa other\\Kanye West\\Kanye West - My Beautiful Dark Twisted Fantasy (iTunes Rip) - zeMedia\\06 All Of The Lights.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2016-04-27 09:03:34"
+  },
+  {
     "file": "_rap\\california\\The Game\\The Game - The  Documentary 2 (2CD)\\CD1\\11. Dedicated (feat. Future _ Sonyae).mp3",
     "main_genre": "rap",
     "sub_genre": "california",
@@ -63430,6 +64528,36 @@
     "main_genre": "rap",
     "sub_genre": "california",
     "modified": "2016-02-29 08:31:02"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\prodigy 1994, Music for the Jilted Generation\\05 Voodoo People.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2016-02-27 01:53:38"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\prodigy 1994, Music for the Jilted Generation\\09 No Good (Start the Dance).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2016-02-27 01:53:22"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\prodigy 2012, The Fat of the Land (Expanded Edition)\\01 Smack My Bitch Up.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2016-02-27 01:52:14"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\prodigy 2012, The Fat of the Land (Expanded Edition)\\02 Breathe.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2016-02-27 01:52:06"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\prodigy 2012, The Fat of the Land (Expanded Edition)\\08 Firestarter.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2016-02-27 01:52:06"
   },
   {
     "file": "_magyar rap\\BSW\\(2016) BSW (BeerSeeWalk) - Amíg bírom\\(2016) BSW (BeerSeeWalk) - Amíg bírom\\02. Túlélem.mp3",
@@ -65538,6 +66666,42 @@
     "modified": "2015-09-18 03:12:22"
   },
   {
+    "file": "_other\\_pop\\Taylor Swift\\16. Taylor Swift - I Knew You Were Trouble.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2015-09-18 02:57:00"
+  },
+  {
+    "file": "_other\\_pop\\Rihanna\\13. Rihanna - Stay (Feat. Mikky Ekko).mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2015-09-18 02:55:04"
+  },
+  {
+    "file": "_rap\\_usa other\\J Cole\\48. J Cole - Power Trip (Feat. Miguel).mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2015-09-18 02:54:28"
+  },
+  {
+    "file": "_other\\_pop\\Lady Gaga\\37. Lady Gaga - Applause.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2015-09-18 02:54:08"
+  },
+  {
+    "file": "_other\\_pop\\Rihanna\\70. Rihanna - Pour It Up.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2015-09-18 02:52:58"
+  },
+  {
+    "file": "_rap\\luisiana\\Lil_ Wayne\\39. Lil Wayne - Love Me (Feat. Drake _ Future).mp3",
+    "main_genre": "rap",
+    "sub_genre": "louisiana",
+    "modified": "2015-09-18 02:52:42"
+  },
+  {
     "file": "_other\\_pop\\Taylor Swift\\011-Taylor Swift-You Belong With Me.mp3",
     "main_genre": "pop",
     "sub_genre": null,
@@ -66066,6 +67230,36 @@
     "modified": "2015-07-18 00:39:16"
   },
   {
+    "file": "_trap\\toronto\\Drake\\Drake-Nothing Was the Same\\16 The Motion.mp3",
+    "main_genre": "trap",
+    "sub_genre": "toronto",
+    "modified": "2015-07-17 13:56:34"
+  },
+  {
+    "file": "_trap\\toronto\\Drake\\Drake-Nothing Was the Same\\03 Started From the Bottom.mp3",
+    "main_genre": "trap",
+    "sub_genre": "toronto",
+    "modified": "2015-07-17 13:56:22"
+  },
+  {
+    "file": "_trap\\toronto\\Drake\\Drake-Nothing Was the Same\\13 Pound Cake _ Paris Morton Music 2.mp3",
+    "main_genre": "trap",
+    "sub_genre": "toronto",
+    "modified": "2015-07-17 13:55:58"
+  },
+  {
+    "file": "_trap\\toronto\\Drake\\Drake-Nothing Was the Same\\07 From Time (feat. Jhene Aiko).mp3",
+    "main_genre": "trap",
+    "sub_genre": "toronto",
+    "modified": "2015-07-17 13:55:52"
+  },
+  {
+    "file": "_trap\\toronto\\Drake\\Drake-Nothing Was the Same\\15 All Me (feat. 2 Chainz _ Big Sean.mp3",
+    "main_genre": "trap",
+    "sub_genre": "toronto",
+    "modified": "2015-07-17 13:55:48"
+  },
+  {
     "file": "_trap\\atlanta\\Future\\2014 - Future - Honest (Deluxe Edition)\\06. I Won feat. Kanye West.mp3",
     "main_genre": "trap",
     "sub_genre": "atlanta",
@@ -66304,6 +67498,24 @@
     "main_genre": "trap",
     "sub_genre": "usa",
     "modified": "2015-06-24 07:23:48"
+  },
+  {
+    "file": "_rap\\detroit\\Obie Trice\\Obie_Trice_-_Second_Rounds_On_Me_iTunes\\Obie Trice - Second Rounds On Me [iTunes]\\14 - There They Go (feat. Big Herk, Eminem, Trick-Trick).mp3",
+    "main_genre": "rap",
+    "sub_genre": "detroit",
+    "modified": "2015-06-24 02:29:26"
+  },
+  {
+    "file": "_rap\\detroit\\Obie Trice\\Obie_Trice_-_Second_Rounds_On_Me_iTunes\\Obie Trice - Second Rounds On Me [iTunes]\\17 - Everywhere I Go (feat. 50 Cent).mp3",
+    "main_genre": "rap",
+    "sub_genre": "detroit",
+    "modified": "2015-06-24 02:29:26"
+  },
+  {
+    "file": "_rap\\detroit\\Obie Trice\\Obie_Trice_-_Second_Rounds_On_Me_iTunes\\Obie Trice - Second Rounds On Me [iTunes]\\07 - Cry Now.mp3",
+    "main_genre": "rap",
+    "sub_genre": "detroit",
+    "modified": "2015-06-24 02:29:24"
   },
   {
     "file": "_magyar rap\\Criminal\\Ido Urai Bankos NKS\\Bankos - YouTube\\music_bankos_mappa_ii\\BANKOS-MAPPA_2-2015\\03.INVAZIO.mp3",
@@ -66748,6 +67960,114 @@
     "main_genre": "rap",
     "sub_genre": "california",
     "modified": "2015-02-09 12:29:00"
+  },
+  {
+    "file": "_rap\\california\\The Game\\The Game iTunes\\2012 - Jesus Piece (Deluxe Edition)\\10 Can_t Get Right (feat. K. Rooseve.mp3",
+    "main_genre": "rap",
+    "sub_genre": "california",
+    "modified": "2015-02-09 12:26:04"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\Bankhead (Feat. P$C _ Young Dro) (Produced By DJ Toomp).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:56"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\Ride Wit Me (Produced By Keith Mack).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:56"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\What You Know (Produced By DJ Toomp) (Co-Produced By Wonder).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:56"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\Trap Muzik (2003)\\Be Better Than Me (Produced By San Chez Holmes _ Madvac).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:56"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\Get It (Produced By Swizz Beatz).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:36"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\Urban Legend (2004)\\Why You Mad At Me (Produced By Khao).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:36"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\Stand Up Guy (Produced By Kevin Khao Cates).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:28"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\Top Back (Produced By Mannie Fresh).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:28"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\Urban Legend (2004)\\My Life (Produced By Daz Dillinger).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:26"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\Why You Wanna (Produced By Kevin Khao Cates).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:22"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\King (2006)\\Goodlife  Phone Call (Skit) (Produced By The Neptunes).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:16"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\Trap Muzik (2003)\\24_s (Produced By DJ Toomp).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:23:00"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\No Mercy (2010)\\05 That_s All She Wrote (Feat. Eminem).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:22:38"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\Trap Muzik (2003)\\I Still Love You (Produced By Nick Fury Loftin).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:22:38"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\No Mercy (2010)\\14 Castle Walls (Feat. Christina Aguilera).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:22:14"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\I_m Serious (2001)\\Do It (Produced By DJ Toomp).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:21:52"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\No Mercy (2010)\\03 Get Back Up (Feat. Chris Brown).mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2015-02-09 12:21:32"
   },
   {
     "file": "_rap\\new york\\Jadakiss\\Jadakiss - Kiss Tha Game Goodbye[2001]\\14 - Kiss Is Spittin_.mp3",
@@ -67878,6 +69198,36 @@
     "modified": "2014-08-25 00:35:44"
   },
   {
+    "file": "_other\\_pop\\_oldschool_pop\\Scott McKenzie\\18 - szám 18.mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2014-08-23 08:06:48"
+  },
+  {
+    "file": "_other\\_pop\\_oldschool_pop\\Scott McKenzie\\16 - szám 16.mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2014-08-23 08:06:42"
+  },
+  {
+    "file": "_other\\_pop\\_oldschool_pop\\Scott McKenzie\\09 - szám  9.mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2014-08-23 08:06:16"
+  },
+  {
+    "file": "_other\\_pop\\_oldschool_pop\\Scott McKenzie\\07 - szám  7.mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2014-08-23 08:06:10"
+  },
+  {
+    "file": "_other\\_pop\\_oldschool_pop\\Scott McKenzie\\02 - szám  2.mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2014-08-23 08:05:48"
+  },
+  {
     "file": "_other\\_elektro\\house_techno\\Tycho\\Tycho - Awake (2014) [MP3 320] politux\\02 - Montana.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -68340,6 +69690,12 @@
     "modified": "2014-06-03 19:24:30"
   },
   {
+    "file": "_other\\_elektro\\dnb_dubstep\\Sanctuary - EP\\02 Starlite.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2014-06-03 14:53:30"
+  },
+  {
     "file": "_magyar rap\\goldsoul\\RICO\\RICO-FANTAZIA[169-242][www.theraptunes.com]\\14. Rico km. Artos Csaba _ Yugo - Házirend.mp3",
     "main_genre": "hungarian rap",
     "sub_genre": null,
@@ -68374,6 +69730,12 @@
     "main_genre": "hungarian rap",
     "sub_genre": null,
     "modified": "2014-05-29 02:45:20"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\dnb_chill\\03 Fade (Etherwood VIP).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2014-05-28 04:19:50"
   },
   {
     "file": "_magyar rap\\goldsoul\\RICO\\RICO-FANTAZIA[169-242][www.theraptunes.com]\\03. Rico km. Szószólók - Padtársak.mp3",
@@ -68440,6 +69802,12 @@
     "main_genre": "rock",
     "sub_genre": null,
     "modified": "2014-05-27 08:50:38"
+  },
+  {
+    "file": "_rap\\luisiana\\_random\\Mystikal - Prince Of The South (The Hits) [GangstaRapTalk.com][iTunes]\\Mystikal - Prince Of The South (The Hits) [GangstaRapTalk.com][iTunes]\\02 Shake Ya Ass (Ft. Pharrel Williams).mp3",
+    "main_genre": "rap",
+    "sub_genre": "louisiana",
+    "modified": "2014-05-21 20:07:26"
   },
   {
     "file": "_trap\\new york\\Chinx\\Chinx Drugz - Cocaine Riot 4 (DatPiff.com)\\05 - Floor Up Feat Zack (Prod by Young Stokes (Four Kings) (DatPiff Exclusive).mp3",
@@ -69060,6 +70428,12 @@
     "modified": "2014-03-31 09:30:54"
   },
   {
+    "file": "_rap\\_usa other\\Kid Cudi\\2009 - Man On The Moon The End of Day (Expanded Edition)\\08 Sky Might Fall.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2014-03-31 09:11:52"
+  },
+  {
     "file": "_rap\\california\\Kendrick Lamar\\Kendrick_Lamar-Good_Kid_M.A.A.D_City-(Deluxe_Edition)-(RapGodFathers.info)\\04 - The Art Of Peer Pressure.mp3",
     "main_genre": "rap",
     "sub_genre": "california",
@@ -69070,6 +70444,30 @@
     "main_genre": "rap",
     "sub_genre": "california",
     "modified": "2014-03-31 09:09:26"
+  },
+  {
+    "file": "_rap\\_usa other\\Kid Cudi\\2009 - Man On The Moon The End of Day (Expanded Edition)\\07 Day _n_ Nite (Nightmare).mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2014-03-31 09:08:02"
+  },
+  {
+    "file": "_rap\\_usa other\\Kid Cudi\\2009 - Man On The Moon The End of Day (Expanded Edition)\\05 Heart of a Lion (Kid Cudi Theme Music).mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2014-03-31 09:07:16"
+  },
+  {
+    "file": "_rap\\_usa other\\Kid Cudi\\2010 - Man On the Moon, Vol. II The Legend of Mr. Rager (Deluxe Version)\\1-01 Scott Mescudi vs. the World.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2014-03-31 09:05:44"
+  },
+  {
+    "file": "_rap\\_usa other\\Kid Cudi\\2009 - Man On The Moon The End of Day (Expanded Edition)\\02 Soundtrack 2 My Life.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2014-03-31 09:04:46"
   },
   {
     "file": "_rap\\texas\\UGK\\Bun B\\Bun.B-Trill.O.G-(Deluxe.Edition)-2010-[NoFS]\\03-Bun B Ft. Young Jeezy-Just Like That (Prod. by Drumma Boy).mp3",
@@ -69106,6 +70504,12 @@
     "main_genre": "rap",
     "sub_genre": "texas",
     "modified": "2014-03-31 08:33:10"
+  },
+  {
+    "file": "_rap\\texas\\UGK\\02 Something Good.mp3",
+    "main_genre": "rap",
+    "sub_genre": "texas",
+    "modified": "2014-03-31 08:24:02"
   },
   {
     "file": "_rap\\california\\_random\\Ice T - Greatest Hits  The Evidence (2000) 320kbps\\12 - I Must Stand.mp3",
@@ -69768,6 +71172,12 @@
     "modified": "2014-02-26 11:30:36"
   },
   {
+    "file": "_rap\\new york\\Mobb Deep\\Prodigy _ Alchemist - Albert Einstein\\14 Breeze.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2014-02-26 02:55:12"
+  },
+  {
     "file": "_rap\\new york\\Mobb Deep\\Prodigy\\H.N.I.C. PT. 2\\12 It_s Nothing.mp3",
     "main_genre": "rap",
     "sub_genre": "new york",
@@ -69994,6 +71404,24 @@
     "main_genre": "rap",
     "sub_genre": "california",
     "modified": "2014-02-21 07:24:34"
+  },
+  {
+    "file": "_rap\\memphis\\Three 6 Mafia\\Most Known Hits\\17 Don_t Turn Around.mp3",
+    "main_genre": "rap",
+    "sub_genre": "memphis",
+    "modified": "2014-02-21 07:09:04"
+  },
+  {
+    "file": "_rap\\memphis\\Three 6 Mafia\\Most Known Hits\\13 Put Ya Signs.mp3",
+    "main_genre": "rap",
+    "sub_genre": "memphis",
+    "modified": "2014-02-21 07:08:42"
+  },
+  {
+    "file": "_rap\\memphis\\Three 6 Mafia\\Most Known Hits\\10 Late Nite Tip.mp3",
+    "main_genre": "rap",
+    "sub_genre": "memphis",
+    "modified": "2014-02-21 07:08:32"
   },
   {
     "file": "_magyar rap\\BSW\\PICSA LP [256]\\Beerseewalk - Prosztó (2006) (Kiadatlan).mp3",
@@ -70468,6 +71896,12 @@
     "main_genre": "rap",
     "sub_genre": "usa",
     "modified": "2013-11-15 14:32:10"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\dnb_chill\\03 Mess Around (Etherwood Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2013-11-11 12:03:28"
   },
   {
     "file": "_other\\_elektro\\experimental\\Recondite-Stems [Ghostly International]-electrobuzz.mp3",
@@ -71466,10 +72900,28 @@
     "modified": "2013-11-03 04:24:18"
   },
   {
+    "file": "_rap\\luisiana\\Lil_ Wayne\\Lil Wayne - Tha Carter IV (Deluxe Edition)\\09 John (feat. Rick Ross).mp3",
+    "main_genre": "rap",
+    "sub_genre": "louisiana",
+    "modified": "2013-11-03 03:37:12"
+  },
+  {
     "file": "_rap\\luisiana\\Lil_ Wayne\\I Am Not A Human Being\\12-Lil Wayne Ft. Lil Twist, Lil’ Chuckee, Gudda Gudda, Jae Millz, And Nicki Minaj - YM Salute (Bonus) (Prod. by Lil Wayne, Mr. Pyro, _ Polow da Don).mp3",
     "main_genre": "rap",
     "sub_genre": "louisiana",
     "modified": "2013-11-03 03:35:32"
+  },
+  {
+    "file": "_rap\\luisiana\\Lil_ Wayne\\Lil Wayne - I Am Not a Human Being II (Deluxe Version) [2013-Album] iTunes M4A NimitMak SilverRG\\07 Trigger Finger (feat. Soulja Boy).mp3",
+    "main_genre": "rap",
+    "sub_genre": "louisiana",
+    "modified": "2013-11-03 03:34:00"
+  },
+  {
+    "file": "_rap\\luisiana\\Lil_ Wayne\\Lil Wayne - I Am Not a Human Being II (Deluxe Version) [2013-Album] iTunes M4A NimitMak SilverRG\\06 Back To You.mp3",
+    "main_genre": "rap",
+    "sub_genre": "louisiana",
+    "modified": "2013-11-03 03:33:56"
   },
   {
     "file": "_rap\\luisiana\\Lil_ Wayne\\Rebirth (Deluxe Version)\\08 Drop The World [Feat. Eminem].mp3",
@@ -71608,6 +73060,12 @@
     "main_genre": "rap",
     "sub_genre": "german",
     "modified": "2013-10-16 06:26:20"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\01 Afterglow.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2013-10-16 06:07:34"
   },
   {
     "file": "_magyar rap\\Garage\\FURAKOR [163-193]\\FURAKOR-HOLNAPUTAN[128][www.theraptunes.com]\\04. Furakor km. Káva - Civil A Pályán.mp3",
@@ -71800,6 +73258,18 @@
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2013-09-30 13:50:06"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\02 Safe In Sound.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2013-09-29 16:10:12"
+  },
+  {
+    "file": "_other\\_elektro\\dnb_dubstep\\12 Tidal Wave (feat. Alpines).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2013-09-29 16:10:12"
   },
   {
     "file": "_magyar rap\\_random\\[2013]_Kommander_-_Alap_-_mp3\\11 Komander-Színház közr.Day.mp3",
@@ -73060,6 +74530,66 @@
     "main_genre": "alternative",
     "sub_genre": null,
     "modified": "2013-05-27 01:38:26"
+  },
+  {
+    "file": "_other\\_rnb\\christiana milian\\01 L.O.V.E. (RedOne Remix).mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:36:40"
+  },
+  {
+    "file": "_other\\_rnb\\christiana milian\\07 When You Look At Me.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:36:36"
+  },
+  {
+    "file": "_other\\_rnb\\christiana milian\\12 Someday One Day.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:36:12"
+  },
+  {
+    "file": "_other\\_rnb\\christiana milian\\02 Say I (Feat. Young Jeezy).mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:36:06"
+  },
+  {
+    "file": "_other\\_rnb\\Ciara The Evolution (2006)\\18 I Found Myself (Produced By Austi.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:03:52"
+  },
+  {
+    "file": "_other\\_rnb\\Ciara The Evolution (2006)\\16 So Hard (Produced By B. Cox _ Cia.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:03:48"
+  },
+  {
+    "file": "_other\\_rnb\\Ciara The Evolution (2006)\\08 My Love (Produced By Kennedy, Cia.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:03:24"
+  },
+  {
+    "file": "_other\\_rnb\\Ciara The Evolution (2006)\\04 Promise (Produced By Polow Da Don.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:03:20"
+  },
+  {
+    "file": "_other\\_rnb\\Ciara The Evolution (2006)\\02 Like A Boy (Produced By Ciara _ T.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:03:18"
+  },
+  {
+    "file": "_other\\_rnb\\Ciara The Evolution (2006)\\Goodies (2004)\\02 1, 2 Step (Feat. Missy Elliott) (.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2013-05-27 01:03:12"
   },
   {
     "file": "_rap\\new york\\Nicki Minaj\\Nicki Minaj-Pink Friday Roman Reloaded (Deluxe Edition)(2012) 320Kbit(mp3) DMT\\07 - Nicki Minaj - Champion (Feat. NAS, Drake _ Young Jeezy).mp3",
@@ -75372,6 +76902,18 @@
     "modified": "2013-05-24 14:02:40"
   },
   {
+    "file": "_rap\\new york\\Jay Z\\Kingdom Come (2006)\\Hollywood (Feat. Beyoncé).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:59:14"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Kingdom Come (2006)\\Kingdom Come.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:59:14"
+  },
+  {
     "file": "_rap\\texas\\Geto Boys\\2005 - Geto Boys - The Foundation\\08. Geto Boys - G Code.mp3",
     "main_genre": "rap",
     "sub_genre": "texas",
@@ -75390,10 +76932,154 @@
     "modified": "2013-05-24 13:56:46"
   },
   {
+    "file": "_rap\\new york\\Jay Z\\Kingdom Come (2006)\\Minority Report (Feat. Ne-Yo).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:56:38"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Reasonable Doubt (1996)\\D_evils.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:56:38"
+  },
+  {
     "file": "_rap\\texas\\Geto Boys\\2005 - Geto Boys - The Foundation\\04. Geto Boys - We Boogie.mp3",
     "main_genre": "rap",
     "sub_genre": "texas",
     "modified": "2013-05-24 13:56:36"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Dynasty - Roc La Famila 2000 (2000)\\Soon You_ll Understand.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:55:18"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Best Of Both Worlds (With R. Kelly) (2002)\\The Streets.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:55:16"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint² The Gift _ The Curse (2002)\\_03 Bonnie _ Clyde (Feat. Beyoncé).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:55:16"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint (2001)\\Renagade (Feat. Eminem).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:51:46"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint 3 (2009)\\Run This Town (Feat. Rihanna _ Kanye West).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:51:46"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\American Gangster (2007)\\Pray (Feat. Beyoncé).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:50:52"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Vol. 2 Hard Knock Life (1998)\\Coming Of Age (Da Sequel) (Feat. Memphis Bleek).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:50:34"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Reasonable Doubt (1996)\\Can_t Knock The Hustle (Feat. Mary J. Blige).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:50:00"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Black Album (2003)\\Dirt Off Your Shoulder.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:49:58"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint 3 (2009)\\Empire State Of Mind (Feat. Alicia Keys).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:49:02"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint² The Gift _ The Curse (2002)\\A Dream (Feat. Faith Evans _ The Notorious B.I.G.).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:49:02"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint² The Gift _ The Curse (2002)\\Guns _ Roses (Feat. Lenny Kravitz).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:49:00"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint² The Gift _ The Curse (2002)\\Blueprint².mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:48:14"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Dynasty - Roc La Famila 2000 (2000)\\Where Have You Been (Feat. Beanie Sigel).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:46:32"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Watch The Throne (With Kanye West) (2011)\\Watch The Throne (Deluxe Version)\\Murder To Excellence.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:46:32"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint 3 (2009)\\What We Talkin_ About (Feat. Luke Steele).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:43:58"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Dynasty - Roc La Famila 2000 (2000)\\This Can_t Be Life (Feat. Beanie Sigel _ Scarface).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:41:18"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint 3 (2009)\\Off That (Feat. Drake).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:40:18"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Vol. 2 Hard Knock Life (1998)\\Hard Knock Life (The Ghetto Anthem).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:40:18"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Black Album (2003)\\Encore.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:40:14"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Watch The Throne (With Kanye West) (2011)\\Watch The Throne (Deluxe Version)\\Niggas In Paris.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:39:30"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Reasonable Doubt (1996)\\22 Two_s.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:39:28"
   },
   {
     "file": "_rap\\2Pac\\[2002] Better Dayz\\2Pac - 103 - When We Ride On Our Enemies.mp3",
@@ -75414,10 +77100,70 @@
     "modified": "2013-05-24 13:36:34"
   },
   {
+    "file": "_rap\\new york\\Jay Z\\Vol. 3 The Life _ Times Of S. Carter (1999)\\It_s Hot (Some Like It Hot).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:36:18"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Black Album (2003)\\Moment Of Clarity.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:36:14"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Dynasty - Roc La Famila 2000 (2000)\\Get Your Mind Right Miami (Feat. Memphis Bleek _ Snoop Dogg).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:34:46"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint (2001)\\Takeover.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:34:40"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Vol. 3 The Life _ Times Of S. Carter (1999)\\Big Pimpin_ (Feat. UGK).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:34:38"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Blueprint (2001)\\Heart Of The City (Ain_t No Love).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:34:04"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Unfinished Business (With R. Kelly) (2004)\\We Got _Em Goin_ (Feat. Memphis Bleek).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:33:12"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Vol. 2 Hard Knock Life (1998)\\A Week Ago (Feat. Too $hort).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:32:28"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Black Album (2003)\\Lucifer.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:28:36"
+  },
+  {
     "file": "_rap\\california\\Eazy E Discography\\29-eazy_e_feat._game-still_crushing.mp3",
     "main_genre": "rap",
     "sub_genre": "california",
     "modified": "2013-05-24 13:27:44"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Black Album (2003)\\99 Problems.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:26:02"
   },
   {
     "file": "_rap\\new york\\Nas\\2006 Hip Hop Is Dead\\11 Nas - Blunt Ashes.mp3",
@@ -75444,6 +77190,12 @@
     "modified": "2013-05-24 13:14:14"
   },
   {
+    "file": "_rap\\new york\\Jay Z\\In My Lifetime, Vol. 1 (1997)\\Intro A Million _ One Questions  Rhyme No More.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 13:12:22"
+  },
+  {
     "file": "_rap\\new york\\Nas\\2010 Nas _ Damian Marley - Distant Relatives\\03. Strong Will Continue.mp3",
     "main_genre": "rap",
     "sub_genre": "new york",
@@ -75460,6 +77212,18 @@
     "main_genre": "rap",
     "sub_genre": "new york",
     "modified": "2013-05-24 13:09:18"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Unfinished Business (With R. Kelly) (2004)\\Pretty Girls.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 12:59:36"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\The Best Of Both Worlds (With R. Kelly) (2002)\\The Best Of Both Worlds.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2013-05-24 12:56:32"
   },
   {
     "file": "_magyar rap\\Punnany Massif\\PUNNANY MASSIF-FEL [320]\\PUNNANY MASSIF-FEL [320]\\05. Punnany Massif - Nem Csak Egyedül.mp3",
@@ -77796,6 +79560,12 @@
     "modified": "2012-10-30 13:19:26"
   },
   {
+    "file": "_other\\_elektro\\edm_electronic_pop\\01 Love Is All I Got (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2012-10-28 14:50:00"
+  },
+  {
     "file": "_magyar rap\\_random\\ZERO [320]\\ZERO [320]\\07. MásszemszöG - Titok (by Bézsbeat).mp3",
     "main_genre": "hungarian rap",
     "sub_genre": null,
@@ -78900,6 +80670,12 @@
     "modified": "2012-08-13 09:11:52"
   },
   {
+    "file": "_rap\\_usa other\\The Roots\\The Roots - 2010 - How I Got Over\\03  Dear God 2.0.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2012-08-13 09:11:40"
+  },
+  {
     "file": "_rap\\_usa other\\The Roots\\The Roots - 2004 - Do This Well (Remixes And Rarities 1994-1999)\\CD1\\The Roots - Break You Off (Original Version) (Feat Dangelo).mp3",
     "main_genre": "rap",
     "sub_genre": "usa",
@@ -79048,6 +80824,12 @@
     "main_genre": "rap",
     "sub_genre": "usa",
     "modified": "2012-08-08 08:24:40"
+  },
+  {
+    "file": "_rap\\_usa other\\The Roots\\The Roots - 2010 - How I Got Over\\09  Right On.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2012-08-08 08:24:32"
   },
   {
     "file": "_rap\\_usa other\\Kool G Rap\\Kool G Rap - Half A Klip\\10-kool_g_rap-bonus_1.mp3",
@@ -84024,6 +85806,12 @@
     "modified": "2011-11-16 04:07:12"
   },
   {
+    "file": "_other\\_elektro\\dnb_dubstep\\03 Anticipate (Netsky Remix) 1.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "dnb & dubstep",
+    "modified": "2011-11-12 03:44:04"
+  },
+  {
     "file": "_rap\\florida\\Plies\\Plies - Da Realist - 2008\\06-plies-family_straight.mp3",
     "main_genre": "rap",
     "sub_genre": "florida",
@@ -86058,10 +87846,22 @@
     "modified": "2011-06-25 08:43:38"
   },
   {
+    "file": "_rap\\_usa other\\_random\\Top 100 R_B\\Wonderful Feat R Kelly _ Ashanti.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2011-06-25 08:43:20"
+  },
+  {
     "file": "_rap\\_usa other\\_random\\Top 100 R_B\\Back At One.mp3",
     "main_genre": "rap",
     "sub_genre": "usa",
     "modified": "2011-06-25 08:43:06"
+  },
+  {
+    "file": "_rap\\_usa other\\_random\\Top 100 R_B\\Never Thought.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2011-06-25 08:42:58"
   },
   {
     "file": "_rap\\_usa other\\_random\\Top 100 R_B\\all_my_life.mp3",
@@ -86100,6 +87900,12 @@
     "modified": "2011-06-25 08:41:16"
   },
   {
+    "file": "_rap\\_usa other\\_random\\Top 100 R_B\\I_m Real (Remix).mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2011-06-25 08:41:08"
+  },
+  {
     "file": "_rap\\_usa other\\_random\\Top 100 R_B\\walking_away.mp3",
     "main_genre": "rap",
     "sub_genre": "usa",
@@ -86112,6 +87918,12 @@
     "modified": "2011-06-25 08:40:08"
   },
   {
+    "file": "_rap\\_usa other\\_random\\Top 100 R_B\\Never Again.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2011-06-25 08:39:40"
+  },
+  {
     "file": "_rap\\_usa other\\_random\\Top 100 R_B\\playas_only_(feat_the_game).mp3",
     "main_genre": "rap",
     "sub_genre": "usa",
@@ -86122,6 +87934,12 @@
     "main_genre": "r&b",
     "sub_genre": null,
     "modified": "2011-06-25 08:39:32"
+  },
+  {
+    "file": "_rap\\_usa other\\_random\\Top 100 R_B\\Read Your Mind.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2011-06-25 08:34:48"
   },
   {
     "file": "_rap\\_usa other\\_random\\Top 100 R_B\\First We Pray.mp3",
@@ -86920,12 +88738,6 @@
     "main_genre": "rap",
     "sub_genre": "usa",
     "modified": "2010-09-25 12:28:22"
-  },
-  {
-    "file": "_other\\Call of Duty 2 hunidegbeteg.mp3",
-    "main_genre": "other",
-    "sub_genre": null,
-    "modified": "2010-09-22 02:11:52"
   },
   {
     "file": "_rap\\_usa other\\Nelly\\Nelly - Here Comes The Boom.mp3",
@@ -88704,10 +90516,64 @@
     "modified": "2006-08-22 15:58:12"
   },
   {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\10 - FELVIDÉKI TÁJ.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-08-10 01:40:52"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\04 - HŐSÖK.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-08-10 01:39:24"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\03 - LESZ MÉG.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-08-10 01:39:06"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\02 - ABBÓL A FÁBÓL.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-08-10 01:38:50"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\01 - KÁRPÁTOK, ZENGJETEK.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-08-10 01:38:32"
+  },
+  {
     "file": "_other\\_magyar\\_rock\\Embör vigyázz!\\14 - Csendőrség.mp3",
     "main_genre": "hungarian",
     "sub_genre": "rock",
     "modified": "2006-07-30 03:08:52"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kimagozva__96\\06 A mi hazánk I.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-07-09 00:12:02"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\14-Holdvilagarok.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-07-04 10:22:10"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\08-Requiem.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-07-04 10:20:28"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\01-Nem_adjuk_fel_!.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-07-04 10:18:22"
   },
   {
     "file": "_rap\\_usa other\\Chingy\\Chingy ft Tyrese -Pulling Me Back.mp3",
@@ -88752,6 +90618,24 @@
     "modified": "2006-06-28 01:16:50"
   },
   {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Csodaszarvas\\14 Egészséges Fejbőr - Esküszünk.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-05-20 04:11:18"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Csodaszarvas\\04 Egészséges Fejbőr - Magyarország.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-05-20 04:08:40"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges Fejbőr - Kronológia\\15 Fekete majmok.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-05-20 04:01:00"
+  },
+  {
     "file": "_other\\_pop\\Outlandish\\Outlandish- Nothing Left To Do.mp3",
     "main_genre": "pop",
     "sub_genre": null,
@@ -88762,6 +90646,54 @@
     "main_genre": "pop",
     "sub_genre": null,
     "modified": "2006-04-14 10:26:12"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\08-Szép vagy,  gyönyörű vagy Magyarország.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 06:54:26"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\06-Rozsdaette penge.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 06:53:50"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\02-Veterán.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 06:52:32"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Tűzzel,vassal_rock\\04-Egy az Isten, egy a nemzet.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 05:53:08"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\08-Ugye, gondolsz néha rám.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 05:42:00"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\05-Ott, ahol zúg a négy folyó.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 05:41:06"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\02-Mesélj még nekem.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 05:40:00"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\01-Magyarország katonái.mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2006-04-13 05:39:40"
   },
   {
     "file": "_other\\_rnb\\Neyo feat Geeze  So Sick (Remix).mp3",
