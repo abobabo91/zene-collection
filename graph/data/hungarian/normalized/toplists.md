@@ -1,6 +1,6 @@
 # Hungarian Local Music Toplists
 
-Songs: `2193`
+Songs: `2192`
 Persons: `488`
 Groups: `38`
 Labels: `9`
@@ -21,8 +21,8 @@ Unattributed songs: `4`
 | 8 | Tibbah | 74 | 36.0 | 37.5 | 69 | 5 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
 | 9 | Deego | 60 | 33.8 | 34.4 | 52 | 8 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
 | 10 | The Steve | 39 | 29.8 | 33.3 | 36 | 2 | 9 | - | - | Fhészek |
-| 11 | Mr. Missh | 36 | 24.4 | 30.2 | 32 | 4 | 0 | Almásfüzitő | - | - |
-| 12 | Smile of Hell | 39 | 28.2 | 29.3 | 34 | 1 | 19 | Szeged | IFS | IFS |
+| 11 | Smile of Hell | 39 | 28.2 | 29.3 | 34 | 1 | 19 | Szeged | IFS | IFS |
+| 12 | Mr. Missh | 35 | 23.9 | 29.2 | 31 | 4 | 0 | Almásfüzitő | - | - |
 | 13 | Rico | 33 | 20.1 | 26.6 | 25 | 8 | 0 | Gyöngyös | goldsoul | - |
 | 14 | Siska Finuccsi | 49 | 25.7 | 26.2 | 41 | 5 | 32 | Tatabánya | Bloose Broavaz | Alakváltók, Egyenlők, Gruppen Family, Vészkijárat |
 | 15 | Turha | 28 | 22.8 | 25.5 | 26 | 2 | 0 | Tatabánya | SCBP | - |
@@ -142,12 +142,12 @@ Unattributed songs: `4`
 | 129 | Norys | 4 | 3.0 | 4.0 | 4 | 0 | 0 | - | - | - |
 | 130 | Ogli G | 4 | 2.5 | 4.0 | 4 | 0 | 0 | - | - | - |
 | 131 | Stigma | 4 | 3.5 | 4.0 | 4 | 0 | 0 | - | - | - |
-| 132 | Burai Krisztián | 7 | 2.9 | 3.7 | 4 | 3 | 0 | - | - | - |
-| 133 | Kowa | 7 | 3.5 | 3.5 | 7 | 0 | 0 | - | - | - |
-| 134 | Jaber | 4 | 3.3 | 3.3 | 4 | 0 | 0 | - | - | - |
-| 135 | Jereván Zoo | 4 | 3.3 | 3.3 | 4 | 0 | 0 | - | - | - |
-| 136 | Awful | 4 | 3.3 | 3.3 | 3 | 1 | 0 | - | RTM | - |
-| 137 | Young Fly | 5 | 3.3 | 3.3 | 5 | 0 | 0 | - | - | - |
+| 132 | Kowa | 7 | 3.5 | 3.5 | 7 | 0 | 0 | - | - | - |
+| 133 | Jaber | 4 | 3.3 | 3.3 | 4 | 0 | 0 | - | - | - |
+| 134 | Jereván Zoo | 4 | 3.3 | 3.3 | 4 | 0 | 0 | - | - | - |
+| 135 | Awful | 4 | 3.3 | 3.3 | 3 | 1 | 0 | - | RTM | - |
+| 136 | Young Fly | 5 | 3.3 | 3.3 | 5 | 0 | 0 | - | - | - |
+| 137 | Burai Krisztián | 6 | 2.4 | 3.2 | 4 | 2 | 0 | - | - | - |
 | 138 | Szókratesz | 6 | 2.7 | 3.2 | 1 | 5 | 0 | - | - | - |
 | 139 | 2roo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | - | - |
 | 140 | Authentic Beats | 3 | 3.0 | 3.0 | 3 | 0 | 0 | - | AuthenticBeats Records | - |

@@ -46600,39 +46600,6 @@
     ]
   },
   {
-    "song_id": "h-01526",
-    "file": "_magyar rap\\mr missh\\MR.MISSH-Budapest feat. Burai Krisz   6NAP.mp3",
-    "title": "Budapest / 6 Nap",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Mr. Missh"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [
-      "Burai Krisztián"
-    ],
-    "featuring_groups": [],
-    "artists": [
-      "Burai Krisztián",
-      "Mr. Missh"
-    ],
-    "credits": [
-      {
-        "entity": "Burai Krisztián",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Mr. Missh",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
     "song_id": "h-01527",
     "file": "_magyar rap\\mr missh\\MR.MISSH-Mindig lesznek akik Feat. LAzy [Official Audio].mp3",
     "title": "Mindig Lesznek Akik",
