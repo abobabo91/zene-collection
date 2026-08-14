@@ -44319,6 +44319,29 @@
     ]
   },
   {
+    "song_id": "h-02278",
+    "file": "_magyar rap\\Makaronin\\Makaronin - Mindig ( Official Trap Music Video ).mp3",
+    "title": "Mindig ( Official Trap Music Video )",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [],
+    "primary_groups": [
+      "Makaronin"
+    ],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [],
+    "credits": [
+      {
+        "entity": "Makaronin",
+        "entity_type": "group",
+        "role": "primary"
+      }
+    ]
+  },
+  {
     "song_id": "h-01458",
     "file": "_magyar rap\\Makaronin\\Makaronin - Mondd azt is.mp3",
     "title": "Mondd Azt Is",
@@ -66081,6 +66104,31 @@
     "credits": [
       {
         "entity": "gyuris",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02279",
+    "file": "_magyar trap\\gyuris\\POWER PUFF (Szalai, Grasa & gyuris) - Zura (ft. Valter & Figura).mp3",
+    "title": "Zura (ft. Valter & Figura)",
+    "title_variants": [],
+    "source_root": "_magyar trap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "POWER PUFF"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "POWER PUFF"
+    ],
+    "credits": [
+      {
+        "entity": "POWER PUFF",
         "entity_type": "person",
         "role": "primary"
       }

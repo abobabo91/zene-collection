@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6675`
+Songs: `6680`
 Persons: `1153`
 Groups: `18`
 Labels: `29`
@@ -11,15 +11,15 @@ Unattributed songs: `223`
 
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
-| 1 | Eminem | 231 | 180.1 | 193.0 | 172 | 4 | 55 | Detroit | - | Bad Meets Evil, D12 |
+| 1 | Eminem | 232 | 181.1 | 194.0 | 173 | 4 | 55 | Detroit | - | Bad Meets Evil, D12 |
 | 2 | YoungBoy Never Broke Again | 143 | 140.3 | 141.5 | 140 | 3 | 0 | Louisiana | - | - |
 | 3 | Lil Wayne | 148 | 132.7 | 138.7 | 131 | 17 | 0 | Louisiana | Young Money | - |
-| 4 | Kodak Black | 111 | 106.5 | 108.2 | 106 | 5 | 0 | Florida | - | - |
+| 4 | Kodak Black | 113 | 108.5 | 110.2 | 108 | 5 | 0 | Florida | - | - |
 | 5 | Future | 108 | 91.7 | 98.6 | 92 | 16 | 0 | Atlanta | - | - |
 | 6 | Young Thug | 110 | 89.4 | 98.4 | 88 | 24 | 0 | Atlanta | YSL | - |
 | 7 | Rich The Kid | 97 | 78.5 | 94.8 | 93 | 4 | 0 | Atlanta | - | - |
 | 8 | XXXTentacion | 92 | 89.8 | 92.0 | 92 | 0 | 0 | Florida | - | - |
-| 9 | 50 Cent | 97 | 84.1 | 88.3 | 80 | 4 | 13 | New York | - | G-Unit |
+| 9 | 50 Cent | 98 | 85.1 | 89.3 | 81 | 4 | 13 | New York | - | G-Unit |
 | 10 | Drake | 91 | 78.6 | 84.2 | 79 | 12 | 0 | Toronto | Young Money | - |
 | 11 | Lil Peep | 84 | 81.0 | 82.0 | 80 | 4 | 0 | California | - | - |
 | 12 | Jedi Mind Tricks / Vinnie Paz | 76 | 72.2 | 76.0 | 76 | 48 | 0 | Philadelphia | - | - |
@@ -93,14 +93,14 @@ Unattributed songs: `223`
 | 80 | Kool G Rap | 19 | 19.0 | 19.0 | 19 | 0 | 0 | USA Other | - | - |
 | 81 | Tech N9ne | 19 | 19.0 | 19.0 | 19 | 0 | 0 | USA Other | - | - |
 | 82 | Lupe Fiasco | 19 | 17.5 | 18.5 | 18 | 1 | 0 | USA | - | - |
-| 83 | Tory Lanez | 19 | 18.5 | 18.5 | 18 | 1 | 0 | Toronto | - | - |
-| 84 | Moneybagg Yo | 19 | 15.0 | 18.0 | 17 | 2 | 0 | Memphis | CMG | - |
-| 85 | Obie Trice | 18 | 18.0 | 18.0 | 18 | 0 | 0 | Detroit | - | - |
-| 86 | roy woods | 18 | 18.0 | 18.0 | 18 | 0 | 0 | Toronto | - | - |
-| 87 | Talib Kweli | 18 | 18.0 | 18.0 | 18 | 0 | 0 | USA Other | - | - |
-| 88 | Fetty Wap | 20 | 16.8 | 17.8 | 16 | 4 | 0 | New York | - | - |
-| 89 | Beanie Sigel | 18 | 17.0 | 17.5 | 17 | 1 | 0 | Philadelphia | - | - |
-| 90 | The Notorious B.I.G. | 18 | 17.0 | 17.5 | 17 | 1 | 0 | New York | - | - |
+| 83 | The Notorious B.I.G. | 19 | 18.0 | 18.5 | 18 | 1 | 0 | New York | - | - |
+| 84 | Tory Lanez | 19 | 18.5 | 18.5 | 18 | 1 | 0 | Toronto | - | - |
+| 85 | Moneybagg Yo | 19 | 15.0 | 18.0 | 17 | 2 | 0 | Memphis | CMG | - |
+| 86 | Obie Trice | 18 | 18.0 | 18.0 | 18 | 0 | 0 | Detroit | - | - |
+| 87 | roy woods | 18 | 18.0 | 18.0 | 18 | 0 | 0 | Toronto | - | - |
+| 88 | Talib Kweli | 18 | 18.0 | 18.0 | 18 | 0 | 0 | USA Other | - | - |
+| 89 | Fetty Wap | 20 | 16.8 | 17.8 | 16 | 4 | 0 | New York | - | - |
+| 90 | Beanie Sigel | 18 | 17.0 | 17.5 | 17 | 1 | 0 | Philadelphia | - | - |
 | 91 | Raekwon | 45 | 17.4 | 17.4 | 14 | 0 | 31 | New York | - | Wu-Tang Clan |
 | 92 | Pressa | 18 | 16.3 | 17.3 | 17 | 1 | 0 | Toronto | - | - |
 | 93 | Fredo Bang | 17 | 15.5 | 17.0 | 17 | 0 | 0 | Louisiana | - | - |
@@ -1227,14 +1227,14 @@ Unattributed songs: `223`
 | # | Region | Songs | Persons | Groups | Labels | Sources |
 |---|--------|-------|---------|--------|--------|---------|
 | 1 | USA | 1049 | 487 | 4 | 9 | _trap |
-| 2 | New York | 1031 | 158 | 4 | 8 | _rap, _trap |
+| 2 | New York | 1033 | 158 | 4 | 8 | _rap, _trap |
 | 3 | Atlanta | 927 | 153 | 3 | 11 | _rap, _trap |
 | 4 | USA Other | 799 | 210 | 4 | 6 | _rap |
 | 5 | California | 552 | 119 | 3 | 4 | _rap, _trap |
 | 6 | Louisiana | 454 | 58 | 1 | 7 | _rap, _trap |
-| 7 | Florida | 434 | 56 | 0 | 4 | _rap, _trap |
+| 7 | Florida | 436 | 56 | 0 | 4 | _rap, _trap |
 | 8 | Chicago | 356 | 66 | 0 | 4 | _trap |
-| 9 | Detroit | 302 | 21 | 2 | 3 | _rap, _trap |
+| 9 | Detroit | 303 | 21 | 2 | 3 | _rap, _trap |
 | 10 | Memphis | 261 | 52 | 1 | 6 | _rap, _trap |
 | 11 | Toronto | 203 | 27 | 0 | 2 | _trap |
 | 12 | Philadelphia | 158 | 14 | 0 | 3 | _rap, _trap |
