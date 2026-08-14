@@ -30439,31 +30439,6 @@
     ]
   },
   {
-    "song_id": "h-02278",
-    "file": "_magyar rap\\Fankadeli\\02. FankaDeli - Néha Ennyi Kell.mp3",
-    "title": "Néha Ennyi Kell",
-    "title_variants": [],
-    "source_root": "_magyar rap",
-    "folder_region": null,
-    "regions": [],
-    "primary_artists": [
-      "Fankadeli"
-    ],
-    "primary_groups": [],
-    "featuring_artists": [],
-    "featuring_groups": [],
-    "artists": [
-      "Fankadeli"
-    ],
-    "credits": [
-      {
-        "entity": "Fankadeli",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ]
-  },
-  {
     "song_id": "h-01009",
     "file": "_magyar rap\\Fankadeli\\AZ UTOLSO FASIRT [128]\\AZ UTOLSO FASIRT [128]\\02. FankaDeli - A Farmerem Meg A Mikrofon.mp3",
     "title": "A Farmerem Meg A Mikrofon",

@@ -126,12 +126,6 @@
     "modified": "2026-08-14 11:43:20"
   },
   {
-    "file": "_other\\_pop\\_oldschool_pop\\Elton John\\Your Song.mp3",
-    "main_genre": "pop",
-    "sub_genre": "oldschool",
-    "modified": "2026-08-14 11:43:20"
-  },
-  {
     "file": "_other\\_pop\\_oldschool_pop\\Madonna\\Madonna  - Give It 2 Me feat. Pharrell (Official Video).mp3",
     "main_genre": "pop",
     "sub_genre": "oldschool",
@@ -168,12 +162,6 @@
     "modified": "2026-08-14 11:43:20"
   },
   {
-    "file": "_rap\\florida\\dj khaled\\DJ Khaled ft. Drake - GREECE (Official Visualizer).mp3",
-    "main_genre": "rap",
-    "sub_genre": "florida",
-    "modified": "2026-08-14 11:43:20"
-  },
-  {
     "file": "_rap\\florida\\Rick Ross\\Rick Ross - Speedin_.mp3",
     "main_genre": "rap",
     "sub_genre": "florida",
@@ -189,12 +177,6 @@
     "file": "_rap\\luisiana\\Lil_ Wayne\\Lil Wayne Ft. Bruno Mars - Mirror.mp3",
     "main_genre": "rap",
     "sub_genre": "louisiana",
-    "modified": "2026-08-14 11:43:20"
-  },
-  {
-    "file": "_rap\\new york\\G-Unit\\50cent\\07 - Lifes On The Line.mp3",
-    "main_genre": "rap",
-    "sub_genre": "new york",
     "modified": "2026-08-14 11:43:20"
   },
   {
@@ -420,12 +402,6 @@
     "modified": "2026-08-14 11:43:20"
   },
   {
-    "file": "_trap\\_usa random\\Trippie Redd\\Trippie Redd - It Takes Time (Lyrics).mp3",
-    "main_genre": "trap",
-    "sub_genre": "usa",
-    "modified": "2026-08-14 11:43:20"
-  },
-  {
     "file": "_trap\\_usa random\\Trippie Redd\\Trippie Redd - Poles 1469 (Ft. Tekashi69).mp3",
     "main_genre": "trap",
     "sub_genre": "usa",
@@ -438,21 +414,9 @@
     "modified": "2026-08-14 11:43:20"
   },
   {
-    "file": "_magyar rap\\Fankadeli\\02. FankaDeli - Néha Ennyi Kell.mp3",
-    "main_genre": "hungarian rap",
-    "sub_genre": null,
-    "modified": "2026-08-14 11:43:19"
-  },
-  {
     "file": "_other\\_pop\\Adele\\01. Hello.mp3",
     "main_genre": "pop",
     "sub_genre": null,
-    "modified": "2026-08-14 11:43:19"
-  },
-  {
-    "file": "_rap\\new york\\G-Unit\\50cent\\05 - U Not Like Me.mp3",
-    "main_genre": "rap",
-    "sub_genre": "new york",
     "modified": "2026-08-14 11:43:19"
   },
   {

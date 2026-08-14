@@ -1,6 +1,6 @@
 # Hungarian Local Music Toplists
 
-Songs: `2194`
+Songs: `2193`
 Persons: `489`
 Groups: `38`
 Labels: `9`
@@ -12,7 +12,7 @@ Unattributed songs: `4`
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
 | 1 | Essemm | 94 | 67.0 | 70.1 | 80 | 13 | 30 | Kapuvár | Garage | BeatMarket, Majmok Bolygója |
-| 2 | Fankadeli | 76 | 67.8 | 68.2 | 72 | 4 | 0 | Kecskemét | - | - |
+| 2 | Fankadeli | 75 | 66.8 | 67.2 | 71 | 4 | 0 | Kecskemét | - | - |
 | 3 | 2arc | 65 | 61.7 | 63.2 | 62 | 3 | 0 | - | - | - |
 | 4 | Ketioz | 106 | 45.2 | 62.9 | 91 | 15 | 44 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
 | 5 | Mr.Busta | 63 | 48.3 | 60.0 | 60 | 3 | 0 | - | RTM | - |

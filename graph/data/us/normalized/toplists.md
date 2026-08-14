@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6679`
+Songs: `6675`
 Persons: `1153`
 Groups: `18`
 Labels: `29`
@@ -19,8 +19,8 @@ Unattributed songs: `223`
 | 6 | Young Thug | 110 | 89.4 | 98.4 | 88 | 24 | 0 | Atlanta | YSL | - |
 | 7 | Rich The Kid | 97 | 78.5 | 94.8 | 93 | 4 | 0 | Atlanta | - | - |
 | 8 | XXXTentacion | 92 | 89.8 | 92.0 | 92 | 0 | 0 | Florida | - | - |
-| 9 | 50 Cent | 99 | 86.1 | 90.3 | 82 | 4 | 13 | New York | - | G-Unit |
-| 10 | Drake | 92 | 79.1 | 84.8 | 79 | 13 | 0 | Toronto | Young Money | - |
+| 9 | 50 Cent | 97 | 84.1 | 88.3 | 80 | 4 | 13 | New York | - | G-Unit |
+| 10 | Drake | 91 | 78.6 | 84.2 | 79 | 12 | 0 | Toronto | Young Money | - |
 | 11 | Lil Peep | 84 | 81.0 | 82.0 | 80 | 4 | 0 | California | - | - |
 | 12 | Jedi Mind Tricks / Vinnie Paz | 76 | 72.2 | 76.0 | 76 | 48 | 0 | Philadelphia | - | - |
 | 13 | Gucci Mane | 70 | 61.7 | 69.0 | 68 | 2 | 0 | Atlanta | - | - |
@@ -64,10 +64,10 @@ Unattributed songs: `223`
 | 51 | The Roots | 27 | 26.5 | 27.0 | 27 | 0 | 0 | USA Other | - | - |
 | 52 | Killah Priest | 26 | 25.5 | 26.0 | 26 | 0 | 0 | USA Other | - | - |
 | 53 | Wiz Khalifa | 28 | 24.1 | 25.8 | 24 | 4 | 0 | USA Other | - | - |
-| 54 | Trippie Redd | 26 | 24.0 | 25.0 | 24 | 2 | 0 | USA | - | - |
-| 55 | Rick Ross | 29 | 22.6 | 24.6 | 21 | 8 | 0 | Florida | MMG | - |
-| 56 | Key Glock | 25 | 24.3 | 24.3 | 24 | 1 | 0 | Memphis | - | - |
-| 57 | Lil Keed | 25 | 23.1 | 24.2 | 24 | 1 | 0 | Atlanta | YSL | - |
+| 54 | Rick Ross | 29 | 22.6 | 24.6 | 21 | 8 | 0 | Florida | MMG | - |
+| 55 | Key Glock | 25 | 24.3 | 24.3 | 24 | 1 | 0 | Memphis | - | - |
+| 56 | Lil Keed | 25 | 23.1 | 24.2 | 24 | 1 | 0 | Atlanta | YSL | - |
+| 57 | Trippie Redd | 25 | 23.0 | 24.0 | 23 | 2 | 0 | USA | - | - |
 | 58 | Snoop Dogg | 28 | 22.2 | 24.0 | 21 | 7 | 0 | California | - | - |
 | 59 | Busta Rhymes | 25 | 21.5 | 23.5 | 23 | 2 | 0 | USA Other | - | - |
 | 60 | Tyga | 28 | 21.4 | 23.4 | 20 | 8 | 0 | California | - | - |
@@ -76,12 +76,12 @@ Unattributed songs: `223`
 | 63 | Swae Lee | 37 | 22.3 | 22.3 | 8 | 4 | 25 | Atlanta | - | Rae Sremmurd |
 | 64 | Havoc | 40 | 21.3 | 22.3 | 5 | 0 | 35 | New York | - | Mobb Deep |
 | 65 | Royce Da 5'9" | 26 | 22.2 | 22.2 | 19 | 2 | 5 | Detroit | - | Bad Meets Evil |
-| 66 | DJ Khaled | 22 | 20.0 | 22.0 | 22 | 0 | 0 | Florida | - | - |
-| 67 | Kendrick Lamar | 24 | 22.0 | 22.0 | 20 | 4 | 0 | California | TDE | - |
-| 68 | Kevin Gates | 22 | 20.8 | 21.5 | 21 | 1 | 0 | Louisiana | - | - |
-| 69 | Roddy Ricch | 22 | 21.5 | 21.5 | 21 | 1 | 0 | California | - | - |
-| 70 | Prodigy | 39 | 21.3 | 21.3 | 4 | 1 | 35 | New York | - | Mobb Deep |
-| 71 | Playboi Carti | 23 | 18.9 | 21.1 | 20 | 3 | 0 | Atlanta | Opium | - |
+| 66 | Kendrick Lamar | 24 | 22.0 | 22.0 | 20 | 4 | 0 | California | TDE | - |
+| 67 | Kevin Gates | 22 | 20.8 | 21.5 | 21 | 1 | 0 | Louisiana | - | - |
+| 68 | Roddy Ricch | 22 | 21.5 | 21.5 | 21 | 1 | 0 | California | - | - |
+| 69 | Prodigy | 39 | 21.3 | 21.3 | 4 | 1 | 35 | New York | - | Mobb Deep |
+| 70 | Playboi Carti | 23 | 18.9 | 21.1 | 20 | 3 | 0 | Atlanta | Opium | - |
+| 71 | DJ Khaled | 21 | 19.5 | 21.0 | 21 | 0 | 0 | Florida | - | - |
 | 72 | Pop Smoke | 21 | 20.5 | 21.0 | 21 | 0 | 0 | New York | - | - |
 | 73 | King Von | 21 | 19.3 | 20.3 | 20 | 1 | 0 | Chicago | OTF | - |
 | 74 | Jadakiss | 23 | 19.0 | 20.0 | 18 | 5 | 0 | New York | - | - |
@@ -1192,7 +1192,7 @@ Unattributed songs: `223`
 
 | # | Label | Songs | Persons | Groups | Regions |
 |---|-------|-------|---------|--------|---------|
-| 1 | Young Money | 288 | 3 | 0 | Atlanta, California, Detroit, Florida, Louisiana, Memphis, New York, Toronto, USA, USA Other |
+| 1 | Young Money | 287 | 3 | 0 | Atlanta, California, Detroit, Florida, Louisiana, Memphis, New York, Toronto, USA, USA Other |
 | 2 | YSL | 163 | 3 | 0 | Atlanta, California, Louisiana, Toronto, USA |
 | 3 | QC | 90 | 2 | 1 | Atlanta, Chicago, DC, Louisiana, USA |
 | 4 | OTF | 86 | 2 | 0 | Atlanta, Chicago, Detroit, Louisiana, Memphis |
@@ -1226,13 +1226,13 @@ Unattributed songs: `223`
 
 | # | Region | Songs | Persons | Groups | Labels | Sources |
 |---|--------|-------|---------|--------|--------|---------|
-| 1 | USA | 1050 | 487 | 4 | 9 | _trap |
-| 2 | New York | 1033 | 158 | 4 | 8 | _rap, _trap |
+| 1 | USA | 1049 | 487 | 4 | 9 | _trap |
+| 2 | New York | 1031 | 158 | 4 | 8 | _rap, _trap |
 | 3 | Atlanta | 927 | 153 | 3 | 11 | _rap, _trap |
 | 4 | USA Other | 799 | 210 | 4 | 6 | _rap |
 | 5 | California | 552 | 119 | 3 | 4 | _rap, _trap |
 | 6 | Louisiana | 454 | 58 | 1 | 7 | _rap, _trap |
-| 7 | Florida | 435 | 56 | 0 | 4 | _rap, _trap |
+| 7 | Florida | 434 | 56 | 0 | 4 | _rap, _trap |
 | 8 | Chicago | 356 | 66 | 0 | 4 | _trap |
 | 9 | Detroit | 302 | 21 | 2 | 3 | _rap, _trap |
 | 10 | Memphis | 261 | 52 | 1 | 6 | _rap, _trap |

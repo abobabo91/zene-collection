@@ -1,6 +1,6 @@
 # Pop Local Music Toplists
 
-Songs: `1044`
+Songs: `1043`
 Persons: `452`
 Unattributed songs: `49`
 
@@ -20,7 +20,7 @@ Unattributed songs: `49`
 | 10 | Ellie Goulding | 16 | 16.0 | 16.0 | 16 | 0 | 0 | - | - | - |
 | 11 | Outlandish | 16 | 15.0 | 16.0 | 16 | 0 | 0 | - | - | - |
 | 12 | ABBA | 13 | 13.0 | 13.0 | 13 | 0 | 0 | - | - | - |
-| 13 | Elton John | 14 | 13.0 | 13.0 | 14 | 0 | 0 | - | - | - |
+| 13 | Elton John | 13 | 12.0 | 12.0 | 13 | 0 | 0 | - | - | - |
 | 14 | The Pussycat Dolls | 12 | 8.8 | 11.3 | 12 | 0 | 0 | - | - | - |
 | 15 | Adele | 11 | 11.0 | 11.0 | 11 | 0 | 0 | - | - | - |
 | 16 | Sean Paul | 12 | 9.0 | 10.5 | 9 | 3 | 0 | - | - | - |
