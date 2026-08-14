@@ -1,6 +1,6 @@
 # Pop Local Music Toplists
 
-Songs: `1045`
+Songs: `1046`
 Persons: `453`
 Unattributed songs: `49`
 
@@ -23,10 +23,10 @@ Unattributed songs: `49`
 | 13 | Elton John | 13 | 12.0 | 12.0 | 13 | 0 | 0 | - | - | - |
 | 14 | The Pussycat Dolls | 12 | 8.8 | 11.3 | 12 | 0 | 0 | - | - | - |
 | 15 | Adele | 11 | 11.0 | 11.0 | 11 | 0 | 0 | - | - | - |
-| 16 | Sean Paul | 12 | 9.0 | 10.5 | 9 | 3 | 0 | - | - | - |
-| 17 | Justin Timberlake | 11 | 10.3 | 10.3 | 10 | 1 | 0 | - | - | - |
-| 18 | Backstreet Boys | 10 | 10.0 | 10.0 | 10 | 0 | 0 | - | - | - |
-| 19 | Katy Perry | 10 | 9.0 | 10.0 | 10 | 0 | 0 | - | - | - |
+| 16 | Katy Perry | 11 | 10.0 | 11.0 | 11 | 0 | 0 | - | - | - |
+| 17 | Sean Paul | 12 | 9.0 | 10.5 | 9 | 3 | 0 | - | - | - |
+| 18 | Justin Timberlake | 11 | 10.3 | 10.3 | 10 | 1 | 0 | - | - | - |
+| 19 | Backstreet Boys | 10 | 10.0 | 10.0 | 10 | 0 | 0 | - | - | - |
 | 20 | The Beatles | 10 | 9.0 | 10.0 | 10 | 0 | 0 | - | - | - |
 | 21 | Time Walk | 10 | 10.0 | 10.0 | 10 | 0 | 0 | - | - | - |
 | 22 | Kylie Minogue | 10 | 9.5 | 9.5 | 9 | 1 | 0 | - | - | - |

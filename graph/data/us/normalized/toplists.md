@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6680`
+Songs: `6681`
 Persons: `1153`
 Groups: `18`
 Labels: `29`
@@ -11,7 +11,7 @@ Unattributed songs: `223`
 
 | # | Artist | Songs | Norm | Adj | Primary | Feature | Via Group | Top Region | Labels | Groups |
 |---|--------|-------|------|-----|---------|---------|-----------|------------|--------|--------|
-| 1 | Eminem | 232 | 181.1 | 194.0 | 173 | 4 | 55 | Detroit | - | Bad Meets Evil, D12 |
+| 1 | Eminem | 233 | 182.1 | 195.0 | 174 | 4 | 55 | Detroit | - | Bad Meets Evil, D12 |
 | 2 | YoungBoy Never Broke Again | 143 | 140.3 | 141.5 | 140 | 3 | 0 | Louisiana | - | - |
 | 3 | Lil Wayne | 148 | 132.7 | 138.7 | 131 | 17 | 0 | Louisiana | Young Money | - |
 | 4 | Kodak Black | 113 | 108.5 | 110.2 | 108 | 5 | 0 | Florida | - | - |
@@ -1234,7 +1234,7 @@ Unattributed songs: `223`
 | 6 | Louisiana | 454 | 58 | 1 | 7 | _rap, _trap |
 | 7 | Florida | 436 | 56 | 0 | 4 | _rap, _trap |
 | 8 | Chicago | 356 | 66 | 0 | 4 | _trap |
-| 9 | Detroit | 303 | 21 | 2 | 3 | _rap, _trap |
+| 9 | Detroit | 304 | 21 | 2 | 3 | _rap, _trap |
 | 10 | Memphis | 261 | 52 | 1 | 6 | _rap, _trap |
 | 11 | Toronto | 203 | 27 | 0 | 2 | _trap |
 | 12 | Philadelphia | 158 | 14 | 0 | 3 | _rap, _trap |
