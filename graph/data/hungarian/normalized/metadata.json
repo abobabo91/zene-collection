@@ -2,8 +2,8 @@
   "source_format": "hungarian_incremental_scan",
   "schema_version": 1,
   "counts": {
-    "songs": 2192,
-    "persons": 488,
+    "songs": 2194,
+    "persons": 489,
     "groups": 38,
     "labels": 9,
     "unattributed_songs": 4

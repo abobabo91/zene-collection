@@ -1,5 +1,485 @@
 [
   {
+    "file": "_magyar rap\\Bloose Broavaz\\tkyd\\Tkyd _ Eckü (H_sök) - Hitted_ (Official Music Video).mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_alternate\\Grimes\\Grimes - Butterfly [Official Video].mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Avicii\\Avicii - Wake Me Up (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby Bash ft. Frankie J - Suga Suga (Official Video).mp3",
+    "main_genre": "latin",
+    "sub_genre": "oldschool",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\L.L. Junior - Az én utam\\L.L. Junior feat. Kenedi Veronika - Úgy szeretnék (hivatalos videóklip).mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "cigany",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\Tankcsapda - Adjon az Ég (hivatalos videóklip).mp3",
+    "main_genre": "hungarian",
+    "sub_genre": "rock",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Akon\\Akon Featuring Colby O Donis Kardinal Offishall - Beautiful.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\10. 7 rings.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\11. thank u, next.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\12. break up with your girlfriend, i_m bored.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\Ariana Grande - 7 rings.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\Ariana Grande - 7 rings__1.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\Ariana Grande - break up with your girlfriend, i_m bored.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\Ariana Grande - Into You.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\Ariana Grande - thank u, next.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Ariana Grande\\Ariana Grande - The Way.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Beyonce\\29 - Beyonce - 711 (DatPiff Exclusive).mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Beyonce\\Beyonce Feat. Sean Paul - Baby Boy.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\Beyonce\\Beyonce Featuring Sean Paul - Baby Boy.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\_kpop\\BTS\\BTS (방탄소년단) - _Make It Right_ Lyrics [Color Coded Han_Rom_Eng].mp3",
+    "main_genre": "pop",
+    "sub_genre": "kpop",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\_oldschool_pop\\Elton John\\Elton John - Rocket Man (Official Music Video).mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\_oldschool_pop\\Elton John\\Your Song.mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_pop\\_oldschool_pop\\Madonna\\Madonna  - Give It 2 Me feat. Pharrell (Official Video).mp3",
+    "main_genre": "pop",
+    "sub_genre": "oldschool",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_rnb\\Cassie\\20 - Cassie ft Fabolous - I Love It (DatPiff Exclusive).mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_rnb\\Jay Sean\\Jay Sean - Down (Lyrics).mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_other\\_rnb\\Trey Songz\\Trey Songz - Say Aah (Ready).mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\atlanta\\T.I\\T.I. - Ride Wit Me.mp3",
+    "main_genre": "rap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\california\\Snoop Dogg\\snoop doggy dogg - who am I ( what_s my name).mp3",
+    "main_genre": "rap",
+    "sub_genre": "california",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\florida\\dj khaled\\DJ Khaled ft. Drake - GREECE (Official Visualizer).mp3",
+    "main_genre": "rap",
+    "sub_genre": "florida",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\florida\\Rick Ross\\Rick Ross - Speedin_.mp3",
+    "main_genre": "rap",
+    "sub_genre": "florida",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\luisiana\\Lil_ Wayne\\08 - Lil Wayne ft Soulja Boy - Trigger Finger (DatPiff Exclusive).mp3",
+    "main_genre": "rap",
+    "sub_genre": "louisiana",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\luisiana\\Lil_ Wayne\\Lil Wayne Ft. Bruno Mars - Mirror.mp3",
+    "main_genre": "rap",
+    "sub_genre": "louisiana",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\new york\\G-Unit\\50cent\\07 - Lifes On The Line.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\new york\\Jay Z\\Jay-Z - Run This Town.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\new york\\Mobb Deep\\1996 - Mobb Deep - _Hell On Earth_\\68 - Mobb Deep - Hell on Earth (1996).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\new york\\Nicki Minaj\\51. Nicki Minaj - Only[www.musicbolt.com].mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\texas\\Geto Boys\\1997 - Scarface - The Untouchable\\07. Scarface - Mary Jane (1997).mp3",
+    "main_genre": "rap",
+    "sub_genre": "texas",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_rap\\_usa other\\The Roots\\The Roots - Dont Say Nuthin.mp3",
+    "main_genre": "rap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\Future\\06 - Future - Honest (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\Future\\Future - You Da Baddest (Official Music Video) ft. Nicki Minaj.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\migos\\23 - Migos - Charles Barkley (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\migos\\Need It.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\migos\\Migos - No Label 2 (Full Mixtape)\\Migos - Migo Dreams ft. Meek Mill (No Label 2).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\rich the kid\\06 - Rich The Kid ft Young Thug - Ran It Up.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\Young Thug\\Dae Dae - Spend It (feat. Young Thug _ Young M.A) (Remix).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\_random\\k camp\\K.Camp - Heaven Sent ( Prod HC Derellerideout).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\atlanta\\_random\\KYYNGG - YouTube\\Kyyngg - Like A Nerd (Herkules).mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\california\\lil xan\\Lil Xan - Betrayed (Dir. by @_ColeBennett_).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\california\\lil xan\\Lil Xan - Deceived (Official Video).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\california\\MAC MILLER DISCOGRAPHY\\33 - Mac Miller ft ScHoolboy Q - Gees (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "california",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\florida\\Kodak Black\\Kodak Black - Codeine Dreaming (feat. Lil Wayne) [Official Audio].mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\florida\\Kodak Black\\Kodak Black - Heart Of The Projects (Full Mixtape) - YouTube\\Kodak Black - Skrilla (Heart Of The Projects).mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\florida\\XXXTentacion\\XXXTENTACION - Never.mp3",
+    "main_genre": "trap",
+    "sub_genre": "florida",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\louisiana\\NBA Youngboy\\NBA YoungBoy - 38 Baby.mp3",
+    "main_genre": "trap",
+    "sub_genre": "louisiana",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\memphis\\key glock\\22 Key Glock - Already Know.mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\memphis\\young dolph\\Young Dolph - In Charlotte (Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "memphis",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\new york\\Cardi B\\06 Money.mp3",
+    "main_genre": "trap",
+    "sub_genre": "new york",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\new york\\Cardi B\\Cardi B - Bodak Yellow [OFFICIAL MUSIC VIDEO].mp3",
+    "main_genre": "trap",
+    "sub_genre": "new york",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\phily\\lil uzi vert\\05 - You Was Right [Produced By Metro Boomin].mp3",
+    "main_genre": "trap",
+    "sub_genre": "philadelphia",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\phily\\Meek Mill\\24 - Meek Mill - Levels (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "philadelphia",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\toronto\\Drake\\11 - Drake - 10 Bands (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "toronto",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\Joey Bada$$-Summer Knights (2013) 320 Badass\\17 - Joey BadaSS - Word Is Bond (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\Partynextdoor mix - YouTube\\PARTYNEXTDOOR -  Wus Good  Curious  (Official Audio).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\post malone\\09. Better Now.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\post malone\\Post Malone - Too Young.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\SchoolBoy Q\\14 - ScHoolboy Q - Man Of The Year (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\SchoolBoy Q\\31 - Schoolboy Q - Hell Of A Night (DatPiff Exclusive).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\travis scott\\Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC\\Travis Scott - beibs in the trap ft. NAV.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\travis scott\\Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC\\Travis Scott - pick up the phone ft. Young Thug, Quavo (Lyrics).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\Trippie Redd\\Trippie Redd -  It Takes Time.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\Trippie Redd\\Trippie Redd - It Takes Time (Lyrics).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\Trippie Redd\\Trippie Redd - Poles 1469 (Ft. Tekashi69).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_trap\\_usa random\\_random\\Chance The Rapper - Acidrap\\Chance the Rapper ft. 2 Chainz _ Lil Wayne - No Problem (Official Video).mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:20"
+  },
+  {
+    "file": "_magyar rap\\Fankadeli\\02. FankaDeli - Néha Ennyi Kell.mp3",
+    "main_genre": "hungarian rap",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:19"
+  },
+  {
+    "file": "_other\\_pop\\Adele\\01. Hello.mp3",
+    "main_genre": "pop",
+    "sub_genre": null,
+    "modified": "2026-08-14 11:43:19"
+  },
+  {
+    "file": "_rap\\new york\\G-Unit\\50cent\\05 - U Not Like Me.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-08-14 11:43:19"
+  },
+  {
+    "file": "_trap\\toronto\\Tory Lanez\\05 - Tory Lanez - For Real (Prod Droc x Tory Lanez x Play Picasso).mp3",
+    "main_genre": "trap",
+    "sub_genre": "toronto",
+    "modified": "2026-08-14 11:43:19"
+  },
+  {
+    "file": "_trap\\_usa random\\Partynextdoor mix - YouTube\\03 - Party Next Door - West District.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:19"
+  },
+  {
+    "file": "_trap\\_usa random\\post malone\\002. Post Malone - Sunflower.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:19"
+  },
+  {
+    "file": "_trap\\_usa random\\post malone\\005. Post Malone - Wow.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-08-14 11:43:19"
+  },
+  {
     "file": "_other\\_pop\\Ariana Grande\\2018  - Sweetener\\05. God is a woman.mp3",
     "main_genre": "pop",
     "sub_genre": null,

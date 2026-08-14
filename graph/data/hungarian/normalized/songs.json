@@ -24745,6 +24745,31 @@
     ]
   },
   {
+    "song_id": "h-02277",
+    "file": "_magyar rap\\Bloose Broavaz\\tkyd\\Tkyd _ Eckü (H_sök) - Hitted_ (Official Music Video).mp3",
+    "title": "Hitted",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Tkyd Eckü"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Tkyd Eckü"
+    ],
+    "credits": [
+      {
+        "entity": "Tkyd Eckü",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
     "song_id": "h-00832",
     "file": "_magyar rap\\Bloose Broavaz\\tkyd\\TKYD-HEAVY MENTAL[320][www.theraptunes.com]\\04. Tkyd - Érzés.mp3",
     "title": "Érzés",
@@ -30408,6 +30433,31 @@
     "credits": [
       {
         "entity": "El Bago",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02278",
+    "file": "_magyar rap\\Fankadeli\\02. FankaDeli - Néha Ennyi Kell.mp3",
+    "title": "Néha Ennyi Kell",
+    "title_variants": [],
+    "source_root": "_magyar rap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Fankadeli"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Fankadeli"
+    ],
+    "credits": [
+      {
+        "entity": "Fankadeli",
         "entity_type": "person",
         "role": "primary"
       }

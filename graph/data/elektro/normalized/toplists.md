@@ -1,6 +1,6 @@
 # Electronic Local Music Toplists
 
-Songs: `1179`
+Songs: `1180`
 Persons: `821`
 Unattributed songs: `159`
 
@@ -20,9 +20,9 @@ Unattributed songs: `159`
 | 10 | Davit Barqaia | 10 | 10.0 | 10.0 | 10 | 0 | 0 | - | - | - |
 | 11 | Daft Punk | 9 | 8.0 | 9.0 | 9 | 0 | 0 | - | - | - |
 | 12 | Tiësto | 9 | 7.0 | 7.5 | 9 | 0 | 0 | - | - | - |
-| 13 | B-Complex | 7 | 7.0 | 7.0 | 7 | 0 | 0 | - | - | - |
-| 14 | Robin Schulz | 7 | 6.5 | 7.0 | 7 | 0 | 0 | - | - | - |
-| 15 | Avicii | 6 | 6.0 | 6.0 | 6 | 0 | 0 | - | - | - |
+| 13 | Avicii | 7 | 7.0 | 7.0 | 7 | 0 | 0 | - | - | - |
+| 14 | B-Complex | 7 | 7.0 | 7.0 | 7 | 0 | 0 | - | - | - |
+| 15 | Robin Schulz | 7 | 6.5 | 7.0 | 7 | 0 | 0 | - | - | - |
 | 16 | Cascada | 6 | 5.5 | 6.0 | 6 | 0 | 0 | - | - | - |
 | 17 | Major Lazer | 6 | 6.0 | 6.0 | 6 | 0 | 0 | - | - | - |
 | 18 | Mauro Picotto | 6 | 6.0 | 6.0 | 6 | 0 | 0 | - | - | - |

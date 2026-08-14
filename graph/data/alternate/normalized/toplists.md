@@ -1,6 +1,6 @@
 # Alternative Local Music Toplists
 
-Songs: `554`
+Songs: `555`
 Persons: `197`
 Unattributed songs: `29`
 
@@ -12,7 +12,7 @@ Unattributed songs: `29`
 | 2 | Lana Del Rey | 27 | 26.5 | 27.0 | 27 | 0 | 0 | - | - | - |
 | 3 | Halsey | 24 | 22.5 | 23.5 | 24 | 0 | 0 | - | - | - |
 | 4 | CHVRCHES | 18 | 18.0 | 18.0 | 18 | 0 | 0 | - | - | - |
-| 5 | Grimes | 16 | 15.5 | 16.0 | 16 | 0 | 0 | - | - | - |
+| 5 | Grimes | 17 | 16.5 | 17.0 | 17 | 0 | 0 | - | - | - |
 | 6 | Sade | 14 | 14.0 | 14.0 | 14 | 0 | 0 | - | - | - |
 | 7 | Billie Eilish | 14 | 13.5 | 13.5 | 13 | 1 | 0 | - | - | - |
 | 8 | Radiohead | 11 | 11.0 | 11.0 | 11 | 0 | 0 | - | - | - |

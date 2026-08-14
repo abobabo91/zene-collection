@@ -10707,6 +10707,34 @@
   },
   {
     "song_id": "r-00501",
+    "file": "_other\\_rnb\\Cassie\\20 - Cassie ft Fabolous - I Love It (DatPiff Exclusive).mp3",
+    "title": "I Love It (DatPiff Exclusive)",
+    "primary_artists": [
+      "Cassie"
+    ],
+    "featuring_artists": [
+      "Fabolous"
+    ],
+    "artists": [
+      "Cassie",
+      "Fabolous"
+    ],
+    "credits": [
+      {
+        "entity": "Cassie",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Fabolous",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "r-00502",
     "file": "_other\\_rnb\\Cassie\\Cassie - I Love It ft. Fabolous.mp3",
     "title": "I Love It",
     "primary_artists": [
@@ -10734,7 +10762,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00502",
+    "song_id": "r-00503",
     "file": "_other\\_rnb\\Cassie\\Cassie - Long Way 2 Go (video).mp3",
     "title": "Long Way 2 Go (video)",
     "primary_artists": [
@@ -10754,7 +10782,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00503",
+    "song_id": "r-00504",
     "file": "_other\\_rnb\\Cassie\\Cassie - Me _ U.mp3",
     "title": "Me U",
     "primary_artists": [
@@ -10774,7 +10802,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00504",
+    "song_id": "r-00505",
     "file": "_other\\_rnb\\Cherish - Unappreciated.mp3",
     "title": "Unappreciated",
     "primary_artists": [
@@ -10794,7 +10822,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00505",
+    "song_id": "r-00506",
     "file": "_other\\_rnb\\Cherish - Unappreciated__1.mp3",
     "title": "Unappreciated 1",
     "primary_artists": [
@@ -10814,7 +10842,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00506",
+    "song_id": "r-00507",
     "file": "_other\\_rnb\\chris brown - with you.mp3",
     "title": "",
     "primary_artists": [
@@ -10834,7 +10862,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00507",
+    "song_id": "r-00508",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2006) Chris Brown\\02) Run It!.mp3",
     "title": "Run It!",
     "primary_artists": [
@@ -10854,7 +10882,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00508",
+    "song_id": "r-00509",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2006) Chris Brown\\03) Yo (Excuse Me Miss).mp3",
     "title": "Yo (Excuse Me Miss)",
     "primary_artists": [
@@ -10874,7 +10902,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00509",
+    "song_id": "r-00510",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2006) Chris Brown\\05) Gimme That.mp3",
     "title": "Gimme That",
     "primary_artists": [
@@ -10894,7 +10922,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00510",
+    "song_id": "r-00511",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2006) Chris Brown\\13) Say Goodbye.mp3",
     "title": "Say Goodbye",
     "primary_artists": [
@@ -10914,7 +10942,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00511",
+    "song_id": "r-00512",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2006) Chris Brown\\Chris Brown - Look At Me Now.mp3",
     "title": "Look At Me Now",
     "primary_artists": [
@@ -10934,7 +10962,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00512",
+    "song_id": "r-00513",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2006) Chris Brown\\Chris Brown - No Guidance.mp3",
     "title": "No Guidance",
     "primary_artists": [
@@ -10954,7 +10982,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00513",
+    "song_id": "r-00514",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2007) Exclusive 3 CD_s\\(2007) Exclusive CD1\\02) Kiss Kiss.mp3",
     "title": "Kiss Kiss",
     "primary_artists": [
@@ -10974,7 +11002,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00514",
+    "song_id": "r-00515",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2007) Exclusive 3 CD_s\\(2007) Exclusive CD1\\04) With You.mp3",
     "title": "",
     "primary_artists": [
@@ -10994,7 +11022,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00515",
+    "song_id": "r-00516",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2007) Exclusive 3 CD_s\\(2007) Exclusive CD1\\09) Wall to Wall.mp3",
     "title": "Wall to Wall",
     "primary_artists": [
@@ -11014,7 +11042,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00516",
+    "song_id": "r-00517",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2007) Exclusive 3 CD_s\\(2007) Exclusive CD3\\01) Forever.mp3",
     "title": "Forever",
     "primary_artists": [
@@ -11034,7 +11062,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00517",
+    "song_id": "r-00518",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2011) F.A.M.E\\01) Deuces.mp3",
     "title": "Deuces",
     "primary_artists": [
@@ -11054,7 +11082,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00518",
+    "song_id": "r-00519",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2011) F.A.M.E\\07) Yeah 3X.mp3",
     "title": "Yeah 3X",
     "primary_artists": [
@@ -11074,7 +11102,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00519",
+    "song_id": "r-00520",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2011) F.A.M.E\\08) Next to You.mp3",
     "title": "Next to You",
     "primary_artists": [
@@ -11094,7 +11122,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00520",
+    "song_id": "r-00521",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2011) F.A.M.E\\13) Beautiful People.mp3",
     "title": "Beautiful People",
     "primary_artists": [
@@ -11114,7 +11142,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00521",
+    "song_id": "r-00522",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\(2012) Fortune\\13 - Chris Brown - Don_t Wake Me Up.mp3",
     "title": "Don t Wake Me Up",
     "primary_artists": [
@@ -11134,7 +11162,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00522",
+    "song_id": "r-00523",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\1111 Chris Brown Full Album\\Chris Brown - Feel Something (Visualizer).mp3",
     "title": "Feel Something (Visualizer)",
     "primary_artists": [
@@ -11154,7 +11182,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00523",
+    "song_id": "r-00524",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\2015 - Fan Of A Fan The Album\\03. Ayo.mp3",
     "title": "Ayo",
     "primary_artists": [
@@ -11174,7 +11202,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00524",
+    "song_id": "r-00525",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\2015 - Fan Of A Fan The Album\\04. Girl You Loud.mp3",
     "title": "Girl You Loud",
     "primary_artists": [
@@ -11194,7 +11222,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00525",
+    "song_id": "r-00526",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\2015 - Fan Of A Fan The Album\\16. Banjo.mp3",
     "title": "Banjo",
     "primary_artists": [
@@ -11214,7 +11242,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00526",
+    "song_id": "r-00527",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown & OHB - Before The Trap Nights In Tarzana (Full Mixtape)\\Chris Brown & OHB - I Lean (Ft. Tracy T & Hoody Baby) [Before The Trap].mp3",
     "title": "I Lean (Ft. Tracy T & Hoody Baby) [Before The Trap]",
     "primary_artists": [
@@ -11241,7 +11269,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00527",
+    "song_id": "r-00528",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown & OHB - Before The Trap Nights In Tarzana (Full Mixtape)\\Chris Brown & OHB - Wrist Remix (Ft. Young Thug & Young Jeezy) [Before The Trap].mp3",
     "title": "Wrist Remix (Ft. Young Thug & Young Jeezy) [Before The Trap]",
     "primary_artists": [
@@ -11268,7 +11296,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00528",
+    "song_id": "r-00529",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Before The Party [New Mixtape]\\01 - Counterfeit ft Rihanna Wiz Khalifa & Kelly_ Chris Brown (Before The Party).mp3",
     "title": "Counterfeit",
     "primary_artists": [
@@ -11288,7 +11316,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00529",
+    "song_id": "r-00530",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Before The Party [New Mixtape]\\09 - Text Message ft Tyga_ Chris Brown (Before The Party).mp3",
     "title": "Text Message",
     "primary_artists": [
@@ -11308,7 +11336,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00530",
+    "song_id": "r-00531",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Before The Party [New Mixtape]\\11 - Just So You Know Chris Brown (Before The Party).mp3",
     "title": "Just So You Know Chris Brown (Before The Party)",
     "primary_artists": [
@@ -11328,7 +11356,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00531",
+    "song_id": "r-00532",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Before The Party [New Mixtape]\\25 - Roses Turn Blue Chris Brown (Before The Party).mp3",
     "title": "Roses Turn Blue Chris Brown (Before The Party)",
     "primary_artists": [
@@ -11348,7 +11376,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00532",
+    "song_id": "r-00533",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Before The Party [New Mixtape]\\28 - Matter Chris Brown (Before The Party).mp3",
     "title": "Matter Chris Brown (Before The Party)",
     "primary_artists": [
@@ -11368,7 +11396,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00533",
+    "song_id": "r-00534",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Don_t Judge Me (Audio).mp3",
     "title": "Don t Judge Me (Audio)",
     "primary_artists": [
@@ -11388,7 +11416,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00534",
+    "song_id": "r-00535",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Heartbreak on a Full Moon (2017) (Mp3 320kbps) [Hunter]\\Chris Brown – Heartbreak on a Full Moon [MZ Music]\\17 Party (feat. Usher & Gucci Mane).mp3",
     "title": "Party (feat. Usher & Gucci Mane)",
     "primary_artists": [
@@ -11408,7 +11436,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00535",
+    "song_id": "r-00536",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Heartbreak on a Full Moon (2017) (Mp3 320kbps) [Hunter]\\Chris Brown – Heartbreak on a Full Moon [MZ Music]\\21 Pills & Automobiles (feat. Yo Gotti, A Boogie Wit da Hoodie & Kodak Black).mp3",
     "title": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit da Hoodie & Kodak Black)",
     "primary_artists": [
@@ -11428,7 +11456,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00536",
+    "song_id": "r-00537",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Heartbreak on a Full Moon (2017) (Mp3 320kbps) [Hunter]\\Chris Brown – Heartbreak on a Full Moon [MZ Music]\\7 Confidence.mp3",
     "title": "Confidence",
     "primary_artists": [
@@ -11448,7 +11476,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00537",
+    "song_id": "r-00538",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - In My Zones 1 & 2\\18. Quits (feat. Kevin McCall) - Chris Brown [In My Zone 2 Mixtape].mp3",
     "title": "Chris Brown [In My Zone 2 Mixtape]",
     "primary_artists": [
@@ -11468,7 +11496,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00538",
+    "song_id": "r-00539",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - In My Zones 1 & 2\\Chris Brown - How Low Can You Go (In My Zone).mp3",
     "title": "How Low Can You Go (In My Zone)",
     "primary_artists": [
@@ -11488,7 +11516,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00539",
+    "song_id": "r-00540",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - In My Zones 1 & 2\\Sex-Chris Brown- (IN MY ZONE ).mp3",
     "title": "Sex-Chris Brown- (IN MY ZONE )",
     "primary_artists": [
@@ -11508,7 +11536,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00540",
+    "song_id": "r-00541",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Indigo (Extended) (2019) [pradyutvam]\\03. Under The Influence.mp3",
     "title": "Under The Influence",
     "primary_artists": [
@@ -11528,7 +11556,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00541",
+    "song_id": "r-00542",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Indigo (Extended) (2019) [pradyutvam]\\04. Outy When I Drive_Blamed.mp3",
     "title": "Outy When I Drive Blamed",
     "primary_artists": [
@@ -11548,7 +11576,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00542",
+    "song_id": "r-00543",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Indigo (Extended) (2019) [pradyutvam]\\05. Nose Dive.mp3",
     "title": "Nose Dive",
     "primary_artists": [
@@ -11568,7 +11596,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00543",
+    "song_id": "r-00544",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Indigo (Extended) (2019) [pradyutvam]\\15. Emerald _ Burgundy.mp3",
     "title": "Emerald Burgundy",
     "primary_artists": [
@@ -11588,7 +11616,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00544",
+    "song_id": "r-00545",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Indigo (Extended) (2019) [pradyutvam]\\20. Heat.mp3",
     "title": "Heat",
     "primary_artists": [
@@ -11608,7 +11636,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00545",
+    "song_id": "r-00546",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - Indigo (Extended) (2019) [pradyutvam]\\42. Play Catch Up.mp3",
     "title": "Play Catch Up",
     "primary_artists": [
@@ -11628,7 +11656,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00546",
+    "song_id": "r-00547",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Attack The Block\\Chris Brown & Ray J - I Already Love Her (Attack The Block Mixtape).mp3",
     "title": "I Already Love Her (Attack The Block Mixtape)",
     "primary_artists": [
@@ -11655,7 +11683,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00547",
+    "song_id": "r-00548",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Attack The Block\\Chris Brown ft. Ray J & TJ Luva Boy - New Gang (Attack The Block Mixtape).mp3",
     "title": "New Gang (Attack The Block Mixtape)",
     "primary_artists": [
@@ -11690,7 +11718,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00548",
+    "song_id": "r-00549",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Attack The Block\\Chris Brown ft. Young Lo & Young Blacc - In Love With The Bitches (Attack The Block Mixtape).mp3",
     "title": "In Love With The Bitches (Attack The Block Mixtape)",
     "primary_artists": [
@@ -11725,7 +11753,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00549",
+    "song_id": "r-00550",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Royalty [DE 2015] 320\\[DELUXE]\\01-back-to_sleep.mp3",
     "title": "back-to sleep",
     "primary_artists": [
@@ -11745,7 +11773,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00550",
+    "song_id": "r-00551",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Royalty [DE 2015] 320\\[DELUXE]\\03-wrist.mp3",
     "title": "wrist",
     "primary_artists": [
@@ -11765,7 +11793,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00551",
+    "song_id": "r-00552",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown Royalty [DE 2015] 320\\[DELUXE]\\05-liquor.mp3",
     "title": "liquor",
     "primary_artists": [
@@ -11785,7 +11813,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00552",
+    "song_id": "r-00553",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\X (Deluxe Version)\\03 Loyal (feat. Lil Wayne & Tyga).mp3",
     "title": "Loyal (feat. Lil Wayne & Tyga)",
     "primary_artists": [
@@ -11805,7 +11833,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00553",
+    "song_id": "r-00554",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\X (Deluxe Version)\\04 New Flame (feat. Usher & Rick Ross).mp3",
     "title": "New Flame (feat. Usher & Rick Ross)",
     "primary_artists": [
@@ -11825,7 +11853,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00554",
+    "song_id": "r-00555",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\X (Deluxe Version)\\12 Autumn Leaves (feat. Kendrick Lamar).mp3",
     "title": "Autumn Leaves (feat. Kendrick Lamar)",
     "primary_artists": [
@@ -11845,7 +11873,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00555",
+    "song_id": "r-00556",
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\X (Deluxe Version)\\19 Love More (feat. Nicki Minaj).mp3",
     "title": "Love More (feat. Nicki Minaj)",
     "primary_artists": [
@@ -11865,7 +11893,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00556",
+    "song_id": "r-00557",
     "file": "_other\\_rnb\\christiana milian\\01 L.O.V.E. (RedOne Remix).mp3",
     "title": "L.O.V.E. (RedOne Remix)",
     "primary_artists": [
@@ -11885,7 +11913,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00557",
+    "song_id": "r-00558",
     "file": "_other\\_rnb\\christiana milian\\02 Say I (Feat. Young Jeezy).mp3",
     "title": "Say I (Feat. Young Jeezy)",
     "primary_artists": [
@@ -11905,7 +11933,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00558",
+    "song_id": "r-00559",
     "file": "_other\\_rnb\\christiana milian\\07 When You Look At Me.mp3",
     "title": "When You Look At Me",
     "primary_artists": [
@@ -11925,7 +11953,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00559",
+    "song_id": "r-00560",
     "file": "_other\\_rnb\\christiana milian\\12 Someday One Day.mp3",
     "title": "Someday One Day",
     "primary_artists": [
@@ -11945,7 +11973,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00560",
+    "song_id": "r-00561",
     "file": "_other\\_rnb\\christiana milian\\Christina Milian - Dip It Low.mp3",
     "title": "Dip It Low",
     "primary_artists": [
@@ -11965,7 +11993,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00561",
+    "song_id": "r-00562",
     "file": "_other\\_rnb\\Ciara\\Ciara - Body Party.mp3",
     "title": "Body Party",
     "primary_artists": [
@@ -11985,7 +12013,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00562",
+    "song_id": "r-00563",
     "file": "_other\\_rnb\\Ciara\\Ciara - I Bet (Audio).mp3",
     "title": "I Bet (Audio)",
     "primary_artists": [
@@ -12005,7 +12033,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00563",
+    "song_id": "r-00564",
     "file": "_other\\_rnb\\Ciara\\Ciara - I_m Out (Explicit) ft. Nicki Minaj.mp3",
     "title": "I m Out (Explicit)",
     "primary_artists": [
@@ -12033,7 +12061,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00564",
+    "song_id": "r-00565",
     "file": "_other\\_rnb\\Ciara\\Ciara Featuring Petey Pablo - Goodies.mp3",
     "title": "Goodies",
     "primary_artists": [
@@ -12061,7 +12089,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00565",
+    "song_id": "r-00566",
     "file": "_other\\_rnb\\Ciara\\Ciara Ft Justin Timberlake - Love And Sex And Magic.mp3",
     "title": "Love And Sex And Magic",
     "primary_artists": [
@@ -12089,7 +12117,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00566",
+    "song_id": "r-00567",
     "file": "_other\\_rnb\\Ciara\\Ciara ft. Chamillionaire - Get Up.mp3",
     "title": "Get Up",
     "primary_artists": [
@@ -12117,7 +12145,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00567",
+    "song_id": "r-00568",
     "file": "_other\\_rnb\\Ciara\\Ciara Ft. Ludacris - Oh.mp3",
     "title": "Oh",
     "primary_artists": [
@@ -12145,7 +12173,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00568",
+    "song_id": "r-00569",
     "file": "_other\\_rnb\\Ciara The Evolution (2006)\\02 Like A Boy (Produced By Ciara _ T.mp3",
     "title": "Like A Boy",
     "primary_artists": [
@@ -12165,7 +12193,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00569",
+    "song_id": "r-00570",
     "file": "_other\\_rnb\\Ciara The Evolution (2006)\\04 Promise (Produced By Polow Da Don.mp3",
     "title": "Promise",
     "primary_artists": [
@@ -12185,7 +12213,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00570",
+    "song_id": "r-00571",
     "file": "_other\\_rnb\\Ciara The Evolution (2006)\\08 My Love (Produced By Kennedy, Cia.mp3",
     "title": "My Love",
     "primary_artists": [
@@ -12205,7 +12233,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00571",
+    "song_id": "r-00572",
     "file": "_other\\_rnb\\Ciara The Evolution (2006)\\16 So Hard (Produced By B. Cox _ Cia.mp3",
     "title": "So Hard",
     "primary_artists": [
@@ -12225,7 +12253,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00572",
+    "song_id": "r-00573",
     "file": "_other\\_rnb\\Ciara The Evolution (2006)\\18 I Found Myself (Produced By Austi.mp3",
     "title": "I Found Myself",
     "primary_artists": [
@@ -12245,7 +12273,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00573",
+    "song_id": "r-00574",
     "file": "_other\\_rnb\\Ciara The Evolution (2006)\\Goodies (2004)\\02 1, 2 Step (Feat. Missy Elliott) (.mp3",
     "title": "1, 2 Step (Feat. Missy Elliott)",
     "primary_artists": [
@@ -12265,7 +12293,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00574",
+    "song_id": "r-00575",
     "file": "_other\\_rnb\\Claude - Let Go.mp3",
     "title": "Let Go",
     "primary_artists": [
@@ -12285,7 +12313,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00575",
+    "song_id": "r-00576",
     "file": "_other\\_rnb\\Destiny's Child\\Destiny's Child - Bootylicious.mp3",
     "title": "Bootylicious",
     "primary_artists": [
@@ -12307,7 +12335,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00576",
+    "song_id": "r-00577",
     "file": "_other\\_rnb\\Destiny's Child\\Destiny's Child - Independent Woman (Part 1).mp3",
     "title": "Independent Woman (Part 1)",
     "primary_artists": [
@@ -12329,7 +12357,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00577",
+    "song_id": "r-00578",
     "file": "_other\\_rnb\\Destiny's Child\\Destiny's Child - Lose My Breath.mp3",
     "title": "Lose My Breath",
     "primary_artists": [
@@ -12351,7 +12379,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00578",
+    "song_id": "r-00579",
     "file": "_other\\_rnb\\Destiny's Child\\Destiny's Child - Survivor.mp3",
     "title": "Survivor",
     "primary_artists": [
@@ -12373,7 +12401,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00579",
+    "song_id": "r-00580",
     "file": "_other\\_rnb\\Destiny's Child\\Destiny's Child ft T.I. and Lil_ Wayne - Soldier.mp3",
     "title": "Soldier",
     "primary_artists": [
@@ -12410,7 +12438,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00580",
+    "song_id": "r-00581",
     "file": "_other\\_rnb\\Destiny's Child\\Destinys Child - Independent Women Pt 1.mp3",
     "title": "Independent Women Pt 1",
     "primary_artists": [
@@ -12430,7 +12458,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00581",
+    "song_id": "r-00582",
     "file": "_other\\_rnb\\DEV- Bass Down Low.mp3",
     "title": "DEV- Bass Down Low",
     "primary_artists": [
@@ -12450,7 +12478,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00582",
+    "song_id": "r-00583",
     "file": "_other\\_rnb\\Dreezy\\Dreezy - Close To You ft. T-Pain.mp3",
     "title": "Close To You",
     "primary_artists": [
@@ -12478,7 +12506,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00583",
+    "song_id": "r-00584",
     "file": "_other\\_rnb\\Dreezy\\Dreezy - Love Someone ft. Jacquees (Official Video).mp3",
     "title": "Love Someone",
     "primary_artists": [
@@ -12506,7 +12534,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00584",
+    "song_id": "r-00585",
     "file": "_other\\_rnb\\Dreezy\\Dreezy - Spar ft. 6LACK, Kodak Black (Offcial Video).mp3",
     "title": "Spar",
     "primary_artists": [
@@ -12541,7 +12569,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00585",
+    "song_id": "r-00586",
     "file": "_other\\_rnb\\Dreezy\\Dreezy, 2Chainz - 2nd To None.mp3",
     "title": "2nd To None",
     "primary_artists": [
@@ -12568,7 +12596,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00586",
+    "song_id": "r-00587",
     "file": "_other\\_rnb\\Dreezy\\Wake Da Fuck Up Intro.mp3",
     "title": "Wake Da Fuck Up Intro",
     "primary_artists": [
@@ -12588,7 +12616,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00587",
+    "song_id": "r-00588",
     "file": "_other\\_rnb\\Dreezy\\Worth It.mp3",
     "title": "Worth It",
     "primary_artists": [
@@ -12608,7 +12636,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00588",
+    "song_id": "r-00589",
     "file": "_other\\_rnb\\Drew Sidora - Crush (NoShout).mp3",
     "title": "Crush (NoShout)",
     "primary_artists": [
@@ -12628,7 +12656,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00589",
+    "song_id": "r-00590",
     "file": "_other\\_rnb\\Eamon - I Don_t Want You Back.mp3",
     "title": "I Don t Want You Back",
     "primary_artists": [
@@ -12648,7 +12676,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00590",
+    "song_id": "r-00591",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 02 - On _ On.mp3",
     "title": "On On",
     "primary_artists": [
@@ -12668,7 +12696,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00591",
+    "song_id": "r-00592",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 03 - Appletree.mp3",
     "title": "Appletree",
     "primary_artists": [
@@ -12688,7 +12716,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00592",
+    "song_id": "r-00593",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 04 - Otherside Of The Game.mp3",
     "title": "Otherside Of The Game",
     "primary_artists": [
@@ -12708,7 +12736,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00593",
+    "song_id": "r-00594",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 06 - Next Lifetime.mp3",
     "title": "Next Lifetime",
     "primary_artists": [
@@ -12728,7 +12756,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00594",
+    "song_id": "r-00595",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 08 - Certainly.mp3",
     "title": "Certainly",
     "primary_artists": [
@@ -12748,7 +12776,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00595",
+    "song_id": "r-00596",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 09 - 4 Leaf Clover.mp3",
     "title": "Leaf Clover",
     "primary_artists": [
@@ -12768,7 +12796,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00596",
+    "song_id": "r-00597",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 10 - No Love.mp3",
     "title": "No Love",
     "primary_artists": [
@@ -12788,7 +12816,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00597",
+    "song_id": "r-00598",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 11 - Drama.mp3",
     "title": "Drama",
     "primary_artists": [
@@ -12808,7 +12836,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00598",
+    "song_id": "r-00599",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 12 - Sometimes....mp3",
     "title": "Sometimes",
     "primary_artists": [
@@ -12828,7 +12856,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00599",
+    "song_id": "r-00600",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 13 - Certainly (Flipped It).mp3",
     "title": "Certainly (Flipped It)",
     "primary_artists": [
@@ -12848,7 +12876,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00600",
+    "song_id": "r-00601",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (1997) - Baduizm\\Erykah Badu - 14 - Rimshot (Outro).mp3",
     "title": "Rimshot (Outro)",
     "primary_artists": [
@@ -12868,7 +12896,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00601",
+    "song_id": "r-00602",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2001) -  Mama_s Gun (The Dutch Edition)\\Mama_s Gun\\Erykah Badu - 01 - Penitentiary Philosophy.mp3",
     "title": "Penitentiary Philosophy",
     "primary_artists": [
@@ -12888,7 +12916,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00602",
+    "song_id": "r-00603",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2001) -  Mama_s Gun (The Dutch Edition)\\Mama_s Gun\\Erykah Badu - 04 - ..._ On.mp3",
     "title": "On",
     "primary_artists": [
@@ -12908,7 +12936,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00603",
+    "song_id": "r-00604",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2001) -  Mama_s Gun (The Dutch Edition)\\Mama_s Gun\\Erykah Badu - 11 - In Love with You.mp3",
     "title": "In Love",
     "primary_artists": [
@@ -12928,7 +12956,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00604",
+    "song_id": "r-00605",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2003) - World Wide Underground\\02. Bump It.mp3",
     "title": "Bump It",
     "primary_artists": [
@@ -12948,7 +12976,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00605",
+    "song_id": "r-00606",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2003) - World Wide Underground\\04. I Want You.mp3",
     "title": "I Want You",
     "primary_artists": [
@@ -12968,7 +12996,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00606",
+    "song_id": "r-00607",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2010) - New Amerykah Part Two (Return Of The Ankh)\\04 - Turn Me Away (Get MuNNy).mp3",
     "title": "Turn Me Away (Get MuNNy)",
     "primary_artists": [
@@ -12988,7 +13016,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00607",
+    "song_id": "r-00608",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2010) - New Amerykah Part Two (Return Of The Ankh)\\06 - Umm Hmm.mp3",
     "title": "Umm Hmm",
     "primary_artists": [
@@ -13008,7 +13036,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00608",
+    "song_id": "r-00609",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2010) - New Amerykah Part Two (Return Of The Ankh)\\07 - Love.mp3",
     "title": "Love",
     "primary_artists": [
@@ -13028,7 +13056,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00609",
+    "song_id": "r-00610",
     "file": "_other\\_rnb\\Erykah Badu Discography @ 320 (7 Albums)(R_B)(by dragan09)\\Erykah Badu (2010) - New Amerykah Part Two (Return Of The Ankh)\\11 - Out My Mind, Just In Time (Part 1, 2 _ 3).mp3",
     "title": "Out My Mind, Just In Time (Part 1, 2 3)",
     "primary_artists": [
@@ -13048,7 +13076,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00610",
+    "song_id": "r-00611",
     "file": "_other\\_rnb\\estelle - american boy.mp3",
     "title": "american boy",
     "primary_artists": [
@@ -13068,7 +13096,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00611",
+    "song_id": "r-00612",
     "file": "_other\\_rnb\\frank ocean\\1914 Frank Ocean Blonde 2016 320\\CAPAJEBO (C) 1914\\09 Nights.mp3",
     "title": "Nights",
     "primary_artists": [
@@ -13088,7 +13116,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00612",
+    "song_id": "r-00613",
     "file": "_other\\_rnb\\frank ocean\\Eyes Off You.mp3",
     "title": "Eyes Off You",
     "primary_artists": [
@@ -13108,7 +13136,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00613",
+    "song_id": "r-00614",
     "file": "_other\\_rnb\\frank ocean\\Frank Ocean - Endless (2018) Mp3 (320 kbps) [Hunter]\\Frank Ocean - Endless (2018)\\13. Sideways.mp3",
     "title": "Sideways",
     "primary_artists": [
@@ -13128,7 +13156,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00614",
+    "song_id": "r-00615",
     "file": "_other\\_rnb\\frank ocean\\FRANK OCEAN channel ORANGE 320kps\\02 Thinkin Bout You.mp3",
     "title": "Thinkin Bout You",
     "primary_artists": [
@@ -13148,7 +13176,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00615",
+    "song_id": "r-00616",
     "file": "_other\\_rnb\\frank ocean\\FRANK OCEAN channel ORANGE 320kps\\11 Lost.mp3",
     "title": "Lost",
     "primary_artists": [
@@ -13168,7 +13196,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00616",
+    "song_id": "r-00617",
     "file": "_other\\_rnb\\frank ocean\\Frank_Ocean-Nostalgia-Ultra_(Official_Mixtape)-2011-DjLeak\\03_Frank_Ocean_-_Novacane-Djleak.com.mp3",
     "title": "Novacane-Djleak.com",
     "primary_artists": [
@@ -13188,7 +13216,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00617",
+    "song_id": "r-00618",
     "file": "_other\\_rnb\\frank ocean\\Frank_Ocean-Nostalgia-Ultra_(Official_Mixtape)-2011-DjLeak\\10_Frank_Ocean_-_Swim_Good-Djleak.com.mp3",
     "title": "Swim Good-Djleak.com",
     "primary_artists": [
@@ -13208,7 +13236,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00618",
+    "song_id": "r-00619",
     "file": "_other\\_rnb\\frank ocean\\Girls Need Love (Remix).mp3",
     "title": "Girls Need Love (Remix)",
     "primary_artists": [
@@ -13228,7 +13256,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00619",
+    "song_id": "r-00620",
     "file": "_other\\_rnb\\frank ocean\\Give Me A Sign.mp3",
     "title": "Give Me A Sign",
     "primary_artists": [
@@ -13248,7 +13276,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00620",
+    "song_id": "r-00621",
     "file": "_other\\_rnb\\frank ocean\\Heat Waves.mp3",
     "title": "Heat Waves",
     "primary_artists": [
@@ -13268,7 +13296,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00621",
+    "song_id": "r-00622",
     "file": "_other\\_rnb\\frank ocean\\Reckless.mp3",
     "title": "Reckless",
     "primary_artists": [
@@ -13288,7 +13316,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00622",
+    "song_id": "r-00623",
     "file": "_other\\_rnb\\frank ocean\\Riptide.mp3",
     "title": "Riptide",
     "primary_artists": [
@@ -13308,7 +13336,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00623",
+    "song_id": "r-00624",
     "file": "_other\\_rnb\\frank ocean\\Show Me How.mp3",
     "title": "Show Me How",
     "primary_artists": [
@@ -13328,7 +13356,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00624",
+    "song_id": "r-00625",
     "file": "_other\\_rnb\\frank ocean\\So Good.mp3",
     "title": "So Good",
     "primary_artists": [
@@ -13348,7 +13376,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00625",
+    "song_id": "r-00626",
     "file": "_other\\_rnb\\frank ocean\\Sunroof.mp3",
     "title": "Sunroof",
     "primary_artists": [
@@ -13368,7 +13396,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00626",
+    "song_id": "r-00627",
     "file": "_other\\_rnb\\Honey Soundtrack - Yolanda Adams - I Believe.mp3",
     "title": "Yolanda Adams - I Believe",
     "primary_artists": [
@@ -13388,7 +13416,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00627",
+    "song_id": "r-00628",
     "file": "_other\\_rnb\\Houston feat. I-20, Chingy _ Nate Dogg - I Like That.mp3",
     "title": "I Like That",
     "primary_artists": [
@@ -13416,7 +13444,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00628",
+    "song_id": "r-00629",
     "file": "_other\\_rnb\\Iyaz\\07. Iyaz - Bulletproof (Prod. by J.R. Rotem).mp3",
     "title": "Bulletproof",
     "primary_artists": [
@@ -13436,7 +13464,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00629",
+    "song_id": "r-00630",
     "file": "_other\\_rnb\\Iyaz\\Iyaz - Replay Prequel Video.mp3",
     "title": "Replay Prequel Video",
     "primary_artists": [
@@ -13456,7 +13484,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00630",
+    "song_id": "r-00631",
     "file": "_other\\_rnb\\Iyaz\\Iyaz - Replay.mp3",
     "title": "Replay",
     "primary_artists": [
@@ -13476,7 +13504,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00631",
+    "song_id": "r-00632",
     "file": "_other\\_rnb\\J_Holiday_Ft_Chingy-Bed_(Remix)..(1).mp3",
     "title": "J Holiday",
     "primary_artists": [
@@ -13496,7 +13524,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00632",
+    "song_id": "r-00633",
     "file": "_other\\_rnb\\Jacquees\\Anythang.mp3",
     "title": "Anythang",
     "primary_artists": [
@@ -13516,7 +13544,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00633",
+    "song_id": "r-00634",
     "file": "_other\\_rnb\\Jacquees\\Atlantic.mp3",
     "title": "Atlantic",
     "primary_artists": [
@@ -13536,7 +13564,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00634",
+    "song_id": "r-00635",
     "file": "_other\\_rnb\\Jacquees\\B.E.D. (2).mp3",
     "title": "B.E.D. (2)",
     "primary_artists": [
@@ -13556,7 +13584,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00635",
+    "song_id": "r-00636",
     "file": "_other\\_rnb\\Jacquees\\Feel It (feat. Lloyd, Rich Homie Quan).mp3",
     "title": "Feel It (feat. Lloyd, Rich Homie Quan)",
     "primary_artists": [
@@ -13576,7 +13604,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00636",
+    "song_id": "r-00637",
     "file": "_other\\_rnb\\Jacquees\\Hold It Down.mp3",
     "title": "Hold It Down",
     "primary_artists": [
@@ -13596,7 +13624,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00637",
+    "song_id": "r-00638",
     "file": "_other\\_rnb\\Jacquees\\Jacquees - At The Club ft. Dej Loaf.mp3",
     "title": "At The Club",
     "primary_artists": [
@@ -13624,7 +13652,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00638",
+    "song_id": "r-00639",
     "file": "_other\\_rnb\\Jacquees\\Jacquees - B.E.D. (Remix) ft. Ty Dolla $ign, Quavo.mp3",
     "title": "B.E.D. (Remix)",
     "primary_artists": [
@@ -13659,7 +13687,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00639",
+    "song_id": "r-00640",
     "file": "_other\\_rnb\\Jacquees\\Nobody.mp3",
     "title": "Nobody",
     "primary_artists": [
@@ -13679,7 +13707,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00640",
+    "song_id": "r-00641",
     "file": "_other\\_rnb\\Jacquees\\Show Me Something.mp3",
     "title": "Show Me Something",
     "primary_artists": [
@@ -13699,7 +13727,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00641",
+    "song_id": "r-00642",
     "file": "_other\\_rnb\\Jacquees\\You.mp3",
     "title": "You",
     "primary_artists": [
@@ -13719,7 +13747,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00642",
+    "song_id": "r-00643",
     "file": "_other\\_rnb\\Jadakiss ft. Mariah Carey- Kiss me.mp3",
     "title": "Jadakiss",
     "primary_artists": [
@@ -13739,7 +13767,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00643",
+    "song_id": "r-00644",
     "file": "_other\\_rnb\\Jamelia - See It In A Boys Eyes.mp3",
     "title": "See It In A Boys Eyes",
     "primary_artists": [
@@ -13759,7 +13787,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00644",
+    "song_id": "r-00645",
     "file": "_other\\_rnb\\James Brown - The Boss.mp3",
     "title": "The Boss",
     "primary_artists": [
@@ -13779,7 +13807,27 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00645",
+    "song_id": "r-00646",
+    "file": "_other\\_rnb\\Jay Sean\\Jay Sean - Down (Lyrics).mp3",
+    "title": "Down",
+    "primary_artists": [
+      "Jay Sean"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jay Sean"
+    ],
+    "credits": [
+      {
+        "entity": "Jay Sean",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "r-00647",
     "file": "_other\\_rnb\\Jay Sean\\Jay Sean - Stolen.mp3",
     "title": "Stolen",
     "primary_artists": [
@@ -13799,7 +13847,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00646",
+    "song_id": "r-00648",
     "file": "_other\\_rnb\\Jay Sean\\Jay Sean feat. Sean Paul - Make My Love Go (Official Video).mp3",
     "title": "Make My Love Go",
     "primary_artists": [
@@ -13827,7 +13875,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00647",
+    "song_id": "r-00649",
     "file": "_other\\_rnb\\Jay Sean\\Jay Sean Featuring Lil Wayne - Down.mp3",
     "title": "Down",
     "primary_artists": [
@@ -13855,7 +13903,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00648",
+    "song_id": "r-00650",
     "file": "_other\\_rnb\\Jay_Sean_-_Ride_It-(2009-RnB)-iNSANe.mp3",
     "title": "Ride It-(2009-RnB)-iNSANe",
     "primary_artists": [
@@ -13875,7 +13923,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00649",
+    "song_id": "r-00651",
     "file": "_other\\_rnb\\Jeremih\\Jeremih - All The Time (Official Lyric Video) (Explicit) ft. Lil Wayne, Natasha Mosley.mp3",
     "title": "All The Time (Explicit)",
     "primary_artists": [
@@ -13910,7 +13958,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00650",
+    "song_id": "r-00652",
     "file": "_other\\_rnb\\Jeremih\\Jeremih - Birthday Sex.mp3",
     "title": "Birthday Sex",
     "primary_artists": [
@@ -13930,7 +13978,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00651",
+    "song_id": "r-00653",
     "file": "_other\\_rnb\\Jeremih\\Jeremih - Down On Me ft. 50 Cent.mp3",
     "title": "Down On Me",
     "primary_artists": [
@@ -13950,7 +13998,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00652",
+    "song_id": "r-00654",
     "file": "_other\\_rnb\\Jojo - Leave (Get Out).mp3",
     "title": "Leave (Get Out)",
     "primary_artists": [
@@ -13970,7 +14018,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00653",
+    "song_id": "r-00655",
     "file": "_other\\_rnb\\K-Ci _ Jojo - All My Life.mp3",
     "title": "All My Life",
     "primary_artists": [
@@ -13990,7 +14038,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00654",
+    "song_id": "r-00656",
     "file": "_other\\_rnb\\Kat DeLuna - Run The Show ft. Busta Rhymes.mp3",
     "title": "Run The Show",
     "primary_artists": [
@@ -14018,7 +14066,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00655",
+    "song_id": "r-00657",
     "file": "_other\\_rnb\\Kelis - Milkshake.mp3",
     "title": "Milkshake",
     "primary_artists": [
@@ -14038,7 +14086,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00656",
+    "song_id": "r-00658",
     "file": "_other\\_rnb\\Keyshia Cole Videos\\Keyshia Cole - Heaven Sent.mp3",
     "title": "Heaven Sent",
     "primary_artists": [
@@ -14058,7 +14106,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00657",
+    "song_id": "r-00659",
     "file": "_other\\_rnb\\Keyshia Cole Videos\\Sean Paul - Give It Up To Me (feat. Keyshia Cole) [Disney Version] (Official Video).mp3",
     "title": "Give It Up To Me (feat. Keyshia Cole) [Disney Version]",
     "primary_artists": [
@@ -14078,7 +14126,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00658",
+    "song_id": "r-00660",
     "file": "_other\\_rnb\\Lean Wit It, Rock Wit It.mp3",
     "title": "Lean Wit It, Rock Wit It",
     "primary_artists": [
@@ -14098,7 +14146,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00659",
+    "song_id": "r-00661",
     "file": "_other\\_rnb\\Lloyd Featuring Ashanti - South Side.mp3",
     "title": "South Side",
     "primary_artists": [
@@ -14126,7 +14174,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00660",
+    "song_id": "r-00662",
     "file": "_other\\_rnb\\Lloyd ft. Lil_ Wayne Or Tango Redd ! - You.mp3",
     "title": "You",
     "primary_artists": [
@@ -14154,7 +14202,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00661",
+    "song_id": "r-00663",
     "file": "_other\\_rnb\\Lumidee - Never Leave You - Uh Ooh Uh Oooh.mp3",
     "title": "Never Leave You - Uh Ooh Uh Oooh",
     "primary_artists": [
@@ -14174,7 +14222,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00662",
+    "song_id": "r-00664",
     "file": "_other\\_rnb\\Mario - How Do I Breathe.mp3",
     "title": "How Do I Breathe",
     "primary_artists": [
@@ -14194,7 +14242,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00663",
+    "song_id": "r-00665",
     "file": "_other\\_rnb\\Mario Winans Featuring Enya _ P. Diddy - I Don_t Wanna Know.mp3",
     "title": "I Don t Wanna Know",
     "primary_artists": [
@@ -14222,7 +14270,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00664",
+    "song_id": "r-00666",
     "file": "_other\\_rnb\\Mario- Let Me Love You.mp3",
     "title": "Let Me Love You",
     "primary_artists": [
@@ -14242,7 +14290,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00665",
+    "song_id": "r-00667",
     "file": "_other\\_rnb\\Marques Houston - Circle.mp3",
     "title": "Circle",
     "primary_artists": [
@@ -14262,7 +14310,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00666",
+    "song_id": "r-00668",
     "file": "_other\\_rnb\\Mary J Blige - Family Affair.mp3",
     "title": "Family Affair",
     "primary_artists": [
@@ -14282,7 +14330,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00667",
+    "song_id": "r-00669",
     "file": "_other\\_rnb\\Mary Mary - Shackles You (Praise You).mp3",
     "title": "Shackles You (Praise You)",
     "primary_artists": [
@@ -14302,7 +14350,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00668",
+    "song_id": "r-00670",
     "file": "_other\\_rnb\\Miguel\\01-miguel-sure_thing.mp3",
     "title": "miguel-sure thing",
     "primary_artists": [
@@ -14322,7 +14370,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00669",
+    "song_id": "r-00671",
     "file": "_other\\_rnb\\Miguel\\06-miguel-girls_like_you.mp3",
     "title": "miguel-girls like you",
     "primary_artists": [
@@ -14342,7 +14390,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00670",
+    "song_id": "r-00672",
     "file": "_other\\_rnb\\Miguel\\08-miguel-hard_way.mp3",
     "title": "miguel-hard way",
     "primary_artists": [
@@ -14362,7 +14410,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00671",
+    "song_id": "r-00673",
     "file": "_other\\_rnb\\Miguel\\10-miguel-hero.mp3",
     "title": "miguel-hero",
     "primary_artists": [
@@ -14382,7 +14430,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00672",
+    "song_id": "r-00674",
     "file": "_other\\_rnb\\Miguel\\12-miguel-to_the_moon.mp3",
     "title": "miguel-to the moon",
     "primary_artists": [
@@ -14402,7 +14450,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00673",
+    "song_id": "r-00675",
     "file": "_other\\_rnb\\Miguel\\Miguel - All I Want Is You feat. J. Cole.mp3",
     "title": "All I Want Is You",
     "primary_artists": [
@@ -14430,7 +14478,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00674",
+    "song_id": "r-00676",
     "file": "_other\\_rnb\\Miguel\\Miguel - Art Dealer Chic Vol 1 EP\\01 - Adorn.mp3",
     "title": "Adorn",
     "primary_artists": [
@@ -14450,7 +14498,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00675",
+    "song_id": "r-00677",
     "file": "_other\\_rnb\\Miguel\\Miguel - Art Dealer Chic Vol 2 EP\\01 - Arch n Point.mp3",
     "title": "Arch n Point",
     "primary_artists": [
@@ -14470,7 +14518,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00676",
+    "song_id": "r-00678",
     "file": "_other\\_rnb\\Miguel\\Miguel - Sky Walker (Official Video) ft. Travis Scott.mp3",
     "title": "Sky Walker",
     "primary_artists": [
@@ -14498,7 +14546,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00677",
+    "song_id": "r-00679",
     "file": "_other\\_rnb\\Miguel\\Miguel - Te Lo Dije (EP) 2019\\Miguel - Criminal (Spanish Version) (Audio) ft. C. Tangana.mp3",
     "title": "Criminal (Spanish Version) (Audio)",
     "primary_artists": [
@@ -14526,7 +14574,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00678",
+    "song_id": "r-00680",
     "file": "_other\\_rnb\\Miguel\\Miguel - War _ Leisure (2017) Mp3 (320kbps) [Hunter]\\Miguel - War _ Leisure (2017)\\03 - Sky Walker.mp3",
     "title": "Sky Walker",
     "primary_artists": [
@@ -14546,7 +14594,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00679",
+    "song_id": "r-00681",
     "file": "_other\\_rnb\\Miguel\\Miguel - WILD\\02 - hollywooddreams.mp3",
     "title": "hollywooddreams",
     "primary_artists": [
@@ -14566,7 +14614,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00680",
+    "song_id": "r-00682",
     "file": "_other\\_rnb\\Miguel\\Miguel - WILD\\03 - coffee.mp3",
     "title": "coffee",
     "primary_artists": [
@@ -14586,7 +14634,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00681",
+    "song_id": "r-00683",
     "file": "_other\\_rnb\\Miguel\\Miguel - Wildheart (Deluxe Edition) (2015) 320 Kbps [AryaN_L33T]\\09 ...goingtohell.mp3",
     "title": "goingtohell",
     "primary_artists": [
@@ -14606,7 +14654,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00682",
+    "song_id": "r-00684",
     "file": "_other\\_rnb\\Miguel\\Miguel - Wildheart (Deluxe Edition) (2015) 320 Kbps [AryaN_L33T]\\15 Simple Things.mp3",
     "title": "Simple Things",
     "primary_artists": [
@@ -14626,7 +14674,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00683",
+    "song_id": "r-00685",
     "file": "_other\\_rnb\\Miguel\\miguel and SEX _)\\Alicia Keys - Never Felt This Way  Butterflyz.mp3",
     "title": "Never Felt This Way Butterflyz",
     "primary_artists": [
@@ -14646,7 +14694,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00684",
+    "song_id": "r-00686",
     "file": "_other\\_rnb\\Miguel\\miguel and SEX _)\\Miguel - To The Moon.mp3",
     "title": "To The Moon",
     "primary_artists": [
@@ -14666,7 +14714,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00685",
+    "song_id": "r-00687",
     "file": "_other\\_rnb\\Miguel\\miguel and SEX _)\\Miguel- Love is Cryin.mp3",
     "title": "Miguel- Love is Cryin",
     "primary_artists": [
@@ -14686,7 +14734,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00686",
+    "song_id": "r-00688",
     "file": "_other\\_rnb\\Miguel\\miguel and SEX _)\\Miguel- On U like Rain.mp3",
     "title": "Miguel- On U like Rain",
     "primary_artists": [
@@ -14706,7 +14754,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00687",
+    "song_id": "r-00689",
     "file": "_other\\_rnb\\Miguel\\Miguel Features\\Ashley.mp3",
     "title": "Ashley",
     "primary_artists": [
@@ -14726,7 +14774,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00688",
+    "song_id": "r-00690",
     "file": "_other\\_rnb\\Miguel\\Miguel Features\\benny blanco, Calvin Harris & Miguel - I Found You   Nilda_s Story.mp3",
     "title": "I Found You Nilda s Story",
     "primary_artists": [
@@ -14760,7 +14808,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00689",
+    "song_id": "r-00691",
     "file": "_other\\_rnb\\Miguel\\Miguel Features\\Janelle Monáe - PrimeTime ft. Miguel [Official Video].mp3",
     "title": "PrimeTime",
     "primary_artists": [
@@ -14788,7 +14836,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00690",
+    "song_id": "r-00692",
     "file": "_other\\_rnb\\Miguel\\Miguel Features\\Kygo, Miguel - Remind Me to Forget (Official Video).mp3",
     "title": "Remind Me to Forget",
     "primary_artists": [
@@ -14815,7 +14863,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00691",
+    "song_id": "r-00693",
     "file": "_other\\_rnb\\Miguel\\Miguel Features\\ScHoolboy Q - Overtime ft. Miguel, Justine Skye.mp3",
     "title": "Overtime",
     "primary_artists": [
@@ -14850,7 +14898,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00692",
+    "song_id": "r-00694",
     "file": "_other\\_rnb\\Montell Jordan - This Is How We Do It.mp3",
     "title": "This Is How We Do It",
     "primary_artists": [
@@ -14870,7 +14918,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00693",
+    "song_id": "r-00695",
     "file": "_other\\_rnb\\Murphy Lee - Wat Da Hook Gon Be ft. Jermaine Dupri.mp3",
     "title": "Wat Da Hook Gon Be",
     "primary_artists": [
@@ -14898,7 +14946,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00694",
+    "song_id": "r-00696",
     "file": "_other\\_rnb\\Mya - Case Of The Ex.mp3",
     "title": "Case Of The Ex",
     "primary_artists": [
@@ -14918,7 +14966,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00695",
+    "song_id": "r-00697",
     "file": "_other\\_rnb\\Nathan - Diamonds.mp3",
     "title": "Diamonds",
     "primary_artists": [
@@ -14938,7 +14986,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00696",
+    "song_id": "r-00698",
     "file": "_other\\_rnb\\Ne - yo-closer.mp3",
     "title": "yo-closer",
     "primary_artists": [
@@ -14958,7 +15006,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00697",
+    "song_id": "r-00699",
     "file": "_other\\_rnb\\Ne - Yo-Mad.mp3",
     "title": "Yo-Mad",
     "primary_artists": [
@@ -14978,7 +15026,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00698",
+    "song_id": "r-00700",
     "file": "_other\\_rnb\\Ne-Yo\\Ne-Yo - Sexy Love.mp3",
     "title": "Sexy Love",
     "primary_artists": [
@@ -14998,7 +15046,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00699",
+    "song_id": "r-00701",
     "file": "_other\\_rnb\\Ne-Yo\\Ne-Yo - So Sick.mp3",
     "title": "So Sick",
     "primary_artists": [
@@ -15018,7 +15066,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00700",
+    "song_id": "r-00702",
     "file": "_other\\_rnb\\Ne-Yo\\NeYo - Miss Independent.mp3",
     "title": "Miss Independent",
     "primary_artists": [
@@ -15038,7 +15086,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00701",
+    "song_id": "r-00703",
     "file": "_other\\_rnb\\Neyo feat Geeze  So Sick (Remix).mp3",
     "title": "Neyo",
     "primary_artists": [
@@ -15058,7 +15106,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00702",
+    "song_id": "r-00704",
     "file": "_other\\_rnb\\Nina Sky - Move Ya Body.mp3",
     "title": "Move Ya Body",
     "primary_artists": [
@@ -15078,7 +15126,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00703",
+    "song_id": "r-00705",
     "file": "_other\\_rnb\\Oh.mp3",
     "title": "Oh",
     "primary_artists": [
@@ -15098,7 +15146,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00704",
+    "song_id": "r-00706",
     "file": "_other\\_rnb\\Party Favors.mp3",
     "title": "Party Favors",
     "primary_artists": [
@@ -15118,7 +15166,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00705",
+    "song_id": "r-00707",
     "file": "_other\\_rnb\\R Kelly\\R Kelly - I Believe I Can Fly.mp3",
     "title": "I Believe I Can Fly",
     "primary_artists": [
@@ -15138,7 +15186,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00706",
+    "song_id": "r-00708",
     "file": "_other\\_rnb\\R Kelly\\R Kelly - I Wish.mp3",
     "title": "I Wish",
     "primary_artists": [
@@ -15158,7 +15206,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00707",
+    "song_id": "r-00709",
     "file": "_other\\_rnb\\R Kelly\\R. Kelly - Thoia Thoing.mp3",
     "title": "Thoia Thoing",
     "primary_artists": [
@@ -15178,7 +15226,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00708",
+    "song_id": "r-00710",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\Cassidy - Hotel (VIDEO) ft. R. Kelly.mp3",
     "title": "Hotel (VIDEO)",
     "primary_artists": [
@@ -15206,7 +15254,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00709",
+    "song_id": "r-00711",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\Did You Ever Think (Remix - Radio Edit).mp3",
     "title": ")",
     "primary_artists": [
@@ -15226,7 +15274,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00710",
+    "song_id": "r-00712",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\I Wish (Remix)  R Kelly.mp3",
     "title": "I Wish (Remix) R Kelly",
     "primary_artists": [
@@ -15246,7 +15294,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00711",
+    "song_id": "r-00713",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\Ignition (Remix).mp3",
     "title": "Ignition (Remix)",
     "primary_artists": [
@@ -15266,7 +15314,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00712",
+    "song_id": "r-00714",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\My Story.mp3",
     "title": "My Story",
     "primary_artists": [
@@ -15286,7 +15334,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00713",
+    "song_id": "r-00715",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\Playa_s Only.mp3",
     "title": "Playa s Only",
     "primary_artists": [
@@ -15306,7 +15354,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00714",
+    "song_id": "r-00716",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\R. Kelly - Fiesta.mp3",
     "title": "Fiesta",
     "primary_artists": [
@@ -15326,7 +15374,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00715",
+    "song_id": "r-00717",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\R. Kelly - When a Woman_s Fed Up.mp3",
     "title": "When a Woman s Fed Up",
     "primary_artists": [
@@ -15346,7 +15394,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00716",
+    "song_id": "r-00718",
     "file": "_other\\_rnb\\ray j - sexy can i.mp3",
     "title": "sexy can i",
     "primary_artists": [
@@ -15366,7 +15414,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00717",
+    "song_id": "r-00719",
     "file": "_other\\_rnb\\Robin Thicke - Blurred Lines.mp3",
     "title": "Blurred Lines",
     "primary_artists": [
@@ -15386,7 +15434,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00718",
+    "song_id": "r-00720",
     "file": "_other\\_rnb\\Ruff Endz - No More.mp3",
     "title": "No More",
     "primary_artists": [
@@ -15406,7 +15454,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00719",
+    "song_id": "r-00721",
     "file": "_other\\_rnb\\Rupee - Tempted to touch.mp3",
     "title": "Tempted to touch",
     "primary_artists": [
@@ -15426,7 +15474,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00720",
+    "song_id": "r-00722",
     "file": "_other\\_rnb\\Samantha Jade - Step Up.mp3",
     "title": "Step Up",
     "primary_artists": [
@@ -15446,7 +15494,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00721",
+    "song_id": "r-00723",
     "file": "_other\\_rnb\\Shontelle - Impossible.mp3",
     "title": "Impossible",
     "primary_artists": [
@@ -15466,7 +15514,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00722",
+    "song_id": "r-00724",
     "file": "_other\\_rnb\\snow tha product\\Snow Tha Product - Starry Eyed.mp3",
     "title": "Starry Eyed",
     "primary_artists": [
@@ -15486,7 +15534,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00723",
+    "song_id": "r-00725",
     "file": "_other\\_rnb\\Step Up 2 Soundtrack - 07 - Cassie - Is it you.mp3",
     "title": "Cassie - Is it you",
     "primary_artists": [
@@ -15506,7 +15554,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00724",
+    "song_id": "r-00726",
     "file": "_other\\_rnb\\Step Up Soundtrack - 11 - Youngbloodz - I_mma Shine.mp3",
     "title": "Youngbloodz - I mma Shine",
     "primary_artists": [
@@ -15526,7 +15574,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00725",
+    "song_id": "r-00727",
     "file": "_other\\_rnb\\Step Up Soundtrack - 13 - Drew Sidora - _Til the Dawn(2).mp3",
     "title": "Drew Sidora - Til the Dawn(2)",
     "primary_artists": [
@@ -15546,7 +15594,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "r-00726",
+    "song_id": "r-00728",
     "file": "_other\\_rnb\\T-Pain Feat. Young Joc - Buy U A Drank (Shawty Snappin`).mp3",
     "title": "Buy U A Drank (Shawty Snappin`)",
     "primary_artists": [
@@ -15574,7 +15622,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00727",
+    "song_id": "r-00729",
     "file": "_other\\_rnb\\T-Pain top songs\\Chris Brown - Kiss Kiss ft. T-Pain.mp3",
     "title": "Kiss Kiss",
     "primary_artists": [
@@ -15602,7 +15650,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00728",
+    "song_id": "r-00730",
     "file": "_other\\_rnb\\T-Pain top songs\\DJ Khaled  All I Do Is Win  feat. Ludacris, Rick Ross, T-Pain & Snoop Dogg   Victory In Stores Now.mp3",
     "title": "DJ Khaled All I Do Is Win",
     "primary_artists": [
@@ -15643,7 +15691,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00729",
+    "song_id": "r-00731",
     "file": "_other\\_rnb\\T-Pain top songs\\I_m N Luv (Wit a Stripper).mp3",
     "title": "I m N Luv (Wit a Stripper)",
     "primary_artists": [
@@ -15663,7 +15711,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00730",
+    "song_id": "r-00732",
     "file": "_other\\_rnb\\T-Pain top songs\\Low [from Step Up 2 The Streets O.S.T. Mail On Sunday] (st.mp3",
     "title": "Low [from Step Up 2 The Streets O.S.T. Mail On Sunday] (st",
     "primary_artists": [
@@ -15683,7 +15731,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00731",
+    "song_id": "r-00733",
     "file": "_other\\_rnb\\T-Pain top songs\\Ne-Yo - The Way You Move ft. Trey Songz, T-Pain (Official Music Video).mp3",
     "title": "The Way You Move",
     "primary_artists": [
@@ -15718,7 +15766,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00732",
+    "song_id": "r-00734",
     "file": "_other\\_rnb\\T-Pain top songs\\T Pain- Lets get it on.mp3",
     "title": "T Pain- Lets get it on",
     "primary_artists": [
@@ -15738,7 +15786,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00733",
+    "song_id": "r-00735",
     "file": "_other\\_rnb\\T-Pain top songs\\T-Pain - Bartender (Official HD Video) ft. Akon.mp3",
     "title": "Bartender",
     "primary_artists": [
@@ -15766,7 +15814,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00734",
+    "song_id": "r-00736",
     "file": "_other\\_rnb\\T-Pain top songs\\T-Pain - Church ft. Teddy Verseti.mp3",
     "title": "Church",
     "primary_artists": [
@@ -15794,7 +15842,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00735",
+    "song_id": "r-00737",
     "file": "_other\\_rnb\\T-Pain top songs\\T-Pain - Keep Going (Thr33 Ringz).mp3",
     "title": "Keep Going (Thr33 Ringz)",
     "primary_artists": [
@@ -15814,7 +15862,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00736",
+    "song_id": "r-00738",
     "file": "_other\\_rnb\\T-Pain top songs\\T-Pain - Up Down (Do This All Day) (Explicit) ft. B.o.B.mp3",
     "title": "Up Down (Do This All Day) (Explicit)",
     "primary_artists": [
@@ -15842,7 +15890,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00737",
+    "song_id": "r-00739",
     "file": "_other\\_rnb\\T-Pain top songs\\Welcome To My Hood (Explicit) (Official Music Video).mp3",
     "title": "Welcome To My Hood (Explicit)",
     "primary_artists": [
@@ -15862,7 +15910,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00738",
+    "song_id": "r-00740",
     "file": "_other\\_rnb\\Taio Cruz\\08. Taio Cruz - What You Need (Demo).mp3",
     "title": "What You Need (Demo)",
     "primary_artists": [
@@ -15882,7 +15930,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00739",
+    "song_id": "r-00741",
     "file": "_other\\_rnb\\Taio Cruz\\Taio Cruz - Higher.mp3",
     "title": "Higher",
     "primary_artists": [
@@ -15902,7 +15950,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00740",
+    "song_id": "r-00742",
     "file": "_other\\_rnb\\Taio Cruz\\Taio Cruz - Little Bad Girl (Prod. by David Guetta).mp3",
     "title": "Little Bad Girl",
     "primary_artists": [
@@ -15922,7 +15970,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00741",
+    "song_id": "r-00743",
     "file": "_other\\_rnb\\Taio Cruz\\Taio Cruz - Lonely.mp3",
     "title": "Lonely",
     "primary_artists": [
@@ -15942,7 +15990,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00742",
+    "song_id": "r-00744",
     "file": "_other\\_rnb\\Taio Cruz\\Taio Cruz Ft Pitbull - There She Goes.mp3",
     "title": "There She Goes",
     "primary_artists": [
@@ -15970,7 +16018,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00743",
+    "song_id": "r-00745",
     "file": "_other\\_rnb\\taio cruz -i_ll never love again.mp3",
     "title": "i ll never love again",
     "primary_artists": [
@@ -15990,7 +16038,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00744",
+    "song_id": "r-00746",
     "file": "_other\\_rnb\\Taj Jackson - Could I Be So (Prod. By Stargate).mp3",
     "title": "Could I Be So",
     "primary_artists": [
@@ -16010,7 +16058,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00745",
+    "song_id": "r-00747",
     "file": "_other\\_rnb\\Timbaland\\timbaland - apologize.mp3",
     "title": "apologize",
     "primary_artists": [
@@ -16030,7 +16078,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00746",
+    "song_id": "r-00748",
     "file": "_other\\_rnb\\Timbaland\\timbaland - the way i are.mp3",
     "title": "the way i are",
     "primary_artists": [
@@ -16050,7 +16098,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00747",
+    "song_id": "r-00749",
     "file": "_other\\_rnb\\Timbaland\\Timbaland Featuring Justin Timberlake - Carry Out.mp3",
     "title": "Carry Out",
     "primary_artists": [
@@ -16078,7 +16126,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00748",
+    "song_id": "r-00750",
     "file": "_other\\_rnb\\TLC\\TLC - No scrubs (MrCØ Edit).mp3",
     "title": "No scrubs (MrCØ Edit)",
     "primary_artists": [
@@ -16098,7 +16146,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00749",
+    "song_id": "r-00751",
     "file": "_other\\_rnb\\TLC\\TLC - No Scrubs.mp3",
     "title": "No Scrubs",
     "primary_artists": [
@@ -16118,7 +16166,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00750",
+    "song_id": "r-00752",
     "file": "_other\\_rnb\\TLC\\TLC - Waterfalls.mp3",
     "title": "Waterfalls",
     "primary_artists": [
@@ -16138,7 +16186,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00751",
+    "song_id": "r-00753",
     "file": "_other\\_rnb\\Toya - I Do!!.mp3",
     "title": "I Do!!",
     "primary_artists": [
@@ -16158,7 +16206,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00752",
+    "song_id": "r-00754",
     "file": "_other\\_rnb\\Trey Songz\\Trey Songz - 2 Reasons ft. T.I. [Official Video].mp3",
     "title": "Reasons",
     "primary_artists": [
@@ -16186,7 +16234,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00753",
+    "song_id": "r-00755",
     "file": "_other\\_rnb\\Trey Songz\\Trey Songz - Bottoms Up.mp3",
     "title": "Bottoms Up",
     "primary_artists": [
@@ -16206,7 +16254,27 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00754",
+    "song_id": "r-00756",
+    "file": "_other\\_rnb\\Trey Songz\\Trey Songz - Say Aah (Ready).mp3",
+    "title": "Say Aah (Ready)",
+    "primary_artists": [
+      "Trey Songz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Trey Songz"
+    ],
+    "credits": [
+      {
+        "entity": "Trey Songz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "r-00757",
     "file": "_other\\_rnb\\Trey Songz\\Trey Songz Featuring Fabolous - Say Aah.mp3",
     "title": "Say Aah",
     "primary_artists": [
@@ -16234,7 +16302,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00755",
+    "song_id": "r-00758",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz - Bottoms Up ft. Nicki Minaj [Official Video].mp3",
     "title": "Bottoms Up",
     "primary_artists": [
@@ -16262,7 +16330,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00756",
+    "song_id": "r-00759",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz - Na Na [Official Video].mp3",
     "title": "Na Na",
     "primary_artists": [
@@ -16282,7 +16350,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00757",
+    "song_id": "r-00760",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz - Neighbors Know My Name (Video).mp3",
     "title": "Neighbors Know My Name (Video)",
     "primary_artists": [
@@ -16302,7 +16370,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00758",
+    "song_id": "r-00761",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz - Touchin, Lovin ft. Nicki Minaj [Official Video].mp3",
     "title": "Touchin, Lovin",
     "primary_artists": [
@@ -16330,7 +16398,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00759",
+    "song_id": "r-00762",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz 100 - YouTube\\Trey Songz is Hot! - YouTube\\Trey Songz - Missing You (video).mp3",
     "title": "Missing You (video)",
     "primary_artists": [
@@ -16350,7 +16418,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00760",
+    "song_id": "r-00763",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz Features - YouTube\\Kid Ink - Show Me REMIX (Audio) ft. Trey Songz, Juicy J, 2 Chainz, Chris Brown.mp3",
     "title": "Show Me REMIX (Audio)",
     "primary_artists": [
@@ -16399,7 +16467,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00761",
+    "song_id": "r-00764",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Mix – Trey Songz\\Trey Songz Features - YouTube\\Lloyd - Be The One ft. Trey Songz, Young Jeezy.mp3",
     "title": "Be The One",
     "primary_artists": [
@@ -16434,7 +16502,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00762",
+    "song_id": "r-00765",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Trey Songz - Know my name (Ready Album).mp3",
     "title": "Know my name (Ready Album)",
     "primary_artists": [
@@ -16454,7 +16522,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00763",
+    "song_id": "r-00766",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Trey Songz - Love Lost (Ready).mp3",
     "title": "Love Lost (Ready)",
     "primary_artists": [
@@ -16474,7 +16542,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00764",
+    "song_id": "r-00767",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Trey Songz - Runaway Triggamix #lemmeholdthatbeat.mp3",
     "title": "Runaway Triggamix #lemmeholdthatbeat",
     "primary_artists": [
@@ -16494,7 +16562,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00765",
+    "song_id": "r-00768",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Trey Songz — Best Hits - YouTube\\Alone - Trey Songz (Lyrics).mp3",
     "title": "Trey Songz",
     "primary_artists": [
@@ -16514,7 +16582,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00766",
+    "song_id": "r-00769",
     "file": "_other\\_rnb\\usher\\010 - Usher ft.  Beyonce _ Lil Wayne - Love In This Club, Part II   (™ LaFace).MP3",
     "title": "Usher",
     "primary_artists": [
@@ -16542,7 +16610,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00767",
+    "song_id": "r-00770",
     "file": "_other\\_rnb\\usher\\05_34 Usher - Caught Up.mp3",
     "title": "Caught Up",
     "primary_artists": [
@@ -16562,7 +16630,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00768",
+    "song_id": "r-00771",
     "file": "_other\\_rnb\\usher\\2004-001 Usher Featuring Lil Jon _ Ludacris - Yeah!.mp3",
     "title": "Yeah!",
     "primary_artists": [
@@ -16590,7 +16658,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00769",
+    "song_id": "r-00772",
     "file": "_other\\_rnb\\usher\\2004-002 Usher - Burn.mp3",
     "title": "Burn",
     "primary_artists": [
@@ -16610,7 +16678,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00770",
+    "song_id": "r-00773",
     "file": "_other\\_rnb\\usher\\2004-012 Usher - Confessions Part II.mp3",
     "title": "Confessions Part II",
     "primary_artists": [
@@ -16630,7 +16698,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00771",
+    "song_id": "r-00774",
     "file": "_other\\_rnb\\usher\\2004-024 Usher And Alicia Keys - My Boo.mp3",
     "title": "My Boo",
     "primary_artists": [
@@ -16657,7 +16725,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00772",
+    "song_id": "r-00775",
     "file": "_other\\_rnb\\usher\\Usher - DJ Got Us Fallin' In Love.mp3",
     "title": "DJ Got Us Fallin' In Love",
     "primary_artists": [
@@ -16677,7 +16745,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00773",
+    "song_id": "r-00776",
     "file": "_other\\_rnb\\usher\\Usher - love in this club.mp3",
     "title": "love in this club",
     "primary_artists": [
@@ -16697,7 +16765,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00774",
+    "song_id": "r-00777",
     "file": "_other\\_rnb\\usher\\Usher - More.mp3",
     "title": "More",
     "primary_artists": [
@@ -16717,7 +16785,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00775",
+    "song_id": "r-00778",
     "file": "_other\\_rnb\\usher\\Usher - More__1.mp3",
     "title": "More 1",
     "primary_artists": [
@@ -16737,7 +16805,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00776",
+    "song_id": "r-00779",
     "file": "_other\\_rnb\\usher\\Usher - No Limit.mp3",
     "title": "No Limit",
     "primary_artists": [
@@ -16757,7 +16825,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00777",
+    "song_id": "r-00780",
     "file": "_other\\_rnb\\usher\\Usher - Scream (Filmed at FUERZA BRUTA NYC).mp3",
     "title": "Scream (Filmed at FUERZA BRUTA NYC)",
     "primary_artists": [
@@ -16777,7 +16845,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00778",
+    "song_id": "r-00781",
     "file": "_other\\_rnb\\usher\\Usher - Scream.mp3",
     "title": "Scream",
     "primary_artists": [
@@ -16797,7 +16865,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00779",
+    "song_id": "r-00782",
     "file": "_other\\_rnb\\usher\\Usher - U Remind Me (Official Music Video).mp3",
     "title": "U Remind Me",
     "primary_artists": [
@@ -16817,7 +16885,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00780",
+    "song_id": "r-00783",
     "file": "_other\\_rnb\\usher\\Usher _ Love in this club.mp3",
     "title": "Usher Love in this club",
     "primary_artists": [
@@ -16837,7 +16905,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00781",
+    "song_id": "r-00784",
     "file": "_other\\_rnb\\usher\\Usher feat. Nicki Minaj - She Came to Give It to You (Audio).mp3",
     "title": "She Came to Give It to You (Audio)",
     "primary_artists": [
@@ -16865,7 +16933,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00782",
+    "song_id": "r-00785",
     "file": "_other\\_rnb\\usher\\Usher Feat. Pitbull - DJ Got Us Fallin_ In Love (Official Version).mp3",
     "title": "DJ Got Us Fallin In Love (Official Version)",
     "primary_artists": [
@@ -16893,7 +16961,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00783",
+    "song_id": "r-00786",
     "file": "_other\\_rnb\\usher\\Usher Featuring will.i.am - OMG.mp3",
     "title": "OMG",
     "primary_artists": [
@@ -16921,7 +16989,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00784",
+    "song_id": "r-00787",
     "file": "_other\\_rnb\\usher\\Usher x Zaytoven - You Decide (Audio).mp3",
     "title": "You Decide (Audio)",
     "primary_artists": [
@@ -16948,7 +17016,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00785",
+    "song_id": "r-00788",
     "file": "_other\\_rnb\\usher\\Usher- Moving Mountains.mp3",
     "title": "Usher- Moving Mountains",
     "primary_artists": [
@@ -16968,7 +17036,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00786",
+    "song_id": "r-00789",
     "file": "_other\\_rnb\\usher\\Usher-Yeah.mp3",
     "title": "Usher-Yeah",
     "primary_artists": [
@@ -16988,7 +17056,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00787",
+    "song_id": "r-00790",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\R. Kelly - Same Girl (Official Music Video).mp3",
     "title": "Same Girl",
     "primary_artists": [
@@ -17008,7 +17076,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00788",
+    "song_id": "r-00791",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\Usher - Caught Up - Music Video.mp3",
     "title": "Caught Up - Music Video",
     "primary_artists": [
@@ -17028,7 +17096,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00789",
+    "song_id": "r-00792",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\Usher - DJ Got Us Fallin_ In Love (Official Music Video) ft. Pitbull.mp3",
     "title": "DJ Got Us Fallin In Love",
     "primary_artists": [
@@ -17056,7 +17124,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00790",
+    "song_id": "r-00793",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\usher - she_s got the part.mp3",
     "title": "she s got the part",
     "primary_artists": [
@@ -17076,7 +17144,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00791",
+    "song_id": "r-00794",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\Usher - Stranger New Song (Robin Benjamin Remix) 2017.mp3",
     "title": "Stranger New Song (Robin Benjamin Remix) 2017",
     "primary_artists": [
@@ -17096,7 +17164,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00792",
+    "song_id": "r-00795",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\Usher ft. Nicki Minaj - She Came II Give It II U (Official Video).mp3",
     "title": "She Came II Give It II U",
     "primary_artists": [
@@ -17124,7 +17192,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00793",
+    "song_id": "r-00796",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\Usher ft. Rick Ross - Lemme See (Official Video).mp3",
     "title": "Lemme See",
     "primary_artists": [
@@ -17152,7 +17220,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00794",
+    "song_id": "r-00797",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\USHER His Mistakes.mp3",
     "title": "USHER His Mistakes",
     "primary_artists": [
@@ -17172,7 +17240,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00795",
+    "song_id": "r-00798",
     "file": "_other\\_rnb\\usher\\Usher_s Top 100 hits\\Usher-Dot Com.mp3",
     "title": "Usher-Dot Com",
     "primary_artists": [
@@ -17192,7 +17260,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00796",
+    "song_id": "r-00799",
     "file": "_other\\_rnb\\usher\\Yuna Usher - Crush.mp3",
     "title": "Crush",
     "primary_artists": [
@@ -17212,7 +17280,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00797",
+    "song_id": "r-00800",
     "file": "_other\\_rnb\\Usher _ Alicia Keys - My Boo.mp3",
     "title": "My Boo",
     "primary_artists": [
@@ -17232,7 +17300,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "r-00798",
+    "song_id": "r-00801",
     "file": "_other\\_rnb\\Whitney Houston - I Will Always Love You.mp3",
     "title": "I Will Always Love You",
     "primary_artists": [
