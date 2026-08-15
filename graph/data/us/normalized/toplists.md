@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6684`
+Songs: `6686`
 Persons: `1153`
 Groups: `18`
 Labels: `29`
@@ -29,7 +29,7 @@ Unattributed songs: `223`
 | 16 | Rich Homie Quan | 66 | 60.8 | 60.8 | 57 | 9 | 0 | Atlanta | - | - |
 | 17 | Lil Durk | 66 | 58.0 | 60.0 | 55 | 11 | 0 | Chicago | OTF | - |
 | 18 | Lil Baby | 57 | 53.2 | 54.7 | 53 | 4 | 0 | Atlanta | QC | - |
-| 19 | Scarface | 62 | 46.0 | 50.0 | 38 | 0 | 24 | Texas | - | Geto Boys |
+| 19 | Scarface | 63 | 46.3 | 50.5 | 38 | 0 | 25 | Texas | - | Geto Boys |
 | 20 | Young Dolph | 54 | 49.6 | 49.6 | 47 | 7 | 0 | Memphis | - | - |
 | 21 | Nicki Minaj | 52 | 44.0 | 46.7 | 43 | 9 | 0 | New York | Young Money | - |
 | 22 | 6ix9ine | 45 | 42.8 | 44.0 | 43 | 2 | 0 | New York | - | - |
@@ -188,20 +188,20 @@ Unattributed songs: `223`
 | 175 | Nate Dogg | 11 | 7.8 | 8.5 | 7 | 4 | 0 | California | - | - |
 | 176 | SchoolBoy Q | 9 | 8.5 | 8.5 | 8 | 1 | 0 | USA | TDE | - |
 | 177 | Ol' Dirty Bastard | 36 | 7.9 | 8.4 | 5 | 0 | 31 | New York | - | Wu-Tang Clan |
-| 178 | Bizarre | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
-| 179 | Kon Artis | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
-| 180 | Swifty | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
-| 181 | Bahamadia | 8 | 8.0 | 8.0 | 8 | 0 | 0 | New York | - | - |
-| 182 | Big Pun | 8 | 8.0 | 8.0 | 8 | 0 | 0 | New York | - | - |
-| 183 | J Dilla | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA Other | - | - |
-| 184 | Jackboy | 8 | 7.5 | 8.0 | 8 | 0 | 0 | Florida | - | - |
-| 185 | Lud Foe | 8 | 8.0 | 8.0 | 8 | 0 | 0 | Chicago | - | - |
-| 186 | Night Lovell | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
-| 187 | Philthy Rich | 8 | 8.0 | 8.0 | 8 | 0 | 0 | California | - | - |
-| 188 | Saint Jhn | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
-| 189 | SpaceGhostPurrp | 8 | 8.0 | 8.0 | 8 | 0 | 0 | Florida | - | - |
-| 190 | Bushwick Bill | 24 | 8.0 | 8.0 | 0 | 0 | 24 | Texas | - | Geto Boys |
-| 191 | Willie D | 24 | 8.0 | 8.0 | 0 | 0 | 24 | Texas | - | Geto Boys |
+| 178 | Bushwick Bill | 25 | 8.3 | 8.3 | 0 | 0 | 25 | Texas | - | Geto Boys |
+| 179 | Willie D | 25 | 8.3 | 8.3 | 0 | 0 | 25 | Texas | - | Geto Boys |
+| 180 | Bizarre | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
+| 181 | Kon Artis | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
+| 182 | Swifty | 50 | 8.3 | 8.3 | 0 | 0 | 50 | Detroit | - | D12 |
+| 183 | Bahamadia | 8 | 8.0 | 8.0 | 8 | 0 | 0 | New York | - | - |
+| 184 | Big Pun | 8 | 8.0 | 8.0 | 8 | 0 | 0 | New York | - | - |
+| 185 | J Dilla | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA Other | - | - |
+| 186 | Jackboy | 8 | 7.5 | 8.0 | 8 | 0 | 0 | Florida | - | - |
+| 187 | Lud Foe | 8 | 8.0 | 8.0 | 8 | 0 | 0 | Chicago | - | - |
+| 188 | Night Lovell | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
+| 189 | Philthy Rich | 8 | 8.0 | 8.0 | 8 | 0 | 0 | California | - | - |
+| 190 | Saint Jhn | 8 | 8.0 | 8.0 | 8 | 0 | 0 | USA | - | - |
+| 191 | SpaceGhostPurrp | 8 | 8.0 | 8.0 | 8 | 0 | 0 | Florida | - | - |
 | 192 | RondoNumbaNine | 9 | 6.8 | 7.8 | 7 | 2 | 0 | Chicago | - | - |
 | 193 | Kurupt | 9 | 7.7 | 7.7 | 7 | 2 | 0 | USA Other | - | - |
 | 194 | Chinx Drugz | 8 | 7.5 | 7.5 | 7 | 1 | 0 | New York | - | - |
@@ -212,28 +212,28 @@ Unattributed songs: `223`
 | 199 | U-God | 35 | 7.4 | 7.4 | 4 | 0 | 31 | New York | - | Wu-Tang Clan |
 | 200 | Inspectah Deck | 35 | 7.4 | 7.4 | 4 | 0 | 31 | New York | - | Wu-Tang Clan |
 | 201 | Mike Jones | 8 | 6.7 | 7.3 | 7 | 1 | 0 | Texas | - | - |
-| 202 | Iamsu | 10 | 5.1 | 7.1 | 5 | 5 | 0 | USA | - | - |
-| 203 | A$AP Mob | 7 | 7.0 | 7.0 | 7 | 0 | 0 | New York | - | - |
-| 204 | Canibus | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
-| 205 | Chamillionaire | 7 | 6.5 | 7.0 | 7 | 0 | 0 | Texas | - | - |
-| 206 | Goodie Mob | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
-| 207 | KRS-One | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
-| 208 | Lil Tecca | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
-| 209 | Pimp C | 12 | 6.3 | 7.0 | 2 | 0 | 10 | Texas | - | UGK |
-| 210 | PMD | 7 | 2.3 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
-| 211 | Ralo | 7 | 6.5 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
-| 212 | Soulja Slim | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Louisiana | - | - |
-| 213 | Tommy Richman | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
-| 214 | Soulja Boy | 8 | 5.3 | 6.8 | 6 | 2 | 0 | Atlanta | - | - |
-| 215 | Blac Youngsta | 8 | 6.5 | 6.5 | 5 | 3 | 0 | Memphis | - | - |
-| 216 | G Herbo | 7 | 4.8 | 6.5 | 6 | 1 | 0 | Chicago | - | - |
-| 217 | M-1 | 13 | 6.5 | 6.5 | 0 | 0 | 13 | USA Other | - | Dead Prez |
-| 218 | Sean Price | 7 | 6.5 | 6.5 | 6 | 1 | 0 | USA Other | - | - |
-| 219 | stic.man | 13 | 6.5 | 6.5 | 0 | 0 | 13 | USA Other | - | Dead Prez |
-| 220 | Eazy-E | 9 | 5.8 | 6.3 | 5 | 0 | 4 | California | - | N.W.A |
-| 221 | Partynextdoor | 7 | 4.7 | 6.3 | 6 | 1 | 0 | USA | - | - |
-| 222 | Uncle Murda | 7 | 4.8 | 6.2 | 6 | 1 | 0 | USA | - | - |
-| 223 | Waka Flocka Flame | 8 | 6.2 | 6.2 | 5 | 3 | 0 | Atlanta | - | - |
+| 202 | Waka Flocka Flame | 9 | 7.2 | 7.2 | 6 | 3 | 0 | Atlanta | - | - |
+| 203 | Iamsu | 10 | 5.1 | 7.1 | 5 | 5 | 0 | USA | - | - |
+| 204 | A$AP Mob | 7 | 7.0 | 7.0 | 7 | 0 | 0 | New York | - | - |
+| 205 | Canibus | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
+| 206 | Chamillionaire | 7 | 6.5 | 7.0 | 7 | 0 | 0 | Texas | - | - |
+| 207 | Goodie Mob | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
+| 208 | KRS-One | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
+| 209 | Lil Tecca | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
+| 210 | Pimp C | 12 | 6.3 | 7.0 | 2 | 0 | 10 | Texas | - | UGK |
+| 211 | PMD | 7 | 2.3 | 7.0 | 7 | 0 | 0 | USA Other | - | - |
+| 212 | Ralo | 7 | 6.5 | 7.0 | 7 | 0 | 0 | Atlanta | - | - |
+| 213 | Soulja Slim | 7 | 7.0 | 7.0 | 7 | 0 | 0 | Louisiana | - | - |
+| 214 | Tommy Richman | 7 | 7.0 | 7.0 | 7 | 0 | 0 | USA | - | - |
+| 215 | Soulja Boy | 8 | 5.3 | 6.8 | 6 | 2 | 0 | Atlanta | - | - |
+| 216 | Blac Youngsta | 8 | 6.5 | 6.5 | 5 | 3 | 0 | Memphis | - | - |
+| 217 | G Herbo | 7 | 4.8 | 6.5 | 6 | 1 | 0 | Chicago | - | - |
+| 218 | M-1 | 13 | 6.5 | 6.5 | 0 | 0 | 13 | USA Other | - | Dead Prez |
+| 219 | Sean Price | 7 | 6.5 | 6.5 | 6 | 1 | 0 | USA Other | - | - |
+| 220 | stic.man | 13 | 6.5 | 6.5 | 0 | 0 | 13 | USA Other | - | Dead Prez |
+| 221 | Eazy-E | 9 | 5.8 | 6.3 | 5 | 0 | 4 | California | - | N.W.A |
+| 222 | Partynextdoor | 7 | 4.7 | 6.3 | 6 | 1 | 0 | USA | - | - |
+| 223 | Uncle Murda | 7 | 4.8 | 6.2 | 6 | 1 | 0 | USA | - | - |
 | 224 | DJ Paul | 19 | 6.2 | 6.2 | 0 | 0 | 19 | Memphis | - | Three 6 Mafia |
 | 225 | 8Ball MJG | 6 | 6.0 | 6.0 | 6 | 0 | 0 | Memphis | 8Ball & MJG | - |
 | 226 | Asap Rocky | 6 | 5.5 | 6.0 | 6 | 0 | 0 | USA | - | - |
@@ -248,22 +248,22 @@ Unattributed songs: `223`
 | 235 | IDK | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
 | 236 | Internet Money | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
 | 237 | Juelz Santana | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA Other | Dipset | - |
-| 238 | Lil Poppa | 6 | 5.5 | 6.0 | 6 | 0 | 0 | Chicago | - | - |
-| 239 | LL Cool J | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA Other | - | - |
-| 240 | Morbski | 6 | 5.3 | 6.0 | 6 | 0 | 0 | USA Other | - | - |
-| 241 | Nothing,Nowhere | 6 | 3.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
-| 242 | OmenXIII | 6 | 5.5 | 6.0 | 6 | 0 | 0 | USA | - | - |
-| 243 | Onyx | 6 | 5.5 | 6.0 | 6 | 0 | 0 | New York | - | - |
-| 244 | Project Pat | 6 | 6.0 | 6.0 | 6 | 0 | 0 | Memphis | - | - |
-| 245 | Tay-K | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
-| 246 | The Lox | 6 | 6.0 | 6.0 | 6 | 0 | 0 | New York | - | - |
-| 247 | Vince Staples | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
-| 248 | We Bout Dat Life | 6 | 3.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
-| 249 | Yung Bleu | 6 | 5.0 | 6.0 | 6 | 0 | 0 | Louisiana | - | - |
-| 250 | Yung Lean | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
-| 251 | YBN Nahmir | 7 | 5.8 | 5.8 | 5 | 2 | 0 | USA | - | - |
-| 252 | FBG Duck | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Chicago | - | - |
-| 253 | Kid Ink | 7 | 4.2 | 5.5 | 5 | 2 | 0 | USA | - | - |
+| 238 | kid ink | 8 | 4.7 | 6.0 | 5 | 3 | 0 | USA | - | - |
+| 239 | Lil Poppa | 6 | 5.5 | 6.0 | 6 | 0 | 0 | Chicago | - | - |
+| 240 | LL Cool J | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA Other | - | - |
+| 241 | Morbski | 6 | 5.3 | 6.0 | 6 | 0 | 0 | USA Other | - | - |
+| 242 | Nothing,Nowhere | 6 | 3.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
+| 243 | OmenXIII | 6 | 5.5 | 6.0 | 6 | 0 | 0 | USA | - | - |
+| 244 | Onyx | 6 | 5.5 | 6.0 | 6 | 0 | 0 | New York | - | - |
+| 245 | Project Pat | 6 | 6.0 | 6.0 | 6 | 0 | 0 | Memphis | - | - |
+| 246 | Tay-K | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
+| 247 | The Lox | 6 | 6.0 | 6.0 | 6 | 0 | 0 | New York | - | - |
+| 248 | Vince Staples | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
+| 249 | We Bout Dat Life | 6 | 3.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
+| 250 | Yung Bleu | 6 | 5.0 | 6.0 | 6 | 0 | 0 | Louisiana | - | - |
+| 251 | Yung Lean | 6 | 6.0 | 6.0 | 6 | 0 | 0 | USA | - | - |
+| 252 | YBN Nahmir | 7 | 5.8 | 5.8 | 5 | 2 | 0 | USA | - | - |
+| 253 | FBG Duck | 6 | 5.0 | 5.5 | 5 | 1 | 0 | Chicago | - | - |
 | 254 | Ludacris | 6 | 5.0 | 5.5 | 5 | 1 | 0 | USA Other | - | - |
 | 255 | Mannie Fresh | 9 | 5.5 | 5.5 | 2 | 0 | 7 | Louisiana | - | Big Tymers |
 | 256 | Tabius Tate | 6 | 4.0 | 5.5 | 5 | 1 | 0 | USA | - | - |
@@ -343,64 +343,64 @@ Unattributed songs: `223`
 | 330 | Shiloh Dynasty | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
 | 331 | Tory Lanez WeDidIt | 4 | 4.0 | 4.0 | 4 | 0 | 0 | Toronto | - | - |
 | 332 | TYTE | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
-| 333 | Young Chop | 4 | 3.0 | 4.0 | 4 | 0 | 0 | Chicago | - | - |
-| 334 | Young Roddy | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
-| 335 | Young Scooter | 4 | 4.0 | 4.0 | 4 | 0 | 0 | Atlanta | - | - |
-| 336 | Yung Bans | 4 | 3.5 | 4.0 | 4 | 0 | 0 | USA | - | - |
-| 337 | Zaytoven | 7 | 3.1 | 3.8 | 2 | 5 | 0 | Atlanta | - | - |
-| 338 | Belfa | 4 | 2.5 | 3.5 | 3 | 1 | 0 | USA | - | - |
-| 339 | Jacquees | 5 | 3.5 | 3.5 | 2 | 3 | 0 | Louisiana | - | - |
-| 340 | Roboy | 4 | 3.5 | 3.5 | 3 | 1 | 0 | USA | - | - |
-| 341 | Sexyy Red | 4 | 3.5 | 3.5 | 3 | 1 | 0 | USA | - | - |
-| 342 | Smif N Wessun | 4 | 3.5 | 3.5 | 3 | 1 | 0 | New York | - | - |
-| 343 | MF DOOM | 4 | 3.3 | 3.3 | 3 | 1 | 0 | USA Other | - | - |
-| 344 | Redman | 4 | 3.2 | 3.2 | 3 | 1 | 0 | USA Other | - | - |
-| 345 | 704Chop | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 346 | A Tribe Called Quest | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 347 | atmosphere | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 348 | Audio Push | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 349 | BioLogic | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 350 | Black Milk | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 351 | BlocBoy JB | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 352 | Brother Ali | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 353 | Cassie | 3 | 1.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 354 | Dae Dae | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 355 | Danielle Bregoli is BHAD BHABIE | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Florida | BHAD BHABIE | - |
-| 356 | def jam fight for ny | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 357 | DJ Clue | 3 | 3.0 | 3.0 | 3 | 0 | 0 | New York | - | - |
-| 358 | DJ Drama | 3 | 1.5 | 3.0 | 3 | 0 | 0 | Louisiana | - | - |
-| 359 | DJ Paul Juicy J | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Memphis | - | - |
-| 360 | Dj Spanish fly | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Memphis | - | - |
-| 361 | DP Beats | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
-| 362 | Drakeo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | California | - | - |
-| 363 | EBK jaaybo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | California | - | - |
-| 364 | Goondox | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 365 | Hot Boys | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Louisiana | - | - |
-| 366 | Jack Harlow | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 367 | Joey BadaSS | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 368 | Kirko Bangz | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 369 | Lil Debbie | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 370 | Lil Flip | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 371 | Lil Gnar | 3 | 1.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 372 | lil loaded | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 373 | Lil Phat | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Louisiana | - | - |
-| 374 | lucki | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 375 | Marshmello | 3 | 1.5 | 3.0 | 3 | 0 | 0 | California | - | - |
-| 376 | Missy Elliott | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 377 | Moneybagg Yo NBA Youngboy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Louisiana | Moneybagg Yo | - |
-| 378 | morray | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 379 | Mos Def | 3 | 2.3 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 380 | NF | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 381 | Nujabes | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 382 | PnB Rock | 5 | 3.0 | 3.0 | 1 | 4 | 0 | New York | - | - |
-| 383 | Pooh Shiesty | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Atlanta | - | - |
-| 384 | Quality Control | 3 | 1.7 | 3.0 | 3 | 0 | 0 | USA | - | - |
-| 385 | SD | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
-| 386 | Shawty Lo | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 387 | Skillz | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 388 | Slick Rick | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
-| 389 | Too $hort | 3 | 3.0 | 3.0 | 3 | 0 | 0 | California | - | - |
-| 390 | Vee Tha Rula | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 333 | vee tha rula | 4 | 3.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
+| 334 | Young Chop | 4 | 3.0 | 4.0 | 4 | 0 | 0 | Chicago | - | - |
+| 335 | Young Roddy | 4 | 4.0 | 4.0 | 4 | 0 | 0 | USA | - | - |
+| 336 | Young Scooter | 4 | 4.0 | 4.0 | 4 | 0 | 0 | Atlanta | - | - |
+| 337 | Yung Bans | 4 | 3.5 | 4.0 | 4 | 0 | 0 | USA | - | - |
+| 338 | Zaytoven | 7 | 3.1 | 3.8 | 2 | 5 | 0 | Atlanta | - | - |
+| 339 | Belfa | 4 | 2.5 | 3.5 | 3 | 1 | 0 | USA | - | - |
+| 340 | Jacquees | 5 | 3.5 | 3.5 | 2 | 3 | 0 | Louisiana | - | - |
+| 341 | Roboy | 4 | 3.5 | 3.5 | 3 | 1 | 0 | USA | - | - |
+| 342 | Sexyy Red | 4 | 3.5 | 3.5 | 3 | 1 | 0 | USA | - | - |
+| 343 | Smif N Wessun | 4 | 3.5 | 3.5 | 3 | 1 | 0 | New York | - | - |
+| 344 | MF DOOM | 4 | 3.3 | 3.3 | 3 | 1 | 0 | USA Other | - | - |
+| 345 | Redman | 4 | 3.2 | 3.2 | 3 | 1 | 0 | USA Other | - | - |
+| 346 | 704Chop | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 347 | A Tribe Called Quest | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 348 | atmosphere | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 349 | Audio Push | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 350 | BioLogic | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 351 | Black Milk | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 352 | BlocBoy JB | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 353 | Brother Ali | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 354 | Cassie | 3 | 1.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 355 | Dae Dae | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 356 | Danielle Bregoli is BHAD BHABIE | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Florida | BHAD BHABIE | - |
+| 357 | def jam fight for ny | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 358 | DJ Clue | 3 | 3.0 | 3.0 | 3 | 0 | 0 | New York | - | - |
+| 359 | DJ Drama | 3 | 1.5 | 3.0 | 3 | 0 | 0 | Louisiana | - | - |
+| 360 | DJ Paul Juicy J | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Memphis | - | - |
+| 361 | Dj Spanish fly | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Memphis | - | - |
+| 362 | DP Beats | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
+| 363 | Drakeo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | California | - | - |
+| 364 | EBK jaaybo | 3 | 3.0 | 3.0 | 3 | 0 | 0 | California | - | - |
+| 365 | Goondox | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 366 | Hot Boys | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Louisiana | - | - |
+| 367 | Jack Harlow | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 368 | Joey BadaSS | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 369 | Kirko Bangz | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 370 | Lil Debbie | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 371 | Lil Flip | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 372 | Lil Gnar | 3 | 1.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 373 | lil loaded | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 374 | Lil Phat | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Louisiana | - | - |
+| 375 | lucki | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 376 | Marshmello | 3 | 1.5 | 3.0 | 3 | 0 | 0 | California | - | - |
+| 377 | Missy Elliott | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 378 | Moneybagg Yo NBA Youngboy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Louisiana | Moneybagg Yo | - |
+| 379 | morray | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 380 | Mos Def | 3 | 2.3 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 381 | NF | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 382 | Nujabes | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 383 | PnB Rock | 5 | 3.0 | 3.0 | 1 | 4 | 0 | New York | - | - |
+| 384 | Pooh Shiesty | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Atlanta | - | - |
+| 385 | Quality Control | 3 | 1.7 | 3.0 | 3 | 0 | 0 | USA | - | - |
+| 386 | SD | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
+| 387 | Shawty Lo | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 388 | Skillz | 3 | 3.0 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 389 | Slick Rick | 3 | 2.5 | 3.0 | 3 | 0 | 0 | USA Other | - | - |
+| 390 | Too $hort | 3 | 3.0 | 3.0 | 3 | 0 | 0 | California | - | - |
 | 391 | Warren G | 3 | 2.5 | 3.0 | 3 | 0 | 0 | California | - | - |
 | 392 | Young Pappy | 3 | 3.0 | 3.0 | 3 | 0 | 0 | Chicago | - | - |
 | 393 | The Weeknd | 4 | 2.3 | 2.8 | 2 | 2 | 0 | USA | - | - |
@@ -521,594 +521,594 @@ Unattributed songs: `223`
 | 508 | Tripstar | 2 | 2.0 | 2.0 | 2 | 0 | 0 | Memphis | - | - |
 | 509 | Tsu Surf | 2 | 1.0 | 2.0 | 2 | 0 | 0 | USA Other | - | - |
 | 510 | TXL74FINAL | 2 | 0.6 | 2.0 | 2 | 0 | 0 | USA | - | - |
-| 511 | Waka Flocka | 2 | 2.0 | 2.0 | 2 | 0 | 0 | Atlanta | - | - |
-| 512 | Wifisfuneral | 2 | 1.5 | 2.0 | 2 | 0 | 0 | USA | - | - |
-| 513 | WuTang Clan | 2 | 2.0 | 2.0 | 2 | 0 | 0 | New York | - | - |
-| 514 | Yakki | 2 | 1.5 | 2.0 | 2 | 0 | 0 | USA | - | - |
-| 515 | Young Stoner Life | 2 | 1.0 | 2.0 | 2 | 0 | 0 | Atlanta | - | - |
-| 516 | Zion I | 2 | 2.0 | 2.0 | 2 | 0 | 0 | USA Other | - | - |
-| 517 | Bigg Unccc | 3 | 1.8 | 1.8 | 1 | 2 | 0 | Memphis | - | - |
-| 518 | Remy Ma | 3 | 1.8 | 1.8 | 1 | 2 | 0 | New York | - | - |
-| 519 | Young M.a | 3 | 1.8 | 1.8 | 1 | 2 | 0 | USA | - | - |
-| 520 | Sage The Gemini | 3 | 1.2 | 1.8 | 1 | 2 | 0 | USA | - | - |
-| 521 | Action Bronson | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 522 | Big Daddy Kane | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
-| 523 | Birdman Young Thug | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 524 | Desiigner | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 525 | Fat Trel | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 526 | Fivio Foreign | 2 | 0.8 | 1.5 | 1 | 1 | 0 | Chicago | - | - |
-| 527 | Foxx | 2 | 0.8 | 1.5 | 1 | 1 | 0 | Louisiana | - | - |
-| 528 | Freeway | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
-| 529 | Giggs | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 530 | Honeykomb Brazy | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 531 | J. Holiday | 2 | 1.5 | 1.5 | 1 | 1 | 0 | New York | - | - |
-| 532 | Jermaine Dupri | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
-| 533 | Joell Ortiz | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
-| 534 | Johnny Cinco | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 535 | JoJo | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Chicago | - | - |
-| 536 | Koly P | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Florida | - | - |
-| 537 | Lloyd | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 538 | Lpb Poody | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Florida | - | - |
-| 539 | Megan Thee Stallion | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 540 | Puffy L z | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 541 | Que | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 542 | Saigon | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
-| 543 | Sammie | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 544 | Spice 1 | 2 | 1.5 | 1.5 | 1 | 1 | 0 | California | - | - |
-| 545 | Spinabenz | 2 | 0.8 | 1.5 | 1 | 1 | 0 | Florida | - | - |
-| 546 | T Pain | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Florida | - | - |
-| 547 | Tiara Thomas | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 548 | Ying Yang Twins | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
-| 549 | Yung Berg | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
-| 550 | Yung Joc | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Atlanta | - | - |
-| 551 | Nardo Wick | 2 | 1.3 | 1.3 | 1 | 1 | 0 | USA | - | - |
-| 552 | Pharrell | 2 | 1.3 | 1.3 | 1 | 1 | 0 | USA Other | - | - |
-| 553 | Gudda Gudda | 3 | 1.3 | 1.3 | 1 | 2 | 0 | Louisiana | - | - |
-| 554 | K Money | 2 | 1.2 | 1.2 | 1 | 1 | 0 | Toronto | - | - |
-| 555 | Mac Mall | 2 | 1.2 | 1.2 | 1 | 1 | 0 | California | - | - |
-| 556 | Shad Da God | 2 | 1.2 | 1.2 | 1 | 1 | 0 | USA | - | - |
-| 557 | YBN Almighty Jay | 2 | 1.2 | 1.2 | 1 | 1 | 0 | USA | - | - |
-| 558 | Tha Dogg Pound | 2 | 1.2 | 1.2 | 1 | 1 | 0 | California | - | - |
-| 559 | 10Percent | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 560 | 15Chinx French Montana | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | Chingy | - |
-| 561 | 2010 New Webbie | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 562 | 33RK | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
-| 563 | 6LACK | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 564 | 8Ball | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | 8Ball & MJG | - |
-| 565 | A Boogie Wit Da Hoodie Don Q | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 566 | A Plus | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 567 | Ace Cino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 568 | Acey Soprano | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 569 | Adamn Killa | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 570 | Addict | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 571 | Afrika Bambaata | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 572 | aidan | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 573 | Al Kapone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 574 | Alcy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 575 | Alley Boy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 576 | Amazin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 577 | Aminé | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 578 | AMP | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 579 | Andre Nikatina | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 580 | Angie Martinez | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 581 | Anuel AA | 1 | 0.2 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 582 | Apollo Brown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 583 | Archie Eversole | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 584 | ASAP Mob | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 585 | ASAP Rocky Trey Songz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 586 | Ashin The Blunt | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 587 | Atm | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 588 | Audrey Rose | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 589 | Avant | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 590 | Awon Dephlow | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 591 | Ayo | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 592 | Azaia | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 593 | Baby Drill | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 594 | Baby Fifty | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 595 | Baby Gos | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 596 | Baby Keem | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 597 | Backbone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 598 | BACKR00MS | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 599 | Balla | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 600 | Ballout | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 601 | Basta | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 602 | Belly The Weeknd | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 603 | Beretta Lake | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 604 | BEXEY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 605 | Bg Cash Money Millionaires | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 606 | Big Bank Black | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 607 | Big Gipp | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 608 | Big Mike | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 609 | Big Pimpin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 610 | Big Punisher | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 611 | Big Scarr | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 612 | BIG SHAQ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 613 | Big Shit Poppin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 614 | BigBankVtech | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 615 | Binary Star | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 616 | BLACK KRAY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 617 | Black Portland | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 618 | Blackstar | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 619 | BLACKstreet | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 620 | Blade | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 621 | BlankCh3ck | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 622 | Bloods | 1 | 0.5 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 623 | Blue Dolphin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 624 | Bmike | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 625 | Bo Deal | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 626 | Bone Crusher | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 627 | Boonk Gang | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 628 | Boston George | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 629 | Brandy | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 630 | Bri-C | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 631 | Brick Fair | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 632 | Brooke Hogan | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 633 | C-Walk The OG Video | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 634 | Cali Swag District | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 635 | CALL ME WHENEVER | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 636 | Camp Lo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 637 | Capo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 638 | Carl Storm | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 639 | Carnage | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
-| 640 | CAROLINE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 641 | CaSh Out | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 642 | CashUs King | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 643 | Castle | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 644 | Center Fold | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 645 | Chainz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 646 | Channel Live | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 647 | Chaz Gotti | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 648 | Chedda Da Connect | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 649 | Cherish | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 650 | Chief Keef Fat Trel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 651 | chingy-ass n da aurr | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 652 | chingy-dem jeans | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 653 | chingy-let me luv u | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 654 | chingy-pullin me back | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 655 | ChxsenOne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 656 | Cocaine Mali | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 657 | Common Sadat X | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 658 | Consequence | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 659 | Cool Breeze | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 660 | Coolio | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 661 | Coupes | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 662 | Culprit | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 663 | Curtis Williams | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 664 | Cyhi The Prynce | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 665 | D Savage | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 666 | D thang | 1 | 0.3 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 667 | D.R.A.M | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 668 | D4L | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 669 | Da Lovely | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 670 | Da Real Gee Money | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 671 | Da Unda Dogg | 1 | 0.5 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 672 | Daddy Mikey | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 673 | Damian Lillard aka Dame D.O.L.L.A | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 674 | Dance | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 675 | Das EFX | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 676 | david shouji | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 677 | De La Soul | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 678 | DeeBaby | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 679 | Derek Pope | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 680 | Desto Dubb | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 681 | Deuce | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 682 | Deyaz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 683 | Did It On My Own | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Philadelphia | - | - |
-| 684 | Diddy-Dirty Money | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 685 | Diplomats | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 686 | Dipset | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 687 | DJ Bandz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 688 | DJ Mustard Migos | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 689 | DJ Smokey Mr Sisco | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 690 | DJ Snake | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 691 | DJ Spinking | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 692 | Doe B | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 693 | Doe Boy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 694 | Dom Pachino Neplatna Identita | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | Dom Pachino | - |
-| 695 | Domino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 696 | Don Huncho | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 697 | Don Trip | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 698 | Doodie Lo | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 699 | DRAM | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 700 | Dying | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 701 | Dyslm | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 702 | EBK JAYBOO | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 703 | eery | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 704 | Empty Plates | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 705 | Ezale | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 706 | F.A.N.S | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 707 | Fabolous Jadakiss | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 708 | Fabolous There Is No Competition 3 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | Fabolous | - |
-| 709 | Fashawn | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 710 | Fast Cash Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 711 | Fat Joe.Ja Rule | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 712 | Fetti | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 713 | Fourstars | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 714 | Fred The Godson | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 715 | Freddie Gibbs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 716 | Fredo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 717 | FREE UZI | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Philadelphia | - | - |
-| 718 | Freeway Philadelphia Freeway 15 You Got Me Rap | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 719 | French Montana Drake | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 720 | French Montana Kodak Black | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | French Montana | - |
-| 721 | Friyie | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 722 | Future Lil Uzi Vert | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 723 | Future Young Thug | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 724 | FYB | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 725 | Gangsta Blac | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 726 | Gangster Party Chronicals | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 727 | GBaby | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 728 | Geezy Loc | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
-| 729 | GELO | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 730 | Get Up Get It | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 731 | GHOSTEMANE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 732 | God | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 733 | God Body | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 734 | GOLD | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 735 | Goldiie Lux | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 736 | GoldLink | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 737 | Good Kush | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 738 | GOOD Music | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 739 | Goodlife | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 740 | GP Wu | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 741 | Grandmaster Flash | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 742 | GS Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 743 | Guilty Simpson | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 744 | Gunplay | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 745 | Guns | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 746 | Guordan Banks | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 747 | Gym Class Heroes | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 748 | GZUZ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 749 | Hassaan Mackey Apollo Brown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 750 | heizzah | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 751 | Hell Razah Rem Digga | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 752 | Heltah Skeltah | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 753 | Hieroglyphics | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 754 | Highs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 755 | Hippie Sabotage | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 756 | HMT TRAY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 757 | Homies | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 758 | Honcho Da Savage | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 759 | Honey Cocaine | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 760 | Hopsin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 761 | Hot Boy Turk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 762 | Hot Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 763 | Houdini | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
-| 764 | House Of Pain | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 765 | Hurt | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 766 | I d Rather Bang Screw | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 767 | I m Comin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 768 | IAMDDB | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 769 | Ice T | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 770 | IceCube | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 771 | ILOVEMAKONNEN No Ma am | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | iLoveMakonnen | - |
-| 772 | INTRN | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 773 | iON | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 774 | J-Live | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 775 | J-Soul | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 776 | Jace | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 777 | Jaden Smith | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 778 | Jay | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 779 | Jay Gwuapo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 780 | Jay Worthy | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
-| 781 | Jay Z Kanye West | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 782 | Jesse Boykins III | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 783 | Jgreen | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 784 | Jhene Aiko | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 785 | Jidenna | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 786 | Joe Beast | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Detroit | - | - |
-| 787 | Joey Bada$$ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 788 | Joey Purp | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 789 | Joey Purp Chance The Rapper | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 790 | John Wayne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 791 | Jooba Loc | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 792 | JR Donato | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 793 | JT the Bigga Figga | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 794 | Juicy J Travi$ Scott | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 795 | Juveyel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
-| 796 | K-Dee | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 797 | Kahri 1k | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 798 | Kal Banx | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 799 | Kane Grocerys | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 800 | kardinal offishal | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 801 | Kavyy Garcia | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 802 | Kay L | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 803 | Kayou | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 804 | Keith Ape | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 805 | Kenny Muney | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 806 | Kent Jones | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 807 | Killah Priest Chief Kamachi | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 808 | Killarmy Emilush | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 809 | KING GEORGE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 810 | King Ko$a | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 811 | King Lil G | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 812 | King Tee | 1 | 0.3 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 813 | King Tucka | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 814 | Know What I m Sayin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 815 | Koy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 816 | Kris Kross | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 817 | Kriss Kross | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 818 | KUR | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 819 | Kurtis Blow | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 820 | Kurupt Daz Dilinger | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 821 | KYLE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 822 | L.A. Leakers | 1 | 0.2 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 823 | LA Capone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 824 | LA LEAKERS | 1 | 0.2 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 825 | Latto | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 826 | Lazarus | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 827 | Li Kain Brazy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 828 | Liam Payne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 829 | Lighter Shade of Brown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 830 | Lil Baby 42 Dugg | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 831 | Lil Chill | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 832 | Lil Dicky | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 833 | Lil Gnar Germ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 834 | Lil Jon The East Side Boyz | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 835 | Lil O | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 836 | Lil Peep Lil Tracy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 837 | Lil Peep XXXTENTACION | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 838 | Lil Randy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 839 | Lil Reese Lil Durk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 840 | Lil Troy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 841 | Lil Tut | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 842 | Lil Xan aka Diego | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 843 | Lil Xan Charli XCX | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 844 | lilspirit | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 845 | Lil´Half Dead | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 846 | Lizzo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 847 | Lofty305 | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 848 | Lor Charlie | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 849 | Lord Finesse | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 850 | Lord Tariq | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 851 | Lorn | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 852 | Los | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 853 | Lost Boys | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 854 | Lost Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 855 | Louch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 856 | LoVel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 857 | Lyquin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 858 | Lyrica | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 859 | MA$E | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 860 | Mad Skillz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 861 | Madeintyo 2 Chainz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 862 | Maine Musik | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 863 | Mark Battles | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 864 | Marky Mark The Funky Bunch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 865 | Maroon 5 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 866 | Mary J.Blige | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 867 | MC Serch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 868 | Me Voy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 869 | Mel-Low | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 870 | Melly Mike | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 871 | MEMORIA XI | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 872 | MF Doom Madlib | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 873 | MihTy | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 874 | Mike WiLL | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 875 | Mike WiLL Made It Young Thug | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 876 | Mike WiLL Made-It | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 877 | Mike WiLL Made-It Rihanna | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 878 | Miles Meraki | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 879 | Milkbone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 880 | Millyz | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 881 | Missy Elliot | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 882 | Missy Misdemeanor Elliott | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 883 | Mista Cain | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 884 | MK | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 885 | MKcIOhhTCLEpIo1q8xj5gzUWIgbzRQX7 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 886 | Money | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 887 | Montana of 300 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 888 | Morcheeba | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 889 | Murder Squad | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 890 | Murs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 891 | N.e.N | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 892 | Nafe Smallz | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 893 | Natural Elements | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 894 | NBA OG 3Three | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 895 | NBA YoungBoy Scotty Cain | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 896 | Nef The Pharaoh | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 897 | Nelly P. Diddy | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 898 | nettspend | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 899 | Neva End | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 900 | Never Let Me Down | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 901 | NEW KING LOUIE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 902 | NEW!! Young Buck | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 903 | Nice | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 904 | Nightcore | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 905 | Nino Man | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 906 | No Love | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 907 | Non Phixion | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 908 | Noreaga N Capone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 909 | Notorious Thugs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 910 | NÜ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 911 | O.G.C | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 912 | Offset Lil Baby | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 913 | OG Clooney | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 914 | ohtrapstar | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 915 | OMEGAH RED | 1 | 0.3 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 916 | ondi vil | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 917 | One Mob | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 918 | ONLY ONE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 919 | Opposite | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 920 | OTF Nunu | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 921 | OTF NuNu f Lil Durk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 922 | Oui Lele | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 923 | Out | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 924 | Ozuna | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 925 | P Yungin NbaYoungBoy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 926 | P. Diddy The Bad Boy Family | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 927 | Papa Reu | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 928 | Papoose | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 929 | Paris | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 930 | Paris Shadows | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 931 | Paris Trippie Redd | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 932 | Paula DeAnda | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 933 | Perfect | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 934 | Perfect Timing | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
-| 935 | Peryon | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 936 | Pest | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 937 | Pete Rock | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 938 | Peter Jackson | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 939 | Petey Pablo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 940 | Pharoahe Monch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 941 | Pi erre Bourne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 942 | Plaayittt | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 943 | Plane Jaymes | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 944 | Pourin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 945 | Prince Bopp | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 946 | Prince Igor Warren G. Sissel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 947 | Prince Marley | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 948 | Public Enemy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 949 | Puff Daddy Faith Evans | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 950 | Puff Daddy The Family | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 951 | Pull Up Freestyle | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 952 | Rae Sremmurd freestyle | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 953 | Rae Sremmurd Gucci Mane | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 954 | Raekwon Parazitii | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 955 | Rappin 4 Tay | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 956 | Ravyn Lenae | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 957 | Rayven Justice | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 958 | Red Cafe | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 959 | Reggie Becton | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 960 | Respect This Hustle | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 961 | Richie Rich | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 962 | Ride | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 963 | Rilès | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 964 | RJ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 965 | RMR | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 966 | Rnla | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 967 | Robb Bank$ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 968 | Rockie Fresh | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 969 | RocknRollah | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 970 | Roddy | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 971 | Roger Beat | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 972 | ROJAY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 973 | ROJAYMLP | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 974 | Rondo NumbaNine | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 975 | RonSoCold | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 976 | Roundrobin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 977 | Route 94 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 978 | Rowdy Rebel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 979 | Ruff Draft | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 980 | Run DMC | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 981 | Run The Jewels 2 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | Run The Jewels | - |
-| 982 | Ryan Leslie | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 983 | SahBabii | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 984 | Saint jhn J.Balvin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 985 | scarlxrd | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 986 | Scotty | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 987 | Scotty ATL | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 988 | sensi sye | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 989 | Sha Ek | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 990 | Sha Gz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 991 | Shade Sheist | 1 | 0.3 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 992 | Shae Delea | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 993 | Shaun White | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 994 | Shaunta | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Detroit | - | - |
-| 995 | Sheck Wes | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 996 | Sheek Louch | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 997 | Shop Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 998 | Silentó | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 999 | SimxSantana | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1000 | sippin on some syrup by three 6 mafia | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | Three 6 Mafia | - |
-| 1001 | Skengdo | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1002 | Skimask Troopaz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 1003 | Skooly | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1004 | Sky.High | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1005 | Skye | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 1006 | Skyzoo Torae | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1007 | Sleepy Hallow | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1008 | Slim Jesus | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 1009 | Slim Thug | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 1010 | Slum Village | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1011 | Smiff N Wessun | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1012 | Smino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1013 | Smoovie Baby | 1 | 0.3 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1014 | Snap Dogg | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 1015 | Snoop Dogg Wiz Khalifa | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1016 | Snootie Wild | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 1017 | Snøw | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1018 | SoFaygo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1019 | Sonny Digital | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1020 | soulja slim b.g | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 1021 | Soulpete | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1022 | Souls Of Mischief | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1023 | South Central Cartel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1024 | Spyro | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1025 | Stampface ZN Scrams | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1026 | Stann Smith | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1027 | Starkim | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1028 | Statik Selektah Silver Lining | 1 | 0.3 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1029 | Steven Moses | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1030 | Still Tippin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 1031 | Strick | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1032 | Stu Da Boi | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1033 | Stunna Gambino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1034 | Suigeneris | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1035 | Summer Walker | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1036 | SWAGG DINERO | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 1037 | Swik | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1038 | Swizz Beatz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1039 | Tabius Tate Kissie Lee | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1040 | TEC | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1041 | Tech 9 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1042 | TeeFlii | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1043 | Tekashi 6ix9ine | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1044 | Tell Em I Said That | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1045 | Ten Wanted Men | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
-| 1046 | Termanology | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1047 | Terror Squad | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1048 | Tezzus | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1049 | Tha Crossroads | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1050 | The Alamo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1051 | The Hot Boys | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 1052 | The L.O.X | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1053 | The RZA | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1054 | The truth | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1055 | THOUXANBANFAUNI | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1056 | THRASHER | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1057 | Throw | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Detroit | - | - |
-| 1058 | Thug Luv | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1059 | Thug Muffin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1060 | Thugz Cry | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1061 | Tim Vocals | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1062 | Tiësto Dzeko | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1063 | Too Sexy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1064 | TOO SHORT | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1065 | Tooley | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1066 | Toosii | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1067 | Touchdown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1068 | Trae | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1069 | Trae Tha Truth Future | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1070 | Trav | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1071 | Travis Porter | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1072 | TrenchMobb | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1073 | trigger tha gambler | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1074 | Trina | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1075 | Trippie Redd XXXTENTACION | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1076 | Trouble | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1077 | TTB Nez | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 1078 | TUM TUM | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 1079 | Two Words | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1080 | TXL63 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1081 | tyfon | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1082 | Tyler | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1083 | Tyler The Creator | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1084 | Ufo361 | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1085 | UGK Like Yesterday | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 1086 | ULTRA VIOLET | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1087 | Under Pressure | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1088 | Unk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1089 | Uno | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 1090 | Valee | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1091 | Vell | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1092 | Verse Simmonds | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1093 | Vic Mensa | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1094 | Vicious Infatuations | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1095 | Viic Flair | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 1096 | VL Deck NBA YoungBoy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
-| 1097 | Wacka Flocka Flame | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1098 | Wais P | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 511 | Wifisfuneral | 2 | 1.5 | 2.0 | 2 | 0 | 0 | USA | - | - |
+| 512 | WuTang Clan | 2 | 2.0 | 2.0 | 2 | 0 | 0 | New York | - | - |
+| 513 | Yakki | 2 | 1.5 | 2.0 | 2 | 0 | 0 | USA | - | - |
+| 514 | Young Stoner Life | 2 | 1.0 | 2.0 | 2 | 0 | 0 | Atlanta | - | - |
+| 515 | Zion I | 2 | 2.0 | 2.0 | 2 | 0 | 0 | USA Other | - | - |
+| 516 | Bigg Unccc | 3 | 1.8 | 1.8 | 1 | 2 | 0 | Memphis | - | - |
+| 517 | Remy Ma | 3 | 1.8 | 1.8 | 1 | 2 | 0 | New York | - | - |
+| 518 | Young M.a | 3 | 1.8 | 1.8 | 1 | 2 | 0 | USA | - | - |
+| 519 | Sage The Gemini | 3 | 1.2 | 1.8 | 1 | 2 | 0 | USA | - | - |
+| 520 | Action Bronson | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 521 | Big Daddy Kane | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
+| 522 | Birdman Young Thug | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 523 | Desiigner | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 524 | Fat Trel | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 525 | Fivio Foreign | 2 | 0.8 | 1.5 | 1 | 1 | 0 | Chicago | - | - |
+| 526 | Foxx | 2 | 0.8 | 1.5 | 1 | 1 | 0 | Louisiana | - | - |
+| 527 | Freeway | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
+| 528 | Giggs | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 529 | Honeykomb Brazy | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 530 | J. Holiday | 2 | 1.5 | 1.5 | 1 | 1 | 0 | New York | - | - |
+| 531 | Jermaine Dupri | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
+| 532 | Joell Ortiz | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
+| 533 | Johnny Cinco | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 534 | JoJo | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Chicago | - | - |
+| 535 | Koly P | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Florida | - | - |
+| 536 | Lloyd | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 537 | Lpb Poody | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Florida | - | - |
+| 538 | Megan Thee Stallion | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 539 | Puffy L z | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 540 | Que | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 541 | Saigon | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
+| 542 | Sammie | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 543 | Spice 1 | 2 | 1.5 | 1.5 | 1 | 1 | 0 | California | - | - |
+| 544 | Spinabenz | 2 | 0.8 | 1.5 | 1 | 1 | 0 | Florida | - | - |
+| 545 | T Pain | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Florida | - | - |
+| 546 | Tiara Thomas | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 547 | Ying Yang Twins | 2 | 1.5 | 1.5 | 1 | 1 | 0 | USA Other | - | - |
+| 548 | Yung Berg | 2 | 1.0 | 1.5 | 1 | 1 | 0 | USA | - | - |
+| 549 | Yung Joc | 2 | 1.5 | 1.5 | 1 | 1 | 0 | Atlanta | - | - |
+| 550 | Nardo Wick | 2 | 1.3 | 1.3 | 1 | 1 | 0 | USA | - | - |
+| 551 | Pharrell | 2 | 1.3 | 1.3 | 1 | 1 | 0 | USA Other | - | - |
+| 552 | Gudda Gudda | 3 | 1.3 | 1.3 | 1 | 2 | 0 | Louisiana | - | - |
+| 553 | K Money | 2 | 1.2 | 1.2 | 1 | 1 | 0 | Toronto | - | - |
+| 554 | Mac Mall | 2 | 1.2 | 1.2 | 1 | 1 | 0 | California | - | - |
+| 555 | Shad Da God | 2 | 1.2 | 1.2 | 1 | 1 | 0 | USA | - | - |
+| 556 | YBN Almighty Jay | 2 | 1.2 | 1.2 | 1 | 1 | 0 | USA | - | - |
+| 557 | Tha Dogg Pound | 2 | 1.2 | 1.2 | 1 | 1 | 0 | California | - | - |
+| 558 | 10Percent | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 559 | 15Chinx French Montana | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | Chingy | - |
+| 560 | 2010 New Webbie | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 561 | 33RK | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
+| 562 | 6LACK | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 563 | 8Ball | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | 8Ball & MJG | - |
+| 564 | A Boogie Wit Da Hoodie Don Q | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 565 | A Plus | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 566 | Ace Cino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 567 | Acey Soprano | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 568 | Adamn Killa | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 569 | Addict | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 570 | Afrika Bambaata | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 571 | aidan | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 572 | Al Kapone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 573 | Alcy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 574 | Alley Boy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 575 | Amazin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 576 | Aminé | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 577 | AMP | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 578 | Andre Nikatina | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 579 | Angie Martinez | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 580 | Anuel AA | 1 | 0.2 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 581 | Apollo Brown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 582 | Archie Eversole | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 583 | ASAP Mob | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 584 | ASAP Rocky Trey Songz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 585 | Ashin The Blunt | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 586 | Atm | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 587 | Audrey Rose | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 588 | Avant | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 589 | Awon Dephlow | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 590 | Ayo | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 591 | Azaia | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 592 | Baby Drill | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 593 | Baby Fifty | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 594 | Baby Gos | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 595 | Baby Keem | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 596 | Backbone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 597 | BACKR00MS | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 598 | Balla | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 599 | Ballout | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 600 | Basta | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 601 | Belly The Weeknd | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 602 | Beretta Lake | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 603 | BEXEY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 604 | Bg Cash Money Millionaires | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 605 | Big Bank Black | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 606 | Big Gipp | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 607 | Big Mike | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 608 | Big Pimpin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 609 | Big Punisher | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 610 | Big Scarr | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 611 | BIG SHAQ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 612 | Big Shit Poppin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 613 | BigBankVtech | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 614 | Binary Star | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 615 | BLACK KRAY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 616 | Black Portland | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 617 | Blackstar | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 618 | BLACKstreet | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 619 | Blade | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 620 | BlankCh3ck | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 621 | Bloods | 1 | 0.5 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 622 | Blue Dolphin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 623 | Bmike | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 624 | Bo Deal | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 625 | Bone Crusher | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 626 | Boonk Gang | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 627 | Boston George | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 628 | Brandy | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 629 | Bri-C | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 630 | Brick Fair | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 631 | Brooke Hogan | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 632 | C-Walk The OG Video | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 633 | Cali Swag District | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 634 | CALL ME WHENEVER | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 635 | Camp Lo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 636 | Capo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 637 | Carl Storm | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 638 | Carnage | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
+| 639 | CAROLINE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 640 | CaSh Out | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 641 | CashUs King | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 642 | Castle | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 643 | Center Fold | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 644 | Chainz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 645 | Channel Live | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 646 | Chaz Gotti | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 647 | Chedda Da Connect | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 648 | Cherish | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 649 | Chief Keef Fat Trel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 650 | chingy-ass n da aurr | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 651 | chingy-dem jeans | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 652 | chingy-let me luv u | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 653 | chingy-pullin me back | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 654 | ChxsenOne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 655 | Cocaine Mali | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 656 | Common Sadat X | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 657 | Consequence | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 658 | Cool Breeze | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 659 | Coolio | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 660 | Coupes | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 661 | Culprit | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 662 | Curtis Williams | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 663 | Cyhi The Prynce | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 664 | D Savage | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 665 | D thang | 1 | 0.3 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 666 | D.R.A.M | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 667 | D4L | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 668 | Da Lovely | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 669 | Da Real Gee Money | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 670 | Da Unda Dogg | 1 | 0.5 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 671 | Daddy Mikey | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 672 | Damian Lillard aka Dame D.O.L.L.A | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 673 | Dance | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 674 | Das EFX | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 675 | david shouji | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 676 | De La Soul | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 677 | DeeBaby | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 678 | Derek Pope | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 679 | Desto Dubb | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 680 | Deuce | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 681 | Deyaz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 682 | Did It On My Own | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Philadelphia | - | - |
+| 683 | Diddy-Dirty Money | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 684 | Diplomats | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 685 | Dipset | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 686 | DJ Bandz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 687 | DJ Mustard Migos | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 688 | DJ Smokey Mr Sisco | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 689 | DJ Snake | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 690 | DJ Spinking | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 691 | Doe B | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 692 | Doe Boy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 693 | Dom Pachino Neplatna Identita | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | Dom Pachino | - |
+| 694 | Domino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 695 | Don Huncho | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 696 | Don Trip | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 697 | Doodie Lo | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 698 | DRAM | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 699 | Dying | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 700 | Dyslm | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 701 | EBK JAYBOO | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 702 | eery | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 703 | Empty Plates | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 704 | Ezale | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 705 | F.A.N.S | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 706 | Fabolous Jadakiss | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 707 | Fabolous There Is No Competition 3 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | Fabolous | - |
+| 708 | Fashawn | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 709 | Fast Cash Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 710 | Fat Joe.Ja Rule | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 711 | Fetti | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 712 | Fourstars | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 713 | Fred The Godson | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 714 | Freddie Gibbs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 715 | Fredo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 716 | FREE UZI | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Philadelphia | - | - |
+| 717 | Freeway Philadelphia Freeway 15 You Got Me Rap | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 718 | French Montana Drake | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 719 | French Montana Kodak Black | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | French Montana | - |
+| 720 | Friyie | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 721 | Future Lil Uzi Vert | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 722 | Future Young Thug | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 723 | FYB | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 724 | Gangsta Blac | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 725 | Gangster Party Chronicals | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 726 | GBaby | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 727 | Geezy Loc | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
+| 728 | GELO | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 729 | Get Up Get It | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 730 | GHOSTEMANE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 731 | God | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 732 | God Body | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 733 | GOLD | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 734 | Goldiie Lux | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 735 | GoldLink | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 736 | Good Kush | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 737 | GOOD Music | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 738 | Goodlife | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 739 | GP Wu | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 740 | Grandmaster Flash | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 741 | GS Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 742 | Guilty Simpson | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 743 | Gunplay | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 744 | Guns | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 745 | Guordan Banks | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 746 | Gym Class Heroes | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 747 | GZUZ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 748 | Hassaan Mackey Apollo Brown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 749 | heizzah | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 750 | Hell Razah Rem Digga | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 751 | Heltah Skeltah | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 752 | Hieroglyphics | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 753 | Highs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 754 | Hippie Sabotage | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 755 | HMT TRAY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 756 | Homies | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 757 | Honcho Da Savage | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 758 | Honey Cocaine | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 759 | Hopsin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 760 | Hot Boy Turk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 761 | Hot Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 762 | Houdini | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
+| 763 | House Of Pain | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 764 | Hurt | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 765 | I d Rather Bang Screw | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 766 | I m Comin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 767 | IAMDDB | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 768 | Ice T | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 769 | IceCube | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 770 | ILOVEMAKONNEN No Ma am | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | iLoveMakonnen | - |
+| 771 | INTRN | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 772 | iON | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 773 | J-Live | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 774 | J-Soul | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 775 | Jace | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 776 | Jaden Smith | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 777 | Jay | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 778 | Jay Gwuapo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 779 | Jay Worthy | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
+| 780 | Jay Z Kanye West | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 781 | Jesse Boykins III | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 782 | Jgreen | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 783 | Jhene Aiko | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 784 | Jidenna | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 785 | Joe Beast | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Detroit | - | - |
+| 786 | Joey Bada$$ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 787 | Joey Purp | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 788 | Joey Purp Chance The Rapper | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 789 | John Wayne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 790 | Jooba Loc | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 791 | JR Donato | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 792 | JT the Bigga Figga | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 793 | Juicy J Travi$ Scott | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 794 | Juveyel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
+| 795 | K-Dee | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 796 | Kahri 1k | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 797 | Kal Banx | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 798 | Kane Grocerys | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 799 | kardinal offishal | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 800 | Kavyy Garcia | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 801 | Kay L | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 802 | Kayou | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 803 | Keith Ape | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 804 | Kenny Muney | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 805 | Kent Jones | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 806 | Killah Priest Chief Kamachi | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 807 | Killarmy Emilush | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 808 | KING GEORGE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 809 | King Ko$a | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 810 | King Lil G | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 811 | King Tee | 1 | 0.3 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 812 | King Tucka | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 813 | Know What I m Sayin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 814 | Koy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 815 | Kris Kross | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 816 | Kriss Kross | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 817 | KUR | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 818 | Kurtis Blow | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 819 | Kurupt Daz Dilinger | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 820 | KYLE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 821 | L.A. Leakers | 1 | 0.2 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 822 | LA Capone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 823 | LA LEAKERS | 1 | 0.2 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 824 | Latto | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 825 | Lazarus | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 826 | Li Kain Brazy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 827 | Liam Payne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 828 | Lighter Shade of Brown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 829 | Lil Baby 42 Dugg | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 830 | Lil Chill | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 831 | Lil Dicky | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 832 | Lil Gnar Germ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 833 | Lil Jon The East Side Boyz | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 834 | Lil O | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 835 | Lil Peep Lil Tracy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 836 | Lil Peep XXXTENTACION | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 837 | Lil Randy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 838 | Lil Reese Lil Durk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 839 | Lil Troy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 840 | Lil Tut | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 841 | Lil Xan aka Diego | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 842 | Lil Xan Charli XCX | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 843 | lilspirit | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 844 | Lil´Half Dead | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 845 | Lizzo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 846 | Lofty305 | 1 | 0.3 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 847 | Lor Charlie | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 848 | Lord Finesse | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 849 | Lord Tariq | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 850 | Lorn | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 851 | Los | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 852 | Lost Boys | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 853 | Lost Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 854 | Louch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 855 | LoVel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 856 | Lyquin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 857 | Lyrica | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 858 | MA$E | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 859 | Mad Skillz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 860 | Madeintyo 2 Chainz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 861 | Maine Musik | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 862 | Mark Battles | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 863 | Marky Mark The Funky Bunch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 864 | Maroon 5 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 865 | Mary J.Blige | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 866 | MC Serch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 867 | Me Voy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 868 | Mel-Low | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 869 | Melly Mike | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 870 | MEMORIA XI | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 871 | MF Doom Madlib | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 872 | MihTy | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 873 | Mike WiLL | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 874 | Mike WiLL Made It Young Thug | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 875 | Mike WiLL Made-It | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 876 | Mike WiLL Made-It Rihanna | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 877 | Miles Meraki | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 878 | Milkbone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 879 | Millyz | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 880 | Missy Elliot | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 881 | Missy Misdemeanor Elliott | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 882 | Mista Cain | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 883 | MK | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 884 | MKcIOhhTCLEpIo1q8xj5gzUWIgbzRQX7 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 885 | Money | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 886 | Montana of 300 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 887 | Morcheeba | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 888 | Murder Squad | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 889 | Murs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 890 | N.e.N | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 891 | Nafe Smallz | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 892 | Natural Elements | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 893 | NBA OG 3Three | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 894 | NBA YoungBoy Scotty Cain | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 895 | Nef The Pharaoh | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 896 | Nelly P. Diddy | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 897 | nettspend | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 898 | Neva End | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 899 | Never Let Me Down | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 900 | NEW KING LOUIE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 901 | NEW!! Young Buck | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 902 | Nice | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 903 | Nightcore | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 904 | Nino Man | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 905 | No Love | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 906 | Non Phixion | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 907 | Noreaga N Capone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 908 | Notorious Thugs | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 909 | NÜ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 910 | O.G.C | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 911 | Offset Lil Baby | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 912 | OG Clooney | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 913 | ohtrapstar | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 914 | OMEGAH RED | 1 | 0.3 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 915 | ondi vil | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 916 | One Mob | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 917 | ONLY ONE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 918 | Opposite | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 919 | OTF Nunu | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 920 | OTF NuNu f Lil Durk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 921 | Oui Lele | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 922 | Out | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 923 | Ozuna | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 924 | P Yungin NbaYoungBoy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 925 | P. Diddy The Bad Boy Family | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 926 | Papa Reu | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 927 | Papoose | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 928 | Paris | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 929 | Paris Shadows | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 930 | Paris Trippie Redd | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 931 | Paula DeAnda | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 932 | Perfect | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 933 | Perfect Timing | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Toronto | - | - |
+| 934 | Peryon | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 935 | Pest | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 936 | Pete Rock | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 937 | Peter Jackson | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 938 | Petey Pablo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 939 | Pharoahe Monch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 940 | Pi erre Bourne | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 941 | Plaayittt | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 942 | Plane Jaymes | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 943 | Pourin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 944 | Prince Bopp | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 945 | Prince Igor Warren G. Sissel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 946 | Prince Marley | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 947 | Public Enemy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 948 | Puff Daddy Faith Evans | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 949 | Puff Daddy The Family | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 950 | Pull Up Freestyle | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 951 | Rae Sremmurd freestyle | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 952 | Rae Sremmurd Gucci Mane | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 953 | Raekwon Parazitii | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 954 | Rappin 4 Tay | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 955 | Ravyn Lenae | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 956 | Rayven Justice | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 957 | Red Cafe | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 958 | Reggie Becton | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 959 | Respect This Hustle | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 960 | Richie Rich | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 961 | Ride | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 962 | Rilès | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 963 | RJ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 964 | RMR | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 965 | Rnla | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 966 | Robb Bank$ | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 967 | Rockie Fresh | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 968 | RocknRollah | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 969 | Roddy | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 970 | Roger Beat | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 971 | ROJAY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 972 | ROJAYMLP | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 973 | Rondo NumbaNine | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 974 | RonSoCold | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 975 | Roundrobin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 976 | Route 94 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 977 | Rowdy Rebel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 978 | Ruff Draft | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 979 | Run DMC | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 980 | Run The Jewels 2 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | Run The Jewels | - |
+| 981 | Ryan Leslie | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 982 | SahBabii | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 983 | Saint jhn J.Balvin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 984 | scarlxrd | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 985 | Scotty | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 986 | Scotty ATL | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 987 | sensi sye | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 988 | Sha Ek | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 989 | Sha Gz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 990 | Shade Sheist | 1 | 0.3 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 991 | Shae Delea | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 992 | Shaun White | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 993 | Shaunta | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Detroit | - | - |
+| 994 | Sheck Wes | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 995 | Sheek Louch | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 996 | Shop Boyz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 997 | Silentó | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 998 | SimxSantana | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 999 | sippin on some syrup by three 6 mafia | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | Three 6 Mafia | - |
+| 1000 | Skengdo | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1001 | Skimask Troopaz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 1002 | Skooly | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1003 | Sky.High | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1004 | Skye | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 1005 | Skyzoo Torae | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1006 | Sleepy Hallow | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1007 | Slim Jesus | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 1008 | Slim Thug | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 1009 | Slum Village | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1010 | Smiff N Wessun | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1011 | Smino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1012 | Smoovie Baby | 1 | 0.3 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 1013 | Snap Dogg | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 1014 | Snoop Dogg Wiz Khalifa | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1015 | Snootie Wild | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 1016 | Snøw | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1017 | SoFaygo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1018 | Sonny Digital | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1019 | soulja slim b.g | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 1020 | Soulpete | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1021 | Souls Of Mischief | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1022 | South Central Cartel | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 1023 | Spyro | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1024 | Stampface ZN Scrams | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1025 | Stann Smith | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1026 | Starkim | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1027 | Statik Selektah Silver Lining | 1 | 0.3 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1028 | Steven Moses | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1029 | Still Tippin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 1030 | Strick | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1031 | Stu Da Boi | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1032 | Stunna Gambino | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1033 | Suigeneris | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1034 | Summer Walker | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1035 | SWAGG DINERO | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 1036 | Swik | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1037 | Swizz Beatz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1038 | Tabius Tate Kissie Lee | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1039 | TEC | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1040 | Tech 9 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1041 | TeeFlii | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1042 | Tekashi 6ix9ine | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1043 | Tell Em I Said That | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1044 | Ten Wanted Men | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Memphis | - | - |
+| 1045 | Termanology | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1046 | Terror Squad | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1047 | Tezzus | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1048 | Tha Crossroads | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1049 | The Alamo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1050 | The Hot Boys | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 1051 | The L.O.X | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1052 | The RZA | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1053 | The truth | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1054 | THOUXANBANFAUNI | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1055 | THRASHER | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 1056 | Throw | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Detroit | - | - |
+| 1057 | Thug Luv | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1058 | Thug Muffin | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1059 | Thugz Cry | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1060 | Tim Vocals | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1061 | Tiësto Dzeko | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1062 | Too Sexy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1063 | TOO SHORT | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1064 | Tooley | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1065 | Toosii | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1066 | Touchdown | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1067 | Trae | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1068 | Trae Tha Truth Future | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1069 | Trav | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1070 | Travis Porter | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1071 | TrenchMobb | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1072 | trigger tha gambler | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1073 | Trina | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1074 | Trippie Redd XXXTENTACION | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1075 | Trouble | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1076 | TTB Nez | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 1077 | TUM TUM | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 1078 | Two Words | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1079 | TXL63 | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1080 | tyfon | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1081 | Tyler | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1082 | Tyler The Creator | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1083 | Ufo361 | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1084 | UGK Like Yesterday | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 1085 | ULTRA VIOLET | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1086 | Under Pressure | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1087 | Unk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1088 | Uno | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 1089 | Valee | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1090 | Vell | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 1091 | Verse Simmonds | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1092 | Vic Mensa | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1093 | Vicious Infatuations | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1094 | Viic Flair | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 1095 | VL Deck NBA YoungBoy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Louisiana | - | - |
+| 1096 | Wacka Flocka Flame | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1097 | Wais P | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1098 | Waka Flocka | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
 | 1099 | Walk it out | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
 | 1100 | Walk That Walk | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
 | 1101 | Walkdown Will | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
@@ -1174,8 +1174,8 @@ Unattributed songs: `223`
 | 3 | Migos | 33 | Offset, Quavo, Takeoff | Atlanta | QC |
 | 4 | Wu-Tang Clan | 31 | Ghostface Killah, GZA, Inspectah Deck, Masta Killa, Method Man, Ol' Dirty Bastard, Raekwon, RZA, U-God | New York | - |
 | 5 | Capone-N-Noreaga | 27 | Capone, N.O.R.E. | New York | - |
-| 6 | Rae Sremmurd | 25 | Slim Jxmmi, Swae Lee | Atlanta | - |
-| 7 | Geto Boys | 24 | Bushwick Bill, Scarface, Willie D | Texas | - |
+| 6 | Geto Boys | 25 | Bushwick Bill, Scarface, Willie D | Texas | - |
+| 7 | Rae Sremmurd | 25 | Slim Jxmmi, Swae Lee | Atlanta | - |
 | 8 | Outkast | 24 | Andre 3000, Big Boi | Atlanta | - |
 | 9 | Three 6 Mafia | 19 | DJ Paul, Juicy J, Koopsta Knicca | Memphis | - |
 | 10 | Dead Prez | 13 | M-1, stic.man | USA Other | - |
@@ -1226,7 +1226,7 @@ Unattributed songs: `223`
 
 | # | Region | Songs | Persons | Groups | Labels | Sources |
 |---|--------|-------|---------|--------|--------|---------|
-| 1 | USA | 1051 | 487 | 4 | 9 | _trap |
+| 1 | USA | 1052 | 487 | 4 | 9 | _trap |
 | 2 | New York | 1033 | 158 | 4 | 8 | _rap, _trap |
 | 3 | Atlanta | 928 | 153 | 3 | 11 | _rap, _trap |
 | 4 | USA Other | 799 | 210 | 4 | 6 | _rap |
@@ -1238,5 +1238,5 @@ Unattributed songs: `223`
 | 10 | Memphis | 261 | 52 | 1 | 6 | _rap, _trap |
 | 11 | Toronto | 203 | 27 | 0 | 2 | _trap |
 | 12 | Philadelphia | 158 | 14 | 0 | 3 | _rap, _trap |
-| 13 | Texas | 134 | 22 | 3 | 1 | _rap, _trap |
+| 13 | Texas | 135 | 22 | 3 | 1 | _rap, _trap |
 | 14 | DC | 15 | 3 | 1 | 1 | _trap |
