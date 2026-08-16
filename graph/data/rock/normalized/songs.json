@@ -4140,6 +4140,26 @@
   },
   {
     "song_id": "rk-00204",
+    "file": "_other\\_rock\\_random\\Player - Baby Come Back.mp3",
+    "title": "Baby Come Back",
+    "primary_artists": [
+      "Player"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Player"
+    ],
+    "credits": [
+      {
+        "entity": "Player",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rk-00205",
     "file": "_other\\_rock\\_random\\Rise Against\\Rise Against - Drones.mp3",
     "title": "Drones",
     "primary_artists": [
@@ -4159,7 +4179,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00205",
+    "song_id": "rk-00206",
     "file": "_other\\_rock\\_random\\Rise Against\\Rise Against - Make It Stop (September_s Children).mp3",
     "title": "Make It Stop (September s Children)",
     "primary_artists": [
@@ -4179,7 +4199,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00206",
+    "song_id": "rk-00207",
     "file": "_other\\_rock\\_random\\Rise Against\\Rise Against - The Good Left Undone (Official Musi.mp3",
     "title": "The Good Left Undone (Official Musi",
     "primary_artists": [
@@ -4199,7 +4219,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00207",
+    "song_id": "rk-00208",
     "file": "_other\\_rock\\_random\\Rise Against\\Rise against - Worth dying for (lyrics).mp3",
     "title": "Worth dying for",
     "primary_artists": [
@@ -4219,7 +4239,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00208",
+    "song_id": "rk-00209",
     "file": "_other\\_rock\\_random\\Rush - Chronicles [smb]\\Disc 2\\03 Limelight.mp3",
     "title": "Limelight",
     "primary_artists": [
@@ -4239,7 +4259,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00209",
+    "song_id": "rk-00210",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\Forsaken by Seether W Lyrics.mp3",
     "title": "Forsaken by Seether W",
     "primary_artists": [
@@ -4259,7 +4279,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00210",
+    "song_id": "rk-00211",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\My Disaster.mp3",
     "title": "My Disaster",
     "primary_artists": [
@@ -4279,7 +4299,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00211",
+    "song_id": "rk-00212",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\Seether - Careless Whisper.mp3",
     "title": "Careless Whisper",
     "primary_artists": [
@@ -4299,7 +4319,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00212",
+    "song_id": "rk-00213",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\Seether - Empty (Saron Gas tribute).mp3",
     "title": "Empty (Saron Gas tribute)",
     "primary_artists": [
@@ -4319,7 +4339,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00213",
+    "song_id": "rk-00214",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\Seether - Fade Away.mp3",
     "title": "Fade Away",
     "primary_artists": [
@@ -4339,7 +4359,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00214",
+    "song_id": "rk-00215",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\Seether - The Gift (Acoustic).mp3",
     "title": "The Gift (Acoustic)",
     "primary_artists": [
@@ -4359,7 +4379,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00215",
+    "song_id": "rk-00216",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\Seether - The Gift.mp3",
     "title": "The Gift",
     "primary_artists": [
@@ -4379,7 +4399,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00216",
+    "song_id": "rk-00217",
     "file": "_other\\_rock\\_random\\Seether - YouTube\\Seether - Tied My Hands (Live).mp3",
     "title": "Tied My Hands (Live)",
     "primary_artists": [
@@ -4399,7 +4419,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00217",
+    "song_id": "rk-00218",
     "file": "_other\\_rock\\_random\\Sergio Mendes & Brasil 66 - Mas que nada (introduced by Eartha Kitt   Something Special 1967).mp3",
     "title": "Mas que nada (introduced by Eartha Kitt Something Special 1967)",
     "primary_artists": [
@@ -4426,7 +4446,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00218",
+    "song_id": "rk-00219",
     "file": "_other\\_rock\\_random\\Sex Pistols - Never Mind The Bollocks Here_s The Sex Pistols [Deluxe Edition] [2012]\\Disc 01 Never Mind The Bollocks Here_s The Sex Pistols\\05 - God Save The Queen.mp3",
     "title": "God Save The Queen",
     "primary_artists": [
@@ -4446,7 +4466,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00219",
+    "song_id": "rk-00220",
     "file": "_other\\_rock\\_random\\Sex Pistols - Never Mind The Bollocks Here_s The Sex Pistols [Deluxe Edition] [2012]\\Disc 01 Never Mind The Bollocks Here_s The Sex Pistols\\08 - Anarchy In The UK.mp3",
     "title": "Anarchy In The UK",
     "primary_artists": [
@@ -4466,7 +4486,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00220",
+    "song_id": "rk-00221",
     "file": "_other\\_rock\\_random\\Shinedown\\Shinedown - Burning Bright (lyrics).mp3",
     "title": "Burning Bright",
     "primary_artists": [
@@ -4486,7 +4506,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00221",
+    "song_id": "rk-00222",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #1 Dragula by Rob Zombie(Hot Rod Herman Remix).mp3",
     "title": "Sled Storm Soundtrack #1 Dragula by Rob Zombie(Hot Rod Herman Remix)",
     "primary_artists": [
@@ -4506,7 +4526,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00222",
+    "song_id": "rk-00223",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #2 Sparkle and Shine (Throttle Mix) by Econoline Crush.mp3",
     "title": "Sled Storm Soundtrack #2 Sparkle and Shine (Throttle Mix) by Econoline Crush",
     "primary_artists": [
@@ -4526,7 +4546,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00223",
+    "song_id": "rk-00224",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #3 Nowhere Now (White Out Mix) by Econoline Crush.mp3",
     "title": "Sled Storm Soundtrack #3 Nowhere Now (White Out Mix) by Econoline Crush",
     "primary_artists": [
@@ -4546,7 +4566,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00224",
+    "song_id": "rk-00225",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #4 Surefire (Avalanche Mix) by Econoline Crush.mp3",
     "title": "Sled Storm Soundtrack #4 Surefire (Avalanche Mix) by Econoline Crush",
     "primary_artists": [
@@ -4566,7 +4586,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00225",
+    "song_id": "rk-00226",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #8 Sweet Baby by Uberzone.mp3",
     "title": "Sled Storm Soundtrack #8 Sweet Baby by Uberzone",
     "primary_artists": [
@@ -4586,7 +4606,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00226",
+    "song_id": "rk-00227",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - A Trophy Father_s Trophy Son.mp3",
     "title": "A Trophy Father s Trophy Son",
     "primary_artists": [
@@ -4606,7 +4626,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00227",
+    "song_id": "rk-00228",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - Don_t Fall Asleep At The Helm.mp3",
     "title": "Don t Fall Asleep At The Helm",
     "primary_artists": [
@@ -4626,7 +4646,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00228",
+    "song_id": "rk-00229",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - Four Corners and Two Sides.mp3",
     "title": "Four Corners and Two Sides",
     "primary_artists": [
@@ -4646,7 +4666,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00229",
+    "song_id": "rk-00230",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - I_ll Take You There (Feat. Shayley Bourget).mp3",
     "title": "I ll Take You There (Feat. Shayley Bourget)",
     "primary_artists": [
@@ -4666,7 +4686,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00230",
+    "song_id": "rk-00231",
     "file": "_other\\_rock\\_random\\Slipknot - 2010 - Greatest Hits\\Slipknot - 05 - Duality.mp3",
     "title": "Duality",
     "primary_artists": [
@@ -4686,7 +4706,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00231",
+    "song_id": "rk-00232",
     "file": "_other\\_rock\\_random\\Slipknot - 2010 - Greatest Hits\\Slipknot - 23 - Snuff.mp3",
     "title": "Snuff",
     "primary_artists": [
@@ -4706,7 +4726,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00232",
+    "song_id": "rk-00233",
     "file": "_other\\_rock\\_random\\SOAD\\Chop Suey!.mp3",
     "title": "Chop Suey!",
     "primary_artists": [
@@ -4726,7 +4746,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00233",
+    "song_id": "rk-00234",
     "file": "_other\\_rock\\_random\\SOAD\\Lonely Day.mp3",
     "title": "Lonely Day",
     "primary_artists": [
@@ -4746,7 +4766,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00234",
+    "song_id": "rk-00235",
     "file": "_other\\_rock\\_random\\SOAD\\Lost In Hollywood.mp3",
     "title": "Lost In Hollywood",
     "primary_artists": [
@@ -4766,7 +4786,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00235",
+    "song_id": "rk-00236",
     "file": "_other\\_rock\\_random\\Sting\\Brand New Day\\01 - A Thousand Years.mp3",
     "title": "A Thousand Years",
     "primary_artists": [
@@ -4786,7 +4806,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00236",
+    "song_id": "rk-00237",
     "file": "_other\\_rock\\_random\\Sting\\Brand New Day\\02 - Desert Rose.mp3",
     "title": "Desert Rose",
     "primary_artists": [
@@ -4806,7 +4826,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00237",
+    "song_id": "rk-00238",
     "file": "_other\\_rock\\_random\\Sting\\Brand New Day\\07 - Prelude To The End Of The Game.mp3",
     "title": "Prelude To The End Of The Game",
     "primary_artists": [
@@ -4826,7 +4846,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00238",
+    "song_id": "rk-00239",
     "file": "_other\\_rock\\_random\\Sting\\Brand New Day\\11 - When We Dance.mp3",
     "title": "When We Dance",
     "primary_artists": [
@@ -4846,7 +4866,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00239",
+    "song_id": "rk-00240",
     "file": "_other\\_rock\\_random\\Sting\\Brand New Day\\13 - Englishman In New York.mp3",
     "title": "Englishman In New York",
     "primary_artists": [
@@ -4866,7 +4886,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00240",
+    "song_id": "rk-00241",
     "file": "_other\\_rock\\_random\\Sting\\Brand New Day\\14 - Mad About You.mp3",
     "title": "Mad About You",
     "primary_artists": [
@@ -4886,7 +4906,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00241",
+    "song_id": "rk-00242",
     "file": "_other\\_rock\\_random\\Sting\\Brand New Day\\15 - Fragile.mp3",
     "title": "Fragile",
     "primary_artists": [
@@ -4906,7 +4926,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00242",
+    "song_id": "rk-00243",
     "file": "_other\\_rock\\_random\\Sting\\Sting - Shape of my Heart.mp3",
     "title": "Shape of my Heart",
     "primary_artists": [
@@ -4926,7 +4946,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00243",
+    "song_id": "rk-00244",
     "file": "_other\\_rock\\_random\\Strung Out\\2011 Top Contenders - The Best Of Strung Out\\11- Analog.mp3",
     "title": "Analog",
     "primary_artists": [
@@ -4946,7 +4966,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00244",
+    "song_id": "rk-00245",
     "file": "_other\\_rock\\_random\\Strung Out\\2011 Top Contenders - The Best Of Strung Out\\20- Saturday Night.mp3",
     "title": "Saturday Night",
     "primary_artists": [
@@ -4966,7 +4986,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00245",
+    "song_id": "rk-00246",
     "file": "_other\\_rock\\_random\\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\\01.Still Waiting.mp3",
     "title": "Still Waiting",
     "primary_artists": [
@@ -4986,7 +5006,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00246",
+    "song_id": "rk-00247",
     "file": "_other\\_rock\\_random\\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\\06.In Too Deep.mp3",
     "title": "In Too Deep",
     "primary_artists": [
@@ -5006,7 +5026,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00247",
+    "song_id": "rk-00248",
     "file": "_other\\_rock\\_random\\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\\08.Underclass Hero.mp3",
     "title": "Underclass Hero",
     "primary_artists": [
@@ -5026,7 +5046,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00248",
+    "song_id": "rk-00249",
     "file": "_other\\_rock\\_random\\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\\Sum 41 - Never There (Official Music Video).mp3",
     "title": "Never There",
     "primary_artists": [
@@ -5046,7 +5066,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00249",
+    "song_id": "rk-00250",
     "file": "_other\\_rock\\_random\\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\\Sum 41 - Over My Head (Better Off Dead) (Official Music Video).mp3",
     "title": "Over My Head (Better Off Dead)",
     "primary_artists": [
@@ -5066,7 +5086,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00250",
+    "song_id": "rk-00251",
     "file": "_other\\_rock\\_random\\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\\Sum 41 - Pieces (Official Music Video).mp3",
     "title": "Pieces",
     "primary_artists": [
@@ -5086,7 +5106,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00251",
+    "song_id": "rk-00252",
     "file": "_other\\_rock\\_random\\Sum 41 - All The Good Shit 14 Solid Gold Hits 2000-2008 (2009) [320] vtwin88cube\\Sum 41 - Some Say (Official Music Video).mp3",
     "title": "Some Say",
     "primary_artists": [
@@ -5106,7 +5126,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00252",
+    "song_id": "rk-00253",
     "file": "_other\\_rock\\_random\\The Doors - Riders on the Storm (Official Audio).mp3",
     "title": "Riders on the Storm",
     "primary_artists": [
@@ -5126,7 +5146,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00253",
+    "song_id": "rk-00254",
     "file": "_other\\_rock\\_random\\The Doors - The Very Best Of 40th Av [MP3-M3U-Log-Cov-CD][Bubanee]\\20. The Doors - The Very Best Of The Doors - The End.mp3",
     "title": "The Very Best Of The Doors - The End",
     "primary_artists": [
@@ -5146,7 +5166,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00254",
+    "song_id": "rk-00255",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\01 Beat the bastards.mp3",
     "title": "Beat the bastards",
     "primary_artists": [
@@ -5166,7 +5186,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00255",
+    "song_id": "rk-00256",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\02 Fuck the system.mp3",
     "title": "Fuck the system",
     "primary_artists": [
@@ -5186,7 +5206,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00256",
+    "song_id": "rk-00257",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\03 Porno slut.mp3",
     "title": "Porno slut",
     "primary_artists": [
@@ -5206,7 +5226,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00257",
+    "song_id": "rk-00258",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\08 Punk not dead.mp3",
     "title": "Punk not dead",
     "primary_artists": [
@@ -5226,7 +5246,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00258",
+    "song_id": "rk-00259",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\09 Army life.mp3",
     "title": "Army life",
     "primary_artists": [
@@ -5246,7 +5266,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00259",
+    "song_id": "rk-00260",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\22 Never sell out.mp3",
     "title": "Never sell out",
     "primary_artists": [
@@ -5266,7 +5286,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00260",
+    "song_id": "rk-00261",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\25 U.S.A.mp3",
     "title": "U.S.A",
     "primary_artists": [
@@ -5286,7 +5306,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00261",
+    "song_id": "rk-00262",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\Mix – The Exploited - Fuck the USA\\Misfits - Dig Up Her Bones.mp3",
     "title": "Dig Up Her Bones",
     "primary_artists": [
@@ -5306,7 +5326,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00262",
+    "song_id": "rk-00263",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\Mix – The Exploited - Fuck the USA\\The Casualties - Unknown Soldier.mp3",
     "title": "Unknown Soldier",
     "primary_artists": [
@@ -5326,7 +5346,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00263",
+    "song_id": "rk-00264",
     "file": "_other\\_rock\\_random\\The Exploited (Best Of The Exploited)\\Mix – The Exploited - Fuck the USA\\The Exploited - Fuck the USA.mp3",
     "title": "Fuck the USA",
     "primary_artists": [
@@ -5346,7 +5366,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00264",
+    "song_id": "rk-00265",
     "file": "_other\\_rock\\_random\\The Offspring - Greatest Hits\\07 - The Offspring - Pretty Fly (For A White Guy).mp3",
     "title": "Pretty Fly (For A White Guy)",
     "primary_artists": [
@@ -5366,7 +5386,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00265",
+    "song_id": "rk-00266",
     "file": "_other\\_rock\\_random\\The Offspring - Greatest Hits\\The Offspring - The Kids Aren_t Alright (Official Music Video).mp3",
     "title": "The Kids Aren t Alright",
     "primary_artists": [
@@ -5386,7 +5406,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00266",
+    "song_id": "rk-00267",
     "file": "_other\\_rock\\_random\\The Offspring - Greatest Hits\\The Offspring - Why Don_t You Get A Job (Official Music Video).mp3",
     "title": "Why Don t You Get A Job",
     "primary_artists": [
@@ -5406,7 +5426,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00267",
+    "song_id": "rk-00268",
     "file": "_other\\_rock\\_random\\The Ramones - 102mb @ 320kbs\\Surfin_ Bird [Live].mp3",
     "title": "Surfin Bird [Live]",
     "primary_artists": [
@@ -5426,7 +5446,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00268",
+    "song_id": "rk-00269",
     "file": "_other\\_rock\\_random\\The Rolling Stones - Forty Licks - Very Best of 2008[www.lokotorrents.com][mp3]\\Cd2\\12 Mixed Emotions.mp3",
     "title": "Mixed Emotions",
     "primary_artists": [
@@ -5446,7 +5466,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00269",
+    "song_id": "rk-00270",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\All Time Low - Dear Maria, Count Me In (Official Music Video).mp3",
     "title": "Dear Maria, Count Me In",
     "primary_artists": [
@@ -5466,7 +5486,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00270",
+    "song_id": "rk-00271",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Bloodhound Gang - The Bad Touch (Explicit).mp3",
     "title": "The Bad Touch (Explicit)",
     "primary_artists": [
@@ -5486,7 +5506,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00271",
+    "song_id": "rk-00272",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Boys Like Girls - The Great Escape.mp3",
     "title": "The Great Escape",
     "primary_artists": [
@@ -5506,7 +5526,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00272",
+    "song_id": "rk-00273",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Chris Barclay-Las Vegas Alien (Official Music Video).mp3",
     "title": "Chris Barclay-Las Vegas Alien",
     "primary_artists": [
@@ -5526,7 +5546,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00273",
+    "song_id": "rk-00274",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Fountains of Wayne - Stacy_s Mom (Official Music Video).mp3",
     "title": "Stacy s Mom",
     "primary_artists": [
@@ -5546,7 +5566,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00274",
+    "song_id": "rk-00275",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Harvey Danger - Flagpole Sitta (Official Music Video).mp3",
     "title": "Flagpole Sitta",
     "primary_artists": [
@@ -5566,7 +5586,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00275",
+    "song_id": "rk-00276",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Hoobastank - The Reason (Official Music Video).mp3",
     "title": "The Reason",
     "primary_artists": [
@@ -5586,7 +5606,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00276",
+    "song_id": "rk-00277",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\My Chemical Romance - Famous Last Words [Official Music Video] [HD].mp3",
     "title": "Famous Last Words",
     "primary_artists": [
@@ -5606,7 +5626,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00277",
+    "song_id": "rk-00278",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\New Radicals - You Get What You Give (Official Music Video).mp3",
     "title": "You Get What You Give",
     "primary_artists": [
@@ -5626,7 +5646,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00278",
+    "song_id": "rk-00279",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Papa Roach - Forever (Live).mp3",
     "title": "Forever (Live)",
     "primary_artists": [
@@ -5646,7 +5666,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00279",
+    "song_id": "rk-00280",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Papa Roach - Last Resort (Squeaky Clean Version) (Official Music Video).mp3",
     "title": "Last Resort (Squeaky Clean Version)",
     "primary_artists": [
@@ -5666,7 +5686,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00280",
+    "song_id": "rk-00281",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Simple Plan - Welcome To My Life (Official Video).mp3",
     "title": "Welcome To My Life",
     "primary_artists": [
@@ -5686,7 +5706,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00281",
+    "song_id": "rk-00282",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Smash Mouth - All Star (Official Music Video).mp3",
     "title": "All Star",
     "primary_artists": [
@@ -5706,7 +5726,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00282",
+    "song_id": "rk-00283",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\sodistilled  - i_d never do that to you (Official Music Video).mp3",
     "title": "i d never do that to you",
     "primary_artists": [
@@ -5726,7 +5746,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00283",
+    "song_id": "rk-00284",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\sodistilled - for the euph (Official Music Video).mp3",
     "title": "for the euph",
     "primary_artists": [
@@ -5746,7 +5766,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00284",
+    "song_id": "rk-00285",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Spiderbait - Black Betty (Official Video).mp3",
     "title": "Black Betty",
     "primary_artists": [
@@ -5766,7 +5786,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00285",
+    "song_id": "rk-00286",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\The Rasmus - In the Shadows (US Version).mp3",
     "title": "In the Shadows (US Version)",
     "primary_artists": [
@@ -5786,7 +5806,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00286",
+    "song_id": "rk-00287",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Three Days Grace - I Hate Everything About You (Official Video).mp3",
     "title": "I Hate Everything About You",
     "primary_artists": [
@@ -5806,7 +5826,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00287",
+    "song_id": "rk-00288",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Uncle Kracker - Follow Me [Official Video].mp3",
     "title": "Follow Me",
     "primary_artists": [
@@ -5826,7 +5846,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00288",
+    "song_id": "rk-00289",
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Wheatus - Teenage Dirtbag (Official Video).mp3",
     "title": "Teenage Dirtbag",
     "primary_artists": [
@@ -5846,7 +5866,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00289",
+    "song_id": "rk-00290",
     "file": "_other\\_rock\\_random\\The Veronicas\\The Veronicas -  Everything I_m Not  Official Music Video.mp3",
     "title": "Everything I m Not",
     "primary_artists": [
@@ -5866,7 +5886,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00290",
+    "song_id": "rk-00291",
     "file": "_other\\_rock\\_random\\The Veronicas\\The Veronicas - I Can_t Stay Away (With lyrics).mp3",
     "title": "I Can t Stay Away (With )",
     "primary_artists": [
@@ -5886,7 +5906,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00291",
+    "song_id": "rk-00292",
     "file": "_other\\_rock\\_random\\The Veronicas\\The Veronicas - Revenge Is Sweeter (Than You Ever Were) Lyrics.mp3",
     "title": "Revenge Is Sweeter (Than You Ever Were)",
     "primary_artists": [
@@ -5906,7 +5926,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00292",
+    "song_id": "rk-00293",
     "file": "_other\\_rock\\_random\\The Veronicas\\The Veronicas - Untouched (Video).mp3",
     "title": "Untouched (Video)",
     "primary_artists": [
@@ -5926,7 +5946,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00293",
+    "song_id": "rk-00294",
     "file": "_other\\_rock\\_random\\The Veronicas\\The Veronicas - Untouched.mp3",
     "title": "Untouched",
     "primary_artists": [
@@ -5946,7 +5966,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00294",
+    "song_id": "rk-00295",
     "file": "_other\\_rock\\_random\\The Veronicas\\The Veronicas - You Ruin Me.mp3",
     "title": "You Ruin Me",
     "primary_artists": [
@@ -5966,7 +5986,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00295",
+    "song_id": "rk-00296",
     "file": "_other\\_rock\\_random\\The Who\\02 - My Generation.mp3",
     "title": "My Generation",
     "primary_artists": [
@@ -5986,7 +6006,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00296",
+    "song_id": "rk-00297",
     "file": "_other\\_rock\\_random\\The_Rasmus_-_Best_Of_(2001-2009)-2009-YSP\\01-the_rasmus_-_in_the_shadows-ysp.mp3",
     "title": "in the shadows-ysp",
     "primary_artists": [
@@ -6006,7 +6026,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00297",
+    "song_id": "rk-00298",
     "file": "_other\\_rock\\_random\\The_Rasmus_-_Best_Of_(2001-2009)-2009-YSP\\03-the_rasmus_-_guilty_(us_mix)-ysp.mp3",
     "title": "guilty (us mix)-ysp",
     "primary_artists": [
@@ -6026,7 +6046,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00298",
+    "song_id": "rk-00299",
     "file": "_other\\_rock\\_random\\Three Days Grace Official Music Videos\\Three Days Grace - I Am Machine (Lyric).mp3",
     "title": "I Am Machine (Lyric)",
     "primary_artists": [
@@ -6046,7 +6066,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00299",
+    "song_id": "rk-00300",
     "file": "_other\\_rock\\_random\\Three Days Grace Official Music Videos\\Three Days Grace - Never Too Late.mp3",
     "title": "Never Too Late",
     "primary_artists": [
@@ -6066,7 +6086,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00300",
+    "song_id": "rk-00301",
     "file": "_other\\_rock\\_random\\TOOL Greatest Hits\\TOOL - H. (Official Audio).mp3",
     "title": "H",
     "primary_artists": [
@@ -6086,7 +6106,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00301",
+    "song_id": "rk-00302",
     "file": "_other\\_rock\\_random\\TOOL Greatest Hits\\TOOL - Right In Two (Audio).mp3",
     "title": "Right In Two (Audio)",
     "primary_artists": [
@@ -6106,7 +6126,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00302",
+    "song_id": "rk-00303",
     "file": "_other\\_rock\\_random\\TOP 100 Greatest 2 Tone, Ska & Mod Revival Songs\\The Lambrettas - Dance.mp3",
     "title": "Dance",
     "primary_artists": [
@@ -6126,7 +6146,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00303",
+    "song_id": "rk-00304",
     "file": "_other\\_rock\\_random\\TOP 100 Greatest 2 Tone, Ska & Mod Revival Songs\\The Selecter - On My Radio.mp3",
     "title": "On My Radio",
     "primary_artists": [
@@ -6146,7 +6166,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00304",
+    "song_id": "rk-00305",
     "file": "_other\\_rock\\_random\\Two Feet\\Besomorph - 2977.mp3",
     "title": "2977",
     "primary_artists": [
@@ -6166,7 +6186,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00305",
+    "song_id": "rk-00306",
     "file": "_other\\_rock\\_random\\Two Feet\\Melis - Waves.mp3",
     "title": "Waves",
     "primary_artists": [
@@ -6186,7 +6206,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00306",
+    "song_id": "rk-00307",
     "file": "_other\\_rock\\_random\\Two Feet\\SVEA - Selfish.mp3",
     "title": "Selfish",
     "primary_artists": [
@@ -6206,7 +6226,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00307",
+    "song_id": "rk-00308",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Back Of My Mind (Official Audio).mp3",
     "title": "Back Of My Mind",
     "primary_artists": [
@@ -6226,7 +6246,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00308",
+    "song_id": "rk-00309",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Go F ck Yourself.mp3",
     "title": "Go F ck Yourself",
     "primary_artists": [
@@ -6246,7 +6266,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00309",
+    "song_id": "rk-00310",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Go Fuck Yourself (Official Video).mp3",
     "title": "Go Fuck Yourself",
     "primary_artists": [
@@ -6266,7 +6286,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00310",
+    "song_id": "rk-00311",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Had Some Drinks.mp3",
     "title": "Had Some Drinks",
     "primary_artists": [
@@ -6286,7 +6306,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00311",
+    "song_id": "rk-00312",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Her Life LYRICS.mp3",
     "title": "Her Life",
     "primary_artists": [
@@ -6306,7 +6326,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00312",
+    "song_id": "rk-00313",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Hurt People (feat. Madison Love) (lyric.mp3",
     "title": "Hurt People (feat. Madison Love) (lyric",
     "primary_artists": [
@@ -6326,7 +6346,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00313",
+    "song_id": "rk-00314",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - I Feel Like I_m Drowning.mp3",
     "title": "I Feel Like I m Drowning",
     "primary_artists": [
@@ -6346,7 +6366,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00314",
+    "song_id": "rk-00315",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - I Want It.mp3",
     "title": "I Want It",
     "primary_artists": [
@@ -6366,7 +6386,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00315",
+    "song_id": "rk-00316",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Love Is A Bitch.mp3",
     "title": "Love Is A Bitch",
     "primary_artists": [
@@ -6386,7 +6406,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00316",
+    "song_id": "rk-00317",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Not A Radio Song.mp3",
     "title": "Not A Radio Song",
     "primary_artists": [
@@ -6406,7 +6426,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00317",
+    "song_id": "rk-00318",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Quick Musical Doodles _ Sex.mp3",
     "title": "Quick Musical Doodles Sex",
     "primary_artists": [
@@ -6426,7 +6446,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00318",
+    "song_id": "rk-00319",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Same Old Song (S.O.S. Part 1) (Audio).mp3",
     "title": "Same Old Song (S.O.S. Part 1) (Audio)",
     "primary_artists": [
@@ -6446,7 +6466,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00319",
+    "song_id": "rk-00320",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Twisted.mp3",
     "title": "Twisted",
     "primary_artists": [
@@ -6466,7 +6486,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00320",
+    "song_id": "rk-00321",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - You_re So Cold (Subtitulos al Español).mp3",
     "title": "You re So Cold (Subtitulos al Español)",
     "primary_artists": [
@@ -6486,7 +6506,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00321",
+    "song_id": "rk-00322",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Your Mother Was Cheaper.mp3",
     "title": "Your Mother Was Cheaper",
     "primary_artists": [
@@ -6506,7 +6526,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00322",
+    "song_id": "rk-00323",
     "file": "_other\\_rock\\_random\\U2 - U218  Singles [UK Bonus Track] [ChattChitto RG]\\U218 Singles\\06 Vertigo [Radio Edit].mp3",
     "title": "Vertigo",
     "primary_artists": [
@@ -6526,7 +6546,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00323",
+    "song_id": "rk-00324",
     "file": "_other\\_rock\\_random\\U2 - U218  Singles [UK Bonus Track] [ChattChitto RG]\\U218 Singles\\13 One.mp3",
     "title": "One",
     "primary_artists": [
@@ -6546,7 +6566,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00324",
+    "song_id": "rk-00325",
     "file": "_other\\_rock\\_random\\Warpaint - Warpaint [2014]\\WARPAINT\\02. Keep It Healthy.mp3",
     "title": "Keep It Healthy",
     "primary_artists": [
@@ -6566,7 +6586,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00325",
+    "song_id": "rk-00326",
     "file": "_other\\_rock\\_random\\Warpaint - Warpaint [2014]\\WARPAINT\\Warpaint - _Billie Holiday (Rough Trade Sessions)_.mp3",
     "title": "Billie Holiday (Rough Trade Sessions)",
     "primary_artists": [
@@ -6586,7 +6606,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00326",
+    "song_id": "rk-00327",
     "file": "_other\\_rock\\_random\\ＨＥＲＯＩＮ.mp3",
     "title": "ＨＥＲＯＩＮ",
     "primary_artists": [
@@ -6606,7 +6626,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rk-00327",
+    "song_id": "rk-00328",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica - conclusion.mp3",
     "title": "conclusion",
     "primary_artists": [
@@ -6626,7 +6646,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00328",
+    "song_id": "rk-00329",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica - Farewell.mp3",
     "title": "Farewell",
     "primary_artists": [
@@ -6646,7 +6666,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00329",
+    "song_id": "rk-00330",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica - No Education.mp3",
     "title": "No Education",
     "primary_artists": [
@@ -6666,7 +6686,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00330",
+    "song_id": "rk-00331",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica - Resurrection.mp3",
     "title": "Resurrection",
     "primary_artists": [
@@ -6686,7 +6706,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00331",
+    "song_id": "rk-00332",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica - The Unforgiven.mp3",
     "title": "The Unforgiven",
     "primary_artists": [
@@ -6706,7 +6726,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00332",
+    "song_id": "rk-00333",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica -- Grace (Feat. Hotei Tomoyasu) [Video].mp3",
     "title": "Apocalyptica -- Grace (Feat. Hotei Tomoyasu) [Video]",
     "primary_artists": [
@@ -6726,7 +6746,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00333",
+    "song_id": "rk-00334",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\apocalyptica somewhere around nothing.mp3",
     "title": "apocalyptica somewhere around nothing",
     "primary_artists": [
@@ -6746,7 +6766,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00334",
+    "song_id": "rk-00335",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica-Drive.mp3",
     "title": "Apocalyptica-Drive",
     "primary_artists": [
@@ -6766,7 +6786,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00335",
+    "song_id": "rk-00336",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica-Hope.mp3",
     "title": "Apocalyptica-Hope",
     "primary_artists": [
@@ -6786,7 +6806,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00336",
+    "song_id": "rk-00337",
     "file": "_other\\_rock\\Blink 182 - All The Small Things.mp3",
     "title": "All The Small Things",
     "primary_artists": [
@@ -6806,7 +6826,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00337",
+    "song_id": "rk-00338",
     "file": "_other\\_rock\\Blur - Song 2 (HD Official Video).mp3",
     "title": "Song 2",
     "primary_artists": [
@@ -6826,7 +6846,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00338",
+    "song_id": "rk-00339",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\BRING ME THE HORIZON - fresh bruises [Official Audio].mp3",
     "title": "fresh bruises",
     "primary_artists": [
@@ -6846,7 +6866,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00339",
+    "song_id": "rk-00340",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\BRING ME THE HORIZON - heavy metal ft. Rahzel [Official Audio].mp3",
     "title": "heavy metal",
     "primary_artists": [
@@ -6874,7 +6894,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00340",
+    "song_id": "rk-00341",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\BRING ME THE HORIZON - i apologise if you feel something [Official Audio].mp3",
     "title": "i apologise if you feel something",
     "primary_artists": [
@@ -6894,7 +6914,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00341",
+    "song_id": "rk-00342",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\BRING ME THE HORIZON - i don_t know what to say [Official Audio].mp3",
     "title": "i don t know what to say",
     "primary_artists": [
@@ -6914,7 +6934,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00342",
+    "song_id": "rk-00343",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\Bring Me The Horizon - MANTRA (Official Video).mp3",
     "title": "MANTRA",
     "primary_artists": [
@@ -6934,7 +6954,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00343",
+    "song_id": "rk-00344",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\Bring Me The Horizon - Medicine (Official Video).mp3",
     "title": "Medicine",
     "primary_artists": [
@@ -6954,7 +6974,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00344",
+    "song_id": "rk-00345",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\Bring Me The Horizon - mother tongue (Official Lyric Video).mp3",
     "title": "mother tongue",
     "primary_artists": [
@@ -6974,7 +6994,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00345",
+    "song_id": "rk-00346",
     "file": "_other\\_rock\\bring me the horizon\\BMTH - a m o (Full Album) - YouTube\\Bring Me The Horizon - wonderful life (Official Lyric Video) ft. Dani Filth.mp3",
     "title": "wonderful life",
     "primary_artists": [
@@ -7002,7 +7022,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00346",
+    "song_id": "rk-00347",
     "file": "_other\\_rock\\bring me the horizon\\Bmth chillout sessions\\BMTH & Draper   Don_t Go   The Chill Out Sessions.mp3",
     "title": "BMTH & Draper Don t Go The Chill Out Sessions",
     "primary_artists": [
@@ -7022,7 +7042,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00347",
+    "song_id": "rk-00348",
     "file": "_other\\_rock\\bring me the horizon\\Bmth chillout sessions\\BMTH & Draper   Memorial   The Chill Out Sessions.mp3",
     "title": "BMTH & Draper Memorial The Chill Out Sessions",
     "primary_artists": [
@@ -7042,7 +7062,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00348",
+    "song_id": "rk-00349",
     "file": "_other\\_rock\\bring me the horizon\\Bmth chillout sessions\\Bring Me The Horizon - Fuck (Draper Edit).mp3",
     "title": "Fuck (Draper Edit)",
     "primary_artists": [
@@ -7062,7 +7082,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00349",
+    "song_id": "rk-00350",
     "file": "_other\\_rock\\bring me the horizon\\Bmth chillout sessions\\Bring Me The Horizon ft. Draper - Blessed With A Curse Chill Out Session Remix.mp3",
     "title": "Blessed With A Curse Chill Out Session Remix",
     "primary_artists": [
@@ -7090,7 +7110,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00350",
+    "song_id": "rk-00351",
     "file": "_other\\_rock\\bring me the horizon\\Bmth chillout sessions\\Bring Me The Horizon ft. Draper - Crucify Me Chill Out Session Remix.mp3",
     "title": "Crucify Me Chill Out Session Remix",
     "primary_artists": [
@@ -7118,7 +7138,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00351",
+    "song_id": "rk-00352",
     "file": "_other\\_rock\\bring me the horizon\\Bmth chillout sessions\\Bring Me The Horizon ft. Draper - It Never Ends Chill Out Session Remix.mp3",
     "title": "It Never Ends Chill Out Session Remix",
     "primary_artists": [
@@ -7146,7 +7166,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00352",
+    "song_id": "rk-00353",
     "file": "_other\\_rock\\bring me the horizon\\BMTH- Suicide Season (Full Album) - YouTube\\BMTH- The Sadness Will Never End (Audio).mp3",
     "title": "BMTH- The Sadness Will Never End (Audio)",
     "primary_artists": [
@@ -7166,7 +7186,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00353",
+    "song_id": "rk-00354",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\02 Parasite Eve.mp3",
     "title": "Parasite Eve",
     "primary_artists": [
@@ -7186,7 +7206,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00354",
+    "song_id": "rk-00355",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\03 Teardrops.mp3",
     "title": "Teardrops",
     "primary_artists": [
@@ -7206,7 +7226,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00355",
+    "song_id": "rk-00356",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\04 Obey (with YUNGBLUD).mp3",
     "title": "Obey (with YUNGBLUD)",
     "primary_artists": [
@@ -7226,7 +7246,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00356",
+    "song_id": "rk-00357",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\07 1x1 (feat. Nova Twins).mp3",
     "title": "1x1 (feat. Nova Twins)",
     "primary_artists": [
@@ -7246,7 +7266,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00357",
+    "song_id": "rk-00358",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\08 Ludens.mp3",
     "title": "Ludens",
     "primary_artists": [
@@ -7266,7 +7286,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00358",
+    "song_id": "rk-00359",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\09 One Day the Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee).mp3",
     "title": "One Day the Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)",
     "primary_artists": [
@@ -7286,7 +7306,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00359",
+    "song_id": "rk-00360",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Sempiternal (2013) - YouTube\\Bring Me The Horizon - And the Snakes Start to Sing.mp3",
     "title": "And the Snakes Start to Sing",
     "primary_artists": [
@@ -7306,7 +7326,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00360",
+    "song_id": "rk-00361",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Sempiternal (2013) - YouTube\\Bring Me The Horizon - Chasing Rainbows (Bonus Track).mp3",
     "title": "Chasing Rainbows (Bonus Track)",
     "primary_artists": [
@@ -7326,7 +7346,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00361",
+    "song_id": "rk-00362",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Sempiternal (2013) - YouTube\\Bring Me The Horizon - Deathbeds (Bonus Track).mp3",
     "title": "Deathbeds (Bonus Track)",
     "primary_artists": [
@@ -7346,7 +7366,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00362",
+    "song_id": "rk-00363",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Sempiternal (2013) - YouTube\\Bring Me The Horizon - Hospital for Souls.mp3",
     "title": "Hospital for Souls",
     "primary_artists": [
@@ -7366,7 +7386,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00363",
+    "song_id": "rk-00364",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Sempiternal (2013) - YouTube\\Bring Me The Horizon - Shadow Moses.mp3",
     "title": "Shadow Moses",
     "primary_artists": [
@@ -7386,7 +7406,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00364",
+    "song_id": "rk-00365",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Sempiternal (2013) - YouTube\\Bring Me The Horizon - Sleepwalking.mp3",
     "title": "Sleepwalking",
     "primary_artists": [
@@ -7406,7 +7426,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00365",
+    "song_id": "rk-00366",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - That_s The Spirit [Full Album] - YouTube\\Follow You.mp3",
     "title": "Follow You",
     "primary_artists": [
@@ -7426,7 +7446,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00366",
+    "song_id": "rk-00367",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - That_s The Spirit [Full Album] - YouTube\\Run.mp3",
     "title": "Run",
     "primary_artists": [
@@ -7446,7 +7466,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00367",
+    "song_id": "rk-00368",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - There Is A Hell (Full Album Stream) - YouTube\\Bring Me The Horizon -  Blessed With A Curse.mp3",
     "title": "Blessed",
     "primary_artists": [
@@ -7466,7 +7486,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00368",
+    "song_id": "rk-00369",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - There Is A Hell (Full Album Stream) - YouTube\\Bring Me The Horizon -  Crucify Me  (Full Album Stream).mp3",
     "title": "Crucify Me (Full Album Stream)",
     "primary_artists": [
@@ -7486,7 +7506,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00369",
+    "song_id": "rk-00370",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - There Is A Hell (Full Album Stream) - YouTube\\Bring Me The Horizon -  Don_t Go  (Full Album Stream).mp3",
     "title": "Don t Go (Full Album Stream)",
     "primary_artists": [
@@ -7506,7 +7526,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00370",
+    "song_id": "rk-00371",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - Can You Feel My Heart (Offi.mp3",
     "title": "Can You Feel My Heart (Offi",
     "primary_artists": [
@@ -7526,7 +7546,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00371",
+    "song_id": "rk-00372",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - Follow You (Official Music.mp3",
     "title": "Follow You (Official Music",
     "primary_artists": [
@@ -7546,7 +7566,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00372",
+    "song_id": "rk-00373",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - Go To Hell, For Heaven_s Sa.mp3",
     "title": "Go To Hell, For Heaven s Sa",
     "primary_artists": [
@@ -7566,7 +7586,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00373",
+    "song_id": "rk-00374",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - heavy metal (Lyric Video) f.mp3",
     "title": "heavy metal f",
     "primary_artists": [
@@ -7586,7 +7606,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00374",
+    "song_id": "rk-00375",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - in the dark (Official Lyric.mp3",
     "title": "in the dark (Official Lyric",
     "primary_artists": [
@@ -7606,7 +7626,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00375",
+    "song_id": "rk-00376",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - It Never Ends.mp3",
     "title": "It Never Ends",
     "primary_artists": [
@@ -7626,7 +7646,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00376",
+    "song_id": "rk-00377",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - nihilist blues ft. Grimes (.mp3",
     "title": "nihilist blues",
     "primary_artists": [
@@ -7654,7 +7674,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00377",
+    "song_id": "rk-00378",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - Throne (Official Video).mp3",
     "title": "Throne",
     "primary_artists": [
@@ -7674,7 +7694,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00378",
+    "song_id": "rk-00379",
     "file": "_other\\_rock\\bring me the horizon\\Legnépszerűbb számok -- Bring Me the Horizon - You\\Bring Me The Horizon - True Friends (Official Lyri.mp3",
     "title": "True Friends (Official Lyri",
     "primary_artists": [
@@ -7694,7 +7714,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00379",
+    "song_id": "rk-00380",
     "file": "_other\\_rock\\bring me the horizon\\Music to Listen To  - YouTube\\Candy Truck   You Expected LAB Your Result Green.mp3",
     "title": "Candy Truck You Expected LAB Your Result Green",
     "primary_artists": [
@@ -7714,7 +7734,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00380",
+    "song_id": "rk-00381",
     "file": "_other\\_rock\\bring me the horizon\\Music to Listen To  - YouTube\\Dead Dolphin Sounds _aid brain growth in unborn child_ Virtual Therapy   Nature Healing 2 Hours.mp3",
     "title": "Dead Dolphin Sounds aid brain growth in unborn child Virtual Therapy Nature Healing 2 Hours",
     "primary_artists": [
@@ -7734,7 +7754,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00381",
+    "song_id": "rk-00382",
     "file": "_other\\_rock\\bring me the horizon\\Music to Listen To  - YouTube\\like seeing spiders running riot on your lover_s grave.mp3",
     "title": "like seeing spiders running riot on your lover s grave",
     "primary_artists": [
@@ -7754,7 +7774,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00382",
+    "song_id": "rk-00383",
     "file": "_other\\_rock\\bring me the horizon\\Music to Listen To  - YouTube\\Underground Big (HEADFULOFHYENA).mp3",
     "title": "Underground Big (HEADFULOFHYENA)",
     "primary_artists": [
@@ -7774,7 +7794,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00383",
+    "song_id": "rk-00384",
     "file": "_other\\_rock\\bring me the horizon\\Music to Listen To  - YouTube\\±ªþ³§.mp3",
     "title": "±ªþ³§",
     "primary_artists": [
@@ -7794,7 +7814,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00384",
+    "song_id": "rk-00385",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - a bulleT w  my namE On (Lyric Video) ft. Underoath.mp3",
     "title": "a bulleT w my namE On",
     "primary_artists": [
@@ -7822,7 +7842,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00385",
+    "song_id": "rk-00386",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - AmEN! (Official Video) ft. Lil Uzi Vert, Daryl Palumbo, Glassjaw.mp3",
     "title": "AmEN!",
     "primary_artists": [
@@ -7864,7 +7884,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00386",
+    "song_id": "rk-00387",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - DArkSide (Lyric Video).mp3",
     "title": "DArkSide",
     "primary_artists": [
@@ -7884,7 +7904,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00387",
+    "song_id": "rk-00388",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - DiE4u (Official Video).mp3",
     "title": "DiE4u",
     "primary_artists": [
@@ -7904,7 +7924,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00388",
+    "song_id": "rk-00389",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - DIg It (Lyric Video).mp3",
     "title": "DIg It",
     "primary_artists": [
@@ -7924,7 +7944,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00389",
+    "song_id": "rk-00390",
     "file": "_other\\_rock\\bring me the horizon\\𝙋𝙊𝙎𝙏 𝙃𝙐𝙈𝘼𝙉 𝙉𝙚𝙓 𝙂𝙀𝙣\\Bring Me The Horizon - liMOusIne (Lyric Video) ft. AURORA.mp3",
     "title": "liMOusIne",
     "primary_artists": [
@@ -7952,7 +7972,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00390",
+    "song_id": "rk-00391",
     "file": "_other\\_rock\\Chumbawamba - Tubthumping.mp3",
     "title": "Tubthumping",
     "primary_artists": [
@@ -7972,7 +7992,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00391",
+    "song_id": "rk-00392",
     "file": "_other\\_rock\\Crazy Town - Butterfly.mp3",
     "title": "Butterfly",
     "primary_artists": [
@@ -7992,7 +8012,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00392",
+    "song_id": "rk-00393",
     "file": "_other\\_rock\\Daughtry - It_s Not Over.mp3",
     "title": "It s Not Over",
     "primary_artists": [
@@ -8012,7 +8032,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00393",
+    "song_id": "rk-00394",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Around the Fur.mp3",
     "title": "Around the Fur",
     "primary_artists": [
@@ -8032,7 +8052,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00394",
+    "song_id": "rk-00395",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Be Quiet and Drive (Far Away).mp3",
     "title": "Be Quiet and Drive (Far Away)",
     "primary_artists": [
@@ -8052,7 +8072,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00395",
+    "song_id": "rk-00396",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Beauty School.mp3",
     "title": "Beauty School",
     "primary_artists": [
@@ -8072,7 +8092,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00396",
+    "song_id": "rk-00397",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Bloody Cape.mp3",
     "title": "Bloody Cape",
     "primary_artists": [
@@ -8092,7 +8112,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00397",
+    "song_id": "rk-00398",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Change (In the House of Flies).mp3",
     "title": "Change (In the House of Flies)",
     "primary_artists": [
@@ -8112,7 +8132,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00398",
+    "song_id": "rk-00399",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Deftones - Bored [Official Music Video].mp3",
     "title": "Bored",
     "primary_artists": [
@@ -8132,7 +8152,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00399",
+    "song_id": "rk-00400",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Deftones – Leathers (Stephen Carpenter Play-Through).mp3",
     "title": "Leathers (Stephen Carpenter Play-Through)",
     "primary_artists": [
@@ -8152,7 +8172,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00400",
+    "song_id": "rk-00401",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Diamond Eyes.mp3",
     "title": "Diamond Eyes",
     "primary_artists": [
@@ -8172,7 +8192,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00401",
+    "song_id": "rk-00402",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Digital Bath.mp3",
     "title": "Digital Bath",
     "primary_artists": [
@@ -8192,7 +8212,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00402",
+    "song_id": "rk-00403",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Passenger.mp3",
     "title": "Passenger",
     "primary_artists": [
@@ -8212,7 +8232,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00403",
+    "song_id": "rk-00404",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\Rosemary.mp3",
     "title": "Rosemary",
     "primary_artists": [
@@ -8232,7 +8252,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00404",
+    "song_id": "rk-00405",
     "file": "_other\\_rock\\Deftones Greatest Hits 2022\\U,U,D,D,L,R,L,R,A,B,Select,Start.mp3",
     "title": "U,U,D,D,L,R,L,R,A,B,Select,Start",
     "primary_artists": [
@@ -8252,7 +8272,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00405",
+    "song_id": "rk-00406",
     "file": "_other\\_rock\\Elle King - Ex_s _ Oh_s.mp3",
     "title": "Ex s Oh s",
     "primary_artists": [
@@ -8272,7 +8292,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00406",
+    "song_id": "rk-00407",
     "file": "_other\\_rock\\EMF - Unbelievable.mp3",
     "title": "Unbelievable",
     "primary_artists": [
@@ -8292,7 +8312,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00407",
+    "song_id": "rk-00408",
     "file": "_other\\_rock\\Fall Out Boy- Thanks For The Memories.mp3",
     "title": "Thanks For The Memories",
     "primary_artists": [
@@ -8312,7 +8332,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00408",
+    "song_id": "rk-00409",
     "file": "_other\\_rock\\Green Day - 21 Guns.mp3",
     "title": "Guns",
     "primary_artists": [
@@ -8332,7 +8352,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00409",
+    "song_id": "rk-00410",
     "file": "_other\\_rock\\GreenDay - Discography\\(2001) International Superhits\\Green Day -05- Basket Case.mp3",
     "title": "Green Day -05- Basket Case",
     "primary_artists": [
@@ -8352,7 +8372,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00410",
+    "song_id": "rk-00411",
     "file": "_other\\_rock\\GreenDay - Discography\\(2004) American Idiot\\Green Day -04- Boulevard of Broken Dreams.mp3",
     "title": "Green Day -04- Boulevard of Broken Dreams",
     "primary_artists": [
@@ -8372,7 +8392,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00411",
+    "song_id": "rk-00412",
     "file": "_other\\_rock\\GreenDay - Discography\\(2004) American Idiot\\Green Day -11- Wake Me Up When September Ends.mp3",
     "title": "Green Day -11- Wake Me Up When September Ends",
     "primary_artists": [
@@ -8392,7 +8412,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00412",
+    "song_id": "rk-00413",
     "file": "_other\\_rock\\GreenDay - Discography\\(2004) American Idiot\\Green Day -13- Whatsername.mp3",
     "title": "Green Day -13- Whatsername",
     "primary_artists": [
@@ -8412,7 +8432,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00413",
+    "song_id": "rk-00414",
     "file": "_other\\_rock\\GreenDay - Discography\\05_07 Green Day - Boulevard of Broken Dreams.mp3",
     "title": "Boulevard of Broken Dreams",
     "primary_artists": [
@@ -8432,7 +8452,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00414",
+    "song_id": "rk-00415",
     "file": "_other\\_rock\\GreenDay - Discography\\05_39 Green Day - Holiday.mp3",
     "title": "Holiday",
     "primary_artists": [
@@ -8452,7 +8472,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00415",
+    "song_id": "rk-00416",
     "file": "_other\\_rock\\GreenDay - Discography\\05_46 Green Day - Wake Me Up When September Ends.mp3",
     "title": "Wake Me Up When September Ends",
     "primary_artists": [
@@ -8472,7 +8492,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00416",
+    "song_id": "rk-00417",
     "file": "_other\\_rock\\GreenDay - Discography\\Green Day - 21st Century Breakdown (2009)\\16 21 Guns.mp3",
     "title": "21 Guns",
     "primary_artists": [
@@ -8492,7 +8512,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00417",
+    "song_id": "rk-00418",
     "file": "_other\\_rock\\GreenDay - Discography\\Green Day - American Idiot [Official Music Video] [4K Upgrade].mp3",
     "title": "American Idiot [4K Upgrade]",
     "primary_artists": [
@@ -8512,7 +8532,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00418",
+    "song_id": "rk-00419",
     "file": "_other\\_rock\\GreenDay - Discography\\Green Day - Brain Stew Jaded [Official Music Video].mp3",
     "title": "Brain Stew Jaded",
     "primary_artists": [
@@ -8532,7 +8552,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00419",
+    "song_id": "rk-00420",
     "file": "_other\\_rock\\GreenDay - Discography\\Green Day - Holiday [Official Music Video] [4K Upgrade].mp3",
     "title": "Holiday [4K Upgrade]",
     "primary_artists": [
@@ -8552,7 +8572,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00420",
+    "song_id": "rk-00421",
     "file": "_other\\_rock\\GreenDay - Discography\\Green Day - Redundant [Official Music Video].mp3",
     "title": "Redundant",
     "primary_artists": [
@@ -8572,7 +8592,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00421",
+    "song_id": "rk-00422",
     "file": "_other\\_rock\\Jet - Are You Gonna Be My Girl.mp3",
     "title": "Are You Gonna Be My Girl",
     "primary_artists": [
@@ -8592,7 +8612,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00422",
+    "song_id": "rk-00423",
     "file": "_other\\_rock\\Jimmy Eat World - The Middle.mp3",
     "title": "The Middle",
     "primary_artists": [
@@ -8612,7 +8632,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00423",
+    "song_id": "rk-00424",
     "file": "_other\\_rock\\kid rock - all summer long.mp3",
     "title": "all summer long",
     "primary_artists": [
@@ -8632,7 +8652,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00424",
+    "song_id": "rk-00425",
     "file": "_other\\_rock\\Kings Of Leon\\Kings of Leon - Closer (HQ).mp3",
     "title": "Closer",
     "primary_artists": [
@@ -8652,7 +8672,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00425",
+    "song_id": "rk-00426",
     "file": "_other\\_rock\\Kings Of Leon\\Kings Of Leon - Sex On Fire.mp3",
     "title": "Sex On Fire",
     "primary_artists": [
@@ -8672,7 +8692,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00426",
+    "song_id": "rk-00427",
     "file": "_other\\_rock\\Kings Of Leon\\Kings Of Leon - Use Somebody.mp3",
     "title": "Use Somebody",
     "primary_artists": [
@@ -8692,7 +8712,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00427",
+    "song_id": "rk-00428",
     "file": "_other\\_rock\\Kings Of Leon\\Kings Of Leon - Use Somebody__1.mp3",
     "title": "Use Somebody 1",
     "primary_artists": [
@@ -8712,7 +8732,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00428",
+    "song_id": "rk-00429",
     "file": "_other\\_rock\\KoRn - Twisted Transistor.mp3",
     "title": "Twisted Transistor",
     "primary_artists": [
@@ -8732,7 +8752,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00429",
+    "song_id": "rk-00430",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Behind Blue Eyes.mp3",
     "title": "Behind Blue Eyes",
     "primary_artists": [
@@ -8752,7 +8772,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00430",
+    "song_id": "rk-00431",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Boiler.mp3",
     "title": "Boiler",
     "primary_artists": [
@@ -8772,7 +8792,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00431",
+    "song_id": "rk-00432",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Break Stuff.mp3",
     "title": "Break Stuff",
     "primary_artists": [
@@ -8792,7 +8812,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00432",
+    "song_id": "rk-00433",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Build A Bridge.mp3",
     "title": "Build A Bridge",
     "primary_artists": [
@@ -8812,7 +8832,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00433",
+    "song_id": "rk-00434",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Counterfeit.mp3",
     "title": "Counterfeit",
     "primary_artists": [
@@ -8832,7 +8852,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00434",
+    "song_id": "rk-00435",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Eat You Alive.mp3",
     "title": "Eat You Alive",
     "primary_artists": [
@@ -8852,7 +8872,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00435",
+    "song_id": "rk-00436",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Home Sweet Home  Bittersweet Symphony.mp3",
     "title": "Home Sweet Home Bittersweet Symphony",
     "primary_artists": [
@@ -8872,7 +8892,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00436",
+    "song_id": "rk-00437",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Lean On Me.mp3",
     "title": "Lean On Me",
     "primary_artists": [
@@ -8892,7 +8912,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00437",
+    "song_id": "rk-00438",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - My Generation.mp3",
     "title": "My Generation",
     "primary_artists": [
@@ -8912,7 +8932,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00438",
+    "song_id": "rk-00439",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - My Way.mp3",
     "title": "My Way",
     "primary_artists": [
@@ -8932,7 +8952,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00439",
+    "song_id": "rk-00440",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - N 2 Gether Now.mp3",
     "title": "N 2 Gether Now",
     "primary_artists": [
@@ -8952,7 +8972,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00440",
+    "song_id": "rk-00441",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Nookie.mp3",
     "title": "Nookie",
     "primary_artists": [
@@ -8972,7 +8992,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00441",
+    "song_id": "rk-00442",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Re-Arranged.mp3",
     "title": "Re-Arranged",
     "primary_artists": [
@@ -8992,7 +9012,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00442",
+    "song_id": "rk-00443",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Rollin_.mp3",
     "title": "Rollin",
     "primary_artists": [
@@ -9012,7 +9032,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00443",
+    "song_id": "rk-00444",
     "file": "_other\\_rock\\Limp Bizkit - Greatest Hitz\\Limp Bizkit - Take A Look Around.mp3",
     "title": "Take A Look Around",
     "primary_artists": [
@@ -9032,7 +9052,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00444",
+    "song_id": "rk-00445",
     "file": "_other\\_rock\\Linkin Park - Breaking the Habit.mp3",
     "title": "Breaking the Habit",
     "primary_artists": [
@@ -9052,7 +9072,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00445",
+    "song_id": "rk-00446",
     "file": "_other\\_rock\\Linkin Park Discography\\Hybrid Theory\\Linkin Park - Hybrid Theory - 01 - Papercut.mp3",
     "title": "Hybrid Theory - 01 - Papercut",
     "primary_artists": [
@@ -9072,7 +9092,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00446",
+    "song_id": "rk-00447",
     "file": "_other\\_rock\\Linkin Park Discography\\Hybrid Theory\\Linkin Park - Hybrid Theory - 04 - Points Of Authority.mp3",
     "title": "Hybrid Theory - 04 - Points Of Authority",
     "primary_artists": [
@@ -9092,7 +9112,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00447",
+    "song_id": "rk-00448",
     "file": "_other\\_rock\\Linkin Park Discography\\Hybrid Theory\\Linkin Park - Hybrid Theory - 08 - In The End.mp3",
     "title": "Hybrid Theory - 08 - In The End",
     "primary_artists": [
@@ -9112,7 +9132,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00448",
+    "song_id": "rk-00449",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - A Thousand Suns (Full Album)\\Burning In The Skies (Official International Video) - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
@@ -9132,7 +9152,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00449",
+    "song_id": "rk-00450",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Figure .09.mp3",
     "title": "Figure .09",
     "primary_artists": [
@@ -9152,7 +9172,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00450",
+    "song_id": "rk-00451",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - From Zero (Full Album)\\Heavy Is the Crown.mp3",
     "title": "Heavy Is the Crown",
     "primary_artists": [
@@ -9172,7 +9192,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00451",
+    "song_id": "rk-00452",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\Bleed It Out (Official Music Video) [4K Upgrade] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
@@ -9192,7 +9212,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00452",
+    "song_id": "rk-00453",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\Given Up [Official Music Video] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
@@ -9212,7 +9232,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00453",
+    "song_id": "rk-00454",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\Leave Out All The Rest (Official Music Video) [4K Upgrade] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
@@ -9232,7 +9252,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00454",
+    "song_id": "rk-00455",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\No More Sorrow - Linkin Park (Minutes To Midnight).mp3",
     "title": "Linkin Park (Minutes To Midnight)",
     "primary_artists": [
@@ -9252,7 +9272,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00455",
+    "song_id": "rk-00456",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\What I've Done (Official Music Video) [4K Upgrade] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
@@ -9272,7 +9292,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00456",
+    "song_id": "rk-00457",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - The Hunting Party (Full Album)\\Wastelands (Official Lyric Video) - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
@@ -9292,7 +9312,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00457",
+    "song_id": "rk-00458",
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park Living Things Full Album\\BURN IT DOWN.mp3",
     "title": "BURN IT DOWN",
     "primary_artists": [
@@ -9312,7 +9332,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00458",
+    "song_id": "rk-00459",
     "file": "_other\\_rock\\Linkin Park Discography\\Meteora\\Linkin Park - Meteora - 03 - Somewhere I Belong.mp3",
     "title": "Meteora - 03 - Somewhere I Belong",
     "primary_artists": [
@@ -9332,7 +9352,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00459",
+    "song_id": "rk-00460",
     "file": "_other\\_rock\\Linkin Park Discography\\Meteora\\Linkin Park - Meteora - 04 - Lying From You.mp3",
     "title": "Meteora - 04 - Lying From You",
     "primary_artists": [
@@ -9352,7 +9372,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00460",
+    "song_id": "rk-00461",
     "file": "_other\\_rock\\Linkin Park Discography\\Meteora\\Linkin Park - Meteora - 07 - Faint.mp3",
     "title": "Meteora - 07 - Faint",
     "primary_artists": [
@@ -9372,7 +9392,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00461",
+    "song_id": "rk-00462",
     "file": "_other\\_rock\\Linkin Park Discography\\Meteora\\Linkin Park - Meteora - 08 - Figure.09.mp3",
     "title": "Meteora - 08 - Figure.09",
     "primary_artists": [
@@ -9392,7 +9412,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00462",
+    "song_id": "rk-00463",
     "file": "_other\\_rock\\Linkin Park Discography\\Meteora\\Linkin Park - Meteora - 09 - Breaking The Habit.mp3",
     "title": "Meteora - 09 - Breaking The Habit",
     "primary_artists": [
@@ -9412,7 +9432,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00463",
+    "song_id": "rk-00464",
     "file": "_other\\_rock\\Linkin Park Discography\\Meteora\\Linkin Park - Meteora - 10 - From The Inside.mp3",
     "title": "Meteora - 10 - From The Inside",
     "primary_artists": [
@@ -9432,7 +9452,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00464",
+    "song_id": "rk-00465",
     "file": "_other\\_rock\\Linkin Park Discography\\Reanimation\\Linkin Park - Reanimation - 18 - Kyur4 Th Ich.mp3",
     "title": "Reanimation - 18 - Kyur4 Th Ich",
     "primary_artists": [
@@ -9452,7 +9472,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00465",
+    "song_id": "rk-00466",
     "file": "_other\\_rock\\Marilyn Manson tracks\\Marilyn Manson - Personal Jesus.mp3",
     "title": "Personal Jesus",
     "primary_artists": [
@@ -9472,7 +9492,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00466",
+    "song_id": "rk-00467",
     "file": "_other\\_rock\\Marilyn Manson tracks\\Tainted Love - Marilyn Manson (Music Video + Lyrics).mp3",
     "title": "Marilyn Manson (Music Video + )",
     "primary_artists": [
@@ -9492,7 +9512,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00467",
+    "song_id": "rk-00468",
     "file": "_other\\_rock\\Maroon 5- Wake Up Call.mp3",
     "title": "Wake Up Call",
     "primary_artists": [
@@ -9512,7 +9532,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00468",
+    "song_id": "rk-00469",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\4 Nick Cave _ The Bad Seeds Are You The One That I_ve Been Waiting For.mp3",
     "title": "Nick Cave The Bad Seeds Are You The One That I ve Been Waiting For",
     "primary_artists": [
@@ -9538,7 +9558,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00469",
+    "song_id": "rk-00470",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Grinderman - Man In The Moon.mp3",
     "title": "Man In The Moon",
     "primary_artists": [
@@ -9558,7 +9578,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00470",
+    "song_id": "rk-00471",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave - As I Sat Sadly By Her Side (Album Version).mp3",
     "title": "As I Sat Sadly By Her Side (Album Version)",
     "primary_artists": [
@@ -9578,7 +9598,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00471",
+    "song_id": "rk-00472",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\NICK CAVE - To Be By Your Side.mp3",
     "title": "To Be By Your Side",
     "primary_artists": [
@@ -9598,7 +9618,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00472",
+    "song_id": "rk-00473",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Mermaids (Lyric Video).mp3",
     "title": "Mermaids",
     "primary_artists": [
@@ -9618,7 +9638,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00473",
+    "song_id": "rk-00474",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\01 Jesus Alone.mp3",
     "title": "Jesus Alone",
     "primary_artists": [
@@ -9644,7 +9664,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00474",
+    "song_id": "rk-00475",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\02 Rings of Saturn.mp3",
     "title": "Rings of Saturn",
     "primary_artists": [
@@ -9670,7 +9690,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00475",
+    "song_id": "rk-00476",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\03 Girl in Amber.mp3",
     "title": "Girl in Amber",
     "primary_artists": [
@@ -9696,7 +9716,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00476",
+    "song_id": "rk-00477",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\04 Magneto.mp3",
     "title": "Magneto",
     "primary_artists": [
@@ -9722,7 +9742,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00477",
+    "song_id": "rk-00478",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\05 Anthrocene.mp3",
     "title": "Anthrocene",
     "primary_artists": [
@@ -9748,7 +9768,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00478",
+    "song_id": "rk-00479",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\06 I Need You.mp3",
     "title": "I Need You",
     "primary_artists": [
@@ -9774,7 +9794,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00479",
+    "song_id": "rk-00480",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\07 Distant Sky.mp3",
     "title": "Distant Sky",
     "primary_artists": [
@@ -9800,7 +9820,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00480",
+    "song_id": "rk-00481",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - Skeleton Tree\\08 Skeleton Tree.mp3",
     "title": "Skeleton Tree",
     "primary_artists": [
@@ -9826,7 +9846,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00481",
+    "song_id": "rk-00482",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave _ The Bad Seeds - The Weeping Song.mp3",
     "title": "The Weeping Song",
     "primary_artists": [
@@ -9846,7 +9866,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00482",
+    "song_id": "rk-00483",
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Nick Cave-The Mercy Seat (acoustic version).mp3",
     "title": "Nick Cave-The Mercy Seat (acoustic version)",
     "primary_artists": [
@@ -9872,7 +9892,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00483",
+    "song_id": "rk-00484",
     "file": "_other\\_rock\\NickelBack\\NickelBack - How You Remind Me.mp3",
     "title": "How You Remind Me",
     "primary_artists": [
@@ -9892,7 +9912,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00484",
+    "song_id": "rk-00485",
     "file": "_other\\_rock\\NickelBack\\NickelBack - Photograph.mp3",
     "title": "Photograph",
     "primary_artists": [
@@ -9912,7 +9932,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00485",
+    "song_id": "rk-00486",
     "file": "_other\\_rock\\Oasis playlist - BEST songs\\Oasis - Don’t Look Back In Anger.mp3",
     "title": "Don’t Look Back In Anger",
     "primary_artists": [
@@ -9932,7 +9952,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00486",
+    "song_id": "rk-00487",
     "file": "_other\\_rock\\Oasis playlist - BEST songs\\Oasis - Lyla.mp3",
     "title": "Lyla",
     "primary_artists": [
@@ -9952,7 +9972,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00487",
+    "song_id": "rk-00488",
     "file": "_other\\_rock\\Oasis playlist - BEST songs\\Oasis - Morning Glory (Official HD Remastered Video).mp3",
     "title": "Morning Glory (Official Remastered Video)",
     "primary_artists": [
@@ -9972,7 +9992,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00488",
+    "song_id": "rk-00489",
     "file": "_other\\_rock\\Oasis playlist - BEST songs\\Oasis - Stop Crying Your Heart Out (Official Video).mp3",
     "title": "Stop Crying Your Heart Out",
     "primary_artists": [
@@ -9992,7 +10012,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00489",
+    "song_id": "rk-00490",
     "file": "_other\\_rock\\Oasis playlist - BEST songs\\Oasis - Supersonic (Official HD Remastered Video).mp3",
     "title": "Supersonic (Official Remastered Video)",
     "primary_artists": [
@@ -10012,7 +10032,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00490",
+    "song_id": "rk-00491",
     "file": "_other\\_rock\\Placebo - Greatest Hits\\CD1\\01 - Meds.mp3",
     "title": "Meds",
     "primary_artists": [
@@ -10032,7 +10052,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00491",
+    "song_id": "rk-00492",
     "file": "_other\\_rock\\Placebo - Greatest Hits\\CD1\\03 - Every You Every Me.mp3",
     "title": "Every You Every Me",
     "primary_artists": [
@@ -10052,7 +10072,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00492",
+    "song_id": "rk-00493",
     "file": "_other\\_rock\\Placebo - Greatest Hits\\CD1\\04 - The Bitter End.mp3",
     "title": "The Bitter End",
     "primary_artists": [
@@ -10072,7 +10092,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00493",
+    "song_id": "rk-00494",
     "file": "_other\\_rock\\Placebo - Greatest Hits\\CD1\\16 - Black-Eyed.mp3",
     "title": "Black-Eyed",
     "primary_artists": [
@@ -10092,7 +10112,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00494",
+    "song_id": "rk-00495",
     "file": "_other\\_rock\\Placebo - Greatest Hits\\CD2\\05 - You Don_t Care About Us.mp3",
     "title": "You Don t Care About Us",
     "primary_artists": [
@@ -10112,7 +10132,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00495",
+    "song_id": "rk-00496",
     "file": "_other\\_rock\\Placebo - Greatest Hits\\CD2\\12 - Days Before You Came.mp3",
     "title": "Days Before You Came",
     "primary_artists": [
@@ -10132,7 +10152,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00496",
+    "song_id": "rk-00497",
     "file": "_other\\_rock\\Placebo - Greatest Hits\\CD2\\21 - Song to Say Goodbye.mp3",
     "title": "Song to Say Goodbye",
     "primary_artists": [
@@ -10152,7 +10172,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00497",
+    "song_id": "rk-00498",
     "file": "_other\\_rock\\Queen Playlist\\Queen -  Bicycle Race.mp3",
     "title": "Bicycle Race",
     "primary_artists": [
@@ -10172,7 +10192,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00498",
+    "song_id": "rk-00499",
     "file": "_other\\_rock\\Queen Playlist\\Queen - Don_t Lose Your Head (Lyrics).mp3",
     "title": "Don t Lose Your Head",
     "primary_artists": [
@@ -10192,7 +10212,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00499",
+    "song_id": "rk-00500",
     "file": "_other\\_rock\\Queen Playlist\\Queen - Don_t Stop Me Now.mp3",
     "title": "Don t Stop Me Now",
     "primary_artists": [
@@ -10212,7 +10232,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00500",
+    "song_id": "rk-00501",
     "file": "_other\\_rock\\Queen Playlist\\Queen - I Want It All (Official Video).mp3",
     "title": "I Want It All",
     "primary_artists": [
@@ -10232,7 +10252,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00501",
+    "song_id": "rk-00502",
     "file": "_other\\_rock\\Queen Playlist\\Queen - I Want To Break Free (Official Video).mp3",
     "title": "I Want To Break Free",
     "primary_artists": [
@@ -10252,7 +10272,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00502",
+    "song_id": "rk-00503",
     "file": "_other\\_rock\\Queen Playlist\\Queen - Radio Ga Ga (Official Video).mp3",
     "title": "Radio Ga Ga",
     "primary_artists": [
@@ -10272,7 +10292,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00503",
+    "song_id": "rk-00504",
     "file": "_other\\_rock\\Queen Playlist\\Queen - Scandal (Official Video).mp3",
     "title": "Scandal",
     "primary_artists": [
@@ -10292,7 +10312,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00504",
+    "song_id": "rk-00505",
     "file": "_other\\_rock\\Queen Playlist\\Queen - We Are The Champions (Official Video).mp3",
     "title": "We Are The Champions",
     "primary_artists": [
@@ -10312,7 +10332,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00505",
+    "song_id": "rk-00506",
     "file": "_other\\_rock\\Queen Playlist\\Queen – Bohemian Rhapsody (Official Video Remastered).mp3",
     "title": "Bohemian Rhapsody ( Remastered)",
     "primary_artists": [
@@ -10332,7 +10352,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00506",
+    "song_id": "rk-00507",
     "file": "_other\\_rock\\rammstein\\[1995] - Herzeleid\\01. Wollt Ihr Das Bett In Flammen Sehen.mp3",
     "title": "Wollt Ihr Das Bett In Flammen Sehen",
     "primary_artists": [
@@ -10352,7 +10372,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00507",
+    "song_id": "rk-00508",
     "file": "_other\\_rock\\rammstein\\[1995] - Herzeleid\\04. Asche Zu Asche.mp3",
     "title": "Asche Zu Asche",
     "primary_artists": [
@@ -10372,7 +10392,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00508",
+    "song_id": "rk-00509",
     "file": "_other\\_rock\\rammstein\\[1995] - Herzeleid\\05. Seemann.mp3",
     "title": "Seemann",
     "primary_artists": [
@@ -10392,7 +10412,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00509",
+    "song_id": "rk-00510",
     "file": "_other\\_rock\\rammstein\\[1995] - Herzeleid\\06. Du Riechst So Gut.mp3",
     "title": "Du Riechst So Gut",
     "primary_artists": [
@@ -10412,7 +10432,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00510",
+    "song_id": "rk-00511",
     "file": "_other\\_rock\\rammstein\\[1995] - Herzeleid\\08. Heirate Mich.mp3",
     "title": "Heirate Mich",
     "primary_artists": [
@@ -10432,7 +10452,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00511",
+    "song_id": "rk-00512",
     "file": "_other\\_rock\\rammstein\\[1995] - Herzeleid\\11. Rammstein.mp3",
     "title": "Rammstein",
     "primary_artists": [
@@ -10452,7 +10472,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00512",
+    "song_id": "rk-00513",
     "file": "_other\\_rock\\rammstein\\[1997] - Sehnsucht [Japan Edition]\\01 - Sehnsucht.mp3",
     "title": "Sehnsucht",
     "primary_artists": [
@@ -10472,7 +10492,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00513",
+    "song_id": "rk-00514",
     "file": "_other\\_rock\\rammstein\\[1997] - Sehnsucht [Japan Edition]\\02 - Engel.mp3",
     "title": "Engel",
     "primary_artists": [
@@ -10492,7 +10512,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00514",
+    "song_id": "rk-00515",
     "file": "_other\\_rock\\rammstein\\[1997] - Sehnsucht [Japan Edition]\\05 - Du Hast.mp3",
     "title": "Du Hast",
     "primary_artists": [
@@ -10512,7 +10532,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00515",
+    "song_id": "rk-00516",
     "file": "_other\\_rock\\rammstein\\[1997] - Sehnsucht [Japan Edition]\\06 - Buck Dich.mp3",
     "title": "Buck Dich",
     "primary_artists": [
@@ -10532,7 +10552,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00516",
+    "song_id": "rk-00517",
     "file": "_other\\_rock\\rammstein\\[1997] - Sehnsucht [Japan Edition]\\08 - Klavier.mp3",
     "title": "Klavier",
     "primary_artists": [
@@ -10552,7 +10572,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00517",
+    "song_id": "rk-00518",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\01 - Mein Herz Brennt.mp3",
     "title": "Mein Herz Brennt",
     "primary_artists": [
@@ -10572,7 +10592,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00518",
+    "song_id": "rk-00519",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\02 - Links 2 3 4.mp3",
     "title": "Links 2 3 4",
     "primary_artists": [
@@ -10592,7 +10612,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00519",
+    "song_id": "rk-00520",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\03 - Sonne.mp3",
     "title": "Sonne",
     "primary_artists": [
@@ -10612,7 +10632,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00520",
+    "song_id": "rk-00521",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\04 - Ich Will.mp3",
     "title": "Ich Will",
     "primary_artists": [
@@ -10632,7 +10652,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00521",
+    "song_id": "rk-00522",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\05 - Feuer Frei!.mp3",
     "title": "Feuer Frei!",
     "primary_artists": [
@@ -10652,7 +10672,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00522",
+    "song_id": "rk-00523",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\06 - Mutter.mp3",
     "title": "Mutter",
     "primary_artists": [
@@ -10672,7 +10692,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00523",
+    "song_id": "rk-00524",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\07 - Spieluhr.mp3",
     "title": "Spieluhr",
     "primary_artists": [
@@ -10692,7 +10712,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00524",
+    "song_id": "rk-00525",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\08 - Zwitter.mp3",
     "title": "Zwitter",
     "primary_artists": [
@@ -10712,7 +10732,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00525",
+    "song_id": "rk-00526",
     "file": "_other\\_rock\\rammstein\\[2001] - Mutter [Limited Edition] (2 CDs)\\Disco 1\\09 - Rein Raus.mp3",
     "title": "Rein Raus",
     "primary_artists": [
@@ -10732,7 +10752,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00526",
+    "song_id": "rk-00527",
     "file": "_other\\_rock\\rammstein\\[2004] - Reise,Reise\\01 - Reise, Reise.mp3",
     "title": "Reise, Reise",
     "primary_artists": [
@@ -10752,7 +10772,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00527",
+    "song_id": "rk-00528",
     "file": "_other\\_rock\\rammstein\\[2004] - Reise,Reise\\02 - Mein Teil.mp3",
     "title": "Mein Teil",
     "primary_artists": [
@@ -10772,7 +10792,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00528",
+    "song_id": "rk-00529",
     "file": "_other\\_rock\\rammstein\\[2004] - Reise,Reise\\04 - Keine Lust.mp3",
     "title": "Keine Lust",
     "primary_artists": [
@@ -10792,7 +10812,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00529",
+    "song_id": "rk-00530",
     "file": "_other\\_rock\\rammstein\\[2004] - Reise,Reise\\06 - Amerika.mp3",
     "title": "Amerika",
     "primary_artists": [
@@ -10812,7 +10832,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00530",
+    "song_id": "rk-00531",
     "file": "_other\\_rock\\rammstein\\[2004] - Reise,Reise\\07 - Moskau.mp3",
     "title": "Moskau",
     "primary_artists": [
@@ -10832,7 +10852,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00531",
+    "song_id": "rk-00532",
     "file": "_other\\_rock\\rammstein\\[2004] - Reise,Reise\\09 - Stein um Stein.mp3",
     "title": "Stein um Stein",
     "primary_artists": [
@@ -10852,7 +10872,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00532",
+    "song_id": "rk-00533",
     "file": "_other\\_rock\\rammstein\\[2004] - Reise,Reise\\10 - Ohne Dich.mp3",
     "title": "Ohne Dich",
     "primary_artists": [
@@ -10872,7 +10892,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00533",
+    "song_id": "rk-00534",
     "file": "_other\\_rock\\rammstein\\[2005] - Rosenrot\\01 - Benzin.mp3",
     "title": "Benzin",
     "primary_artists": [
@@ -10892,7 +10912,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00534",
+    "song_id": "rk-00535",
     "file": "_other\\_rock\\rammstein\\[2005] - Rosenrot\\02 - Mann Gegen Mann.mp3",
     "title": "Mann Gegen Mann",
     "primary_artists": [
@@ -10912,7 +10932,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00535",
+    "song_id": "rk-00536",
     "file": "_other\\_rock\\rammstein\\[2005] - Rosenrot\\03 - Rosenrot.mp3",
     "title": "Rosenrot",
     "primary_artists": [
@@ -10932,7 +10952,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00536",
+    "song_id": "rk-00537",
     "file": "_other\\_rock\\rammstein\\[2009] - Liebe ist fuer alle da [Special Edition] (2 CDs)\\Disco 1\\02 - Ich tu dir weh.mp3",
     "title": "Ich tu dir weh",
     "primary_artists": [
@@ -10952,7 +10972,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00537",
+    "song_id": "rk-00538",
     "file": "_other\\_rock\\rammstein\\[2009] - Liebe ist fuer alle da [Special Edition] (2 CDs)\\Disco 1\\06 - Fruehling in Paris.mp3",
     "title": "Fruehling in Paris",
     "primary_artists": [
@@ -10972,7 +10992,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00538",
+    "song_id": "rk-00539",
     "file": "_other\\_rock\\rammstein\\[2009] - Liebe ist fuer alle da [Special Edition] (2 CDs)\\Disco 1\\11 - Roter Sand.mp3",
     "title": "Roter Sand",
     "primary_artists": [
@@ -10992,7 +11012,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00539",
+    "song_id": "rk-00540",
     "file": "_other\\_rock\\red hot chilli peppers\\01 - Dani California.mp3",
     "title": "Dani California",
     "primary_artists": [
@@ -11012,7 +11032,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00540",
+    "song_id": "rk-00541",
     "file": "_other\\_rock\\red hot chilli peppers\\02 - Snow ((Hey Oh)).mp3",
     "title": "Snow ((Hey Oh))",
     "primary_artists": [
@@ -11032,7 +11052,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00541",
+    "song_id": "rk-00542",
     "file": "_other\\_rock\\red hot chilli peppers\\02 - Tell Me Baby.mp3",
     "title": "Tell Me Baby",
     "primary_artists": [
@@ -11052,7 +11072,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00542",
+    "song_id": "rk-00543",
     "file": "_other\\_rock\\red hot chilli peppers\\03 Californication.mp3",
     "title": "Californication",
     "primary_artists": [
@@ -11072,7 +11092,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00543",
+    "song_id": "rk-00544",
     "file": "_other\\_rock\\red hot chilli peppers\\06 Otherside.mp3",
     "title": "Otherside",
     "primary_artists": [
@@ -11092,7 +11112,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00544",
+    "song_id": "rk-00545",
     "file": "_other\\_rock\\red hot chilli peppers\\08 By the Way.mp3",
     "title": "By the Way",
     "primary_artists": [
@@ -11112,7 +11132,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00545",
+    "song_id": "rk-00546",
     "file": "_other\\_rock\\red hot chilli peppers\\Red Hot Chili Peppers - Can_t Stop [Official Music Video].mp3",
     "title": "Can t Stop",
     "primary_artists": [
@@ -11132,7 +11152,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00546",
+    "song_id": "rk-00547",
     "file": "_other\\_rock\\red hot chilli peppers\\Red Hot Chili Peppers - Fortune Faded [Official Music Video].mp3",
     "title": "Fortune Faded",
     "primary_artists": [
@@ -11152,7 +11172,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00547",
+    "song_id": "rk-00548",
     "file": "_other\\_rock\\red hot chilli peppers\\Red Hot Chili Peppers - Give It Away [Official Music Video].mp3",
     "title": "Give It Away",
     "primary_artists": [
@@ -11172,7 +11192,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00548",
+    "song_id": "rk-00549",
     "file": "_other\\_rock\\red hot chilli peppers\\Red Hot Chili Peppers - Scar Tissue.mp3",
     "title": "Scar Tissue",
     "primary_artists": [
@@ -11192,7 +11212,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00549",
+    "song_id": "rk-00550",
     "file": "_other\\_rock\\red hot chilli peppers\\Red Hot Chili Peppers - Under The Bridge.mp3",
     "title": "Under The Bridge",
     "primary_artists": [
@@ -11212,7 +11232,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00550",
+    "song_id": "rk-00551",
     "file": "_other\\_rock\\Rise Against- Prayer of the refugee (acoustic).mp3",
     "title": "Prayer of the refugee (acoustic)",
     "primary_artists": [
@@ -11232,7 +11252,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00551",
+    "song_id": "rk-00552",
     "file": "_other\\_rock\\Rob Thomas - Lonely No More.mp3",
     "title": "Lonely No More",
     "primary_artists": [
@@ -11252,7 +11272,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00552",
+    "song_id": "rk-00553",
     "file": "_other\\_rock\\roxette\\Roxette - 1986 - Pearls of Passion\\04 I Call Your Name.mp3",
     "title": "I Call Your Name",
     "primary_artists": [
@@ -11272,7 +11292,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00553",
+    "song_id": "rk-00554",
     "file": "_other\\_rock\\roxette\\Roxette - 1986 - Pearls of Passion\\07 Neverending Love.mp3",
     "title": "Neverending Love",
     "primary_artists": [
@@ -11292,7 +11312,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00554",
+    "song_id": "rk-00555",
     "file": "_other\\_rock\\roxette\\Roxette - 1986 - Pearls of Passion\\14 It Must Have Been Love (Christmas For The Broken-hearted) (eXtra track).mp3",
     "title": "It Must Have Been Love (Christmas For The Broken-hearted) (eXtra track)",
     "primary_artists": [
@@ -11312,7 +11332,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00555",
+    "song_id": "rk-00556",
     "file": "_other\\_rock\\roxette\\Roxette - 1986 - Pearls of Passion\\18 I Call Your Name (Montezuma Demo - 26.07.86) (eXtra track).mp3",
     "title": "86) (eXtra track)",
     "primary_artists": [
@@ -11332,7 +11352,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00556",
+    "song_id": "rk-00557",
     "file": "_other\\_rock\\roxette\\Roxette - 1988 - Look Sharp!\\13 Listen To Your Heart.mp3",
     "title": "Listen To Your Heart",
     "primary_artists": [
@@ -11352,7 +11372,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00557",
+    "song_id": "rk-00558",
     "file": "_other\\_rock\\roxette\\Roxette - 1992 - Tourism (Songs From Studios, Stages, Hotelrooms & Other Strange Places)\\01 How Do You Do!.mp3",
     "title": "How Do You Do!",
     "primary_artists": [
@@ -11372,7 +11392,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00558",
+    "song_id": "rk-00559",
     "file": "_other\\_rock\\roxette\\Roxette - 1992 - Tourism (Songs From Studios, Stages, Hotelrooms & Other Strange Places)\\16 Queen Of Rain.mp3",
     "title": "Queen Of Rain",
     "primary_artists": [
@@ -11392,7 +11412,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00559",
+    "song_id": "rk-00560",
     "file": "_other\\_rock\\roxette\\Roxette - 1994 - Crash! Boom! Bang!\\05 Sleeping In My Car.mp3",
     "title": "Sleeping In My Car",
     "primary_artists": [
@@ -11412,7 +11432,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00560",
+    "song_id": "rk-00561",
     "file": "_other\\_rock\\Santana - into the night (album version).mp3",
     "title": "into the night (album version)",
     "primary_artists": [
@@ -11432,7 +11452,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00561",
+    "song_id": "rk-00562",
     "file": "_other\\_rock\\Santana Featuring Rob Thomas - Smooth.mp3",
     "title": "Smooth",
     "primary_artists": [
@@ -11460,7 +11480,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00562",
+    "song_id": "rk-00563",
     "file": "_other\\_rock\\Smashmouth - All Star.mp3",
     "title": "All Star",
     "primary_artists": [
@@ -11480,7 +11500,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00563",
+    "song_id": "rk-00564",
     "file": "_other\\_rock\\The Calling - Wherever You Will Go.mp3",
     "title": "Wherever You Will Go",
     "primary_artists": [
@@ -11500,7 +11520,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00564",
+    "song_id": "rk-00565",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\01 - I Still Do.mp3",
     "title": "I Still Do",
     "primary_artists": [
@@ -11520,7 +11540,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00565",
+    "song_id": "rk-00566",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\02 - Dreams.mp3",
     "title": "Dreams",
     "primary_artists": [
@@ -11540,7 +11560,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00566",
+    "song_id": "rk-00567",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\03 - Sunday.mp3",
     "title": "Sunday",
     "primary_artists": [
@@ -11560,7 +11580,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00567",
+    "song_id": "rk-00568",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\04 - Pretty.mp3",
     "title": "Pretty",
     "primary_artists": [
@@ -11580,7 +11600,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00568",
+    "song_id": "rk-00569",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\05 - Waltzing Back.mp3",
     "title": "Waltzing Back",
     "primary_artists": [
@@ -11600,7 +11620,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00569",
+    "song_id": "rk-00570",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\06 - Not Sorry.mp3",
     "title": "Not Sorry",
     "primary_artists": [
@@ -11620,7 +11640,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00570",
+    "song_id": "rk-00571",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\07 - Linger.mp3",
     "title": "Linger",
     "primary_artists": [
@@ -11640,7 +11660,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00571",
+    "song_id": "rk-00572",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\08 - Wanted.mp3",
     "title": "Wanted",
     "primary_artists": [
@@ -11660,7 +11680,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00572",
+    "song_id": "rk-00573",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\10 - I Will Always.mp3",
     "title": "I Will Always",
     "primary_artists": [
@@ -11680,7 +11700,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00573",
+    "song_id": "rk-00574",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\11 - How.mp3",
     "title": "How",
     "primary_artists": [
@@ -11700,7 +11720,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00574",
+    "song_id": "rk-00575",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1993 Everybody Else Is Doing It, So Why Can_t We\\12 - Put Me Down.mp3",
     "title": "Put Me Down",
     "primary_artists": [
@@ -11720,7 +11740,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00575",
+    "song_id": "rk-00576",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\01 - Ode to My Family.mp3",
     "title": "Ode to My Family",
     "primary_artists": [
@@ -11740,7 +11760,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00576",
+    "song_id": "rk-00577",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\02 - I Can_t Be with You.mp3",
     "title": "I Can t Be",
     "primary_artists": [
@@ -11760,7 +11780,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00577",
+    "song_id": "rk-00578",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\03 - Twenty One.mp3",
     "title": "Twenty One",
     "primary_artists": [
@@ -11780,7 +11800,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00578",
+    "song_id": "rk-00579",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\04 - Zombie.mp3",
     "title": "Zombie",
     "primary_artists": [
@@ -11800,7 +11820,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00579",
+    "song_id": "rk-00580",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\05 - Empty.mp3",
     "title": "Empty",
     "primary_artists": [
@@ -11820,7 +11840,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00580",
+    "song_id": "rk-00581",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\06 - Everything I Said.mp3",
     "title": "Everything I Said",
     "primary_artists": [
@@ -11840,7 +11860,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00581",
+    "song_id": "rk-00582",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\07 - The Icicle Melts.mp3",
     "title": "The Icicle Melts",
     "primary_artists": [
@@ -11860,7 +11880,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00582",
+    "song_id": "rk-00583",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\08 - Disappointment.mp3",
     "title": "Disappointment",
     "primary_artists": [
@@ -11880,7 +11900,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00583",
+    "song_id": "rk-00584",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\09 - Ridiculous Thoughts.mp3",
     "title": "Ridiculous Thoughts",
     "primary_artists": [
@@ -11900,7 +11920,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00584",
+    "song_id": "rk-00585",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\10 - Dreaming My Dreams.mp3",
     "title": "Dreaming My Dreams",
     "primary_artists": [
@@ -11920,7 +11940,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00585",
+    "song_id": "rk-00586",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\11 - Yeat_s Grave.mp3",
     "title": "Yeat s Grave",
     "primary_artists": [
@@ -11940,7 +11960,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00586",
+    "song_id": "rk-00587",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\12 - Daffodil Lament.mp3",
     "title": "Daffodil Lament",
     "primary_artists": [
@@ -11960,7 +11980,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00587",
+    "song_id": "rk-00588",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\14 - Away.mp3",
     "title": "Away",
     "primary_artists": [
@@ -11980,7 +12000,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00588",
+    "song_id": "rk-00589",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1994 No Need to Argue (The Complete Sessions)\\17 - So Cold in Ireland.mp3",
     "title": "So Cold in Ireland",
     "primary_artists": [
@@ -12000,7 +12020,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00589",
+    "song_id": "rk-00590",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1996 To the Faithful Departed\\01. Hollywood - The Cranberries.mp3",
     "title": "The Cranberries",
     "primary_artists": [
@@ -12020,7 +12040,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00590",
+    "song_id": "rk-00591",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1996 To the Faithful Departed\\09. Electric Blue - The Cranberries.mp3",
     "title": "The Cranberries",
     "primary_artists": [
@@ -12040,7 +12060,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00591",
+    "song_id": "rk-00592",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1996 To the Faithful Departed\\13. Bosnia - The Cranberries.mp3",
     "title": "The Cranberries",
     "primary_artists": [
@@ -12060,7 +12080,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00592",
+    "song_id": "rk-00593",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1999 Bury the Hatchet\\01 - Animal Instinct.mp3",
     "title": "Animal Instinct",
     "primary_artists": [
@@ -12080,7 +12100,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00593",
+    "song_id": "rk-00594",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1999 Bury the Hatchet\\02 - Loud and Clear.mp3",
     "title": "Loud and Clear",
     "primary_artists": [
@@ -12100,7 +12120,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00594",
+    "song_id": "rk-00595",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1999 Bury the Hatchet\\03 - Promises.mp3",
     "title": "Promises",
     "primary_artists": [
@@ -12120,7 +12140,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00595",
+    "song_id": "rk-00596",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1999 Bury the Hatchet\\04 - You and Me.mp3",
     "title": "You and Me",
     "primary_artists": [
@@ -12140,7 +12160,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00596",
+    "song_id": "rk-00597",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1999 Bury the Hatchet\\05 - Just My Imagination.mp3",
     "title": "Just My Imagination",
     "primary_artists": [
@@ -12160,7 +12180,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00597",
+    "song_id": "rk-00598",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1999 Bury the Hatchet\\06 - Shattered.mp3",
     "title": "Shattered",
     "primary_artists": [
@@ -12180,7 +12200,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00598",
+    "song_id": "rk-00599",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1999 Bury the Hatchet\\12 - Fee Fi Fo.mp3",
     "title": "Fee Fi Fo",
     "primary_artists": [
@@ -12200,7 +12220,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00599",
+    "song_id": "rk-00600",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\2001 Wake Up and Smell the Coffee\\05 - This Is The Day.mp3",
     "title": "This Is The Day",
     "primary_artists": [
@@ -12220,7 +12240,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00600",
+    "song_id": "rk-00601",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\2001 Wake Up and Smell the Coffee\\07 - Wake Up And Smell The Coffee.mp3",
     "title": "Wake Up And Smell The Coffee",
     "primary_artists": [
@@ -12240,7 +12260,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00601",
+    "song_id": "rk-00602",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\2001 Wake Up and Smell the Coffee\\09 - I Really Hope.mp3",
     "title": "I Really Hope",
     "primary_artists": [
@@ -12260,7 +12280,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00602",
+    "song_id": "rk-00603",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\2001 Wake Up and Smell the Coffee\\13 - Chocolate Brown.mp3",
     "title": "Chocolate Brown",
     "primary_artists": [
@@ -12280,7 +12300,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00603",
+    "song_id": "rk-00604",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\2001 Wake Up and Smell the Coffee\\14 - Cape Town [Bonus].mp3",
     "title": "Cape Town [Bonus]",
     "primary_artists": [
@@ -12300,7 +12320,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00604",
+    "song_id": "rk-00605",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\2012 Roses\\1.06. Schizophrenic Playboys.mp3",
     "title": "06. Schizophrenic Playboys",
     "primary_artists": [
@@ -12320,7 +12340,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00605",
+    "song_id": "rk-00606",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan - 2007- Are You Listening\\01   Ordinary day.mp3",
     "title": "Ordinary day",
     "primary_artists": [
@@ -12340,7 +12360,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00606",
+    "song_id": "rk-00607",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan - 2007- Are You Listening\\02   When we Were Young.mp3",
     "title": "When we Were Young",
     "primary_artists": [
@@ -12360,7 +12380,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00607",
+    "song_id": "rk-00608",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan - 2007- Are You Listening\\03   In the Garden.mp3",
     "title": "In the Garden",
     "primary_artists": [
@@ -12380,7 +12400,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00608",
+    "song_id": "rk-00609",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan 2009 No Baggage album\\Dolores O_Riordan - 01. Switch Off The Moment (No Baggage).mp3",
     "title": "Switch Off The Moment (No Baggage)",
     "primary_artists": [
@@ -12400,7 +12420,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00609",
+    "song_id": "rk-00610",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan 2009 No Baggage album\\Dolores O_Riordan - 02. Skeleton (No Baggage).mp3",
     "title": "Skeleton (No Baggage)",
     "primary_artists": [
@@ -12420,7 +12440,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00610",
+    "song_id": "rk-00611",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan 2009 No Baggage album\\Dolores O_Riordan - 07. Apple Of My Eye (No Baggage).mp3",
     "title": "Apple Of My Eye (No Baggage)",
     "primary_artists": [
@@ -12440,7 +12460,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00611",
+    "song_id": "rk-00612",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\Dolores O_Riordan 2009 No Baggage album\\Dolores O_Riordan - You Set Me On Fire.mp3",
     "title": "You Set Me On Fire",
     "primary_artists": [
@@ -12460,7 +12480,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00612",
+    "song_id": "rk-00613",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\The Cranberries - Linger (Acoustic Version).mp3",
     "title": "Linger (Acoustic Version)",
     "primary_artists": [
@@ -12480,7 +12500,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00613",
+    "song_id": "rk-00614",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\The Cranberries - Zombie (Alt. Version).mp3",
     "title": "Zombie (Alt. Version)",
     "primary_artists": [
@@ -12500,7 +12520,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00614",
+    "song_id": "rk-00615",
     "file": "_other\\_rock\\The Pretty Reckless\\2010 - Light Me Up\\03. Make Me Wanna Die.mp3",
     "title": "Make Me Wanna Die",
     "primary_artists": [
@@ -12520,7 +12540,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00615",
+    "song_id": "rk-00616",
     "file": "_other\\_rock\\The Pretty Reckless\\2010 - Light Me Up\\05. Just Tonight.mp3",
     "title": "Just Tonight",
     "primary_artists": [
@@ -12540,7 +12560,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00616",
+    "song_id": "rk-00617",
     "file": "_other\\_rock\\The Pretty Reckless\\2010 - Light Me Up\\08. Nothing Left To Lose.mp3",
     "title": "Nothing Left To Lose",
     "primary_artists": [
@@ -12560,7 +12580,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00617",
+    "song_id": "rk-00618",
     "file": "_other\\_rock\\The Pretty Reckless\\2010 - The Pretty Reckless\\04. Zombie.mp3",
     "title": "Zombie",
     "primary_artists": [
@@ -12580,7 +12600,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00618",
+    "song_id": "rk-00619",
     "file": "_other\\_rock\\The Pretty Reckless\\2010 - Unreleased\\10. Far From Never.mp3",
     "title": "Far From Never",
     "primary_artists": [
@@ -12600,7 +12620,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00619",
+    "song_id": "rk-00620",
     "file": "_other\\_rock\\The Pretty Reckless\\2014 - Going to Hell (Japanese Edition)\\04. House on a Hill.mp3",
     "title": "House on a Hill",
     "primary_artists": [
@@ -12620,7 +12640,27 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00620",
+    "song_id": "rk-00621",
+    "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Better - Dream Machine - Album [AUDIO].mp3",
+    "title": "Better - Dream Machine - Album [AUDIO]",
+    "primary_artists": [
+      "Tokio Hotel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Tokio Hotel"
+    ],
+    "credits": [
+      {
+        "entity": "Tokio Hotel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rk-00622",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid (German Version) Album\\Tokio Hotel  - Alien Lyrics.mp3",
     "title": "Alien",
     "primary_artists": [
@@ -12640,7 +12680,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00621",
+    "song_id": "rk-00623",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid (German Version) Album\\Tokio Hotel - Für Immer Jetzt Lyrics.mp3",
     "title": "Für Immer Jetzt",
     "primary_artists": [
@@ -12660,7 +12700,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00622",
+    "song_id": "rk-00624",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid (German Version) Album\\Tokio Hotel - Humanoid Lyrics.mp3",
     "title": "Humanoid",
     "primary_artists": [
@@ -12680,7 +12720,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00623",
+    "song_id": "rk-00625",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid (German Version) Album\\Tokio Hotel - Träumer Lyrics.mp3",
     "title": "Träumer",
     "primary_artists": [
@@ -12700,7 +12740,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00624",
+    "song_id": "rk-00626",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid (German Version) Album\\Tokio Hotel - Zoom Lyrics.mp3",
     "title": "Zoom",
     "primary_artists": [
@@ -12720,7 +12760,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00625",
+    "song_id": "rk-00627",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid Album\\Tokio Hotel - Automatic Lyrics.mp3",
     "title": "Automatic",
     "primary_artists": [
@@ -12740,7 +12780,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00626",
+    "song_id": "rk-00628",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid Album\\Tokio Hotel - Love _ Death Lyrics.mp3",
     "title": "Love Death",
     "primary_artists": [
@@ -12760,7 +12800,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00627",
+    "song_id": "rk-00629",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid Album\\Tokio Hotel - Phantomrider Lyrics.mp3",
     "title": "Phantomrider",
     "primary_artists": [
@@ -12780,7 +12820,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00628",
+    "song_id": "rk-00630",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid Album\\Tokio Hotel - World Behind My Wall Lyrics.mp3",
     "title": "World Behind My Wall",
     "primary_artists": [
@@ -12800,7 +12840,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00629",
+    "song_id": "rk-00631",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid Album\\Tokio Hotel - Zoom Into Me Lyrics.mp3",
     "title": "Zoom Into Me",
     "primary_artists": [
@@ -12820,7 +12860,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00630",
+    "song_id": "rk-00632",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Humanoid Album\\Tokio Hotel- Darkside Of The Sun Lyrics.mp3",
     "title": "Tokio Hotel- Darkside Of The Sun",
     "primary_artists": [
@@ -12840,7 +12880,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00631",
+    "song_id": "rk-00633",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Schrei (Full Album)\\Tokio Hotel - Durch Den Monsun (HD).mp3",
     "title": "Durch Den Monsun",
     "primary_artists": [
@@ -12860,7 +12900,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00632",
+    "song_id": "rk-00634",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Schrei (Full Album)\\Tokio Hotel - Ich Bin Nich_ Ich (HD).mp3",
     "title": "Ich Bin Nich Ich",
     "primary_artists": [
@@ -12880,7 +12920,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00633",
+    "song_id": "rk-00635",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Schrei (Full Album)\\Tokio Hotel - Rette Mich (HD).mp3",
     "title": "Rette Mich",
     "primary_artists": [
@@ -12900,7 +12940,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00634",
+    "song_id": "rk-00636",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Schrei (Full Album)\\Tokio Hotel - Schrei (HD).mp3",
     "title": "Schrei",
     "primary_artists": [
@@ -12920,7 +12960,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00635",
+    "song_id": "rk-00637",
     "file": "_other\\_rock\\tokio hotel\\Tokio Hotel - Schrei (Full Album)\\Tokio Hotel - Wenn Nichts Mehr Geht (HD).mp3",
     "title": "Wenn Nichts Mehr Geht",
     "primary_artists": [
@@ -12940,7 +12980,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00636",
+    "song_id": "rk-00638",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - An deiner Seite (Ich bin da) Lyrics.mp3",
     "title": "An deiner Seite (Ich bin da)",
     "primary_artists": [
@@ -12960,7 +13000,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00637",
+    "song_id": "rk-00639",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Heilig Lyrics.mp3",
     "title": "Heilig",
     "primary_artists": [
@@ -12980,7 +13020,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00638",
+    "song_id": "rk-00640",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Spring nicht lyrics.mp3",
     "title": "Spring nicht",
     "primary_artists": [
@@ -13000,7 +13040,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00639",
+    "song_id": "rk-00641",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Totgeliebt lyrics.mp3",
     "title": "Totgeliebt",
     "primary_artists": [
@@ -13020,7 +13060,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00640",
+    "song_id": "rk-00642",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Über Ende der Welt Lyrics.mp3",
     "title": "Über Ende der Welt",
     "primary_artists": [
@@ -13040,7 +13080,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00641",
+    "song_id": "rk-00643",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  BY YOUR SIDE  12.mp3",
     "title": "Tokio Hotel BY YOUR SIDE 12",
     "primary_artists": [
@@ -13060,7 +13100,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00642",
+    "song_id": "rk-00644",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  FORGOTTEN CHILDREN  11.mp3",
     "title": "Tokio Hotel FORGOTTEN CHILDREN 11",
     "primary_artists": [
@@ -13080,7 +13120,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00643",
+    "song_id": "rk-00645",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  MONSOON  03.mp3",
     "title": "Tokio Hotel MONSOON 03",
     "primary_artists": [
@@ -13100,7 +13140,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00644",
+    "song_id": "rk-00646",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  SACRED  07.mp3",
     "title": "Tokio Hotel SACRED 07",
     "primary_artists": [
@@ -13120,7 +13160,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00645",
+    "song_id": "rk-00647",
     "file": "_other\\_rock\\Train - Drive By.mp3",
     "title": "Drive By",
     "primary_artists": [
@@ -13140,7 +13180,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00646",
+    "song_id": "rk-00648",
     "file": "_other\\_rock\\Trapt - Headstrong.mp3",
     "title": "Headstrong",
     "primary_artists": [

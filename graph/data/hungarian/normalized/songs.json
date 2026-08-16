@@ -67723,6 +67723,81 @@
     ]
   },
   {
+    "song_id": "h-02280",
+    "file": "_magyar trap\\Wavy\\¥\\Balaton (feat. Blaize, Co Lee, Indigo, 6363).mp3",
+    "title": "Balaton (feat. Blaize, Co Lee, Indigo, 6363)",
+    "title_variants": [],
+    "source_root": "_magyar trap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Wavy"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Wavy"
+    ],
+    "credits": [
+      {
+        "entity": "Wavy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02281",
+    "file": "_magyar trap\\Wavy\\¥\\Cinege (feat. Co Lee, Dan Pinto, egyedi, Franko).mp3",
+    "title": "Cinege (feat. Co Lee, Dan Pinto, egyedi, Franko)",
+    "title_variants": [],
+    "source_root": "_magyar trap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Wavy"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Wavy"
+    ],
+    "credits": [
+      {
+        "entity": "Wavy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
+    "song_id": "h-02282",
+    "file": "_magyar trap\\Wavy\\¥\\First Class (feat. Blaize, Co Lee, SilkSilver, Kebab).mp3",
+    "title": "First Class (feat. Blaize, Co Lee, SilkSilver, Kebab)",
+    "title_variants": [],
+    "source_root": "_magyar trap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Wavy"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [],
+    "featuring_groups": [],
+    "artists": [
+      "Wavy"
+    ],
+    "credits": [
+      {
+        "entity": "Wavy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
+  },
+  {
     "song_id": "h-02186",
     "file": "_magyar trap\\Young Fly\\Young Fly -  Ne Gyere Át.mp3",
     "title": "Ne Gyere Át",

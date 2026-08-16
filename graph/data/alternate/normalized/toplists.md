@@ -1,8 +1,8 @@
 # Alternative Local Music Toplists
 
-Songs: `555`
+Songs: `558`
 Persons: `197`
-Unattributed songs: `29`
+Unattributed songs: `32`
 
 ## Persons
 

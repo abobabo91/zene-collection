@@ -48,6 +48,9 @@ subtree merges kept every commit reachable, so `git log` here reaches back throu
   it never gets retried.
 - **`--dry-run` is honoured by every stage.** It has to be: the orchestrator passes it down,
   and `build.py` used to ignore argv entirely and write the dashboard anyway.
+- **Builders report collection paths as UTF-8.** In particular, the Hungarian scanner
+  configures its output before printing paths, so a valid Unicode album name cannot abort a
+  Windows rebuild merely because the inherited console code page cannot encode it.
 - **`docs/` is generated — never edit it.** It exists because GitHub Pages only serves from
   the repository root or `docs/`, and the root is already taken by the *sources* `graph/`
   and `timeline/`, which would collide with the dashboard's same-named output folders.

@@ -421,6 +421,13 @@ def build_region_overrides(mappings: dict) -> dict:
 # ── main ───────────────────────────────────────────────────────────────────────
 
 def main() -> int:
+    # This builder is normally captured by graph/rebuild.py as UTF-8. On Windows,
+    # the child process otherwise inherits a legacy cp1250 text wrapper and can
+    # crash merely while reporting a valid Unicode path (for example an album named
+    # "¥"). The graph data itself is UTF-8, so make the diagnostic stream match it.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+
     dry_run = "--dry-run" in sys.argv
     mappings = load_mappings_file(MAPPINGS_PATH)
     existing = load_json(NORMALIZED_DIR / "songs.json", [])

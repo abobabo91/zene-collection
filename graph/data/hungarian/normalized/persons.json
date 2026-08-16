@@ -13110,6 +13110,23 @@
     ],
     "feature_song_ids": []
   },
+  "Wavy": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [],
+    "song_ids": [
+      "h-02280",
+      "h-02281",
+      "h-02282"
+    ],
+    "primary_song_ids": [
+      "h-02280",
+      "h-02281",
+      "h-02282"
+    ],
+    "feature_song_ids": []
+  },
   "Weyron": {
     "type": "person",
     "labels": [],
