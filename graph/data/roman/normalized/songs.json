@@ -117,19 +117,27 @@
   {
     "song_id": "rn-00006",
     "file": "_other\\_roman\\_modern pop\\Alexandra Stan\\Alexandra Stan - Ecoute (feat. Havana)   Official Music Video.mp3",
-    "title": "Ecoute (feat. Havana)",
+    "title": "Ecoute (",
     "primary_artists": [
       "Alexandra Stan"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Havana"
+    ],
     "artists": [
-      "Alexandra Stan"
+      "Alexandra Stan",
+      "Havana"
     ],
     "credits": [
       {
         "entity": "Alexandra Stan",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Havana",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -697,19 +705,27 @@
   {
     "song_id": "rn-00032",
     "file": "_other\\_roman\\_modern pop\\INNA\\INNA - Deja Vu (feat. Bob Taylor) [Official Music Video].mp3",
-    "title": "Deja Vu (feat. Bob Taylor)",
+    "title": "Deja Vu (",
     "primary_artists": [
       "INNA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Bob Taylor"
+    ],
     "artists": [
-      "INNA"
+      "INNA",
+      "Bob Taylor"
     ],
     "credits": [
       {
         "entity": "INNA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Bob Taylor",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2003,19 +2019,41 @@
   {
     "song_id": "rn-00092",
     "file": "_other\\_roman\\_trap\\Dhali\\Dhali - BEZOS (feat. Bvcovia, MARKO GLASS & Oscar) Official Video.mp3",
-    "title": "BEZOS (feat. Bvcovia, MARKO GLASS & Oscar)",
+    "title": "BEZOS (",
     "primary_artists": [
       "Dhali"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Bvcovia",
+      "MARKO GLASS",
+      "Oscar"
+    ],
     "artists": [
-      "Dhali"
+      "Dhali",
+      "Bvcovia",
+      "MARKO GLASS",
+      "Oscar"
     ],
     "credits": [
       {
         "entity": "Dhali",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Bvcovia",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "MARKO GLASS",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Oscar",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

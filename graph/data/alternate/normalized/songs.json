@@ -5012,11 +5012,13 @@
   {
     "song_id": "al-00247",
     "file": "_other\\_alternate\\_random\\zara larsson\\Girls Like (feat. Zara Larsson).mp3",
-    "title": "Girls Like (feat. Zara Larsson)",
+    "title": "Girls Like (",
     "primary_artists": [
       "Zara Larsson"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Zara Larsson"
+    ],
     "artists": [
       "Zara Larsson"
     ],
@@ -5025,6 +5027,11 @@
         "entity": "Zara Larsson",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Zara Larsson",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5479,19 +5486,27 @@
   {
     "song_id": "al-00270",
     "file": "_other\\_alternate\\Billie Eilish\\Billie Eilish - lovely (with Khalid).mp3",
-    "title": "lovely (with Khalid)",
+    "title": "lovely (",
     "primary_artists": [
       "Billie Eilish"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Khalid"
+    ],
     "artists": [
-      "Billie Eilish"
+      "Billie Eilish",
+      "Khalid"
     ],
     "credits": [
       {
         "entity": "Billie Eilish",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Khalid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6991,15 +7006,18 @@
   {
     "song_id": "al-00344",
     "file": "_other\\_alternate\\FLETCHER\\FLETCHER, Kito - Bitter (ft. Trevor Daniel).mp3",
-    "title": "Bitter (ft. Trevor Daniel)",
+    "title": "Bitter (",
     "primary_artists": [
       "FLETCHER",
       "Kito"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Trevor Daniel"
+    ],
     "artists": [
       "FLETCHER",
-      "Kito"
+      "Kito",
+      "Trevor Daniel"
     ],
     "credits": [
       {
@@ -7011,6 +7029,11 @@
         "entity": "Kito",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Trevor Daniel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8369,19 +8392,27 @@
   {
     "song_id": "al-00411",
     "file": "_other\\_alternate\\james blake\\James Blake - Assume Form (2019) [320]\\02. Mile High (feat. Metro Boomin _ Travis Scott).mp3",
-    "title": "Mile High (feat. Metro Boomin Travis Scott)",
+    "title": "Mile High (",
     "primary_artists": [
       "James Blake"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Metro Boomin Travis Scott"
+    ],
     "artists": [
-      "James Blake"
+      "James Blake",
+      "Metro Boomin Travis Scott"
     ],
     "credits": [
       {
         "entity": "James Blake",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Metro Boomin Travis Scott",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8389,19 +8420,27 @@
   {
     "song_id": "al-00412",
     "file": "_other\\_alternate\\james blake\\James Blake - Assume Form (2019) [320]\\05. Barefoot in the Park (feat. ROSALÍA).mp3",
-    "title": "Barefoot in the Park (feat. ROSALÍA)",
+    "title": "Barefoot in the Park (",
     "primary_artists": [
       "James Blake"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "ROSALÍA"
+    ],
     "artists": [
-      "James Blake"
+      "James Blake",
+      "ROSALÍA"
     ],
     "credits": [
       {
         "entity": "James Blake",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "ROSALÍA",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8469,19 +8508,27 @@
   {
     "song_id": "al-00416",
     "file": "_other\\_alternate\\james blake\\James Blake - Overgrown (Deluxe Edition) 2013 Dance 320kbps CBR MP3 [VX] [P2PDL]\\04 James Blake - Take a Fall For Me (feat. RZA).mp3",
-    "title": "Take a Fall For Me (feat. RZA)",
+    "title": "Take a Fall For Me (",
     "primary_artists": [
       "James Blake"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "RZA"
+    ],
     "artists": [
-      "James Blake"
+      "James Blake",
+      "RZA"
     ],
     "credits": [
       {
         "entity": "James Blake",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "RZA",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8529,19 +8576,27 @@
   {
     "song_id": "al-00419",
     "file": "_other\\_alternate\\Jamie xx – In Colour\\03 SeeSaw (feat. Romy).mp3",
-    "title": "SeeSaw (feat. Romy)",
+    "title": "SeeSaw (",
     "primary_artists": [
       "Jamie xx"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Romy"
+    ],
     "artists": [
-      "Jamie xx"
+      "Jamie xx",
+      "Romy"
     ],
     "credits": [
       {
         "entity": "Jamie xx",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Romy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8597,19 +8652,27 @@
   {
     "song_id": "al-00422",
     "file": "_other\\_alternate\\Jamie xx – In Colour\\08 Loud Places (feat. Romy).mp3",
-    "title": "Loud Places (feat. Romy)",
+    "title": "Loud Places (",
     "primary_artists": [
       "Jamie xx"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Romy"
+    ],
     "artists": [
-      "Jamie xx"
+      "Jamie xx",
+      "Romy"
     ],
     "credits": [
       {
         "entity": "Jamie xx",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Romy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9465,19 +9528,27 @@
   {
     "song_id": "al-00465",
     "file": "_other\\_alternate\\Low Roar\\Low Roar -  Bones  (feat. Jófríõur Ákadóttir) [Official Audio].mp3",
-    "title": "Bones (feat. Jófríõur Ákadóttir)",
+    "title": "Bones (",
     "primary_artists": [
       "Low Roar"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jófríõur Ákadóttir"
+    ],
     "artists": [
-      "Low Roar"
+      "Low Roar",
+      "Jófríõur Ákadóttir"
     ],
     "credits": [
       {
         "entity": "Low Roar",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jófríõur Ákadóttir",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

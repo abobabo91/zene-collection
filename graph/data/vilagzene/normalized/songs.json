@@ -82,19 +82,27 @@
   {
     "song_id": "vz-00005",
     "file": "_other\\_vilagzene\\arab zene\\BÖ _ Serhat Durmus - Elimi Tut (ft. Ecem Telli).mp3",
-    "title": "Elimi Tut (ft. Ecem Telli)",
+    "title": "Elimi Tut (",
     "primary_artists": [
       "BÖ Serhat Durmus"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ecem Telli"
+    ],
     "artists": [
-      "BÖ Serhat Durmus"
+      "BÖ Serhat Durmus",
+      "Ecem Telli"
     ],
     "credits": [
       {
         "entity": "BÖ Serhat Durmus",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ecem Telli",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

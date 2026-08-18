@@ -375,19 +375,27 @@
   {
     "song_id": "rk-00019",
     "file": "_other\\_rock\\_psychedelic rock\\Ambiance\\Wicked Games (feat. Anna Naklab) (Radio Edit).mp3",
-    "title": "Wicked Games (feat. Anna Naklab)",
+    "title": "Wicked Games (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Anna Naklab"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Anna Naklab"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Anna Naklab",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -1330,19 +1338,27 @@
   {
     "song_id": "rk-00066",
     "file": "_other\\_rock\\_random\\Aerosmith - Greatest Hits 2CD (2008) 320 vtwin88cube\\Disc 1\\06.Walk This Way (With Run D.M.C.).mp3",
-    "title": "Walk This Way (With Run D.M.C.)",
+    "title": "Walk This Way (",
     "primary_artists": [
       "Aerosmith"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Run D.M.C"
+    ],
     "artists": [
-      "Aerosmith"
+      "Aerosmith",
+      "Run D.M.C"
     ],
     "credits": [
       {
         "entity": "Aerosmith",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Run D.M.C",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6328,7 +6344,7 @@
   {
     "song_id": "rk-00313",
     "file": "_other\\_rock\\_random\\Two Feet\\Two Feet - Hurt People (feat. Madison Love) (lyric.mp3",
-    "title": "Hurt People (feat. Madison Love) (lyric",
+    "title": "Hurt People (",
     "primary_artists": [
       "Two Feet"
     ],
@@ -6728,19 +6744,27 @@
   {
     "song_id": "rk-00333",
     "file": "_other\\_rock\\Apocalyptica TOP TRACKS Playlist\\Apocalyptica -- Grace (Feat. Hotei Tomoyasu) [Video].mp3",
-    "title": "Apocalyptica -- Grace (Feat. Hotei Tomoyasu) [Video]",
+    "title": "Apocalyptica -- Grace (",
     "primary_artists": [
       "Apocalyptica TOP TRACKS"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Hotei Tomoyasu"
+    ],
     "artists": [
-      "Apocalyptica TOP TRACKS"
+      "Apocalyptica TOP TRACKS",
+      "Hotei Tomoyasu"
     ],
     "credits": [
       {
         "entity": "Apocalyptica TOP TRACKS",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Hotei Tomoyasu",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7228,19 +7252,27 @@
   {
     "song_id": "rk-00356",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\04 Obey (with YUNGBLUD).mp3",
-    "title": "Obey (with YUNGBLUD)",
+    "title": "Obey (",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "YUNGBLUD"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "YUNGBLUD"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "YUNGBLUD",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7248,19 +7280,27 @@
   {
     "song_id": "rk-00357",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\07 1x1 (feat. Nova Twins).mp3",
-    "title": "1x1 (feat. Nova Twins)",
+    "title": "1x1 (",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nova Twins"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "Nova Twins"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nova Twins",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7288,19 +7328,27 @@
   {
     "song_id": "rk-00359",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\09 One Day the Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee).mp3",
-    "title": "One Day the Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)",
+    "title": "One Day the Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Amy Lee"
+    ],
     "artists": [
-      "Bring Me the Horizon"
+      "Bring Me the Horizon",
+      "Amy Lee"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Amy Lee",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

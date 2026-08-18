@@ -299,19 +299,27 @@
   {
     "song_id": "af-00014",
     "file": "_other\\_african music\\_afrobeats\\CKay Official Music Videos\\CKay -  By Your Side (feat. Blxckie) [Official Audio].mp3",
-    "title": "By Your Side (feat. Blxckie)",
+    "title": "By Your Side (",
     "primary_artists": [
       "CKay"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Blxckie"
+    ],
     "artists": [
-      "CKay"
+      "CKay",
+      "Blxckie"
     ],
     "credits": [
       {
         "entity": "CKay",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Blxckie",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -339,19 +347,27 @@
   {
     "song_id": "af-00016",
     "file": "_other\\_african music\\_afrobeats\\CKay Official Music Videos\\CKay - Love Nwantiti (ft. ElGrandeToto) [North African Remix] [Official Music Video].mp3",
-    "title": "Love Nwantiti (ft. ElGrandeToto) [North African Remix]",
+    "title": "Love Nwantiti (",
     "primary_artists": [
       "CKay"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "ElGrandeToto"
+    ],
     "artists": [
-      "CKay"
+      "CKay",
+      "ElGrandeToto"
     ],
     "credits": [
       {
         "entity": "CKay",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "ElGrandeToto",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -435,19 +451,34 @@
   {
     "song_id": "af-00020",
     "file": "_other\\_african music\\_afrobeats\\December (feat. Culan Luke & Tay Iwar).mp3",
-    "title": "December (feat. Culan Luke & Tay Iwar)",
+    "title": "December (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Culan Luke",
+      "Tay Iwar"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Culan Luke",
+      "Tay Iwar"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Culan Luke",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Tay Iwar",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -455,19 +486,34 @@
   {
     "song_id": "af-00021",
     "file": "_other\\_african music\\_afrobeats\\DJ Akuaa - Sing For Me (Feat Bisa Kdei & Joey B) (Official Audio).mp3",
-    "title": "Sing For Me (Feat Bisa Kdei & Joey B)",
+    "title": "Sing For Me (",
     "primary_artists": [
       "DJ Akuaa"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Bisa Kdei",
+      "Joey B"
+    ],
     "artists": [
-      "DJ Akuaa"
+      "DJ Akuaa",
+      "Bisa Kdei",
+      "Joey B"
     ],
     "credits": [
       {
         "entity": "DJ Akuaa",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Bisa Kdei",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Joey B",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1044,19 +1090,27 @@
   {
     "song_id": "af-00046",
     "file": "_other\\_african music\\_afrobeats\\Jorja Smith - Be Honest (feat. Burna Boy).mp3",
-    "title": "Be Honest (feat. Burna Boy)",
+    "title": "Be Honest (",
     "primary_artists": [
       "Jorja Smith"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Burna Boy"
+    ],
     "artists": [
-      "Jorja Smith"
+      "Jorja Smith",
+      "Burna Boy"
     ],
     "credits": [
       {
         "entity": "Jorja Smith",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Burna Boy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1084,19 +1138,34 @@
   {
     "song_id": "af-00048",
     "file": "_other\\_african music\\_afrobeats\\Juls\\Juls -  MMAYEWA  (featuring Twitch 4 EVA and Quamina MP) [Visualizer].mp3",
-    "title": "MMAYEWA (featuring Twitch 4 EVA and Quamina MP) [Visualizer]",
+    "title": "MMAYEWA (",
     "primary_artists": [
       "Juls"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Twitch 4 EVA",
+      "Quamina MP"
+    ],
     "artists": [
-      "Juls"
+      "Juls",
+      "Twitch 4 EVA",
+      "Quamina MP"
     ],
     "credits": [
       {
         "entity": "Juls",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Twitch 4 EVA",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Quamina MP",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1480,19 +1549,34 @@
   {
     "song_id": "af-00063",
     "file": "_other\\_african music\\_afrobeats\\Metro Boomin - Borrowed Love (feat. Swae Lee & WizKid).mp3",
-    "title": "Borrowed Love (feat. Swae Lee & WizKid)",
+    "title": "Borrowed Love (",
     "primary_artists": [
       "Metro Boomin"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Swae Lee",
+      "WizKid"
+    ],
     "artists": [
-      "Metro Boomin"
+      "Metro Boomin",
+      "Swae Lee",
+      "WizKid"
     ],
     "credits": [
       {
         "entity": "Metro Boomin",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Swae Lee",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "WizKid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2019,19 +2103,27 @@
   {
     "song_id": "af-00087",
     "file": "_other\\_african music\\_afrobeats\\Omah Lay\\Omah Lay - tell everybody (feat. Tay Iwar) (Official Audio).mp3",
-    "title": "tell everybody (feat. Tay Iwar)",
+    "title": "tell everybody (",
     "primary_artists": [
       "Omah Lay"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tay Iwar"
+    ],
     "artists": [
-      "Omah Lay"
+      "Omah Lay",
+      "Tay Iwar"
     ],
     "credits": [
       {
         "entity": "Omah Lay",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tay Iwar",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2862,19 +2954,27 @@
   {
     "song_id": "af-00124",
     "file": "_other\\_african music\\_afrobeats\\Tipsy (feat. J-Soul).mp3",
-    "title": "Tipsy (feat. J-Soul)",
+    "title": "Tipsy (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "J-Soul"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "J-Soul"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "J-Soul",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -3500,19 +3600,27 @@
   {
     "song_id": "af-00149",
     "file": "_other\\_african music\\_afrobeats\\Your Corner (feat. Nonso Amadi).mp3",
-    "title": "Your Corner (feat. Nonso Amadi)",
+    "title": "Your Corner (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nonso Amadi"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Nonso Amadi"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nonso Amadi",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -3643,19 +3751,34 @@
   {
     "song_id": "af-00154",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Abidoza - Amantombazane (ft Dr Malinga & Jazzy G).mp3",
-    "title": "Amantombazane (ft Dr Malinga & Jazzy G)",
+    "title": "Amantombazane (",
     "primary_artists": [
       "Abidoza"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Dr Malinga",
+      "Jazzy G"
+    ],
     "artists": [
-      "Abidoza"
+      "Abidoza",
+      "Dr Malinga",
+      "Jazzy G"
     ],
     "credits": [
       {
         "entity": "Abidoza",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Dr Malinga",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Jazzy G",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3663,19 +3786,34 @@
   {
     "song_id": "af-00155",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Abidoza - Higher(ft Tumza D_kota & Latoya M).mp3",
-    "title": "Higher(ft Tumza D kota & Latoya M)",
+    "title": "Higher(",
     "primary_artists": [
       "Abidoza"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tumza D kota",
+      "Latoya M"
+    ],
     "artists": [
-      "Abidoza"
+      "Abidoza",
+      "Tumza D kota",
+      "Latoya M"
     ],
     "credits": [
       {
         "entity": "Abidoza",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tumza D kota",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Latoya M",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3683,15 +3821,20 @@
   {
     "song_id": "af-00156",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Abidoza x Tumza D_kota - Manyonyoba (ft Focalistic & Major League).mp3",
-    "title": "Manyonyoba (ft Focalistic & Major League)",
+    "title": "Manyonyoba (",
     "primary_artists": [
       "Abidoza",
       "Tumza D kota"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Focalistic",
+      "Major League"
+    ],
     "artists": [
       "Abidoza",
-      "Tumza D kota"
+      "Tumza D kota",
+      "Focalistic",
+      "Major League"
     ],
     "credits": [
       {
@@ -3703,6 +3846,16 @@
         "entity": "Tumza D kota",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Focalistic",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Major League",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3710,15 +3863,18 @@
   {
     "song_id": "af-00157",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Abidoza x Tumza D_kota - Street Cred(ft De O).mp3",
-    "title": "Street Cred(ft De O)",
+    "title": "Street Cred(",
     "primary_artists": [
       "Abidoza",
       "Tumza D kota"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "De O"
+    ],
     "artists": [
       "Abidoza",
-      "Tumza D kota"
+      "Tumza D kota",
+      "De O"
     ],
     "credits": [
       {
@@ -3730,6 +3886,11 @@
         "entity": "Tumza D kota",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "De O",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3881,15 +4042,20 @@
   {
     "song_id": "af-00164",
     "file": "_other\\_african music\\_amapiano\\Afrochill\\Major League x Abidoza - Bambelela (feat Riky Rick & Senzo Afrika).mp3",
-    "title": "Bambelela (feat Riky Rick & Senzo Afrika)",
+    "title": "Bambelela (",
     "primary_artists": [
       "Major League",
       "Abidoza"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Riky Rick",
+      "Senzo Afrika"
+    ],
     "artists": [
       "Major League",
-      "Abidoza"
+      "Abidoza",
+      "Riky Rick",
+      "Senzo Afrika"
     ],
     "credits": [
       {
@@ -3901,6 +4067,16 @@
         "entity": "Abidoza",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Riky Rick",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Senzo Afrika",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4408,19 +4584,48 @@
   {
     "song_id": "af-00185",
     "file": "_other\\_african music\\_amapiano\\eMcimbini (feat. Aymos, Samthing Soweto, Mas Musiq, Myztro).mp3",
-    "title": "eMcimbini (feat. Aymos, Samthing Soweto, Mas Musiq, Myztro)",
+    "title": "eMcimbini (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Aymos",
+      "Samthing Soweto",
+      "Mas Musiq",
+      "Myztro"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Aymos",
+      "Samthing Soweto",
+      "Mas Musiq",
+      "Myztro"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Aymos",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Samthing Soweto",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Mas Musiq",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Myztro",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -4694,19 +4899,34 @@
   {
     "song_id": "af-00197",
     "file": "_other\\_african music\\_amapiano\\Price to Pay (feat. Blaq Diamond, Malome Vector).mp3",
-    "title": "Price to Pay (feat. Blaq Diamond, Malome Vector)",
+    "title": "Price to Pay (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Blaq Diamond",
+      "Malome Vector"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Blaq Diamond",
+      "Malome Vector"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Blaq Diamond",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Malome Vector",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -4822,15 +5042,20 @@
   {
     "song_id": "af-00202",
     "file": "_other\\_african music\\_amapiano\\TitoM & Yuppe - Tshwala Bam [Ft. S.N.E & EeQue] (Official Music Video).mp3",
-    "title": "Tshwala Bam [Ft. S.N.E & EeQue]",
+    "title": "Tshwala Bam [",
     "primary_artists": [
       "TitoM",
       "Yuppe"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "S.N.E",
+      "EeQue"
+    ],
     "artists": [
       "TitoM",
-      "Yuppe"
+      "Yuppe",
+      "S.N.E",
+      "EeQue"
     ],
     "credits": [
       {
@@ -4842,6 +5067,16 @@
         "entity": "Yuppe",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "S.N.E",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "EeQue",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4849,17 +5084,20 @@
   {
     "song_id": "af-00203",
     "file": "_other\\_african music\\_amapiano\\TitoM, Yuppe and Burna Boy - Tshwala Bam Remix [Ft. S.N.E] (Official Video).mp3",
-    "title": "Tshwala Bam Remix [Ft. S.N.E]",
+    "title": "Tshwala Bam Remix [",
     "primary_artists": [
       "TitoM",
       "Yuppe",
       "Burna Boy"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "S.N.E"
+    ],
     "artists": [
       "TitoM",
       "Yuppe",
-      "Burna Boy"
+      "Burna Boy",
+      "S.N.E"
     ],
     "credits": [
       {
@@ -4876,6 +5114,11 @@
         "entity": "Burna Boy",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "S.N.E",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4903,19 +5146,48 @@
   {
     "song_id": "af-00205",
     "file": "_other\\_african music\\_amapiano\\Ucinga Ntoni (feat. Tumza D_kota, caltonic SA, candy & Thabs Le Madonga).mp3",
-    "title": "Ucinga Ntoni (feat. Tumza D kota, caltonic SA, candy & Thabs Le Madonga)",
+    "title": "Ucinga Ntoni (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tumza D kota",
+      "caltonic SA",
+      "candy",
+      "Thabs Le Madonga"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Tumza D kota",
+      "caltonic SA",
+      "candy",
+      "Thabs Le Madonga"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tumza D kota",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "caltonic SA",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "candy",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Thabs Le Madonga",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -4923,19 +5195,41 @@
   {
     "song_id": "af-00206",
     "file": "_other\\_african music\\_amapiano\\Zaka (feat. Aymos, DJ Maphorisa, Kabza De Small).mp3",
-    "title": "Zaka (feat. Aymos, DJ Maphorisa, Kabza De Small)",
+    "title": "Zaka (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Aymos",
+      "DJ Maphorisa",
+      "Kabza De Small"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Aymos",
+      "DJ Maphorisa",
+      "Kabza De Small"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Aymos",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "DJ Maphorisa",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Kabza De Small",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -5306,19 +5600,27 @@
   {
     "song_id": "af-00224",
     "file": "_other\\_african music\\_old\\Papa Wemba - Chacun pour soi (feat. Diamond Platnumz).mp3",
-    "title": "Chacun pour soi (feat. Diamond Platnumz)",
+    "title": "Chacun pour soi (",
     "primary_artists": [
       "Papa Wemba"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Diamond Platnumz"
+    ],
     "artists": [
-      "Papa Wemba"
+      "Papa Wemba",
+      "Diamond Platnumz"
     ],
     "credits": [
       {
         "entity": "Papa Wemba",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Diamond Platnumz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

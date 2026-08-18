@@ -952,19 +952,27 @@
   {
     "song_id": "lt-00044",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Binhan - Guiné Nha Terra (Feat. Monica Seka).mp3",
-    "title": "Guiné Nha Terra (Feat. Monica Seka)",
+    "title": "Guiné Nha Terra (",
     "primary_artists": [
       "Binhan"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Monica Seka"
+    ],
     "artists": [
-      "Binhan"
+      "Binhan",
+      "Monica Seka"
     ],
     "credits": [
       {
         "entity": "Binhan",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Monica Seka",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1040,19 +1048,27 @@
   {
     "song_id": "lt-00048",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Claudio Fénix - Volta Só Já (feat. Lil Saint)   Official Video.mp3",
-    "title": "Volta Só Já (feat. Lil Saint)",
+    "title": "Volta Só Já (",
     "primary_artists": [
       "Claudio Fénix"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lil Saint"
+    ],
     "artists": [
-      "Claudio Fénix"
+      "Claudio Fénix",
+      "Lil Saint"
     ],
     "credits": [
       {
         "entity": "Claudio Fénix",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lil Saint",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1188,7 +1204,7 @@
   {
     "song_id": "lt-00055",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Garry - Vida Kim Skodji (Feat. Petcha) [Video Oficial] “NovoCiclo“ Parte2 - 2023.mp3",
-    "title": "Vida Kim Skodji (Feat. Petcha) “NovoCiclo“ Parte2 - 2023",
+    "title": "Vida Kim Skodji (",
     "primary_artists": [
       "Garry"
     ],
@@ -1484,19 +1500,27 @@
   {
     "song_id": "lt-00069",
     "file": "_other\\_latino\\_oldschool\\kizomba\\Soarito - O Lamento (feat. C4 Pedro) Official Vídeo.mp3",
-    "title": "O Lamento (feat. C4 Pedro) Official Vídeo",
+    "title": "O Lamento (",
     "primary_artists": [
       "Soarito"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "C4 Pedro Official Vídeo"
+    ],
     "artists": [
-      "Soarito"
+      "Soarito",
+      "C4 Pedro Official Vídeo"
     ],
     "credits": [
       {
         "entity": "Soarito",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "C4 Pedro Official Vídeo",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1672,19 +1696,27 @@
   {
     "song_id": "lt-00078",
     "file": "_other\\_latino\\_oldschool\\soca\\Kat DeLuna - Push Push (feat. Akon) NEW SINGLE 2010.mp3",
-    "title": "Push Push (feat. Akon) NEW SINGLE 2010",
+    "title": "Push Push (",
     "primary_artists": [
       "Kat DeLuna"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Akon NEW SINGLE 2010"
+    ],
     "artists": [
-      "Kat DeLuna"
+      "Kat DeLuna",
+      "Akon NEW SINGLE 2010"
     ],
     "credits": [
       {
         "entity": "Kat DeLuna",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Akon NEW SINGLE 2010",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1692,19 +1724,27 @@
   {
     "song_id": "lt-00079",
     "file": "_other\\_latino\\_oldschool\\soca\\Kevin Lyttle - Turn Me On (feat. Spraga Benz) [Official Video].mp3",
-    "title": "Turn Me On (feat. Spraga Benz)",
+    "title": "Turn Me On (",
     "primary_artists": [
       "Kevin Lyttle"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Spraga Benz"
+    ],
     "artists": [
-      "Kevin Lyttle"
+      "Kevin Lyttle",
+      "Spraga Benz"
     ],
     "credits": [
       {
         "entity": "Kevin Lyttle",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Spraga Benz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3056,19 +3096,27 @@
   {
     "song_id": "lt-00140",
     "file": "_other\\_latino\\Bad Bunny\\044. Bad Bunny - MIA (feat. Drake).mp3",
-    "title": "MIA (feat. Drake)",
+    "title": "MIA (",
     "primary_artists": [
       "Bad Bunny"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Drake"
+    ],
     "artists": [
-      "Bad Bunny"
+      "Bad Bunny",
+      "Drake"
     ],
     "credits": [
       {
         "entity": "Bad Bunny",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4824,17 +4872,20 @@
   {
     "song_id": "lt-00218",
     "file": "_other\\_latino\\Justin Quiles\\03. Justin Quiles x Arcangel x Dalex -  Como Si Nah (feat. KEVVO) [Official Music Video].mp3",
-    "title": "Como Si Nah (feat. KEVVO)",
+    "title": "Como Si Nah (",
     "primary_artists": [
       "Justin Quiles",
       "Arcángel",
       "Dalex"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "KEVVO"
+    ],
     "artists": [
       "Justin Quiles",
       "Arcángel",
-      "Dalex"
+      "Dalex",
+      "KEVVO"
     ],
     "credits": [
       {
@@ -4851,6 +4902,11 @@
         "entity": "Dalex",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "KEVVO",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

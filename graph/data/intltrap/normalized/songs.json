@@ -455,19 +455,27 @@
   {
     "song_id": "it-00021",
     "file": "_trap\\_other country random\\_uk trap\\Dave\\Dave - Location (ft. Burna Boy).mp3",
-    "title": "Location (ft. Burna Boy)",
+    "title": "Location (",
     "primary_artists": [
       "Dave"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Burna Boy"
+    ],
     "artists": [
-      "Dave"
+      "Dave",
+      "Burna Boy"
     ],
     "credits": [
       {
         "entity": "Dave",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Burna Boy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -873,19 +881,27 @@
   {
     "song_id": "it-00040",
     "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Gyallie On Me (feat. Kwengface).mp3",
-    "title": "Gyallie On Me (feat. Kwengface)",
+    "title": "Gyallie On Me (",
     "primary_artists": [
       "Hillside zoo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kwengface"
+    ],
     "artists": [
-      "Hillside zoo"
+      "Hillside zoo",
+      "Kwengface"
     ],
     "credits": [
       {
         "entity": "Hillside zoo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kwengface",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -893,19 +909,27 @@
   {
     "song_id": "it-00041",
     "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Intro (feat. Kwengface _ Trizzac).mp3",
-    "title": "Intro (feat. Kwengface Trizzac)",
+    "title": "Intro (",
     "primary_artists": [
       "Hillside zoo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kwengface Trizzac"
+    ],
     "artists": [
-      "Hillside zoo"
+      "Hillside zoo",
+      "Kwengface Trizzac"
     ],
     "credits": [
       {
         "entity": "Hillside zoo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kwengface Trizzac",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -913,19 +937,27 @@
   {
     "song_id": "it-00042",
     "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Mad About Beef (feat. Trizzac _ Kwengface).mp3",
-    "title": "Mad About Beef (feat. Trizzac Kwengface)",
+    "title": "Mad About Beef (",
     "primary_artists": [
       "Hillside zoo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Trizzac Kwengface"
+    ],
     "artists": [
-      "Hillside zoo"
+      "Hillside zoo",
+      "Trizzac Kwengface"
     ],
     "credits": [
       {
         "entity": "Hillside zoo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Trizzac Kwengface",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -933,19 +965,34 @@
   {
     "song_id": "it-00043",
     "file": "_trap\\_other country random\\_uk trap\\Hillside zoo\\Sinbad (feat. Karma, Kwengface _ Trizzac).mp3",
-    "title": "Sinbad (feat. Karma, Kwengface Trizzac)",
+    "title": "Sinbad (",
     "primary_artists": [
       "Hillside zoo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Karma",
+      "Kwengface Trizzac"
+    ],
     "artists": [
-      "Hillside zoo"
+      "Hillside zoo",
+      "Karma",
+      "Kwengface Trizzac"
     ],
     "credits": [
       {
         "entity": "Hillside zoo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Karma",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Kwengface Trizzac",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2136,19 +2183,27 @@
   {
     "song_id": "it-00093",
     "file": "_trap\\_other country random\\_uk trap\\Youngs Teflon\\08. Aston Music - Youngs Teflon(ft Grizz).mp3",
-    "title": "Youngs Teflon(ft Grizz)",
+    "title": "Youngs Teflon(",
     "primary_artists": [
       "Aston Music"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Grizz"
+    ],
     "artists": [
-      "Aston Music"
+      "Aston Music",
+      "Grizz"
     ],
     "credits": [
       {
         "entity": "Aston Music",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Grizz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2556,19 +2611,27 @@
   {
     "song_id": "it-00111",
     "file": "_trap\\_other country random\\Baby gang\\Baby Gang - 3 Occhi (feat. Il Ghost) [Official Visual Art Video].mp3",
-    "title": "Occhi (feat. Il Ghost) [Official Visual Art Video]",
+    "title": "Occhi (",
     "primary_artists": [
       "Baby gang"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Il Ghost"
+    ],
     "artists": [
-      "Baby gang"
+      "Baby gang",
+      "Il Ghost"
     ],
     "credits": [
       {
         "entity": "Baby gang",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Il Ghost",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2768,19 +2831,27 @@
   {
     "song_id": "it-00120",
     "file": "_trap\\_other country random\\Baby gang\\Baby Gang – Casablanca (feat. Morad ) [Official Video].mp3",
-    "title": "Casablanca (feat. Morad )",
+    "title": "Casablanca (",
     "primary_artists": [
       "Baby gang"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Morad"
+    ],
     "artists": [
-      "Baby gang"
+      "Baby gang",
+      "Morad"
     ],
     "credits": [
       {
         "entity": "Baby gang",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Morad",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

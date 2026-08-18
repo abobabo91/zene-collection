@@ -1,4 +1,117 @@
 {
+  "Eko": {
+    "song_ids": [
+      "ir-00001"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00001"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Valezka Melbeatz": {
+    "song_ids": [
+      "ir-00001"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00001"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cassandra Steen": {
+    "song_ids": [
+      "ir-00005"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00005"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Saad": {
+    "song_ids": [
+      "ir-00007"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00007"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jonesmann": {
+    "song_ids": [
+      "ir-00010"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00010"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Rafik": {
+    "song_ids": [
+      "ir-00011"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00011"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rakim": {
+    "song_ids": [
+      "ir-00012"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00012"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tone DJ Rafik": {
+    "song_ids": [
+      "ir-00014"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00014"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kool Savas": {
+    "song_ids": [
+      "ir-00015",
+      "ir-00075"
+    ],
+    "primary_song_ids": [
+      "ir-00075"
+    ],
+    "feature_song_ids": [
+      "ir-00015"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Moe Mitchell": {
+    "song_ids": [
+      "ir-00016"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00016"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "LX Maxwell": {
     "song_ids": [
       "ir-00017",
@@ -9,6 +122,17 @@
       "ir-00018"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fatal": {
+    "song_ids": [
+      "ir-00018"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00018"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -43,6 +167,17 @@
       "ir-00030"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "moe mitchell": {
+    "song_ids": [
+      "ir-00024"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00024"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -255,6 +390,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Maxwell": {
+    "song_ids": [
+      "ir-00058"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00058"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "RAF Camora": {
     "song_ids": [
       "ir-00062",
@@ -306,6 +452,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Game": {
+    "song_ids": [
+      "ir-00068"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00068"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Kollegah Farid Bang": {
     "song_ids": [
       "ir-00073",
@@ -314,17 +471,6 @@
     "primary_song_ids": [
       "ir-00073",
       "ir-00074"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Kool Savas": {
-    "song_ids": [
-      "ir-00075"
-    ],
-    "primary_song_ids": [
-      "ir-00075"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -444,6 +590,61 @@
       "ir-00093"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "kitty kat-ysp": {
+    "song_ids": [
+      "ir-00087"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00087"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "fler shizoe-ysp": {
+    "song_ids": [
+      "ir-00088"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00088"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "scooter kitty kat tony d-ysp": {
+    "song_ids": [
+      "ir-00090"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00090"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "joe rilla-ysp": {
+    "song_ids": [
+      "ir-00091"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00091"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tony D Mesut": {
+    "song_ids": [
+      "ir-00092"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00092"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -628,6 +829,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Bodo": {
+    "song_ids": [
+      "ir-00113"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00113"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mario": {
+    "song_ids": [
+      "ir-00115"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00115"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Antonia": {
     "song_ids": [
       "ir-00116"
@@ -659,6 +882,19 @@
     ],
     "feature_song_ids": [
       "ir-00116"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "George Hora": {
+    "song_ids": [
+      "ir-00117",
+      "ir-00122"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00117",
+      "ir-00122"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -703,17 +939,6 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "ir-00121"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "George Hora": {
-    "song_ids": [
-      "ir-00122"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "ir-00122"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1396,6 +1621,39 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Mike Stud": {
+    "song_ids": [
+      "ir-00179"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00179"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Scolla": {
+    "song_ids": [
+      "ir-00179"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00179"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Scolla Kimbra": {
+    "song_ids": [
+      "ir-00180"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00180"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "iSH": {
     "song_ids": [
       "ir-00181"
@@ -1749,6 +2007,28 @@
     ],
     "feature_song_ids": [
       "ir-00235"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Novelist": {
+    "song_ids": [
+      "ir-00223"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00223"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Immortal Technique": {
+    "song_ids": [
+      "ir-00225"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "ir-00225"
     ],
     "via_group_song_ids": [],
     "groups": []

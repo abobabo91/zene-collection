@@ -116,19 +116,34 @@
   {
     "song_id": "pp-00006",
     "file": "_other\\_pop\\_kpop\\BLACKPINK - _붐바야_(BOOMBAYAH) M V\\LISA - Alter Ego\\LISA Born Again (ft. Doja Cat & RAYE) Lyrics (Color Coded Lyrics).mp3",
-    "title": "LISA Born Again (ft. Doja Cat & RAYE) (Color Coded )",
+    "title": "LISA Born Again (",
     "primary_artists": [
       "LISA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Doja Cat",
+      "RAYE"
+    ],
     "artists": [
-      "LISA"
+      "LISA",
+      "Doja Cat",
+      "RAYE"
     ],
     "credits": [
       {
         "entity": "LISA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Doja Cat",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "RAYE",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -156,19 +171,27 @@
   {
     "song_id": "pp-00008",
     "file": "_other\\_pop\\_kpop\\BLACKPINK - _붐바야_(BOOMBAYAH) M V\\LISA - Alter Ego\\LISA NEW WOMAN (ft. Rosalía) Lyrics (Color Coded Lyrics).mp3",
-    "title": "LISA NEW WOMAN (ft. Rosalía) (Color Coded )",
+    "title": "LISA NEW WOMAN (",
     "primary_artists": [
       "LISA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rosalía"
+    ],
     "artists": [
-      "LISA"
+      "LISA",
+      "Rosalía"
     ],
     "credits": [
       {
         "entity": "LISA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rosalía",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -423,19 +446,27 @@
   {
     "song_id": "pp-00021",
     "file": "_other\\_pop\\_kpop\\BTS\\LOVE YOURSELF ANSWER\\The Truth Untold (Feat. Steve Aoki).mp3",
-    "title": "The Truth Untold (Feat. Steve Aoki)",
+    "title": "The Truth Untold (",
     "primary_artists": [
       "BTS"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Steve Aoki"
+    ],
     "artists": [
-      "BTS"
+      "BTS",
+      "Steve Aoki"
     ],
     "credits": [
       {
         "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Steve Aoki",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -643,19 +674,34 @@
   {
     "song_id": "pp-00032",
     "file": "_other\\_pop\\_kpop\\LEE HI - All Songs\\Yours (feat. LeeHi, CHANGMO).mp3",
-    "title": "Yours (feat. LeeHi, CHANGMO)",
+    "title": "Yours (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "LeeHi",
+      "CHANGMO"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "LeeHi",
+      "CHANGMO"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "LeeHi",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "CHANGMO",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -906,19 +952,27 @@
   {
     "song_id": "pp-00044",
     "file": "_other\\_pop\\_modern\\Camila Cabello\\Camila Cabello - HOT UPTOWN (ft. Drake)(Official Visualizer).mp3",
-    "title": "HOT UPTOWN (ft. Drake)",
+    "title": "HOT UPTOWN (",
     "primary_artists": [
       "Camila Cabello"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Drake"
+    ],
     "artists": [
-      "Camila Cabello"
+      "Camila Cabello",
+      "Drake"
     ],
     "credits": [
       {
         "entity": "Camila Cabello",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -994,19 +1048,27 @@
   {
     "song_id": "pp-00048",
     "file": "_other\\_pop\\_modern\\Justin Bieber\\Changes - YouTube\\Justin Bieber - Forever (feat. Post Malone _ Clever)(Audio).mp3",
-    "title": "Forever (feat. Post Malone Clever)(Audio)",
+    "title": "Forever (",
     "primary_artists": [
       "Justin Bieber"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Post Malone Clever"
+    ],
     "artists": [
-      "Justin Bieber"
+      "Justin Bieber",
+      "Post Malone Clever"
     ],
     "credits": [
       {
         "entity": "Justin Bieber",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Post Malone Clever",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1249,19 +1311,27 @@
   {
     "song_id": "pp-00060",
     "file": "_other\\_pop\\_modern\\Justin Bieber\\Justin Bieber - Purpose (Deluxe) 2015 {MP3 Album}~{VBUc} - Copy\\09 The Feeling (feat. Halsey).mp3",
-    "title": "The Feeling (feat. Halsey)",
+    "title": "The Feeling (",
     "primary_artists": [
       "Justin Bieber"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Halsey"
+    ],
     "artists": [
-      "Justin Bieber"
+      "Justin Bieber",
+      "Halsey"
     ],
     "credits": [
       {
         "entity": "Justin Bieber",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Halsey",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1289,19 +1359,27 @@
   {
     "song_id": "pp-00062",
     "file": "_other\\_pop\\_modern\\Justin Bieber\\Justin Bieber - Purpose (Deluxe) 2015 {MP3 Album}~{VBUc} - Copy\\16 We Are (feat. Nas).mp3",
-    "title": "We Are (feat. Nas)",
+    "title": "We Are (",
     "primary_artists": [
       "Justin Bieber"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nas"
+    ],
     "artists": [
-      "Justin Bieber"
+      "Justin Bieber",
+      "Nas"
     ],
     "credits": [
       {
         "entity": "Justin Bieber",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nas",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2280,19 +2358,27 @@
   {
     "song_id": "pp-00110",
     "file": "_other\\_pop\\_oldschool_pop\\Cher\\Cher - Piu Che Puo [Feat. Eros Ramazzotti] (Audio).mp3",
-    "title": "Piu Che Puo [Feat. Eros Ramazzotti] (Audio)",
+    "title": "Piu Che Puo [",
     "primary_artists": [
       "Cher"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Eros Ramazzotti"
+    ],
     "artists": [
-      "Cher"
+      "Cher",
+      "Eros Ramazzotti"
     ],
     "credits": [
       {
         "entity": "Cher",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Eros Ramazzotti",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2520,19 +2606,27 @@
   {
     "song_id": "pp-00122",
     "file": "_other\\_pop\\_oldschool_pop\\Dido\\12 - Let Us Move On (Feat. Kendrick Lamar).mp3",
-    "title": "Let Us Move On (Feat. Kendrick Lamar)",
+    "title": "Let Us Move On (",
     "primary_artists": [
       "Dido"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kendrick Lamar"
+    ],
     "artists": [
-      "Dido"
+      "Dido",
+      "Kendrick Lamar"
     ],
     "credits": [
       {
         "entity": "Dido",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kendrick Lamar",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6685,19 +6779,27 @@
   {
     "song_id": "pp-00326",
     "file": "_other\\_pop\\_random\\72 Olly Murs - Wrapped Up (Feat. Travie McCoy).mp3",
-    "title": "Wrapped Up (Feat. Travie McCoy)",
+    "title": "Wrapped Up (",
     "primary_artists": [
       "Olly Murs"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Travie McCoy"
+    ],
     "artists": [
-      "Olly Murs"
+      "Olly Murs",
+      "Travie McCoy"
     ],
     "credits": [
       {
         "entity": "Olly Murs",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Travie McCoy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6759,19 +6861,27 @@
   {
     "song_id": "pp-00329",
     "file": "_other\\_pop\\_random\\95 The Vamps - Somebody To You (Feat. Demi Lovato).mp3",
-    "title": "Somebody To You (Feat. Demi Lovato)",
+    "title": "Somebody To You (",
     "primary_artists": [
       "The Vamps"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Demi Lovato"
+    ],
     "artists": [
-      "The Vamps"
+      "The Vamps",
+      "Demi Lovato"
     ],
     "credits": [
       {
         "entity": "The Vamps",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Demi Lovato",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6839,19 +6949,27 @@
   {
     "song_id": "pp-00333",
     "file": "_other\\_pop\\_random\\Alex Germys - Sweet Afterglow (feat. Myah).mp3",
-    "title": "Sweet Afterglow (feat. Myah)",
+    "title": "Sweet Afterglow (",
     "primary_artists": [
       "Alex Germys"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Myah"
+    ],
     "artists": [
-      "Alex Germys"
+      "Alex Germys",
+      "Myah"
     ],
     "credits": [
       {
         "entity": "Alex Germys",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Myah",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6859,19 +6977,27 @@
   {
     "song_id": "pp-00334",
     "file": "_other\\_pop\\_random\\Alle Farben - Please Tell Rosie (feat. YOUNOTUS) [OFFICIAL VIDEO].mp3",
-    "title": "Please Tell Rosie (feat. YOUNOTUS)",
+    "title": "Please Tell Rosie (",
     "primary_artists": [
       "Alle Farben"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "YOUNOTUS"
+    ],
     "artists": [
-      "Alle Farben"
+      "Alle Farben",
+      "YOUNOTUS"
     ],
     "credits": [
       {
         "entity": "Alle Farben",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "YOUNOTUS",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6999,19 +7125,27 @@
   {
     "song_id": "pp-00341",
     "file": "_other\\_pop\\_random\\Anderson  Paak\\Anderson .Paak - Lite Weight (feat. The Free Nationals United Fellowship Choir).mp3",
-    "title": "Lite Weight (feat. The Free Nationals United Fellowship Choir)",
+    "title": "Lite Weight (",
     "primary_artists": [
       "Anderson Paak"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "The Free Nationals United Fellowship Choir"
+    ],
     "artists": [
-      "Anderson Paak"
+      "Anderson Paak",
+      "The Free Nationals United Fellowship Choir"
     ],
     "credits": [
       {
         "entity": "Anderson Paak",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "The Free Nationals United Fellowship Choir",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7039,19 +7173,27 @@
   {
     "song_id": "pp-00343",
     "file": "_other\\_pop\\_random\\Anderson  Paak\\Anderson Paak - Malibu\\03. The Waters (feat. BJ the Chicago Kid).mp3",
-    "title": "The Waters (feat. BJ the Chicago Kid)",
+    "title": "The Waters (",
     "primary_artists": [
       "Anderson Paak"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "BJ the Chicago Kid"
+    ],
     "artists": [
-      "Anderson Paak"
+      "Anderson Paak",
+      "BJ the Chicago Kid"
     ],
     "credits": [
       {
         "entity": "Anderson Paak",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "BJ the Chicago Kid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7059,19 +7201,27 @@
   {
     "song_id": "pp-00344",
     "file": "_other\\_pop\\_random\\Anderson  Paak\\Anderson Paak - Malibu\\09. Light Weight (feat. The Free Nationals United Fellowship Choir).mp3",
-    "title": "Light Weight (feat. The Free Nationals United Fellowship Choir)",
+    "title": "Light Weight (",
     "primary_artists": [
       "Anderson Paak"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "The Free Nationals United Fellowship Choir"
+    ],
     "artists": [
-      "Anderson Paak"
+      "Anderson Paak",
+      "The Free Nationals United Fellowship Choir"
     ],
     "credits": [
       {
         "entity": "Anderson Paak",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "The Free Nationals United Fellowship Choir",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7769,19 +7919,27 @@
   {
     "song_id": "pp-00378",
     "file": "_other\\_pop\\_random\\Craig David [Greatest Hits]\\Craig David - Rise and Fall ( Feat. Sting ) [3 19].mp3",
-    "title": "Rise and Fall ( Feat. Sting ) [3 19]",
+    "title": "Rise and Fall (",
     "primary_artists": [
       "Craig David"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sting"
+    ],
     "artists": [
-      "Craig David"
+      "Craig David",
+      "Sting"
     ],
     "credits": [
       {
         "entity": "Craig David",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sting",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8069,19 +8227,27 @@
   {
     "song_id": "pp-00393",
     "file": "_other\\_pop\\_random\\Diversion - Would You Just (ft. Yemi Bolatiwa).mp3",
-    "title": "Would You Just (ft. Yemi Bolatiwa)",
+    "title": "Would You Just (",
     "primary_artists": [
       "Diversion"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Yemi Bolatiwa"
+    ],
     "artists": [
-      "Diversion"
+      "Diversion",
+      "Yemi Bolatiwa"
     ],
     "credits": [
       {
         "entity": "Diversion",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Yemi Bolatiwa",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8477,19 +8643,27 @@
   {
     "song_id": "pp-00410",
     "file": "_other\\_pop\\_random\\FEDER - Goodbye (ft. Lyse).mp3",
-    "title": "Goodbye (ft. Lyse)",
+    "title": "Goodbye (",
     "primary_artists": [
       "FEDER"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lyse"
+    ],
     "artists": [
-      "FEDER"
+      "FEDER",
+      "Lyse"
     ],
     "credits": [
       {
         "entity": "FEDER",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lyse",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8517,19 +8691,27 @@
   {
     "song_id": "pp-00412",
     "file": "_other\\_pop\\_random\\Felix Jaehn - Bonfire (feat. ALMA) [Offizielles Video].mp3",
-    "title": "Bonfire (feat. ALMA) [Offizielles Video]",
+    "title": "Bonfire (",
     "primary_artists": [
       "Felix Jaehn"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "ALMA"
+    ],
     "artists": [
-      "Felix Jaehn"
+      "Felix Jaehn",
+      "ALMA"
     ],
     "credits": [
       {
         "entity": "Felix Jaehn",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "ALMA",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8812,19 +8994,27 @@
   {
     "song_id": "pp-00426",
     "file": "_other\\_pop\\_random\\goldies\\Dante Thomas - Miss California (ft. Pras) [Music Video] 2001.mp3",
-    "title": "Miss California (ft. Pras) [Music Video] 2001",
+    "title": "Miss California (",
     "primary_artists": [
       "Dante Thomas"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Pras 2001"
+    ],
     "artists": [
-      "Dante Thomas"
+      "Dante Thomas",
+      "Pras 2001"
     ],
     "credits": [
       {
         "entity": "Dante Thomas",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Pras 2001",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9192,19 +9382,27 @@
   {
     "song_id": "pp-00443",
     "file": "_other\\_pop\\_random\\I_m Into You (Feat. Lil Wayne).mp3",
-    "title": "I m Into You (Feat. Lil Wayne)",
+    "title": "I m Into You (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lil Wayne"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Lil Wayne"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -9882,19 +10080,27 @@
   {
     "song_id": "pp-00474",
     "file": "_other\\_pop\\_random\\Latch (ft. Sam Smith).mp3",
-    "title": "Latch (ft. Sam Smith)",
+    "title": "Latch (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sam Smith"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Sam Smith"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sam Smith",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -9962,19 +10168,27 @@
   {
     "song_id": "pp-00478",
     "file": "_other\\_pop\\_random\\Lizzo - Cuz I Love You (Deluxe Edition) (2019) Mp3 320kbps Album [PMEDIA]\\07 - Tempo (feat. Missy Elliot).mp3",
-    "title": "Tempo (feat. Missy Elliot)",
+    "title": "Tempo (",
     "primary_artists": [
       "Lizzo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Missy Elliot"
+    ],
     "artists": [
-      "Lizzo"
+      "Lizzo",
+      "Missy Elliot"
     ],
     "credits": [
       {
         "entity": "Lizzo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Missy Elliot",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10738,19 +10952,27 @@
   {
     "song_id": "pp-00514",
     "file": "_other\\_pop\\_random\\Parov Stelar - The Sun (feat. Graham Candy) (Official Video).mp3",
-    "title": "The Sun (feat. Graham Candy)",
+    "title": "The Sun (",
     "primary_artists": [
       "Parov Stelar"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Graham Candy"
+    ],
     "artists": [
-      "Parov Stelar"
+      "Parov Stelar",
+      "Graham Candy"
     ],
     "credits": [
       {
         "entity": "Parov Stelar",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Graham Candy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10913,19 +11135,27 @@
   {
     "song_id": "pp-00522",
     "file": "_other\\_pop\\_random\\Raphael Saadiq\\Chic Like You (feat. Allie Baba) (feat. Allie Baba).mp3",
-    "title": "Chic Like You (feat. Allie Baba) (feat. Allie Baba)",
+    "title": "Chic Like You (",
     "primary_artists": [
       "Raphael Saadiq"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Allie Baba feat. Allie Baba"
+    ],
     "artists": [
-      "Raphael Saadiq"
+      "Raphael Saadiq",
+      "Allie Baba feat. Allie Baba"
     ],
     "credits": [
       {
         "entity": "Raphael Saadiq",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Allie Baba feat. Allie Baba",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10981,19 +11211,27 @@
   {
     "song_id": "pp-00525",
     "file": "_other\\_pop\\_random\\Raphael Saadiq\\Not A Game (feat. Babyface) (feat. Babyface).mp3",
-    "title": "Not A Game (feat. Babyface) (feat. Babyface)",
+    "title": "Not A Game (",
     "primary_artists": [
       "Raphael Saadiq"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Babyface feat. Babyface"
+    ],
     "artists": [
-      "Raphael Saadiq"
+      "Raphael Saadiq",
+      "Babyface feat. Babyface"
     ],
     "credits": [
       {
         "entity": "Raphael Saadiq",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Babyface feat. Babyface",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11081,19 +11319,27 @@
   {
     "song_id": "pp-00530",
     "file": "_other\\_pop\\_random\\Robin Schulz - Sugar (feat. Francesco Yates) (Official Lyric Video).mp3",
-    "title": "Sugar (feat. Francesco Yates)",
+    "title": "Sugar (",
     "primary_artists": [
       "Robin Schulz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Francesco Yates"
+    ],
     "artists": [
-      "Robin Schulz"
+      "Robin Schulz",
+      "Francesco Yates"
     ],
     "credits": [
       {
         "entity": "Robin Schulz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Francesco Yates",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11229,15 +11475,18 @@
   {
     "song_id": "pp-00537",
     "file": "_other\\_pop\\_random\\Skrillex And Diplo - Mind (Feat. Kai).mp3",
-    "title": "Mind (Feat. Kai)",
+    "title": "Mind (",
     "primary_artists": [
       "Skrillex",
       "Diplo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kai"
+    ],
     "artists": [
       "Skrillex",
-      "Diplo"
+      "Diplo",
+      "Kai"
     ],
     "credits": [
       {
@@ -11249,6 +11498,11 @@
         "entity": "Diplo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kai",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11324,19 +11578,27 @@
   {
     "song_id": "pp-00541",
     "file": "_other\\_pop\\_random\\Sweet Nothing - Calvin Harris (Feat. Florence Welch).mp3",
-    "title": "Calvin Harris (Feat. Florence Welch)",
+    "title": "Calvin Harris (",
     "primary_artists": [
       "Sweet Nothing"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Florence Welch"
+    ],
     "artists": [
-      "Sweet Nothing"
+      "Sweet Nothing",
+      "Florence Welch"
     ],
     "credits": [
       {
         "entity": "Sweet Nothing",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Florence Welch",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11548,19 +11810,27 @@
   {
     "song_id": "pp-00551",
     "file": "_other\\_pop\\_random\\Timbaland -Too Late To Apologize (Feat. onerepublic).mp3",
-    "title": "Too Late To Apologize (Feat. onerepublic)",
+    "title": "Too Late To Apologize (",
     "primary_artists": [
       "Timbaland"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "OneRepublic"
+    ],
     "artists": [
-      "Timbaland"
+      "Timbaland",
+      "OneRepublic"
     ],
     "credits": [
       {
         "entity": "Timbaland",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "OneRepublic",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12260,19 +12530,27 @@
   {
     "song_id": "pp-00585",
     "file": "_other\\_pop\\Akon\\2004 - Akon -Trouble   (Deluxe Edition)\\CD2\\04  P-Money - Keep On Callin [Feat. Akon].mp3",
-    "title": "Keep On Callin [Feat. Akon]",
+    "title": "Keep On Callin [",
     "primary_artists": [
       "P-Money"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Akon"
+    ],
     "artists": [
-      "P-Money"
+      "P-Money",
+      "Akon"
     ],
     "credits": [
       {
         "entity": "P-Money",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Akon",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12280,19 +12558,27 @@
   {
     "song_id": "pp-00586",
     "file": "_other\\_pop\\Akon\\2004 - Akon -Trouble   (Deluxe Edition)\\CD2\\09  Baby Bash - Baby, I_m Back [Feat. Akon].mp3",
-    "title": "Baby, I m Back [Feat. Akon]",
+    "title": "Baby, I m Back [",
     "primary_artists": [
       "Baby Bash"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Akon"
+    ],
     "artists": [
-      "Baby Bash"
+      "Baby Bash",
+      "Akon"
     ],
     "credits": [
       {
         "entity": "Baby Bash",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Akon",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12460,19 +12746,34 @@
   {
     "song_id": "pp-00595",
     "file": "_other\\_pop\\Akon\\2008 - Akon - Freedom\\02  Akon - Beautiful [Ft. Colby O_Donis And Kardinal Offishall].mp3",
-    "title": "Beautiful [Ft. Colby O Donis And Kardinal Offishall]",
+    "title": "Beautiful [",
     "primary_artists": [
       "Akon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Colby O Donis",
+      "Kardinal Offishall"
+    ],
     "artists": [
-      "Akon"
+      "Akon",
+      "Colby O Donis",
+      "Kardinal Offishall"
     ],
     "credits": [
       {
         "entity": "Akon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Colby O Donis",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Kardinal Offishall",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12520,19 +12821,34 @@
   {
     "song_id": "pp-00598",
     "file": "_other\\_pop\\Akon\\2008 - Akon - Freedom\\06  Akon - I_m So Paid [Ft. Lil Wayne And Young Jeezy].mp3",
-    "title": "I m So Paid [Ft. Lil Wayne And Young Jeezy]",
+    "title": "I m So Paid [",
     "primary_artists": [
       "Akon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Lil Wayne",
+      "Young Jeezy"
+    ],
     "artists": [
-      "Akon"
+      "Akon",
+      "Lil Wayne",
+      "Young Jeezy"
     ],
     "credits": [
       {
         "entity": "Akon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Lil Wayne",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Young Jeezy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12540,19 +12856,27 @@
   {
     "song_id": "pp-00599",
     "file": "_other\\_pop\\Akon\\2008 - Akon - Freedom\\08  Akon - Against The Grain [Ft. Ray Lavender].mp3",
-    "title": "Against The Grain [Ft. Ray Lavender]",
+    "title": "Against The Grain [",
     "primary_artists": [
       "Akon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ray Lavender"
+    ],
     "artists": [
-      "Akon"
+      "Akon",
+      "Ray Lavender"
     ],
     "credits": [
       {
         "entity": "Akon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ray Lavender",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12760,19 +13084,27 @@
   {
     "song_id": "pp-00608",
     "file": "_other\\_pop\\Akon\\Akon\\04 Keep On Callin_ (ft. P-Money).mp3",
-    "title": "Keep On Callin (ft. P-Money)",
+    "title": "Keep On Callin (",
     "primary_artists": [
       "Akon"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "P-Money"
+    ],
     "artists": [
-      "Akon"
+      "Akon",
+      "P-Money"
     ],
     "credits": [
       {
         "entity": "Akon",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "P-Money",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -12913,19 +13245,34 @@
   {
     "song_id": "pp-00613",
     "file": "_other\\_pop\\Akon\\David Banner - 9mm ( ft. Akon, Lil Wayne _ Snoop Dogg ).mp3",
-    "title": "9mm ( ft. Akon, Lil Wayne Snoop Dogg )",
+    "title": "9mm (",
     "primary_artists": [
       "David Banner"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Akon",
+      "Lil Wayne Snoop Dogg"
+    ],
     "artists": [
-      "David Banner"
+      "David Banner",
+      "Akon",
+      "Lil Wayne Snoop Dogg"
     ],
     "credits": [
       {
         "entity": "David Banner",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Akon",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Lil Wayne Snoop Dogg",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13586,19 +13933,27 @@
   {
     "song_id": "pp-00640",
     "file": "_other\\_pop\\Ariana Grande\\My Everything (Deluxe)\\02 Problem (feat. Iggy Azalea).mp3",
-    "title": "Problem (feat. Iggy Azalea)",
+    "title": "Problem (",
     "primary_artists": [
       "Ariana Grande"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Iggy Azalea"
+    ],
     "artists": [
-      "Ariana Grande"
+      "Ariana Grande",
+      "Iggy Azalea"
     ],
     "credits": [
       {
         "entity": "Ariana Grande",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Iggy Azalea",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13626,19 +13981,27 @@
   {
     "song_id": "pp-00642",
     "file": "_other\\_pop\\Ariana Grande\\My Everything (Deluxe)\\05 Break Free (feat. Zedd).mp3",
-    "title": "Break Free (feat. Zedd)",
+    "title": "Break Free (",
     "primary_artists": [
       "Ariana Grande"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Zedd"
+    ],
     "artists": [
-      "Ariana Grande"
+      "Ariana Grande",
+      "Zedd"
     ],
     "credits": [
       {
         "entity": "Ariana Grande",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Zedd",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13666,19 +14029,27 @@
   {
     "song_id": "pp-00644",
     "file": "_other\\_pop\\Ariana Grande\\My Everything (Deluxe)\\11 Hands On Me (feat. A$AP Ferg).mp3",
-    "title": "Hands On Me (feat. A$AP Ferg)",
+    "title": "Hands On Me (",
     "primary_artists": [
       "Ariana Grande"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "A$AP Ferg"
+    ],
     "artists": [
-      "Ariana Grande"
+      "Ariana Grande",
+      "A$AP Ferg"
     ],
     "credits": [
       {
         "entity": "Ariana Grande",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "A$AP Ferg",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13766,19 +14137,27 @@
   {
     "song_id": "pp-00649",
     "file": "_other\\_pop\\Backstreet Boys\\1997 - Backstreet Boys (US)\\02. Quit Playing Games (With My Heart).mp3",
-    "title": "Quit Playing Games (With My Heart)",
+    "title": "Quit Playing Games (",
     "primary_artists": [
       "Backstreet Boys"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "My Heart"
+    ],
     "artists": [
-      "Backstreet Boys"
+      "Backstreet Boys",
+      "My Heart"
     ],
     "credits": [
       {
         "entity": "Backstreet Boys",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "My Heart",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14014,19 +14393,27 @@
   {
     "song_id": "pp-00661",
     "file": "_other\\_pop\\Beyonce\\2003 - Dangerously In Love\\01. Crazy in Love (feat. Jay-Z).mp3",
-    "title": "Crazy in Love (feat. Jay-Z)",
+    "title": "Crazy in Love (",
     "primary_artists": [
       "Beyoncé"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jay-Z"
+    ],
     "artists": [
-      "Beyoncé"
+      "Beyoncé",
+      "Jay-Z"
     ],
     "credits": [
       {
         "entity": "Beyoncé",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14054,19 +14441,27 @@
   {
     "song_id": "pp-00663",
     "file": "_other\\_pop\\Beyonce\\2003 - Dangerously In Love\\03. Baby Boy (feat. Sean Paul).mp3",
-    "title": "Baby Boy (feat. Sean Paul)",
+    "title": "Baby Boy (",
     "primary_artists": [
       "Beyoncé"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sean Paul"
+    ],
     "artists": [
-      "Beyoncé"
+      "Beyoncé",
+      "Sean Paul"
     ],
     "credits": [
       {
         "entity": "Beyoncé",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sean Paul",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14794,19 +15189,27 @@
   {
     "song_id": "pp-00698",
     "file": "_other\\_pop\\Bruno Mars\\Bruno Mars - Liquor Store Blues (feat. Damian Marley) (Official Music Video).mp3",
-    "title": "Liquor Store Blues (feat. Damian Marley)",
+    "title": "Liquor Store Blues (",
     "primary_artists": [
       "Bruno Mars"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Damian Marley"
+    ],
     "artists": [
-      "Bruno Mars"
+      "Bruno Mars",
+      "Damian Marley"
     ],
     "credits": [
       {
         "entity": "Bruno Mars",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Damian Marley",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15830,19 +16233,27 @@
   {
     "song_id": "pp-00749",
     "file": "_other\\_pop\\Ed Sheeran\\Ed Sheeran - Beautiful People (feat. Khalid).mp3",
-    "title": "Beautiful People (feat. Khalid)",
+    "title": "Beautiful People (",
     "primary_artists": [
       "Ed Sheeran"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Khalid"
+    ],
     "artists": [
-      "Ed Sheeran"
+      "Ed Sheeran",
+      "Khalid"
     ],
     "credits": [
       {
         "entity": "Ed Sheeran",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Khalid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16070,19 +16481,27 @@
   {
     "song_id": "pp-00761",
     "file": "_other\\_pop\\Ellie Goulding\\Ellie Goulding - Halcyon Days (Deluxe Edition) [2013] (320 KBPS) [RF]\\CD 1\\13. I Need Your Love (Feat. Calvin Harris).mp3",
-    "title": "I Need Your Love (Feat. Calvin Harris)",
+    "title": "I Need Your Love (",
     "primary_artists": [
       "Ellie Goulding"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Calvin Harris"
+    ],
     "artists": [
-      "Ellie Goulding"
+      "Ellie Goulding",
+      "Calvin Harris"
     ],
     "credits": [
       {
         "entity": "Ellie Goulding",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Calvin Harris",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16410,19 +16829,27 @@
   {
     "song_id": "pp-00778",
     "file": "_other\\_pop\\Gorillaz\\She_s My Collar (feat. Kali Uchis).mp3",
-    "title": "She s My Collar (feat. Kali Uchis)",
+    "title": "She s My Collar (",
     "primary_artists": [
       "Gorillaz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kali Uchis"
+    ],
     "artists": [
-      "Gorillaz"
+      "Gorillaz",
+      "Kali Uchis"
     ],
     "credits": [
       {
         "entity": "Gorillaz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kali Uchis",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16530,19 +16957,27 @@
   {
     "song_id": "pp-00784",
     "file": "_other\\_pop\\Iggy Azalea\\47 Iggy Azalea - Black Widow (Feat.Rita Ora).mp3",
-    "title": "Black Widow (Feat.Rita Ora)",
+    "title": "Black Widow (",
     "primary_artists": [
       "Iggy Azalea"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rita Ora"
+    ],
     "artists": [
-      "Iggy Azalea"
+      "Iggy Azalea",
+      "Rita Ora"
     ],
     "credits": [
       {
         "entity": "Iggy Azalea",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rita Ora",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16670,19 +17105,34 @@
   {
     "song_id": "pp-00791",
     "file": "_other\\_pop\\Jason Derulo\\Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) (Official Music Video).mp3",
-    "title": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+    "title": "Swalla (",
     "primary_artists": [
       "Jason Derulo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nicki Minaj",
+      "Ty Dolla $ign"
+    ],
     "artists": [
-      "Jason Derulo"
+      "Jason Derulo",
+      "Nicki Minaj",
+      "Ty Dolla $ign"
     ],
     "credits": [
       {
         "entity": "Jason Derulo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nicki Minaj",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Ty Dolla $ign",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17365,19 +17815,27 @@
   {
     "song_id": "pp-00825",
     "file": "_other\\_pop\\Katy Perry\\20 Katy Perry - Dark Horse (Feat. Juicy J).mp3",
-    "title": "Dark Horse (Feat. Juicy J)",
+    "title": "Dark Horse (",
     "primary_artists": [
       "Katy Perry"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Juicy J"
+    ],
     "artists": [
-      "Katy Perry"
+      "Katy Perry",
+      "Juicy J"
     ],
     "credits": [
       {
         "entity": "Katy Perry",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Juicy J",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17385,7 +17843,7 @@
   {
     "song_id": "pp-00826",
     "file": "_other\\_pop\\Katy Perry\\Kate Perry - I Kissed A Girl (With Lyrics!).mp3",
-    "title": "I Kissed A Girl (With !)",
+    "title": "I Kissed A Girl (",
     "primary_artists": [
       "Kate Perry"
     ],
@@ -17661,19 +18119,27 @@
   {
     "song_id": "pp-00839",
     "file": "_other\\_pop\\Kaytranada\\Kaytranada - Chances (feat. Shay Lia).mp3",
-    "title": "Chances (feat. Shay Lia)",
+    "title": "Chances (",
     "primary_artists": [
       "Kaytranada"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Shay Lia"
+    ],
     "artists": [
-      "Kaytranada"
+      "Kaytranada",
+      "Shay Lia"
     ],
     "credits": [
       {
         "entity": "Kaytranada",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Shay Lia",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19577,19 +20043,27 @@
   {
     "song_id": "pp-00929",
     "file": "_other\\_pop\\Pharrell Williams\\Pharrell Williams - Know Who You Are (Feat. Alicia Keys) (Prod. By Pharrell Williams).mp3",
-    "title": "Know Who You Are (Feat. Alicia Keys)",
+    "title": "Know Who You Are (",
     "primary_artists": [
       "Pharrell Williams"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Alicia Keys"
+    ],
     "artists": [
-      "Pharrell Williams"
+      "Pharrell Williams",
+      "Alicia Keys"
     ],
     "credits": [
       {
         "entity": "Pharrell Williams",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Alicia Keys",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19825,19 +20299,27 @@
   {
     "song_id": "pp-00941",
     "file": "_other\\_pop\\Pitbull\\09 Pitbull - Timber (Feat.Ke$ha).mp3",
-    "title": "Timber (Feat.Ke$ha)",
+    "title": "Timber (",
     "primary_artists": [
       "Pitbull"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ke$ha"
+    ],
     "artists": [
-      "Pitbull"
+      "Pitbull",
+      "Ke$ha"
     ],
     "credits": [
       {
         "entity": "Pitbull",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ke$ha",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19905,19 +20387,27 @@
   {
     "song_id": "pp-00945",
     "file": "_other\\_pop\\Rihanna\\01  Rihanna - Umbrella [Feat. Jay-Z].mp3",
-    "title": "Umbrella [Feat. Jay-Z]",
+    "title": "Umbrella [",
     "primary_artists": [
       "Rihanna"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jay-Z"
+    ],
     "artists": [
-      "Rihanna"
+      "Rihanna",
+      "Jay-Z"
     ],
     "credits": [
       {
         "entity": "Rihanna",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jay-Z",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19965,19 +20455,27 @@
   {
     "song_id": "pp-00948",
     "file": "_other\\_pop\\Rihanna\\03-rihanna-hard_(featuring_jeezy).mp3",
-    "title": "rihanna-hard (featuring jeezy)",
+    "title": "rihanna-hard (",
     "primary_artists": [
       "Rihanna"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "jeezy"
+    ],
     "artists": [
-      "Rihanna"
+      "Rihanna",
+      "jeezy"
     ],
     "credits": [
       {
         "entity": "Rihanna",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "jeezy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -20065,19 +20563,27 @@
   {
     "song_id": "pp-00953",
     "file": "_other\\_pop\\Rihanna\\13. Rihanna - Stay (Feat. Mikky Ekko).mp3",
-    "title": "Stay (Feat. Mikky Ekko)",
+    "title": "Stay (",
     "primary_artists": [
       "Rihanna"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Mikky Ekko"
+    ],
     "artists": [
-      "Rihanna"
+      "Rihanna",
+      "Mikky Ekko"
     ],
     "credits": [
       {
         "entity": "Rihanna",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Mikky Ekko",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -20185,19 +20691,27 @@
   {
     "song_id": "pp-00959",
     "file": "_other\\_pop\\Rihanna\\Rihanna - ANTI (2016)\\04. Work (feat. Drake).mp3",
-    "title": "Work (feat. Drake)",
+    "title": "Work (",
     "primary_artists": [
       "Rihanna"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Drake"
+    ],
     "artists": [
-      "Rihanna"
+      "Rihanna",
+      "Drake"
     ],
     "credits": [
       {
         "entity": "Rihanna",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -20905,19 +21419,27 @@
   {
     "song_id": "pp-00993",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul - Got 2 Luv U (Feat. Alexis Jordan).mp3",
-    "title": "Got 2 Luv U (Feat. Alexis Jordan)",
+    "title": "Got 2 Luv U (",
     "primary_artists": [
       "Sean Paul"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Alexis Jordan"
+    ],
     "artists": [
-      "Sean Paul"
+      "Sean Paul",
+      "Alexis Jordan"
     ],
     "credits": [
       {
         "entity": "Sean Paul",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Alexis Jordan",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -22327,19 +22849,27 @@
   {
     "song_id": "pp-01059",
     "file": "_other\\_pop\\Zayn\\09. Wrong (Feat. Kehlani).mp3",
-    "title": "Wrong (Feat. Kehlani)",
+    "title": "Wrong (",
     "primary_artists": [
       "ZAYN"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kehlani"
+    ],
     "artists": [
-      "ZAYN"
+      "ZAYN",
+      "Kehlani"
     ],
     "credits": [
       {
         "entity": "ZAYN",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kehlani",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

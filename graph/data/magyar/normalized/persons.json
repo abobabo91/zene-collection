@@ -435,22 +435,26 @@
   },
   "Deryl Rose": {
     "song_ids": [
-      "mg-00081"
+      "mg-00081",
+      "mg-00083"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "mg-00081"
+      "mg-00081",
+      "mg-00083"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "RFX": {
     "song_ids": [
-      "mg-00081"
+      "mg-00081",
+      "mg-00083"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "mg-00081"
+      "mg-00081",
+      "mg-00083"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -654,17 +658,31 @@
   },
   "Kenedi Veronika": {
     "song_ids": [
-      "mg-00106"
+      "mg-00106",
+      "mg-00111"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "mg-00106"
+      "mg-00106",
+      "mg-00111"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nótár Mary": {
+    "song_ids": [
+      "mg-00108"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00108"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Desperado": {
     "song_ids": [
+      "mg-00109",
       "mg-00113",
       "mg-00340",
       "mg-00341"
@@ -674,6 +692,7 @@
       "mg-00341"
     ],
     "feature_song_ids": [
+      "mg-00109",
       "mg-00113"
     ],
     "via_group_song_ids": [],
@@ -1140,6 +1159,17 @@
       "mg-00204"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "egyedi": {
+    "song_ids": [
+      "mg-00202"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00202"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1712,6 +1742,39 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Diaz": {
+    "song_ids": [
+      "mg-00298"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00298"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mentha": {
+    "song_ids": [
+      "mg-00298"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00298"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Agebeat Kovary": {
+    "song_ids": [
+      "mg-00301"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00301"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Horváth Tomi és Raul": {
     "song_ids": [
       "mg-00302",
@@ -1908,6 +1971,17 @@
       "mg-00333"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "dalszöveggel": {
+    "song_ids": [
+      "mg-00334"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00334"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

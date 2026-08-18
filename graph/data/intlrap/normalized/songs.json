@@ -2,19 +2,34 @@
   {
     "song_id": "ir-00001",
     "file": "_rap\\_other\\_german random\\01 - Der beste Tag meines Lebens (2002)\\04 - Optik Anthem (Feat. Eko, Valezka _ Melbeatz).mp3",
-    "title": "Optik Anthem (Feat. Eko, Valezka Melbeatz)",
+    "title": "Optik Anthem (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Eko",
+      "Valezka Melbeatz"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Eko",
+      "Valezka Melbeatz"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Eko",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Valezka Melbeatz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -82,19 +97,27 @@
   {
     "song_id": "ir-00005",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\04 - Game Over (2006)\\08 - Eines Tages (Feat. Cassandra Steen).mp3",
-    "title": "Eines Tages (Feat. Cassandra Steen)",
+    "title": "Eines Tages (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Cassandra Steen"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Cassandra Steen"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Cassandra Steen",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -122,19 +145,27 @@
   {
     "song_id": "ir-00007",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\04 - Game Over (2006)\\20 - Auge des Sturms (Feat. Saad).mp3",
-    "title": "Auge des Sturms (Feat. Saad)",
+    "title": "Auge des Sturms (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Saad"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Saad"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Saad",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -182,19 +213,27 @@
   {
     "song_id": "ir-00010",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\06  - Der Bozz Remix (2006)\\11. Kopft Hoch (feat. Jonesmann).mp3",
-    "title": "Kopft Hoch (feat. Jonesmann)",
+    "title": "Kopft Hoch (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jonesmann"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Jonesmann"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jonesmann",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -202,19 +241,27 @@
   {
     "song_id": "ir-00011",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\07 - Assassin (2009)\\02 - Bandog (Feat. DJ Rafik).mp3",
-    "title": "Bandog (Feat. DJ Rafik)",
+    "title": "Bandog (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "DJ Rafik"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "DJ Rafik"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "DJ Rafik",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -222,19 +269,27 @@
   {
     "song_id": "ir-00012",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\07 - Assassin (2009)\\03 - Guerilla (Feat. Rakim).mp3",
-    "title": "Guerilla (Feat. Rakim)",
+    "title": "Guerilla (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rakim"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Rakim"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rakim",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -242,7 +297,7 @@
   {
     "song_id": "ir-00013",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\07 - Assassin (2009)\\04 - Assassin (Feat. 439 _ DJ Rafik).mp3",
-    "title": "Assassin (Feat. 439 DJ Rafik)",
+    "title": "Assassin (",
     "primary_artists": [
       "N/A"
     ],
@@ -262,19 +317,27 @@
   {
     "song_id": "ir-00014",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\07 - Assassin (2009)\\05 - 300 (Feat. Tone _ DJ Rafik).mp3",
-    "title": "300 (Feat. Tone DJ Rafik)",
+    "title": "300 (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tone DJ Rafik"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Tone DJ Rafik"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tone DJ Rafik",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -282,19 +345,27 @@
   {
     "song_id": "ir-00015",
     "file": "_rap\\_other\\_german random\\01 - Studio Albums\\07 - Assassin (2009)\\10 - Was Anderes (Feat. Kool Savas).mp3",
-    "title": "Was Anderes (Feat. Kool Savas)",
+    "title": "Was Anderes (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kool Savas"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Kool Savas"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kool Savas",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -302,19 +373,27 @@
   {
     "song_id": "ir-00016",
     "file": "_rap\\_other\\_german random\\02 - Tot oder lebendig (2007)\\05 - Essah (Feat. Moe Mitchell).mp3",
-    "title": "Essah (Feat. Moe Mitchell)",
+    "title": "Essah (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Moe Mitchell"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Moe Mitchell"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Moe Mitchell",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -342,19 +421,27 @@
   {
     "song_id": "ir-00018",
     "file": "_rap\\_other\\_german random\\1556272782_lx-maxwell-leak_-teil-1-ep-2019\\LX _ Maxwell - Leak. Teil 1 (EP) (2019)\\LX _ Maxwell - Sitzen Auf Chrom (Feat. Fatal).mp3",
-    "title": "Sitzen Auf Chrom (Feat. Fatal)",
+    "title": "Sitzen Auf Chrom (",
     "primary_artists": [
       "LX Maxwell"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Fatal"
+    ],
     "artists": [
-      "LX Maxwell"
+      "LX Maxwell",
+      "Fatal"
     ],
     "credits": [
       {
         "entity": "LX Maxwell",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Fatal",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -462,19 +549,27 @@
   {
     "song_id": "ir-00024",
     "file": "_rap\\_other\\_german random\\Alpa_Gun-Alles_Kommt_Zurueck-Premium_Edition-DE-2013-VOiCE\\Alpa_Gun-Alles_Kommt_Zurueck-Premium_Edition-DE-2013-VOiCE\\14_alpa_gun_-_angst_(feat._moe_mitchell).mp3",
-    "title": "angst (feat. moe mitchell)",
+    "title": "angst (",
     "primary_artists": [
       "alpa gun"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "moe mitchell"
+    ],
     "artists": [
-      "alpa gun"
+      "alpa gun",
+      "moe mitchell"
     ],
     "credits": [
       {
         "entity": "alpa gun",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "moe mitchell",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1198,19 +1293,27 @@
   {
     "song_id": "ir-00058",
     "file": "_rap\\_other\\_german random\\German\\BonMC-RACam-Palmen aus Plastik -ALBUM-$$tune for all$$\\Bonez MC _ RAF Camora - Palmen aus Plastik (2016)\\05. Ohne Mein Team (Feat. Maxwell).mp3",
-    "title": "Ohne Mein Team (Feat. Maxwell)",
+    "title": "Ohne Mein Team (",
     "primary_artists": [
       "BonMC-RACam-Palmen aus Plastik -ALBUM-$$tune for all$$"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Maxwell"
+    ],
     "artists": [
-      "BonMC-RACam-Palmen aus Plastik -ALBUM-$$tune for all$$"
+      "BonMC-RACam-Palmen aus Plastik -ALBUM-$$tune for all$$",
+      "Maxwell"
     ],
     "credits": [
       {
         "entity": "BonMC-RACam-Palmen aus Plastik -ALBUM-$$tune for all$$",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Maxwell",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1406,19 +1509,27 @@
   {
     "song_id": "ir-00068",
     "file": "_rap\\_other\\_german random\\Kollegah - King (2014) [320]\\14. Rolex Daytona (feat. Game).mp3",
-    "title": "Rolex Daytona (feat. Game)",
+    "title": "Rolex Daytona (",
     "primary_artists": [
       "Kollegah"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Game"
+    ],
     "artists": [
-      "Kollegah"
+      "Kollegah",
+      "Game"
     ],
     "credits": [
       {
         "entity": "Kollegah",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Game",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1786,19 +1897,27 @@
   {
     "song_id": "ir-00087",
     "file": "_rap\\_other\\_german random\\Sido\\Ich und mein maske\\111-sido_-_strip_fuer_mich_(feat._kitty_kat)-ysp.mp3",
-    "title": "strip fuer mich (feat. kitty kat)-ysp",
+    "title": "strip fuer mich (",
     "primary_artists": [
       "Sido"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "kitty kat-ysp"
+    ],
     "artists": [
-      "Sido"
+      "Sido",
+      "kitty kat-ysp"
     ],
     "credits": [
       {
         "entity": "Sido",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "kitty kat-ysp",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1806,19 +1925,27 @@
   {
     "song_id": "ir-00088",
     "file": "_rap\\_other\\_german random\\Sido\\Ich und mein maske\\115-sido_-_unser_leben_(feat._fler_shizoe)-ysp.mp3",
-    "title": "unser leben (feat. fler shizoe)-ysp",
+    "title": "unser leben (",
     "primary_artists": [
       "Sido"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "fler shizoe-ysp"
+    ],
     "artists": [
-      "Sido"
+      "Sido",
+      "fler shizoe-ysp"
     ],
     "credits": [
       {
         "entity": "Sido",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "fler shizoe-ysp",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1846,19 +1973,27 @@
   {
     "song_id": "ir-00090",
     "file": "_rap\\_other\\_german random\\Sido\\Ich und mein maske\\204-sido_-_beweg_dein_arsch_(feat._scooter_kitty_kat_tony_d)-ysp.mp3",
-    "title": "beweg dein arsch (feat. scooter kitty kat tony d)-ysp",
+    "title": "beweg dein arsch (",
     "primary_artists": [
       "Sido"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "scooter kitty kat tony d-ysp"
+    ],
     "artists": [
-      "Sido"
+      "Sido",
+      "scooter kitty kat tony d-ysp"
     ],
     "credits": [
       {
         "entity": "Sido",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "scooter kitty kat tony d-ysp",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1866,19 +2001,27 @@
   {
     "song_id": "ir-00091",
     "file": "_rap\\_other\\_german random\\Sido\\Ich und mein maske\\208-sido_-_kanacks_und_hools_(feat._joe_rilla)-ysp.mp3",
-    "title": "kanacks und hools (feat. joe rilla)-ysp",
+    "title": "kanacks und hools (",
     "primary_artists": [
       "Sido"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "joe rilla-ysp"
+    ],
     "artists": [
-      "Sido"
+      "Sido",
+      "joe rilla-ysp"
     ],
     "credits": [
       {
         "entity": "Sido",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "joe rilla-ysp",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1886,19 +2029,27 @@
   {
     "song_id": "ir-00092",
     "file": "_rap\\_other\\_german random\\Sido\\Maske\\3 Leben (Feat. Tony D _ Mesut).mp3",
-    "title": "Leben (Feat. Tony D Mesut)",
+    "title": "Leben (",
     "primary_artists": [
       "Sido"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Tony D Mesut"
+    ],
     "artists": [
-      "Sido"
+      "Sido",
+      "Tony D Mesut"
     ],
     "credits": [
       {
         "entity": "Sido",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Tony D Mesut",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2322,19 +2473,27 @@
   {
     "song_id": "ir-00113",
     "file": "_rap\\_other\\_roman\\B.U.G. Mafia\\B.U.G. Mafia - Cat Poti Tu De Tare (feat. Bodo) (Videoclip HD).mp3",
-    "title": "Cat Poti Tu De Tare (feat. Bodo) (Videoclip )",
+    "title": "Cat Poti Tu De Tare (",
     "primary_artists": [
       "B.U.G. Mafia"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Bodo"
+    ],
     "artists": [
-      "B.U.G. Mafia"
+      "B.U.G. Mafia",
+      "Bodo"
     ],
     "credits": [
       {
         "entity": "B.U.G. Mafia",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Bodo",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2362,19 +2521,27 @@
   {
     "song_id": "ir-00115",
     "file": "_rap\\_other\\_roman\\B.U.G. Mafia\\B.U.G. Mafia - Strazile (feat. Mario) (Videoclip).mp3",
-    "title": "Strazile (feat. Mario) (Videoclip)",
+    "title": "Strazile (",
     "primary_artists": [
       "B.U.G. Mafia"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Mario"
+    ],
     "artists": [
-      "B.U.G. Mafia"
+      "B.U.G. Mafia",
+      "Mario"
     ],
     "credits": [
       {
         "entity": "B.U.G. Mafia",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Mario",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2410,19 +2577,27 @@
   {
     "song_id": "ir-00117",
     "file": "_rap\\_other\\_roman\\Best of PUYA\\Puya - Undeva-n Balkani (feat. George Hora) [By Dan @ wWw.RegeMp3.Net].mp3",
-    "title": "Undeva-n Balkani (feat. George Hora) [By Dan @ wWw.RegeMp3.Net]",
+    "title": "Undeva-n Balkani (",
     "primary_artists": [
       "Puya"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "George Hora"
+    ],
     "artists": [
-      "Puya"
+      "Puya",
+      "George Hora"
     ],
     "credits": [
       {
         "entity": "Puya",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "George Hora",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3848,19 +4023,34 @@
   {
     "song_id": "ir-00179",
     "file": "_rap\\_other\\_uk rap grime\\Huey Mack - Nothing Back (feat. Mike Stud and Scolla).mp3",
-    "title": "Nothing Back (feat. Mike Stud and Scolla)",
+    "title": "Nothing Back (",
     "primary_artists": [
       "Huey Mack"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Mike Stud",
+      "Scolla"
+    ],
     "artists": [
-      "Huey Mack"
+      "Huey Mack",
+      "Mike Stud",
+      "Scolla"
     ],
     "credits": [
       {
         "entity": "Huey Mack",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Mike Stud",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Scolla",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3868,19 +4058,27 @@
   {
     "song_id": "ir-00180",
     "file": "_rap\\_other\\_uk rap grime\\Huey Mack - Settle Down (Ft. Scolla _ Kimbra).mp3",
-    "title": "Settle Down (Ft. Scolla Kimbra)",
+    "title": "Settle Down (",
     "primary_artists": [
       "Huey Mack"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Scolla Kimbra"
+    ],
     "artists": [
-      "Huey Mack"
+      "Huey Mack",
+      "Scolla Kimbra"
     ],
     "credits": [
       {
         "entity": "Huey Mack",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Scolla Kimbra",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4823,19 +5021,27 @@
   {
     "song_id": "ir-00223",
     "file": "_rap\\_other\\_uk rap grime\\Skepta - Konnichiwa (2016)~[MP3~320kbps]~[Hunter] [FRG]\\Skepta - Konnichiwa\\02. Lyrics (Ft. Novelist).mp3",
-    "title": "(Ft. Novelist)",
+    "title": "(",
     "primary_artists": [
       "Skepta"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Novelist"
+    ],
     "artists": [
-      "Skepta"
+      "Skepta",
+      "Novelist"
     ],
     "credits": [
       {
         "entity": "Skepta",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Novelist",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4863,19 +5069,27 @@
   {
     "song_id": "ir-00225",
     "file": "_rap\\_other\\_uk rap grime\\Soundtrack to the Struggle - Lowkey\\03 - Voices of the Voiceless (feat. Immortal Technique) [Explicit].mp3",
-    "title": "Voices of the Voiceless (feat. Immortal Technique) [Explicit]",
+    "title": "Voices of the Voiceless (",
     "primary_artists": [
       "Lowkey"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Immortal Technique"
+    ],
     "artists": [
-      "Lowkey"
+      "Lowkey",
+      "Immortal Technique"
     ],
     "credits": [
       {
         "entity": "Lowkey",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Immortal Technique",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

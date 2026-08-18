@@ -82,6 +82,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Havana": {
+    "song_ids": [
+      "rn-00006"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00006"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Alexia": {
     "song_ids": [
       "rn-00009"
@@ -375,6 +386,17 @@
       "rn-00037"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bob Taylor": {
+    "song_ids": [
+      "rn-00032"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00032"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -914,6 +936,41 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Bvcovia": {
+    "song_ids": [
+      "rn-00092",
+      "rn-00094"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00092",
+      "rn-00094"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MARKO GLASS": {
+    "song_ids": [
+      "rn-00092"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00092"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oscar": {
+    "song_ids": [
+      "rn-00092"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rn-00092"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "@Arkanian": {
     "song_ids": [
       "rn-00093"
@@ -921,17 +978,6 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "rn-00093"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bvcovia": {
-    "song_ids": [
-      "rn-00094"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rn-00094"
     ],
     "via_group_song_ids": [],
     "groups": []

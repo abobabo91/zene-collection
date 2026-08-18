@@ -115,6 +115,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Anna Naklab": {
+    "song_ids": [
+      "rk-00019"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00019"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Billy Idol": {
     "song_ids": [
       "rk-00020",
@@ -264,6 +275,17 @@
       "rk-00067"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Run D.M.C": {
+    "song_ids": [
+      "rk-00066"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00066"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1820,6 +1842,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Hotei Tomoyasu": {
+    "song_ids": [
+      "rk-00333"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00333"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Blink 182": {
     "song_ids": [
       "rk-00337"
@@ -1988,6 +2021,39 @@
       "rk-00350",
       "rk-00351",
       "rk-00352"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "YUNGBLUD": {
+    "song_ids": [
+      "rk-00356"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00356"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nova Twins": {
+    "song_ids": [
+      "rk-00357"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00357"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Amy Lee": {
+    "song_ids": [
+      "rk-00359"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00359"
     ],
     "via_group_song_ids": [],
     "groups": []

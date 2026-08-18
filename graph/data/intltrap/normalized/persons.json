@@ -206,6 +206,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Burna Boy": {
+    "song_ids": [
+      "it-00021"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00021"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "AJ Tracey": {
     "song_ids": [
       "it-00023"
@@ -361,6 +372,52 @@
       "it-00043"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kwengface": {
+    "song_ids": [
+      "it-00040"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00040"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kwengface Trizzac": {
+    "song_ids": [
+      "it-00041",
+      "it-00043"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00041",
+      "it-00043"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Trizzac Kwengface": {
+    "song_ids": [
+      "it-00042"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00042"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Karma": {
+    "song_ids": [
+      "it-00043"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00043"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1044,6 +1101,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Grizz": {
+    "song_ids": [
+      "it-00093"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00093"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Nana Dams": {
     "song_ids": [
       "it-00094"
@@ -1263,6 +1331,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Il Ghost": {
+    "song_ids": [
+      "it-00111"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "it-00111"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Simba La Rue": {
     "song_ids": [
       "it-00112"
@@ -1288,6 +1367,7 @@
   "Morad": {
     "song_ids": [
       "it-00117",
+      "it-00120",
       "it-00151",
       "it-00203",
       "it-00210"
@@ -1298,6 +1378,7 @@
     ],
     "feature_song_ids": [
       "it-00117",
+      "it-00120",
       "it-00151"
     ],
     "via_group_song_ids": [],

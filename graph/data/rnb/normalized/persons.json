@@ -48,7 +48,9 @@
       "r-00015",
       "r-00016"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "r-00015"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -258,6 +260,17 @@
     ],
     "feature_song_ids": [
       "r-00437"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Clara La San": {
+    "song_ids": [
+      "r-00062"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00062"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -591,16 +604,68 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Shantel May": {
+    "song_ids": [
+      "r-00087"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00087"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Summer Walker": {
+    "song_ids": [
+      "r-00091",
+      "r-00372",
+      "r-00434",
+      "r-00435",
+      "r-00436",
+      "r-00437",
+      "r-00438"
+    ],
+    "primary_song_ids": [
+      "r-00434",
+      "r-00435",
+      "r-00436",
+      "r-00437",
+      "r-00438"
+    ],
+    "feature_song_ids": [
+      "r-00091",
+      "r-00372"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "PARTYNEXTDOOR": {
+    "song_ids": [
+      "r-00092",
+      "r-00374"
+    ],
+    "primary_song_ids": [
+      "r-00374"
+    ],
+    "feature_song_ids": [
+      "r-00092"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Jhené Aiko": {
     "song_ids": [
       "r-00105",
-      "r-00106"
+      "r-00106",
+      "r-00353"
     ],
     "primary_song_ids": [
       "r-00105",
       "r-00106"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "r-00353"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -628,6 +693,7 @@
   },
   "Jorja Smith": {
     "song_ids": [
+      "r-00107",
       "r-00108",
       "r-00109",
       "r-00110",
@@ -677,6 +743,7 @@
       "r-00130"
     ],
     "feature_song_ids": [
+      "r-00107",
       "r-00129"
     ],
     "via_group_song_ids": [],
@@ -690,6 +757,28 @@
       "r-00110"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shaybo": {
+    "song_ids": [
+      "r-00114"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00114"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Popcaan": {
+    "song_ids": [
+      "r-00116"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00116"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -755,6 +844,23 @@
     ],
     "feature_song_ids": [
       "r-00328"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ty Dolla $ign": {
+    "song_ids": [
+      "r-00133",
+      "r-00180",
+      "r-00331",
+      "r-00648"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00133",
+      "r-00180",
+      "r-00331",
+      "r-00648"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -862,21 +968,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Ty Dolla $ign": {
-    "song_ids": [
-      "r-00180",
-      "r-00331",
-      "r-00648"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00180",
-      "r-00331",
-      "r-00648"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Travis Scott": {
     "song_ids": [
       "r-00182",
@@ -963,6 +1054,17 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "r-00193"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "A$AP Rocky": {
+    "song_ids": [
+      "r-00195"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00195"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1090,6 +1192,52 @@
       "r-00383"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gesaffelstein": {
+    "song_ids": [
+      "r-00216"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00216"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daft Punk": {
+    "song_ids": [
+      "r-00218"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00218"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Drake": {
+    "song_ids": [
+      "r-00232"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00232"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Juicy J": {
+    "song_ids": [
+      "r-00237",
+      "r-00772"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00237",
+      "r-00772"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1635,13 +1783,39 @@
     "song_ids": [
       "r-00319",
       "r-00322",
+      "r-00546",
+      "r-00576",
       "r-00773"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
       "r-00319",
       "r-00322",
+      "r-00546",
+      "r-00576",
       "r-00773"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mika Means": {
+    "song_ids": [
+      "r-00320"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00320"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Blanco": {
+    "song_ids": [
+      "r-00320"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00320"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1705,11 +1879,13 @@
   },
   "Tyga": {
     "song_ids": [
-      "r-00331"
+      "r-00331",
+      "r-00571"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "r-00331"
+      "r-00331",
+      "r-00571"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -2035,6 +2211,7 @@
   "Lloyd": {
     "song_ids": [
       "r-00365",
+      "r-00645",
       "r-00670",
       "r-00671",
       "r-00773"
@@ -2045,7 +2222,9 @@
       "r-00671",
       "r-00773"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "r-00645"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2076,7 +2255,8 @@
       "r-00366",
       "r-00367",
       "r-00368",
-      "r-00369"
+      "r-00369",
+      "r-00370"
     ],
     "primary_song_ids": [
       "r-00366",
@@ -2084,7 +2264,9 @@
       "r-00368",
       "r-00369"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "r-00370"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2107,6 +2289,17 @@
       "r-00370"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "VanJess": {
+    "song_ids": [
+      "r-00370"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00370"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2138,17 +2331,6 @@
     ],
     "primary_song_ids": [
       "r-00373"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "PARTYNEXTDOOR": {
-    "song_ids": [
-      "r-00374"
-    ],
-    "primary_song_ids": [
-      "r-00374"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2310,13 +2492,15 @@
   "Kendrick Lamar": {
     "song_ids": [
       "r-00385",
-      "r-00412"
+      "r-00412",
+      "r-00573"
     ],
     "primary_song_ids": [
       "r-00385"
     ],
     "feature_song_ids": [
-      "r-00412"
+      "r-00412",
+      "r-00573"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -2402,6 +2586,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Anderson .Paak": {
+    "song_ids": [
+      "r-00400"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00400"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Magic Mike XXL OST": {
     "song_ids": [
       "r-00401"
@@ -2426,6 +2621,50 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Rich Homie Quan Lloyd": {
+    "song_ids": [
+      "r-00402"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00402"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MOTi": {
+    "song_ids": [
+      "r-00405"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00405"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "TY Dolla $ign": {
+    "song_ids": [
+      "r-00405"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00405"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wizkid Kranium": {
+    "song_ids": [
+      "r-00405"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00405"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Major Lazer MØ Justin Bieber": {
     "song_ids": [
       "r-00406"
@@ -2434,6 +2673,28 @@
       "r-00406"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Justin Bieber MØ": {
+    "song_ids": [
+      "r-00406"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00406"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Young Dolph": {
+    "song_ids": [
+      "r-00407"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00407"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2520,6 +2781,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Tekno": {
+    "song_ids": [
+      "r-00417"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00417"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Angèle": {
     "song_ids": [
       "r-00418"
@@ -2549,6 +2821,17 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "r-00419"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tei Shi": {
+    "song_ids": [
+      "r-00420"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00420"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -2630,25 +2913,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Summer Walker": {
-    "song_ids": [
-      "r-00434",
-      "r-00435",
-      "r-00436",
-      "r-00437",
-      "r-00438"
-    ],
-    "primary_song_ids": [
-      "r-00434",
-      "r-00435",
-      "r-00436",
-      "r-00437",
-      "r-00438"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "The Internet": {
     "song_ids": [
       "r-00439",
@@ -2696,6 +2960,8 @@
   "Usher": {
     "song_ids": [
       "r-00444",
+      "r-00553",
+      "r-00572",
       "r-00778",
       "r-00779",
       "r-00780",
@@ -2760,7 +3026,9 @@
       "r-00808"
     ],
     "feature_song_ids": [
-      "r-00444"
+      "r-00444",
+      "r-00553",
+      "r-00572"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -2773,6 +3041,17 @@
       "r-00447"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Big Sean FULL SONG": {
+    "song_ids": [
+      "r-00448"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00448"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2977,6 +3256,7 @@
   "Nicki Minaj": {
     "song_ids": [
       "r-00476",
+      "r-00574",
       "r-00582",
       "r-00767",
       "r-00770",
@@ -2986,6 +3266,7 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "r-00476",
+      "r-00574",
       "r-00582",
       "r-00767",
       "r-00770",
@@ -3010,11 +3291,24 @@
   },
   "Yo Gotti": {
     "song_ids": [
-      "r-00478"
+      "r-00478",
+      "r-00554"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "r-00478"
+      "r-00478",
+      "r-00554"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Trae tha Truth": {
+    "song_ids": [
+      "r-00480"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00480"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -3239,6 +3533,74 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Tracy T": {
+    "song_ids": [
+      "r-00545"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00545"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hoody Baby": {
+    "song_ids": [
+      "r-00545"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00545"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Young Thug": {
+    "song_ids": [
+      "r-00546"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00546"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gucci Mane": {
+    "song_ids": [
+      "r-00553"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00553"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "A Boogie Wit da Hoodie": {
+    "song_ids": [
+      "r-00554"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00554"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kodak Black": {
+    "song_ids": [
+      "r-00554",
+      "r-00603"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00554",
+      "r-00603"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "TJ Luva Boy": {
     "song_ids": [
       "r-00566"
@@ -3268,6 +3630,38 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "r-00567"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lil Wayne": {
+    "song_ids": [
+      "r-00571",
+      "r-00598",
+      "r-00658",
+      "r-00660"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00571",
+      "r-00598",
+      "r-00658",
+      "r-00660"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rick Ross": {
+    "song_ids": [
+      "r-00572",
+      "r-00739",
+      "r-00805"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00572",
+      "r-00739",
+      "r-00805"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -3320,26 +3714,16 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Beyoncé": {
+  "Missy Elliott": {
     "song_ids": [
-      "r-00594",
-      "r-00595",
-      "r-00596",
-      "r-00597",
-      "r-00598"
+      "r-00592"
     ],
     "primary_song_ids": [],
-    "feature_song_ids": [],
-    "via_group_song_ids": [
-      "r-00594",
-      "r-00595",
-      "r-00596",
-      "r-00597",
-      "r-00598"
+    "feature_song_ids": [
+      "r-00592"
     ],
-    "groups": [
-      "Destiny's Child"
-    ]
+    "via_group_song_ids": [],
+    "groups": []
   },
   "Kelly Rowland": {
     "song_ids": [
@@ -3383,6 +3767,27 @@
       "Destiny's Child"
     ]
   },
+  "Beyoncé": {
+    "song_ids": [
+      "r-00594",
+      "r-00595",
+      "r-00596",
+      "r-00597",
+      "r-00598"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [],
+    "via_group_song_ids": [
+      "r-00594",
+      "r-00595",
+      "r-00596",
+      "r-00597",
+      "r-00598"
+    ],
+    "groups": [
+      "Destiny's Child"
+    ]
+  },
   "T.I": {
     "song_ids": [
       "r-00598",
@@ -3392,21 +3797,6 @@
     "feature_song_ids": [
       "r-00598",
       "r-00763"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Lil Wayne": {
-    "song_ids": [
-      "r-00598",
-      "r-00658",
-      "r-00660"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00598",
-      "r-00658",
-      "r-00660"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -3476,17 +3866,6 @@
       "r-00738",
       "r-00739",
       "r-00742"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Kodak Black": {
-    "song_ids": [
-      "r-00603"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00603"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -3617,6 +3996,17 @@
       "r-00640"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rich Homie Quan": {
+    "song_ids": [
+      "r-00645"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "r-00645"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -3751,12 +4141,15 @@
   },
   "Keyshia Cole": {
     "song_ids": [
-      "r-00667"
+      "r-00667",
+      "r-00668"
     ],
     "primary_song_ids": [
       "r-00667"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "r-00668"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -4110,19 +4503,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Rick Ross": {
-    "song_ids": [
-      "r-00739",
-      "r-00805"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00739",
-      "r-00805"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Akon": {
     "song_ids": [
       "r-00744"
@@ -4230,17 +4610,6 @@
       "r-00772"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Juicy J": {
-    "song_ids": [
-      "r-00772"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00772"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },

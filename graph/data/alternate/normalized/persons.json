@@ -1659,7 +1659,9 @@
       "al-00252",
       "al-00253"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "al-00247"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1760,6 +1762,17 @@
     ],
     "feature_song_ids": [
       "al-00286"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Khalid": {
+    "song_ids": [
+      "al-00270"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00270"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -2099,6 +2112,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Trevor Daniel": {
+    "song_ids": [
+      "al-00344"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00344"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Foster The People": {
     "song_ids": [
       "al-00345"
@@ -2429,6 +2453,39 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Metro Boomin Travis Scott": {
+    "song_ids": [
+      "al-00411"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00411"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ROSALÍA": {
+    "song_ids": [
+      "al-00412"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00412"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RZA": {
+    "song_ids": [
+      "al-00416"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00416"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Jamie xx": {
     "song_ids": [
       "al-00419",
@@ -2447,6 +2504,19 @@
       "al-00424"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Romy": {
+    "song_ids": [
+      "al-00419",
+      "al-00422"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00419",
+      "al-00422"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2602,6 +2672,17 @@
       "al-00471"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jófríõur Ákadóttir": {
+    "song_ids": [
+      "al-00465"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "al-00465"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

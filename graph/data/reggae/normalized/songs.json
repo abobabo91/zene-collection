@@ -1160,19 +1160,34 @@
   {
     "song_id": "rg-00057",
     "file": "_other\\_reggea\\Marley family\\Stephen  RAGGA  Marley - Rock Stone (ft. Capleton & Sizzla) (Official Video).mp3",
-    "title": "Rock Stone (ft. Capleton & Sizzla)",
+    "title": "Rock Stone (",
     "primary_artists": [
       "Stephen RAGGA Marley"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Capleton",
+      "Sizzla"
+    ],
     "artists": [
-      "Stephen RAGGA Marley"
+      "Stephen RAGGA Marley",
+      "Capleton",
+      "Sizzla"
     ],
     "credits": [
       {
         "entity": "Stephen RAGGA Marley",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Capleton",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Sizzla",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1243,19 +1258,27 @@
   {
     "song_id": "rg-00060",
     "file": "_other\\_reggea\\Marley family\\Stick Figure –  Smokin_ Love  (feat. Collie Buddz).mp3",
-    "title": "Smokin Love (feat. Collie Buddz)",
+    "title": "Smokin Love (",
     "primary_artists": [
       "Stick Figure"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Collie Buddz"
+    ],
     "artists": [
-      "Stick Figure"
+      "Stick Figure",
+      "Collie Buddz"
     ],
     "credits": [
       {
         "entity": "Stick Figure",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Collie Buddz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1323,19 +1346,27 @@
   {
     "song_id": "rg-00064",
     "file": "_other\\_reggea\\Mungo_s Hi-Fi - Did You Really Know (feat. Soom T).mp3",
-    "title": "Did You Really Know (feat. Soom T)",
+    "title": "Did You Really Know (",
     "primary_artists": [
       "Mungo s Hi-Fi"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Soom T"
+    ],
     "artists": [
-      "Mungo s Hi-Fi"
+      "Mungo s Hi-Fi",
+      "Soom T"
     ],
     "credits": [
       {
         "entity": "Mungo s Hi-Fi",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Soom T",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1922,19 +1953,27 @@
   {
     "song_id": "rg-00092",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Smoking Love (feat. Collie Buddz).mp3",
-    "title": "Smoking Love (feat. Collie Buddz)",
+    "title": "Smoking Love (",
     "primary_artists": [
       "Stick Figure"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Collie Buddz"
+    ],
     "artists": [
-      "Stick Figure"
+      "Stick Figure",
+      "Collie Buddz"
     ],
     "credits": [
       {
         "entity": "Stick Figure",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Collie Buddz",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1982,19 +2021,27 @@
   {
     "song_id": "rg-00095",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure –  Choice is Yours  (feat. Slightly Stoopid) [Audio].mp3",
-    "title": "Choice is Yours (feat. Slightly Stoopid) [Audio]",
+    "title": "Choice is Yours (",
     "primary_artists": [
       "Stick Figure"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Slightly Stoopid"
+    ],
     "artists": [
-      "Stick Figure"
+      "Stick Figure",
+      "Slightly Stoopid"
     ],
     "credits": [
       {
         "entity": "Stick Figure",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Slightly Stoopid",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

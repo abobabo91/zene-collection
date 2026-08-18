@@ -158,19 +158,27 @@
   {
     "song_id": "el-00008",
     "file": "_other\\_elektro\\deep_house\\ACRAZE - Do It To It (Ft. Cherish).mp3",
-    "title": "Do It To It (Ft. Cherish)",
+    "title": "Do It To It (",
     "primary_artists": [
       "ACRAZE"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Cherish"
+    ],
     "artists": [
-      "ACRAZE"
+      "ACRAZE",
+      "Cherish"
     ],
     "credits": [
       {
         "entity": "ACRAZE",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Cherish",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -206,15 +214,18 @@
   {
     "song_id": "el-00010",
     "file": "_other\\_elektro\\deep_house\\Adriatique & Marino Canal - Home (feat. Delhia De France).mp3",
-    "title": "Home (feat. Delhia De France)",
+    "title": "Home (",
     "primary_artists": [
       "Adriatique",
       "Marino Canal"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Delhia De France"
+    ],
     "artists": [
       "Adriatique",
-      "Marino Canal"
+      "Marino Canal",
+      "Delhia De France"
     ],
     "credits": [
       {
@@ -226,6 +237,11 @@
         "entity": "Marino Canal",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Delhia De France",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1289,17 +1305,20 @@
   {
     "song_id": "el-00060",
     "file": "_other\\_elektro\\deep_house\\Deep House Summer Vibes ☀️ Chill Out Lounge\\Jacala, Rayasa & FERGO - On Me (feat. Thandi).mp3",
-    "title": "On Me (feat. Thandi)",
+    "title": "On Me (",
     "primary_artists": [
       "Jacala",
       "Rayasa",
       "FERGO"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Thandi"
+    ],
     "artists": [
       "Jacala",
       "Rayasa",
-      "FERGO"
+      "FERGO",
+      "Thandi"
     ],
     "credits": [
       {
@@ -1316,6 +1335,11 @@
         "entity": "FERGO",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Thandi",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1371,15 +1395,18 @@
   {
     "song_id": "el-00063",
     "file": "_other\\_elektro\\deep_house\\Deep House Summer Vibes ☀️ Chill Out Lounge\\RushLow, Worzii - About U (ft. LissA).mp3",
-    "title": "About U (ft. LissA)",
+    "title": "About U (",
     "primary_artists": [
       "RushLow",
       "Worzii"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "LissA"
+    ],
     "artists": [
       "RushLow",
-      "Worzii"
+      "Worzii",
+      "LissA"
     ],
     "credits": [
       {
@@ -1391,6 +1418,11 @@
         "entity": "Worzii",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "LissA",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1821,19 +1853,27 @@
   {
     "song_id": "el-00084",
     "file": "_other\\_elektro\\deep_house\\Kenny Hectyc - Addicted (feat. Erica iJi).mp3",
-    "title": "Addicted (feat. Erica iJi)",
+    "title": "Addicted (",
     "primary_artists": [
       "Kenny Hectyc"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Erica iJi"
+    ],
     "artists": [
-      "Kenny Hectyc"
+      "Kenny Hectyc",
+      "Erica iJi"
     ],
     "credits": [
       {
         "entity": "Kenny Hectyc",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Erica iJi",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1889,19 +1929,27 @@
   {
     "song_id": "el-00087",
     "file": "_other\\_elektro\\deep_house\\La La La (Nico Pusch Remix) [Feat  Sam Smith]  FREE DL  by Naughty Boy.mp3",
-    "title": "La La La (Nico Pusch Remix) [Feat Sam Smith] FREE DL by Naughty Boy",
+    "title": "La La La (Nico Pusch Remix) [",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sam Smith FREE DL by Naughty Boy"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Sam Smith FREE DL by Naughty Boy"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sam Smith FREE DL by Naughty Boy",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -2071,19 +2119,27 @@
   {
     "song_id": "el-00095",
     "file": "_other\\_elektro\\deep_house\\SOMMA - I Can't Sleep (ft. Nina Chuba).mp3",
-    "title": "I Can't Sleep (ft. Nina Chuba)",
+    "title": "I Can't Sleep (",
     "primary_artists": [
       "SOMMA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nina Chuba"
+    ],
     "artists": [
-      "SOMMA"
+      "SOMMA",
+      "Nina Chuba"
     ],
     "credits": [
       {
         "entity": "SOMMA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nina Chuba",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2245,15 +2301,18 @@
   {
     "song_id": "el-00103",
     "file": "_other\\_elektro\\deep_house\\VLLN & DOGMA - Come Down (ft. Soleil).mp3",
-    "title": "Come Down (ft. Soleil)",
+    "title": "Come Down (",
     "primary_artists": [
       "VLLN",
       "DOGMA"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Soleil"
+    ],
     "artists": [
       "VLLN",
-      "DOGMA"
+      "DOGMA",
+      "Soleil"
     ],
     "credits": [
       {
@@ -2265,6 +2324,11 @@
         "entity": "DOGMA",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Soleil",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2512,19 +2576,27 @@
   {
     "song_id": "el-00116",
     "file": "_other\\_elektro\\dnb_dubstep\\12 Tidal Wave (feat. Alpines).mp3",
-    "title": "Tidal Wave (feat. Alpines)",
+    "title": "Tidal Wave (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Alpines"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Alpines"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Alpines",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -2552,15 +2624,18 @@
   {
     "song_id": "el-00118",
     "file": "_other\\_elektro\\dnb_dubstep\\2015_-_Skrillex_and_Diplo_Present_Jack__220\\2015 - Skrillex and Diplo Present Jack Ü\\02. Take U There (Feat. Kiesza).mp3",
-    "title": "Take U There (Feat. Kiesza)",
+    "title": "Take U There (",
     "primary_artists": [
       "Skrillex",
       "Diplo Present Jack 220"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kiesza"
+    ],
     "artists": [
       "Skrillex",
-      "Diplo Present Jack 220"
+      "Diplo Present Jack 220",
+      "Kiesza"
     ],
     "credits": [
       {
@@ -2572,6 +2647,11 @@
         "entity": "Diplo Present Jack 220",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kiesza",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2579,15 +2659,18 @@
   {
     "song_id": "el-00119",
     "file": "_other\\_elektro\\dnb_dubstep\\2015_-_Skrillex_and_Diplo_Present_Jack__220\\2015 - Skrillex and Diplo Present Jack Ü\\05. To U (Feat. AlunaGeorge).mp3",
-    "title": "To U (Feat. AlunaGeorge)",
+    "title": "To U (",
     "primary_artists": [
       "Skrillex",
       "Diplo Present Jack 220"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "AlunaGeorge"
+    ],
     "artists": [
       "Skrillex",
-      "Diplo Present Jack 220"
+      "Diplo Present Jack 220",
+      "AlunaGeorge"
     ],
     "credits": [
       {
@@ -2599,6 +2682,11 @@
         "entity": "Diplo Present Jack 220",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "AlunaGeorge",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2606,15 +2694,18 @@
   {
     "song_id": "el-00120",
     "file": "_other\\_elektro\\dnb_dubstep\\2015_-_Skrillex_and_Diplo_Present_Jack__220\\2015 - Skrillex and Diplo Present Jack Ü\\07. Mind (Feat. Kai).mp3",
-    "title": "Mind (Feat. Kai)",
+    "title": "Mind (",
     "primary_artists": [
       "Skrillex",
       "Diplo Present Jack 220"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kai"
+    ],
     "artists": [
       "Skrillex",
-      "Diplo Present Jack 220"
+      "Diplo Present Jack 220",
+      "Kai"
     ],
     "credits": [
       {
@@ -2626,6 +2717,11 @@
         "entity": "Diplo Present Jack 220",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kai",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2633,15 +2729,18 @@
   {
     "song_id": "el-00121",
     "file": "_other\\_elektro\\dnb_dubstep\\2015_-_Skrillex_and_Diplo_Present_Jack__220\\2015 - Skrillex and Diplo Present Jack Ü\\10. Take U There (Feat. Kiesza) (Missy Elliott Remix) (Bonus Track).mp3",
-    "title": "Take U There (Feat. Kiesza) (Missy Elliott Remix) (Bonus Track)",
+    "title": "Take U There (",
     "primary_artists": [
       "Skrillex",
       "Diplo Present Jack 220"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kiesza"
+    ],
     "artists": [
       "Skrillex",
-      "Diplo Present Jack 220"
+      "Diplo Present Jack 220",
+      "Kiesza"
     ],
     "credits": [
       {
@@ -2653,6 +2752,11 @@
         "entity": "Diplo Present Jack 220",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kiesza",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3260,19 +3364,27 @@
   {
     "song_id": "el-00150",
     "file": "_other\\_elektro\\dnb_dubstep\\dnb_chill\\Phaeleh - Afterglow (feat. Soundmouse).mp3",
-    "title": "Afterglow (feat. Soundmouse)",
+    "title": "Afterglow (",
     "primary_artists": [
       "Phaeleh"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Soundmouse"
+    ],
     "artists": [
-      "Phaeleh"
+      "Phaeleh",
+      "Soundmouse"
     ],
     "credits": [
       {
         "entity": "Phaeleh",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Soundmouse",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3400,19 +3512,27 @@
   {
     "song_id": "el-00157",
     "file": "_other\\_elektro\\dnb_dubstep\\Gemini - Fire Inside (feat Greta Svabo Bech) (Mr FijiWiji Remix).mp3",
-    "title": "Fire Inside (feat Greta Svabo Bech) (Mr FijiWiji Remix)",
+    "title": "Fire Inside (",
     "primary_artists": [
       "Gemini"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Greta Svabo Bech"
+    ],
     "artists": [
-      "Gemini"
+      "Gemini",
+      "Greta Svabo Bech"
     ],
     "credits": [
       {
         "entity": "Gemini",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Greta Svabo Bech",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3488,19 +3608,27 @@
   {
     "song_id": "el-00161",
     "file": "_other\\_elektro\\dnb_dubstep\\Major Lazer - Get Free (Ft. Amber Coffman) (Andy C Remix).mp3",
-    "title": "Get Free (Ft. Amber Coffman) (Andy C Remix)",
+    "title": "Get Free (",
     "primary_artists": [
       "Major Lazer"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Amber Coffman"
+    ],
     "artists": [
-      "Major Lazer"
+      "Major Lazer",
+      "Amber Coffman"
     ],
     "credits": [
       {
         "entity": "Major Lazer",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Amber Coffman",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -3568,19 +3696,27 @@
   {
     "song_id": "el-00165",
     "file": "_other\\_elektro\\dnb_dubstep\\Metrik - Freefall VIP (feat. Reija Lee).mp3",
-    "title": "Freefall VIP (feat. Reija Lee)",
+    "title": "Freefall VIP (",
     "primary_artists": [
       "Metrik"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Reija Lee"
+    ],
     "artists": [
-      "Metrik"
+      "Metrik",
+      "Reija Lee"
     ],
     "credits": [
       {
         "entity": "Metrik",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Reija Lee",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4083,19 +4219,27 @@
   {
     "song_id": "el-00189",
     "file": "_other\\_elektro\\edm_electronic_pop\\02 Clean Bandit - Rather Be (Feat. Jess Glynne ).mp3",
-    "title": "Rather Be (Feat. Jess Glynne )",
+    "title": "Rather Be (",
     "primary_artists": [
       "Clean Bandit"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jess Glynne"
+    ],
     "artists": [
-      "Clean Bandit"
+      "Clean Bandit",
+      "Jess Glynne"
     ],
     "credits": [
       {
         "entity": "Clean Bandit",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jess Glynne",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4143,19 +4287,27 @@
   {
     "song_id": "el-00192",
     "file": "_other\\_elektro\\edm_electronic_pop\\16 Route 94 - My Love (Feat.Jess Glyne).mp3",
-    "title": "My Love (Feat.Jess Glyne)",
+    "title": "My Love (",
     "primary_artists": [
       "Route 94"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jess Glyne"
+    ],
     "artists": [
-      "Route 94"
+      "Route 94",
+      "Jess Glyne"
     ],
     "credits": [
       {
         "entity": "Route 94",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jess Glyne",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4243,19 +4395,27 @@
   {
     "song_id": "el-00197",
     "file": "_other\\_elektro\\edm_electronic_pop\\26 Duke Dumont - I Got You (Feat.Jax Jones).mp3",
-    "title": "I Got You (Feat.Jax Jones)",
+    "title": "I Got You (",
     "primary_artists": [
       "Duke Dumont"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jax Jones"
+    ],
     "artists": [
-      "Duke Dumont"
+      "Duke Dumont",
+      "Jax Jones"
     ],
     "credits": [
       {
         "entity": "Duke Dumont",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jax Jones",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4263,19 +4423,27 @@
   {
     "song_id": "el-00198",
     "file": "_other\\_elektro\\edm_electronic_pop\\60 David Guetta - Lovers on the Sun (Feat. Sam Martin).mp3",
-    "title": "Lovers on the Sun (Feat. Sam Martin)",
+    "title": "Lovers on the Sun (",
     "primary_artists": [
       "David Guetta"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sam Martin"
+    ],
     "artists": [
-      "David Guetta"
+      "David Guetta",
+      "Sam Martin"
     ],
     "credits": [
       {
         "entity": "David Guetta",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sam Martin",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4383,19 +4551,27 @@
   {
     "song_id": "el-00204",
     "file": "_other\\_elektro\\edm_electronic_pop\\84 Calvin Harris - Outside (Feat. Ellie Goulding).mp3",
-    "title": "Outside (Feat. Ellie Goulding)",
+    "title": "Outside (",
     "primary_artists": [
       "Calvin Harris"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ellie Goulding"
+    ],
     "artists": [
-      "Calvin Harris"
+      "Calvin Harris",
+      "Ellie Goulding"
     ],
     "credits": [
       {
         "entity": "Calvin Harris",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ellie Goulding",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4423,19 +4599,27 @@
   {
     "song_id": "el-00206",
     "file": "_other\\_elektro\\edm_electronic_pop\\Alex Cheatle - I ve Been So Wrong (ft. Flume _ Ta-ku).mp3",
-    "title": "I ve Been So Wrong (ft. Flume Ta-ku)",
+    "title": "I ve Been So Wrong (",
     "primary_artists": [
       "Alex Cheatle"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Flume Ta-ku"
+    ],
     "artists": [
-      "Alex Cheatle"
+      "Alex Cheatle",
+      "Flume Ta-ku"
     ],
     "credits": [
       {
         "entity": "Alex Cheatle",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Flume Ta-ku",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4443,19 +4627,27 @@
   {
     "song_id": "el-00207",
     "file": "_other\\_elektro\\edm_electronic_pop\\Alex Cruz - All I Knew (ft. Jasmine Thompson).mp3",
-    "title": "All I Knew (ft. Jasmine Thompson)",
+    "title": "All I Knew (",
     "primary_artists": [
       "Alex Cruz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jasmine Thompson"
+    ],
     "artists": [
-      "Alex Cruz"
+      "Alex Cruz",
+      "Jasmine Thompson"
     ],
     "credits": [
       {
         "entity": "Alex Cruz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jasmine Thompson",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4854,19 +5046,34 @@
   {
     "song_id": "el-00226",
     "file": "_other\\_elektro\\edm_electronic_pop\\Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie).mp3",
-    "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "title": "Rockabye (",
     "primary_artists": [
       "Clean Bandit"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sean Paul",
+      "Anne-Marie"
+    ],
     "artists": [
-      "Clean Bandit"
+      "Clean Bandit",
+      "Sean Paul",
+      "Anne-Marie"
     ],
     "credits": [
       {
         "entity": "Clean Bandit",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sean Paul",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Anne-Marie",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5258,19 +5465,27 @@
   {
     "song_id": "el-00245",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Baauer - Aa\\09 Temple (feat. M.I.A. _ G-DRAGON).mp3",
-    "title": "Temple (feat. M.I.A. G-DRAGON)",
+    "title": "Temple (",
     "primary_artists": [
       "Baauer"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "M.I.A. G-DRAGON"
+    ],
     "artists": [
-      "Baauer"
+      "Baauer",
+      "M.I.A. G-DRAGON"
     ],
     "credits": [
       {
         "entity": "Baauer",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "M.I.A. G-DRAGON",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5278,19 +5493,27 @@
   {
     "song_id": "el-00246",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Baauer - Aa\\11 Kung Fu (feat. Pusha T _ Future).mp3",
-    "title": "Kung Fu (feat. Pusha T Future)",
+    "title": "Kung Fu (",
     "primary_artists": [
       "Baauer"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Pusha T Future"
+    ],
     "artists": [
-      "Baauer"
+      "Baauer",
+      "Pusha T Future"
     ],
     "credits": [
       {
         "entity": "Baauer",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Pusha T Future",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5385,12 +5608,14 @@
   {
     "song_id": "el-00251",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Charlie Puth, Selena Gomez - We Don_t Talk Anymore (feat. Selena Gomez).mp3",
-    "title": "We Don t Talk Anymore (feat. Selena Gomez)",
+    "title": "We Don t Talk Anymore (",
     "primary_artists": [
       "Charlie Puth",
       "Selena Gomez"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Selena Gomez"
+    ],
     "artists": [
       "Charlie Puth",
       "Selena Gomez"
@@ -5405,6 +5630,11 @@
         "entity": "Selena Gomez",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Selena Gomez",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5614,19 +5844,27 @@
   {
     "song_id": "el-00261",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Flume (Deluxe Edition)\\2-05 Holdin On (feat. Freddie Gibbs).mp3",
-    "title": "Holdin On (feat. Freddie Gibbs)",
+    "title": "Holdin On (",
     "primary_artists": [
       "Flume"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Freddie Gibbs"
+    ],
     "artists": [
-      "Flume"
+      "Flume",
+      "Freddie Gibbs"
     ],
     "credits": [
       {
         "entity": "Flume",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Freddie Gibbs",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5634,19 +5872,27 @@
   {
     "song_id": "el-00262",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Flume (Deluxe Edition)\\2-16 Left Alone (feat. Chet Faker) [.mp3",
-    "title": "Left Alone (feat. Chet Faker)",
+    "title": "Left Alone (",
     "primary_artists": [
       "Flume"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Chet Faker"
+    ],
     "artists": [
-      "Flume"
+      "Flume",
+      "Chet Faker"
     ],
     "credits": [
       {
         "entity": "Flume",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Chet Faker",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5920,15 +6166,18 @@
   {
     "song_id": "el-00274",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\gnash, Olivia O_Brien - i hate u, i love u (feat. olivia o_brien).mp3",
-    "title": "i hate u, i love u (feat. olivia o brien)",
+    "title": "i hate u, i love u (",
     "primary_artists": [
       "gnash",
       "Olivia O Brien"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "olivia o brien"
+    ],
     "artists": [
       "gnash",
-      "Olivia O Brien"
+      "Olivia O Brien",
+      "olivia o brien"
     ],
     "credits": [
       {
@@ -5940,6 +6189,11 @@
         "entity": "Olivia O Brien",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "olivia o brien",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6075,7 +6329,7 @@
   {
     "song_id": "el-00281",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Major Lazer _ DJ Snake - Lean On (feat. MØ) (Official Music Video).mp3",
-    "title": "Lean On (feat. MØ)",
+    "title": "Lean On (",
     "primary_artists": [
       "Major Lazer DJ Snake"
     ],
@@ -6202,19 +6456,27 @@
   {
     "song_id": "el-00287",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Peace Is The Mission\\01 Be Together (feat. Wild Belle).mp3",
-    "title": "Be Together (feat. Wild Belle)",
+    "title": "Be Together (",
     "primary_artists": [
       "Major Lazer"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Wild Belle"
+    ],
     "artists": [
-      "Major Lazer"
+      "Major Lazer",
+      "Wild Belle"
     ],
     "credits": [
       {
         "entity": "Major Lazer",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Wild Belle",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6222,19 +6484,27 @@
   {
     "song_id": "el-00288",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Peace Is The Mission\\04 Lean On (feat. MØ _ DJ Snake).mp3",
-    "title": "Lean On (feat. MØ DJ Snake)",
+    "title": "Lean On (",
     "primary_artists": [
       "Major Lazer"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "MØ DJ Snake"
+    ],
     "artists": [
-      "Major Lazer"
+      "Major Lazer",
+      "MØ DJ Snake"
     ],
     "credits": [
       {
         "entity": "Major Lazer",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "MØ DJ Snake",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6242,19 +6512,34 @@
   {
     "song_id": "el-00289",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Peace Is The Mission\\08 Night Riders (feat. Travi$ Scott, 2 Chainz, Pusha T _ Mad Cobra).mp3",
-    "title": "Night Riders (feat. Travi$ Scott, 2 Chainz, Pusha T Mad Cobra)",
+    "title": "Night Riders (",
     "primary_artists": [
       "Major Lazer"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Travi$ Scott",
+      "Pusha T Mad Cobra"
+    ],
     "artists": [
-      "Major Lazer"
+      "Major Lazer",
+      "Travi$ Scott",
+      "Pusha T Mad Cobra"
     ],
     "credits": [
       {
         "entity": "Major Lazer",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Travi$ Scott",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Pusha T Mad Cobra",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6262,19 +6547,34 @@
   {
     "song_id": "el-00290",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Peace Is The Mission\\09 All My Love (feat. Ariana Grande and Machel Montano) [Remix].mp3",
-    "title": "All My Love (feat. Ariana Grande and Machel Montano) [Remix]",
+    "title": "All My Love (",
     "primary_artists": [
       "Major Lazer"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ariana Grande",
+      "Machel Montano"
+    ],
     "artists": [
-      "Major Lazer"
+      "Major Lazer",
+      "Ariana Grande",
+      "Machel Montano"
     ],
     "credits": [
       {
         "entity": "Major Lazer",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ariana Grande",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Machel Montano",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6302,19 +6602,27 @@
   {
     "song_id": "el-00292",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Robin Schulz - Headlights [feat. Ilsey] [Official Video].mp3",
-    "title": "Headlights [feat. Ilsey]",
+    "title": "Headlights [",
     "primary_artists": [
       "Robin Schulz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ilsey"
+    ],
     "artists": [
-      "Robin Schulz"
+      "Robin Schulz",
+      "Ilsey"
     ],
     "credits": [
       {
         "entity": "Robin Schulz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ilsey",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6433,19 +6741,27 @@
   {
     "song_id": "el-00297",
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\The Chainsmokers - New York City (ft. Victoria Zaro).mp3",
-    "title": "New York City (ft. Victoria Zaro)",
+    "title": "New York City (",
     "primary_artists": [
       "The Chainsmokers"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Victoria Zaro"
+    ],
     "artists": [
-      "The Chainsmokers"
+      "The Chainsmokers",
+      "Victoria Zaro"
     ],
     "credits": [
       {
         "entity": "The Chainsmokers",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Victoria Zaro",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7468,7 +7784,7 @@
   {
     "song_id": "el-00341",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\David Guetta, Zara Larsson - This One_s For You (feat. Zara Larsson) - Official Song UEFA EURO 2016.mp3",
-    "title": "This One s For You (feat. Zara Larsson) - Official Song UEFA EURO 2016",
+    "title": "This One s For You (",
     "primary_artists": [
       "David Guetta",
       "Zara Larsson"
@@ -7853,19 +8169,27 @@
   {
     "song_id": "el-00357",
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\KASKADE\\Kaskade _ Adam K. - Raining (Dance.Love Edit) [feat. Sunsun].mp3",
-    "title": "Raining (Dance.Love Edit) [feat. Sunsun]",
+    "title": "Raining (Dance.Love Edit) [",
     "primary_artists": [
       "Kaskade Adam K"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sunsun"
+    ],
     "artists": [
-      "Kaskade Adam K"
+      "Kaskade Adam K",
+      "Sunsun"
     ],
     "credits": [
       {
         "entity": "Kaskade Adam K",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sunsun",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8348,19 +8672,27 @@
   {
     "song_id": "el-00378",
     "file": "_other\\_elektro\\edm_electronic_pop\\Futago - Californication (feat. Amy Kirkpatrick).mp3",
-    "title": "Californication (feat. Amy Kirkpatrick)",
+    "title": "Californication (",
     "primary_artists": [
       "Futago"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Amy Kirkpatrick"
+    ],
     "artists": [
-      "Futago"
+      "Futago",
+      "Amy Kirkpatrick"
     ],
     "credits": [
       {
         "entity": "Futago",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Amy Kirkpatrick",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11358,19 +11690,27 @@
   {
     "song_id": "el-00525",
     "file": "_other\\_elektro\\experimental\\You are Liquid\\Christian Löffler - Haul (feat. Mohna).mp3",
-    "title": "Haul (feat. Mohna)",
+    "title": "Haul (",
     "primary_artists": [
       "Christian Löffler"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Mohna"
+    ],
     "artists": [
-      "Christian Löffler"
+      "Christian Löffler",
+      "Mohna"
     ],
     "credits": [
       {
         "entity": "Christian Löffler",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Mohna",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11665,19 +12005,27 @@
   {
     "song_id": "el-00540",
     "file": "_other\\_elektro\\experimental_chill\\_random\\Lonely in the Rain - Chasing My Dreams (feat. SOMOH).mp3",
-    "title": "Chasing My Dreams (feat. SOMOH)",
+    "title": "Chasing My Dreams (",
     "primary_artists": [
       "Lonely in the Rain"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "SOMOH"
+    ],
     "artists": [
-      "Lonely in the Rain"
+      "Lonely in the Rain",
+      "SOMOH"
     ],
     "credits": [
       {
         "entity": "Lonely in the Rain",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "SOMOH",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13592,15 +13940,18 @@
   {
     "song_id": "el-00631",
     "file": "_other\\_elektro\\house_afro_organic\\Afro House Remix Sabia que no x Reezy\\Malóne, CJ Jeff - Missing (Back To You) [feat. Ellivia] (Official Audio).mp3",
-    "title": "Missing (Back To You) [feat. Ellivia]",
+    "title": "Missing (Back To You) [",
     "primary_artists": [
       "Malóne",
       "CJ Jeff"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ellivia"
+    ],
     "artists": [
       "Malóne",
-      "CJ Jeff"
+      "CJ Jeff",
+      "Ellivia"
     ],
     "credits": [
       {
@@ -13612,6 +13963,11 @@
         "entity": "CJ Jeff",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ellivia",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13740,19 +14096,27 @@
   {
     "song_id": "el-00637",
     "file": "_other\\_elektro\\house_afro_organic\\Keinemusik - The Party is Over\\Logic1000 – What You Like (feat. Yunè Pinku) (Official Visualiser).mp3",
-    "title": "What You Like (feat. Yunè Pinku) (Official Visualiser)",
+    "title": "What You Like (",
     "primary_artists": [
       "Logic1000"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Yunè Pinku"
+    ],
     "artists": [
-      "Logic1000"
+      "Logic1000",
+      "Yunè Pinku"
     ],
     "credits": [
       {
         "entity": "Logic1000",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Yunè Pinku",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13828,19 +14192,27 @@
   {
     "song_id": "el-00641",
     "file": "_other\\_elektro\\house_afro_organic\\La Vida (feat. Kaala Shaw) (Radio Edit).mp3",
-    "title": "La Vida (feat. Kaala Shaw)",
+    "title": "La Vida (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kaala Shaw"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Kaala Shaw"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kaala Shaw",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -13848,19 +14220,27 @@
   {
     "song_id": "el-00642",
     "file": "_other\\_elektro\\house_afro_organic\\Mafeesh Mostaheel (feat. Abd El Basset Hamouda).mp3",
-    "title": "Mafeesh Mostaheel (feat. Abd El Basset Hamouda)",
+    "title": "Mafeesh Mostaheel (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Abd El Basset Hamouda"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Abd El Basset Hamouda"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Abd El Basset Hamouda",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -14090,19 +14470,27 @@
   {
     "song_id": "el-00653",
     "file": "_other\\_elektro\\house_afro_organic\\Tracz 25 Afro House\\Missing (feat. Kate Yvorra).mp3",
-    "title": "Missing (feat. Kate Yvorra)",
+    "title": "Missing (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kate Yvorra"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Kate Yvorra"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kate Yvorra",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -14210,7 +14598,7 @@
   {
     "song_id": "el-00659",
     "file": "_other\\_elektro\\house_afro_organic\\VANCO - MA TNSANI (FEAT. AYA) 🇿🇦🇰🇼 [AFRO HOUSE, MELODIC HOUSE & TECHNO].mp3",
-    "title": "MA TNSANI (FEAT. AYA) 🇿🇦🇰🇼 [AFRO HOUSE, MELODIC HOUSE & TECHNO]",
+    "title": "MA TNSANI (",
     "primary_artists": [
       "VANCO"
     ],
@@ -14278,19 +14666,27 @@
   {
     "song_id": "el-00662",
     "file": "_other\\_elektro\\house_techno\\02 Here Comes the Sun (feat. Soundmouse).mp3",
-    "title": "Here Comes the Sun (feat. Soundmouse)",
+    "title": "Here Comes the Sun (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Soundmouse"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Soundmouse"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Soundmouse",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -14949,19 +15345,27 @@
   {
     "song_id": "el-00694",
     "file": "_other\\_elektro\\house_techno\\Beshken - Right Time (feat. Soraya).mp3",
-    "title": "Right Time (feat. Soraya)",
+    "title": "Right Time (",
     "primary_artists": [
       "Beshken"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Soraya"
+    ],
     "artists": [
-      "Beshken"
+      "Beshken",
+      "Soraya"
     ],
     "credits": [
       {
         "entity": "Beshken",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Soraya",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15936,19 +16340,34 @@
   {
     "song_id": "el-00741",
     "file": "_other\\_elektro\\house_techno\\Henry Krinkle\\BAYNK - DOWN (ft. Golden Vessel & Akurei).mp3",
-    "title": "DOWN (ft. Golden Vessel & Akurei)",
+    "title": "DOWN (",
     "primary_artists": [
       "BAYNK"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Golden Vessel",
+      "Akurei"
+    ],
     "artists": [
-      "BAYNK"
+      "BAYNK",
+      "Golden Vessel",
+      "Akurei"
     ],
     "credits": [
       {
         "entity": "BAYNK",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Golden Vessel",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Akurei",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -15976,19 +16395,27 @@
   {
     "song_id": "el-00743",
     "file": "_other\\_elektro\\house_techno\\Henry Land _ Samuel - Demons (Ft. Jasmine Thompson _ Hilman).mp3",
-    "title": "Demons (Ft. Jasmine Thompson Hilman)",
+    "title": "Demons (",
     "primary_artists": [
       "Henry Land Samuel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Jasmine Thompson Hilman"
+    ],
     "artists": [
-      "Henry Land Samuel"
+      "Henry Land Samuel",
+      "Jasmine Thompson Hilman"
     ],
     "credits": [
       {
         "entity": "Henry Land Samuel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Jasmine Thompson Hilman",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16468,19 +16895,27 @@
   {
     "song_id": "el-00766",
     "file": "_other\\_elektro\\house_techno\\house\\Daft Punk\\14. Daft Punk - Get Lucky (Radio Edit) [Feat. Pharrell Williams].mp3",
-    "title": "Get Lucky [Feat. Pharrell Williams]",
+    "title": "Get Lucky [",
     "primary_artists": [
       "Daft Punk"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Pharrell Williams"
+    ],
     "artists": [
-      "Daft Punk"
+      "Daft Punk",
+      "Pharrell Williams"
     ],
     "credits": [
       {
         "entity": "Daft Punk",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Pharrell Williams",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16624,19 +17059,27 @@
   {
     "song_id": "el-00773",
     "file": "_other\\_elektro\\house_techno\\house\\Daft Punk\\Daft Punk - Random Access Memories (JP Deluxe Edition) 2013 320kbps CBR MP3 [VX]\\08 Daft Punk - Get Lucky (feat. Pharrell Williams).mp3",
-    "title": "Get Lucky (feat. Pharrell Williams)",
+    "title": "Get Lucky (",
     "primary_artists": [
       "Daft Punk"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Pharrell Williams"
+    ],
     "artists": [
-      "Daft Punk"
+      "Daft Punk",
+      "Pharrell Williams"
     ],
     "credits": [
       {
         "entity": "Daft Punk",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Pharrell Williams",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16684,7 +17127,7 @@
   {
     "song_id": "el-00776",
     "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\03. Disclosure - Latch (Feat. Sam Smith - Album Version).mp3",
-    "title": "Latch (Feat. Sam Smith - Album Version)",
+    "title": "Latch (",
     "primary_artists": [
       "Disclosure"
     ],
@@ -16704,7 +17147,7 @@
   {
     "song_id": "el-00777",
     "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\05. Disclosure - White Noise (Feat. AlunaGeorge - Album Version).mp3",
-    "title": "White Noise (Feat. AlunaGeorge - Album Version)",
+    "title": "White Noise (",
     "primary_artists": [
       "Disclosure"
     ],
@@ -16724,19 +17167,27 @@
   {
     "song_id": "el-00778",
     "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\14. Disclosure - Help Me Lose My Mind (Feat. London Grammar).mp3",
-    "title": "Help Me Lose My Mind (Feat. London Grammar)",
+    "title": "Help Me Lose My Mind (",
     "primary_artists": [
       "Disclosure"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "London Grammar"
+    ],
     "artists": [
-      "Disclosure"
+      "Disclosure",
+      "London Grammar"
     ],
     "credits": [
       {
         "entity": "Disclosure",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "London Grammar",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17473,19 +17924,27 @@
   {
     "song_id": "el-00812",
     "file": "_other\\_elektro\\house_techno\\house\\RAC - Something About Us (ft. Liz Anjos).mp3",
-    "title": "Something About Us (ft. Liz Anjos)",
+    "title": "Something About Us (",
     "primary_artists": [
       "RAC"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Liz Anjos"
+    ],
     "artists": [
-      "RAC"
+      "RAC",
+      "Liz Anjos"
     ],
     "credits": [
       {
         "entity": "RAC",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Liz Anjos",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17985,19 +18444,27 @@
   {
     "song_id": "el-00836",
     "file": "_other\\_elektro\\house_techno\\house_chill\\Babel - Incredibly Close (feat. Wrenn).mp3",
-    "title": "Incredibly Close (feat. Wrenn)",
+    "title": "Incredibly Close (",
     "primary_artists": [
       "Babel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Wrenn"
+    ],
     "artists": [
-      "Babel"
+      "Babel",
+      "Wrenn"
     ],
     "credits": [
       {
         "entity": "Babel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Wrenn",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -18180,19 +18647,27 @@
   {
     "song_id": "el-00845",
     "file": "_other\\_elektro\\house_techno\\house_chill\\chill organic house\\Closer (feat. Bantu).mp3",
-    "title": "Closer (feat. Bantu)",
+    "title": "Closer (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Bantu"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Bantu"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Bantu",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -18400,7 +18875,7 @@
   {
     "song_id": "el-00856",
     "file": "_other\\_elektro\\house_techno\\house_chill\\Chris Isaac - Wicked Game (ft. Seren) (Chillion Re.mp3",
-    "title": "Wicked Game (ft. Seren) (Chillion Re",
+    "title": "Wicked Game (",
     "primary_artists": [
       "Chris Isaac"
     ],
@@ -18700,19 +19175,27 @@
   {
     "song_id": "el-00871",
     "file": "_other\\_elektro\\house_techno\\house_chill\\shallou - count on (feat. colin).mp3",
-    "title": "count on (feat. colin)",
+    "title": "count on (",
     "primary_artists": [
       "shallou"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "colin"
+    ],
     "artists": [
-      "shallou"
+      "shallou",
+      "colin"
     ],
     "credits": [
       {
         "entity": "shallou",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "colin",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -19559,19 +20042,27 @@
   {
     "song_id": "el-00912",
     "file": "_other\\_elektro\\house_techno\\Perturbator -  Hard Wired (feat. Isabella Goloversic)  [ Dangerous Days  - Official].mp3",
-    "title": "Hard Wired (feat. Isabella Goloversic) [ Dangerous Days - Official]",
+    "title": "Hard Wired (",
     "primary_artists": [
       "Perturbator"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Isabella Goloversic"
+    ],
     "artists": [
-      "Perturbator"
+      "Perturbator",
+      "Isabella Goloversic"
     ],
     "credits": [
       {
         "entity": "Perturbator",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Isabella Goloversic",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -20218,7 +20709,7 @@
   {
     "song_id": "el-00941",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\gnash Olivia O_Brien Robin Schulz - i hate u, i love u (feat. olivia o_brien) - Robin Schulz Remix.mp3",
-    "title": "i hate u, i love u (feat. olivia o brien) - Robin Schulz Remix",
+    "title": "i hate u, i love u (",
     "primary_artists": [
       "gnash Olivia O Brien Robin Schulz"
     ],
@@ -20346,19 +20837,27 @@
   {
     "song_id": "el-00947",
     "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz – OK (feat. James Blunt) (Official Music Video).mp3",
-    "title": "OK (feat. James Blunt)",
+    "title": "OK (",
     "primary_artists": [
       "Robin Schulz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "James Blunt"
+    ],
     "artists": [
-      "Robin Schulz"
+      "Robin Schulz",
+      "James Blunt"
     ],
     "credits": [
       {
         "entity": "Robin Schulz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "James Blunt",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -20586,19 +21085,27 @@
   {
     "song_id": "el-00959",
     "file": "_other\\_elektro\\house_techno\\Sango _ Waldo - Crossroads (feat. SPZRKT).mp3",
-    "title": "Crossroads (feat. SPZRKT)",
+    "title": "Crossroads (",
     "primary_artists": [
       "Sango Waldo"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "SPZRKT"
+    ],
     "artists": [
-      "Sango Waldo"
+      "Sango Waldo",
+      "SPZRKT"
     ],
     "credits": [
       {
         "entity": "Sango Waldo",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "SPZRKT",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -21917,19 +22424,27 @@
   {
     "song_id": "el-01021",
     "file": "_other\\_elektro\\house_techno\\USB Players - Must Have Been (ft. I AM L).mp3",
-    "title": "Must Have Been (ft. I AM L)",
+    "title": "Must Have Been (",
     "primary_artists": [
       "USB Players"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "I AM L"
+    ],
     "artists": [
-      "USB Players"
+      "USB Players",
+      "I AM L"
     ],
     "credits": [
       {
         "entity": "USB Players",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "I AM L",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -25090,19 +25605,27 @@
   {
     "song_id": "el-01167",
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Delerium - Silence (ft. Sarah McLachlan) (Airscape Remix) [Official Music Video].mp3",
-    "title": "Silence (ft. Sarah McLachlan) (Airscape Remix)",
+    "title": "Silence (",
     "primary_artists": [
       "Delerium"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Sarah McLachlan"
+    ],
     "artists": [
-      "Delerium"
+      "Delerium",
+      "Sarah McLachlan"
     ],
     "credits": [
       {
         "entity": "Delerium",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Sarah McLachlan",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -25338,19 +25861,27 @@
   {
     "song_id": "el-01179",
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Paul van Dyk - Let Go (Feat. Rea).mp3",
-    "title": "Let Go (Feat. Rea)",
+    "title": "Let Go (",
     "primary_artists": [
       "Paul van Dyk"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Rea"
+    ],
     "artists": [
-      "Paul van Dyk"
+      "Paul van Dyk",
+      "Rea"
     ],
     "credits": [
       {
         "entity": "Paul van Dyk",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Rea",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

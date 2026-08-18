@@ -345,12 +345,17 @@
   },
   "Collie Buddz": {
     "song_ids": [
-      "rg-00049"
+      "rg-00049",
+      "rg-00060",
+      "rg-00092"
     ],
     "primary_song_ids": [
       "rg-00049"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "rg-00060",
+      "rg-00092"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -408,6 +413,28 @@
       "rg-00057"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Capleton": {
+    "song_ids": [
+      "rg-00057"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00057"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sizzla": {
+    "song_ids": [
+      "rg-00057"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00057"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -518,6 +545,17 @@
       "rg-00064"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Soom T": {
+    "song_ids": [
+      "rg-00064"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00064"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -710,6 +748,17 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "rg-00087"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Slightly Stoopid": {
+    "song_ids": [
+      "rg-00095"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rg-00095"
     ],
     "via_group_song_ids": [],
     "groups": []

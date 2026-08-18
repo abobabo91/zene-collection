@@ -449,6 +449,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Monica Seka": {
+    "song_ids": [
+      "lt-00044"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00044"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "C4 Pedro": {
     "song_ids": [
       "lt-00046",
@@ -481,6 +492,17 @@
       "lt-00048"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lil Saint": {
+    "song_ids": [
+      "lt-00048"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00048"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -728,6 +750,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "C4 Pedro Official Vídeo": {
+    "song_ids": [
+      "lt-00069"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00069"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Pachanga": {
     "song_ids": [
       "lt-00073",
@@ -787,6 +820,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Akon NEW SINGLE 2010": {
+    "song_ids": [
+      "lt-00078"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00078"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Kevin Lyttle": {
     "song_ids": [
       "lt-00079"
@@ -795,6 +839,17 @@
       "lt-00079"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Spraga Benz": {
+    "song_ids": [
+      "lt-00079"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00079"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1296,6 +1351,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Drake": {
+    "song_ids": [
+      "lt-00140"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00140"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "J Balvin": {
     "song_ids": [
       "lt-00146",
@@ -1751,6 +1817,17 @@
       "lt-00218"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KEVVO": {
+    "song_ids": [
+      "lt-00218"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00218"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },

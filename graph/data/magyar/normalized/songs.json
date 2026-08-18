@@ -1701,19 +1701,34 @@
   {
     "song_id": "mg-00083",
     "file": "_other\\_magyar\\_cigany\\Astro Music\\AW - ÖRÖK SZABÁLY (feat. Deryl Rose, RFX).mp3",
-    "title": "ÖRÖK SZABÁLY (feat. Deryl Rose, RFX)",
+    "title": "ÖRÖK SZABÁLY (",
     "primary_artists": [
       "AW"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Deryl Rose",
+      "RFX"
+    ],
     "artists": [
-      "AW"
+      "AW",
+      "Deryl Rose",
+      "RFX"
     ],
     "credits": [
       {
         "entity": "AW",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Deryl Rose",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "RFX",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2224,19 +2239,27 @@
   {
     "song_id": "mg-00108",
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\L.L. Junior - Non plus ultra\\02 - Egy szó [feat. Nótár Mary].mp3",
-    "title": "Egy szó [feat. Nótár Mary]",
+    "title": "Egy szó [",
     "primary_artists": [
       "Fekete Vonat"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Nótár Mary"
+    ],
     "artists": [
-      "Fekete Vonat"
+      "Fekete Vonat",
+      "Nótár Mary"
     ],
     "credits": [
       {
         "entity": "Fekete Vonat",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Nótár Mary",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2244,19 +2267,27 @@
   {
     "song_id": "mg-00109",
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\L.L. Junior - Non plus ultra\\07 - Ma éjjel [feat. Desperado].mp3",
-    "title": "Ma éjjel [feat. Desperado]",
+    "title": "Ma éjjel [",
     "primary_artists": [
       "Fekete Vonat"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Desperado"
+    ],
     "artists": [
-      "Fekete Vonat"
+      "Fekete Vonat",
+      "Desperado"
     ],
     "credits": [
       {
         "entity": "Fekete Vonat",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Desperado",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2284,19 +2315,27 @@
   {
     "song_id": "mg-00111",
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\L.L. Junior - Zenemánia (2014)\\03. Úgy szeretnék (feat. Kenedi Veronika).mp3",
-    "title": "Úgy szeretnék (feat. Kenedi Veronika)",
+    "title": "Úgy szeretnék (",
     "primary_artists": [
       "Fekete Vonat"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Kenedi Veronika"
+    ],
     "artists": [
-      "Fekete Vonat"
+      "Fekete Vonat",
+      "Kenedi Veronika"
     ],
     "credits": [
       {
         "entity": "Fekete Vonat",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Kenedi Veronika",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -4261,19 +4300,27 @@
   {
     "song_id": "mg-00202",
     "file": "_other\\_magyar\\_modern_pop\\ajsa luna\\Nárcisz\\07. Lecsengett (feat. egyedi).mp3",
-    "title": "Lecsengett (feat. egyedi)",
+    "title": "Lecsengett (",
     "primary_artists": [
       "ajsa luna"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "egyedi"
+    ],
     "artists": [
-      "ajsa luna"
+      "ajsa luna",
+      "egyedi"
     ],
     "credits": [
       {
         "entity": "ajsa luna",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "egyedi",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6240,19 +6287,34 @@
   {
     "song_id": "mg-00298",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\Halott Pénz - Hello lányok (feat Diaz, Mentha).mp3",
-    "title": "Hello lányok (feat Diaz, Mentha)",
+    "title": "Hello lányok (",
     "primary_artists": [
       "Halott Pénz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Diaz",
+      "Mentha"
+    ],
     "artists": [
-      "Halott Pénz"
+      "Halott Pénz",
+      "Diaz",
+      "Mentha"
     ],
     "credits": [
       {
         "entity": "Halott Pénz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Diaz",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Mentha",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6300,19 +6362,27 @@
   {
     "song_id": "mg-00301",
     "file": "_other\\_magyar\\_pop\\Halott Pénz - Official Music Videos\\Halott Pénz - Élnünk kellett volna (feat Agebeat_Kovary).mp3",
-    "title": "Élnünk kellett volna (feat Agebeat Kovary)",
+    "title": "Élnünk kellett volna (",
     "primary_artists": [
       "Halott Pénz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Agebeat Kovary"
+    ],
     "artists": [
-      "Halott Pénz"
+      "Halott Pénz",
+      "Agebeat Kovary"
     ],
     "credits": [
       {
         "entity": "Halott Pénz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Agebeat Kovary",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6968,19 +7038,27 @@
   {
     "song_id": "mg-00334",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Caramel - Szállok a dallal [with lyrics - dalszöveggel].mp3",
-    "title": "Szállok a dallal [with - dalszöveggel]",
+    "title": "Szállok a dallal [",
     "primary_artists": [
       "Caramel"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "dalszöveggel"
+    ],
     "artists": [
-      "Caramel"
+      "Caramel",
+      "dalszöveggel"
     ],
     "credits": [
       {
         "entity": "Caramel",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "dalszöveggel",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

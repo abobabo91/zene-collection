@@ -82,19 +82,27 @@
   {
     "song_id": "cj-00005",
     "file": "_other\\_country_jazz\\Just the Two of Us (feat. Bill Withers).mp3",
-    "title": "Just the Two of Us (feat. Bill Withers)",
+    "title": "Just the Two of Us (",
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Bill Withers"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "Bill Withers"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Bill Withers",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"

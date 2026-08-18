@@ -163,6 +163,7 @@
     "song_ids": [
       "af-00010",
       "af-00011",
+      "af-00046",
       "af-00150",
       "af-00203"
     ],
@@ -172,7 +173,9 @@
       "af-00150",
       "af-00203"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "af-00046"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -200,6 +203,28 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "af-00013"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Blxckie": {
+    "song_ids": [
+      "af-00014"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00014"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ElGrandeToto": {
+    "song_ids": [
+      "af-00016"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00016"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -244,6 +269,32 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Culan Luke": {
+    "song_ids": [
+      "af-00020"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00020"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tay Iwar": {
+    "song_ids": [
+      "af-00020",
+      "af-00087",
+      "af-00147"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00020",
+      "af-00087",
+      "af-00147"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "DJ Akuaa": {
     "song_ids": [
       "af-00021"
@@ -252,6 +303,30 @@
       "af-00021"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bisa Kdei": {
+    "song_ids": [
+      "af-00021",
+      "af-00049"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00021",
+      "af-00049"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Joey B": {
+    "song_ids": [
+      "af-00021"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00021"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -496,13 +571,24 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Bisa Kdei": {
+  "Twitch 4 EVA": {
     "song_ids": [
-      "af-00049"
+      "af-00048"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "af-00049"
+      "af-00048"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Quamina MP": {
+    "song_ids": [
+      "af-00048"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00048"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -578,12 +664,14 @@
   "WizKid": {
     "song_ids": [
       "af-00054",
+      "af-00063",
       "af-00135",
       "af-00137"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
       "af-00054",
+      "af-00063",
       "af-00135",
       "af-00137"
     ],
@@ -753,6 +841,17 @@
       "af-00063"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Swae Lee": {
+    "song_ids": [
+      "af-00063"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00063"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1034,13 +1133,15 @@
   "Diamond Platnumz": {
     "song_ids": [
       "af-00096",
-      "af-00177"
+      "af-00177",
+      "af-00224"
     ],
     "primary_song_ids": [
       "af-00096"
     ],
     "feature_song_ids": [
-      "af-00177"
+      "af-00177",
+      "af-00224"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1225,6 +1326,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "J-Soul": {
+    "song_ids": [
+      "af-00124"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00124"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Tiwa Savage": {
     "song_ids": [
       "af-00125",
@@ -1398,17 +1510,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Tay Iwar": {
-    "song_ids": [
-      "af-00147"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "af-00147"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Projexx": {
     "song_ids": [
       "af-00147"
@@ -1438,6 +1539,17 @@
     "primary_song_ids": [],
     "feature_song_ids": [
       "af-00148"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nonso Amadi": {
+    "song_ids": [
+      "af-00149"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00149"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1551,16 +1663,90 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Dr Malinga": {
+    "song_ids": [
+      "af-00154"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00154"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jazzy G": {
+    "song_ids": [
+      "af-00154"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00154"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Tumza D kota": {
     "song_ids": [
+      "af-00155",
       "af-00156",
-      "af-00157"
+      "af-00157",
+      "af-00205"
     ],
     "primary_song_ids": [
       "af-00156",
       "af-00157"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "af-00155",
+      "af-00205"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Latoya M": {
+    "song_ids": [
+      "af-00155"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00155"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Focalistic": {
+    "song_ids": [
+      "af-00156"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00156"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Major League": {
+    "song_ids": [
+      "af-00156",
+      "af-00164"
+    ],
+    "primary_song_ids": [
+      "af-00164"
+    ],
+    "feature_song_ids": [
+      "af-00156"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "De O": {
+    "song_ids": [
+      "af-00157"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00157"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1629,46 +1815,66 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Major League": {
+  "Riky Rick": {
     "song_ids": [
       "af-00164"
     ],
-    "primary_song_ids": [
+    "primary_song_ids": [],
+    "feature_song_ids": [
       "af-00164"
     ],
-    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Senzo Afrika": {
+    "song_ids": [
+      "af-00164"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00164"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Mas Musiq": {
     "song_ids": [
-      "af-00165"
+      "af-00165",
+      "af-00185"
     ],
     "primary_song_ids": [
       "af-00165"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "af-00185"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Aymos": {
     "song_ids": [
-      "af-00165"
+      "af-00165",
+      "af-00185",
+      "af-00206"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "af-00165"
+      "af-00165",
+      "af-00185",
+      "af-00206"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "DJ Maphorisa": {
     "song_ids": [
-      "af-00165"
+      "af-00165",
+      "af-00206"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "af-00165"
+      "af-00165",
+      "af-00206"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1678,7 +1884,8 @@
       "af-00165",
       "af-00180",
       "af-00189",
-      "af-00190"
+      "af-00190",
+      "af-00206"
     ],
     "primary_song_ids": [
       "af-00180",
@@ -1686,7 +1893,8 @@
       "af-00190"
     ],
     "feature_song_ids": [
-      "af-00165"
+      "af-00165",
+      "af-00206"
     ],
     "via_group_song_ids": [],
     "groups": []
@@ -1876,6 +2084,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Samthing Soweto": {
+    "song_ids": [
+      "af-00185"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00185"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Myztro": {
+    "song_ids": [
+      "af-00185"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00185"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Daliwonga": {
     "song_ids": [
       "af-00190"
@@ -1964,6 +2194,28 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Blaq Diamond": {
+    "song_ids": [
+      "af-00197"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00197"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Malome Vector": {
+    "song_ids": [
+      "af-00197"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00197"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "Prince Kaybee": {
     "song_ids": [
       "af-00198"
@@ -2031,6 +2283,63 @@
       "af-00203"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "S.N.E": {
+    "song_ids": [
+      "af-00202",
+      "af-00203"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00202",
+      "af-00203"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "EeQue": {
+    "song_ids": [
+      "af-00202"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00202"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "caltonic SA": {
+    "song_ids": [
+      "af-00205"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00205"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "candy": {
+    "song_ids": [
+      "af-00205"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00205"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Thabs Le Madonga": {
+    "song_ids": [
+      "af-00205"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "af-00205"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
