@@ -206,13 +206,32 @@ def split_artists(text: str) -> list[str]:
 #: wholesale, so the guest was thrown away before `FEAT_RE` ever saw it — and the bracketed
 #: form is the common one: `Just Like Me (feat. Young Thug)`, `Break Em' Off (feat. Lil' Keke)`.
 #: The bare form (`Killaz Feat. 50 Cent`) always worked, which is why this hid for so long.
+#: `with` is deliberately absent. Bracketed, it is far more often part of a title than a
+#: credit: `Quit Playing Games (With My Heart)` produced a guest called "My Heart", and
+#: `(With Lyrics Subtitles)`, `(with reversed message)` and `(With OG Beat)` did the same.
+#: Keeping it would buy five real credits and invent six people, and an invented guest is
+#: worse — it puts the song on a stranger's playlist, where you can see it.
 BRACKETED_FEAT_RE = re.compile(
-    r"[(\[]\s*((?:feat|ft|featuring|with)\b\.?\s*[^)\]]*)[)\]]", re.IGNORECASE)
+    r"[(\[]\s*((?:feat|ft|featuring)\b\.?\s*[^)\]]*)[)\]]", re.IGNORECASE)
+
+#: A guest name is a person. These words mean the split ran past the credit and swallowed
+#: whatever followed it: `(Feat. Shiloh Dynasty)   TYPE BEAT` yielded "Shiloh Dynasty TYPE BEAT".
+CREDIT_JUNK_RE = re.compile(
+    r"\b(type beat|official|vídeo|video|audio|lyrics?|subtitles?|prod\b|remix|unreleased|"
+    r"visualizer|hd|hq|dalszöveggel|reversed message)\b", re.IGNORECASE)
 
 
 def extract_primary_and_features(credit: str) -> tuple[list[str], list[str]]:
-    credit = BRACKETED_FEAT_RE.sub(r" \1", credit or "")
-    credit = clean_artist_text(credit)
+    match = BRACKETED_FEAT_RE.search(credit or "")
+    if match:
+        # Take the guest from inside the bracket and drop the bracket from the credit. The
+        # bracket is the boundary: unwrapping it in place let everything after the closing
+        # paren read as part of the guest's name.
+        primary, featured = extract_primary_and_features(
+            (credit[:match.start()] + " " + credit[match.end():]).strip())
+        _, inner = extract_primary_and_features(match.group(1))
+        return primary, [n for n in (featured + inner) if not CREDIT_JUNK_RE.search(n)]
+    credit = clean_artist_text(credit or "")
     if not credit:
         return [], []
     m = FEAT_RE.search(credit)

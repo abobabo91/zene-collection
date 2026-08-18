@@ -1338,27 +1338,19 @@
   {
     "song_id": "rk-00066",
     "file": "_other\\_rock\\_random\\Aerosmith - Greatest Hits 2CD (2008) 320 vtwin88cube\\Disc 1\\06.Walk This Way (With Run D.M.C.).mp3",
-    "title": "Walk This Way (",
+    "title": "Walk This Way (With Run D.M.C.)",
     "primary_artists": [
       "Aerosmith"
     ],
-    "featuring_artists": [
-      "Run D.M.C"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Aerosmith",
-      "Run D.M.C"
+      "Aerosmith"
     ],
     "credits": [
       {
         "entity": "Aerosmith",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Run D.M.C",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6348,15 +6340,23 @@
     "primary_artists": [
       "Two Feet"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Madison Love"
+    ],
     "artists": [
-      "Two Feet"
+      "Two Feet",
+      "Madison Love"
     ],
     "credits": [
       {
         "entity": "Two Feet",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Madison Love",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7252,27 +7252,19 @@
   {
     "song_id": "rk-00356",
     "file": "_other\\_rock\\bring me the horizon\\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\\04 Obey (with YUNGBLUD).mp3",
-    "title": "Obey (",
+    "title": "Obey (with YUNGBLUD)",
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [
-      "YUNGBLUD"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Bring Me the Horizon",
-      "YUNGBLUD"
+      "Bring Me the Horizon"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "YUNGBLUD",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

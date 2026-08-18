@@ -5486,27 +5486,19 @@
   {
     "song_id": "al-00270",
     "file": "_other\\_alternate\\Billie Eilish\\Billie Eilish - lovely (with Khalid).mp3",
-    "title": "lovely (",
+    "title": "lovely (with Khalid)",
     "primary_artists": [
       "Billie Eilish"
     ],
-    "featuring_artists": [
-      "Khalid"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Billie Eilish",
-      "Khalid"
+      "Billie Eilish"
     ],
     "credits": [
       {
         "entity": "Billie Eilish",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Khalid",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

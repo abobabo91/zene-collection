@@ -7038,27 +7038,19 @@
   {
     "song_id": "mg-00334",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Caramel - Szállok a dallal [with lyrics - dalszöveggel].mp3",
-    "title": "Szállok a dallal [",
+    "title": "Szállok a dallal [with - dalszöveggel]",
     "primary_artists": [
       "Caramel"
     ],
-    "featuring_artists": [
-      "dalszöveggel"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Caramel",
-      "dalszöveggel"
+      "Caramel"
     ],
     "credits": [
       {
         "entity": "Caramel",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "dalszöveggel",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

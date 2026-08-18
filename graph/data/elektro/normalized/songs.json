@@ -1934,11 +1934,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "Sam Smith FREE DL by Naughty Boy"
+      "Sam Smith"
     ],
     "artists": [
       "N/A",
-      "Sam Smith FREE DL by Naughty Boy"
+      "Sam Smith"
     ],
     "credits": [
       {
@@ -1947,7 +1947,7 @@
         "role": "primary"
       },
       {
-        "entity": "Sam Smith FREE DL by Naughty Boy",
+        "entity": "Sam Smith",
         "entity_type": "person",
         "role": "feature"
       }
@@ -7789,7 +7789,9 @@
       "David Guetta",
       "Zara Larsson"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Zara Larsson"
+    ],
     "artists": [
       "David Guetta",
       "Zara Larsson"
@@ -7804,6 +7806,11 @@
         "entity": "Zara Larsson",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Zara Larsson",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14602,15 +14609,23 @@
     "primary_artists": [
       "VANCO"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "AYA"
+    ],
     "artists": [
-      "VANCO"
+      "VANCO",
+      "AYA"
     ],
     "credits": [
       {
         "entity": "VANCO",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "AYA",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -18879,15 +18894,23 @@
     "primary_artists": [
       "Chris Isaac"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Seren"
+    ],
     "artists": [
-      "Chris Isaac"
+      "Chris Isaac",
+      "Seren"
     ],
     "credits": [
       {
         "entity": "Chris Isaac",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Seren",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -20713,15 +20736,23 @@
     "primary_artists": [
       "gnash Olivia O Brien Robin Schulz"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "olivia o brien"
+    ],
     "artists": [
-      "gnash Olivia O Brien Robin Schulz"
+      "gnash Olivia O Brien Robin Schulz",
+      "olivia o brien"
     ],
     "credits": [
       {
         "entity": "gnash Olivia O Brien Robin Schulz",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "olivia o brien",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"

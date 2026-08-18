@@ -1208,15 +1208,23 @@
     "primary_artists": [
       "Garry"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Petcha"
+    ],
     "artists": [
-      "Garry"
+      "Garry",
+      "Petcha"
     ],
     "credits": [
       {
         "entity": "Garry",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Petcha",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -1505,11 +1513,11 @@
       "Soarito"
     ],
     "featuring_artists": [
-      "C4 Pedro Official Vídeo"
+      "C4 Pedro"
     ],
     "artists": [
       "Soarito",
-      "C4 Pedro Official Vídeo"
+      "C4 Pedro"
     ],
     "credits": [
       {
@@ -1518,7 +1526,7 @@
         "role": "primary"
       },
       {
-        "entity": "C4 Pedro Official Vídeo",
+        "entity": "C4 Pedro",
         "entity_type": "person",
         "role": "feature"
       }
@@ -1701,11 +1709,11 @@
       "Kat DeLuna"
     ],
     "featuring_artists": [
-      "Akon NEW SINGLE 2010"
+      "Akon"
     ],
     "artists": [
       "Kat DeLuna",
-      "Akon NEW SINGLE 2010"
+      "Akon"
     ],
     "credits": [
       {
@@ -1714,7 +1722,7 @@
         "role": "primary"
       },
       {
-        "entity": "Akon NEW SINGLE 2010",
+        "entity": "Akon",
         "entity_type": "person",
         "role": "feature"
       }

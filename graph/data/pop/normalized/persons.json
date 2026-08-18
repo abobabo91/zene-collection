@@ -3565,7 +3565,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Pras 2001": {
+  "Pras": {
     "song_ids": [
       "pp-00426"
     ],
@@ -4642,23 +4642,25 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Allie Baba feat. Allie Baba": {
+  "Allie Baba": {
     "song_ids": [
       "pp-00522"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
+      "pp-00522",
       "pp-00522"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
-  "Babyface feat. Babyface": {
+  "Babyface": {
     "song_ids": [
       "pp-00525"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
+      "pp-00525",
       "pp-00525"
     ],
     "via_group_song_ids": [],
@@ -5609,17 +5611,6 @@
       "pp-00648"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "My Heart": {
-    "song_ids": [
-      "pp-00649"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "pp-00649"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },

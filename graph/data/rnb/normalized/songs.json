@@ -321,13 +321,11 @@
   {
     "song_id": "r-00015",
     "file": "_other\\_rnb\\_modern\\Alina Baraz\\Breathless (with Alina Baraz).mp3",
-    "title": "Breathless (",
+    "title": "Breathless (with Alina Baraz)",
     "primary_artists": [
       "Alina Baraz"
     ],
-    "featuring_artists": [
-      "Alina Baraz"
-    ],
+    "featuring_artists": [],
     "artists": [
       "Alina Baraz"
     ],
@@ -336,11 +334,6 @@
         "entity": "Alina Baraz",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Alina Baraz",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9761,11 +9754,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "Big Sean FULL SONG"
+      "Big Sean"
     ],
     "artists": [
       "N/A",
-      "Big Sean FULL SONG"
+      "Big Sean"
     ],
     "credits": [
       {
@@ -9774,7 +9767,7 @@
         "role": "primary"
       },
       {
-        "entity": "Big Sean FULL SONG",
+        "entity": "Big Sean",
         "entity_type": "person",
         "role": "feature"
       }

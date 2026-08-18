@@ -463,13 +463,16 @@
   "C4 Pedro": {
     "song_ids": [
       "lt-00046",
-      "lt-00047"
+      "lt-00047",
+      "lt-00069"
     ],
     "primary_song_ids": [
       "lt-00046",
       "lt-00047"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "lt-00069"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -591,6 +594,17 @@
       "lt-00055"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Petcha": {
+    "song_ids": [
+      "lt-00055"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "lt-00055"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -750,17 +764,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "C4 Pedro Official Vídeo": {
-    "song_ids": [
-      "lt-00069"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "lt-00069"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Pachanga": {
     "song_ids": [
       "lt-00073",
@@ -820,7 +823,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Akon NEW SINGLE 2010": {
+  "Akon": {
     "song_ids": [
       "lt-00078"
     ],

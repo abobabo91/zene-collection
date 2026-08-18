@@ -278,17 +278,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Run D.M.C": {
-    "song_ids": [
-      "rk-00066"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00066"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Alkaline Trio": {
     "song_ids": [
       "rk-00068"
@@ -1780,6 +1769,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "Madison Love": {
+    "song_ids": [
+      "rk-00313"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00313"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "U2": {
     "song_ids": [
       "rk-00323",
@@ -2021,17 +2021,6 @@
       "rk-00350",
       "rk-00351",
       "rk-00352"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "YUNGBLUD": {
-    "song_ids": [
-      "rk-00356"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00356"
     ],
     "via_group_song_ids": [],
     "groups": []

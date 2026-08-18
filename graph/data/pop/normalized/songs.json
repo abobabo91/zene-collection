@@ -8999,11 +8999,11 @@
       "Dante Thomas"
     ],
     "featuring_artists": [
-      "Pras 2001"
+      "Pras"
     ],
     "artists": [
       "Dante Thomas",
-      "Pras 2001"
+      "Pras"
     ],
     "credits": [
       {
@@ -9012,7 +9012,7 @@
         "role": "primary"
       },
       {
-        "entity": "Pras 2001",
+        "entity": "Pras",
         "entity_type": "person",
         "role": "feature"
       }
@@ -11140,11 +11140,12 @@
       "Raphael Saadiq"
     ],
     "featuring_artists": [
-      "Allie Baba feat. Allie Baba"
+      "Allie Baba",
+      "Allie Baba"
     ],
     "artists": [
       "Raphael Saadiq",
-      "Allie Baba feat. Allie Baba"
+      "Allie Baba"
     ],
     "credits": [
       {
@@ -11153,7 +11154,12 @@
         "role": "primary"
       },
       {
-        "entity": "Allie Baba feat. Allie Baba",
+        "entity": "Allie Baba",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Allie Baba",
         "entity_type": "person",
         "role": "feature"
       }
@@ -11216,11 +11222,12 @@
       "Raphael Saadiq"
     ],
     "featuring_artists": [
-      "Babyface feat. Babyface"
+      "Babyface",
+      "Babyface"
     ],
     "artists": [
       "Raphael Saadiq",
-      "Babyface feat. Babyface"
+      "Babyface"
     ],
     "credits": [
       {
@@ -11229,7 +11236,12 @@
         "role": "primary"
       },
       {
-        "entity": "Babyface feat. Babyface",
+        "entity": "Babyface",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Babyface",
         "entity_type": "person",
         "role": "feature"
       }
@@ -14137,27 +14149,19 @@
   {
     "song_id": "pp-00649",
     "file": "_other\\_pop\\Backstreet Boys\\1997 - Backstreet Boys (US)\\02. Quit Playing Games (With My Heart).mp3",
-    "title": "Quit Playing Games (",
+    "title": "Quit Playing Games (With My Heart)",
     "primary_artists": [
       "Backstreet Boys"
     ],
-    "featuring_artists": [
-      "My Heart"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Backstreet Boys",
-      "My Heart"
+      "Backstreet Boys"
     ],
     "credits": [
       {
         "entity": "Backstreet Boys",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "My Heart",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -17843,7 +17847,7 @@
   {
     "song_id": "pp-00826",
     "file": "_other\\_pop\\Katy Perry\\Kate Perry - I Kissed A Girl (With Lyrics!).mp3",
-    "title": "I Kissed A Girl (",
+    "title": "I Kissed A Girl (With !)",
     "primary_artists": [
       "Kate Perry"
     ],
