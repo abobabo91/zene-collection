@@ -1,7 +1,7 @@
 # US Local Music Toplists
 
-Songs: `6705`
-Persons: `1149`
+Songs: `6704`
+Persons: `1148`
 Groups: `18`
 Labels: `29`
 Regions: `14`
@@ -1128,38 +1128,37 @@ Unattributed songs: `225`
 | 1115 | wyclef jean | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
 | 1116 | WYO Chi | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
 | 1117 | Xavier Wulf Bones | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1118 | Xtreme | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1119 | XXXTENTACION Lil Pump | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 1120 | XXXTENTACION SKI MASK THE SLUMP GOD | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
-| 1121 | Yagi B Trend | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1122 | Yailin La Mas Viral | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1123 | Yasiin Gaye | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1124 | YE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1125 | Yella Beezy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1126 | Young Cellski | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1127 | Young Chop Never Gonna Change | 1 | 0.2 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 1128 | Young Chris | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1129 | Young Hood | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1130 | Young Joc | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1131 | Young Lay | 1 | 0.2 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1132 | Young Money | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1133 | YOUNG NUDY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1134 | Young Sinatra | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
-| 1135 | Young Thug- Stoner @YoungThugWorld | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | Young Thug | - |
-| 1136 | Youngbloodz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1137 | Ysmooth | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1138 | yung bijgoochem | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1139 | Yung Gleesh | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1140 | Yung Jeezy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1141 | Yung Pinch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1142 | Yus Gz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
-| 1143 | YVNG AX$TN | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
-| 1144 | Z-Ro | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
-| 1145 | Zae NumbaFive | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
-| 1146 | Zoey Dollaz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
-| 1147 | Zonnique | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
-| 1148 | DJ Yella | 4 | 0.8 | 0.8 | 0 | 0 | 4 | USA Other | - | N.W.A |
-| 1149 | MC Ren | 4 | 0.8 | 0.8 | 0 | 0 | 4 | USA Other | - | N.W.A |
+| 1118 | XXXTENTACION Lil Pump | 1 | 0.5 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 1119 | XXXTENTACION SKI MASK THE SLUMP GOD | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Florida | - | - |
+| 1120 | Yagi B Trend | 1 | 0.5 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1121 | Yailin La Mas Viral | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1122 | Yasiin Gaye | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1123 | YE | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1124 | Yella Beezy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1125 | Young Cellski | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 1126 | Young Chop Never Gonna Change | 1 | 0.2 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 1127 | Young Chris | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1128 | Young Hood | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1129 | Young Joc | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1130 | Young Lay | 1 | 0.2 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 1131 | Young Money | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1132 | YOUNG NUDY | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1133 | Young Sinatra | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA Other | - | - |
+| 1134 | Young Thug- Stoner @YoungThugWorld | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | Young Thug | - |
+| 1135 | Youngbloodz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1136 | Ysmooth | 1 | 0.5 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1137 | yung bijgoochem | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1138 | Yung Gleesh | 1 | 0.3 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1139 | Yung Jeezy | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1140 | Yung Pinch | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1141 | Yus Gz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | New York | - | - |
+| 1142 | YVNG AX$TN | 1 | 1.0 | 1.0 | 1 | 0 | 0 | California | - | - |
+| 1143 | Z-Ro | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Texas | - | - |
+| 1144 | Zae NumbaFive | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Chicago | - | - |
+| 1145 | Zoey Dollaz | 1 | 1.0 | 1.0 | 1 | 0 | 0 | USA | - | - |
+| 1146 | Zonnique | 1 | 1.0 | 1.0 | 1 | 0 | 0 | Atlanta | - | - |
+| 1147 | DJ Yella | 4 | 0.8 | 0.8 | 0 | 0 | 4 | USA Other | - | N.W.A |
+| 1148 | MC Ren | 4 | 0.8 | 0.8 | 0 | 0 | 4 | USA Other | - | N.W.A |
 
 ## Groups
 
@@ -1226,7 +1225,7 @@ Unattributed songs: `225`
 | 2 | New York | 1044 | 161 | 4 | 8 | _rap, _trap |
 | 3 | Atlanta | 932 | 154 | 3 | 11 | _rap, _trap |
 | 4 | USA Other | 799 | 210 | 4 | 6 | _rap |
-| 5 | California | 545 | 112 | 3 | 4 | _rap, _trap |
+| 5 | California | 544 | 111 | 3 | 4 | _rap, _trap |
 | 6 | Louisiana | 454 | 58 | 1 | 7 | _rap, _trap |
 | 7 | Florida | 435 | 55 | 0 | 4 | _rap, _trap |
 | 8 | Chicago | 356 | 66 | 0 | 4 | _trap |
