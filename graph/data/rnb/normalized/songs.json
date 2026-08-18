@@ -7723,20 +7723,35 @@
   },
   {
     "song_id": "r-00365",
-    "file": "_other\\_rnb\\_random\\Lloyd - Southside Remix.mp3",
+    "file": "_other\\_rnb\\_random\\Lloyd - Southside Remix ft. Ashanti, Scarface.mp3",
     "title": "Southside Remix",
     "primary_artists": [
       "Lloyd"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "Ashanti",
+      "Scarface"
+    ],
     "artists": [
-      "Lloyd"
+      "Lloyd",
+      "Ashanti",
+      "Scarface"
     ],
     "credits": [
       {
         "entity": "Lloyd",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "Ashanti",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Scarface",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
