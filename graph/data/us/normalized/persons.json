@@ -169,6 +169,48 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "2 Chainz": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Atlanta"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03844",
+      "u-03845",
+      "u-03846"
+    ],
+    "primary_song_ids": [
+      "u-03844",
+      "u-03845",
+      "u-03846"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "2 Pistols": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00067"
+    ],
+    "primary_song_ids": [
+      "u-00067"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "2010 New Webbie": {
     "type": "person",
     "labels": [],
@@ -524,6 +566,30 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "42 Dugg": {
+    "type": "person",
+    "labels": [
+      "CMG"
+    ],
+    "groups": [],
+    "regions": [
+      "Detroit",
+      "Memphis"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-05299",
+      "u-05982"
+    ],
+    "primary_song_ids": [
+      "u-05299",
+      "u-05982"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "50 Cent": {
     "type": "person",
     "labels": [],
@@ -799,6 +865,25 @@
       "u-02133",
       "u-02160"
     ]
+  },
+  "5150": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00304"
+    ],
+    "primary_song_ids": [
+      "u-00304"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
   },
   "6ix9ine": {
     "type": "person",
@@ -1579,6 +1664,62 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "akon": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Atlanta",
+      "California",
+      "Detroit",
+      "Florida",
+      "Louisiana",
+      "Memphis",
+      "New York",
+      "USA"
+    ],
+    "sources": [
+      "_rap",
+      "_trap"
+    ],
+    "song_ids": [
+      "u-00060",
+      "u-00968",
+      "u-01028",
+      "u-01298",
+      "u-01445",
+      "u-01447",
+      "u-01490",
+      "u-01499",
+      "u-01697",
+      "u-01804",
+      "u-02099",
+      "u-02151",
+      "u-02187",
+      "u-03007",
+      "u-03289"
+    ],
+    "primary_song_ids": [
+      "u-03007"
+    ],
+    "feature_song_ids": [
+      "u-00060",
+      "u-00968",
+      "u-01028",
+      "u-01298",
+      "u-01445",
+      "u-01447",
+      "u-01490",
+      "u-01499",
+      "u-01697",
+      "u-01804",
+      "u-02099",
+      "u-02151",
+      "u-02187",
+      "u-03289"
+    ],
+    "via_group_song_ids": []
+  },
   "Al Kapone": {
     "type": "person",
     "labels": [],
@@ -1785,15 +1926,19 @@
     "labels": [],
     "groups": [],
     "regions": [
-      "USA"
+      "USA",
+      "USA Other"
     ],
     "sources": [
+      "_rap",
       "_trap"
     ],
     "song_ids": [
+      "u-00242",
       "u-03294"
     ],
     "primary_song_ids": [
+      "u-00242",
       "u-03294"
     ],
     "feature_song_ids": [],
@@ -2094,6 +2239,28 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "August Alsina": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-02951",
+      "u-03011"
+    ],
+    "primary_song_ids": [
+      "u-02951"
+    ],
+    "feature_song_ids": [
+      "u-03011"
+    ],
+    "via_group_song_ids": []
+  },
   "Avant": {
     "type": "person",
     "labels": [],
@@ -2128,6 +2295,25 @@
     ],
     "primary_song_ids": [
       "u-00106"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Awreeoh": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00100"
+    ],
+    "primary_song_ids": [
+      "u-00100"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -2168,6 +2354,7 @@
       "u-01851",
       "u-01852",
       "u-01853",
+      "u-01854",
       "u-01855",
       "u-01856",
       "u-01857",
@@ -2186,6 +2373,7 @@
       "u-01851",
       "u-01852",
       "u-01853",
+      "u-01854",
       "u-01855",
       "u-01856",
       "u-01857",
@@ -2347,6 +2535,27 @@
     "primary_song_ids": [
       "u-02772",
       "u-02773"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Babylon Warchild": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00104",
+      "u-00105"
+    ],
+    "primary_song_ids": [
+      "u-00104",
+      "u-00105"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -3188,6 +3397,7 @@
       "u-00604",
       "u-01437",
       "u-02867",
+      "u-02941",
       "u-03302",
       "u-03303",
       "u-03304",
@@ -3208,6 +3418,7 @@
       "u-04231"
     ],
     "primary_song_ids": [
+      "u-02941",
       "u-03302",
       "u-03303",
       "u-03304",
@@ -5025,6 +5236,25 @@
     ],
     "via_group_song_ids": []
   },
+  "Cap 1": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-02985"
+    ],
+    "primary_song_ids": [
+      "u-02985"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Capo": {
     "type": "person",
     "labels": [],
@@ -5480,14 +5710,18 @@
     "song_ids": [
       "u-01610",
       "u-02804",
+      "u-02805",
       "u-02825",
+      "u-03035",
       "u-03243",
       "u-03439",
       "u-05091"
     ],
     "primary_song_ids": [
       "u-02804",
-      "u-02825"
+      "u-02805",
+      "u-02825",
+      "u-03035"
     ],
     "feature_song_ids": [
       "u-01610",
@@ -6116,6 +6350,29 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "City Girls": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "New York",
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03812",
+      "u-06373"
+    ],
+    "primary_song_ids": [
+      "u-03812"
+    ],
+    "feature_song_ids": [
+      "u-06373"
+    ],
+    "via_group_song_ids": []
+  },
   "Coca Vango": {
     "type": "person",
     "labels": [],
@@ -6386,10 +6643,12 @@
     "labels": [],
     "groups": [],
     "regions": [
+      "USA",
       "USA Other"
     ],
     "sources": [
-      "_rap"
+      "_rap",
+      "_trap"
     ],
     "song_ids": [
       "u-00125",
@@ -6397,14 +6656,16 @@
       "u-00127",
       "u-00128",
       "u-00130",
-      "u-00853"
+      "u-00853",
+      "u-03048"
     ],
     "primary_song_ids": [
       "u-00125",
       "u-00126",
       "u-00127",
       "u-00128",
-      "u-00130"
+      "u-00130",
+      "u-03048"
     ],
     "feature_song_ids": [
       "u-00853"
@@ -7217,6 +7478,25 @@
     ],
     "primary_song_ids": [
       "u-00142"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Devasto": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00351"
+    ],
+    "primary_song_ids": [
+      "u-00351"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -8207,6 +8487,25 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Dr. Creep": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00349"
+    ],
+    "primary_song_ids": [
+      "u-00349"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Dr. Dre": {
     "type": "person",
     "labels": [],
@@ -8226,8 +8525,10 @@
     "song_ids": [
       "u-00298",
       "u-00301",
+      "u-00979",
       "u-00982",
       "u-00995",
+      "u-01019",
       "u-01020",
       "u-01021",
       "u-01023",
@@ -8237,6 +8538,12 @@
       "u-01027",
       "u-01028",
       "u-01031",
+      "u-01034",
+      "u-01035",
+      "u-01036",
+      "u-01037",
+      "u-01038",
+      "u-01039",
       "u-01042",
       "u-01123",
       "u-01187",
@@ -8253,6 +8560,8 @@
       "u-03378"
     ],
     "primary_song_ids": [
+      "u-00979",
+      "u-01019",
       "u-01020",
       "u-01021",
       "u-01023",
@@ -8262,6 +8571,12 @@
       "u-01027",
       "u-01028",
       "u-01031",
+      "u-01034",
+      "u-01035",
+      "u-01036",
+      "u-01037",
+      "u-01038",
+      "u-01039",
       "u-03378"
     ],
     "feature_song_ids": [
@@ -9557,6 +9872,7 @@
     "song_ids": [
       "u-03298",
       "u-03299",
+      "u-03301",
       "u-05287",
       "u-05304",
       "u-05958",
@@ -9568,6 +9884,7 @@
     "primary_song_ids": [
       "u-03298",
       "u-03299",
+      "u-03301",
       "u-06027"
     ],
     "feature_song_ids": [
@@ -9625,13 +9942,15 @@
     "regions": [
       "Atlanta",
       "California",
-      "New York"
+      "New York",
+      "USA Other"
     ],
     "sources": [
       "_rap",
       "_trap"
     ],
     "song_ids": [
+      "u-00243",
       "u-00960",
       "u-01083",
       "u-01996",
@@ -9666,6 +9985,7 @@
       "u-06347"
     ],
     "primary_song_ids": [
+      "u-00243",
       "u-01996",
       "u-01997",
       "u-01998",
@@ -9819,6 +10139,7 @@
     "regions": [
       "Florida",
       "New York",
+      "USA",
       "USA Other"
     ],
     "sources": [
@@ -9855,6 +10176,7 @@
       "u-02044",
       "u-02045",
       "u-02468",
+      "u-03066",
       "u-06348",
       "u-06349"
     ],
@@ -9880,6 +10202,7 @@
       "u-02043",
       "u-02044",
       "u-02045",
+      "u-03066",
       "u-06348",
       "u-06349"
     ],
@@ -10125,6 +10448,28 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Flipmode Squad": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00244",
+      "u-00387"
+    ],
+    "primary_song_ids": [
+      "u-00244"
+    ],
+    "feature_song_ids": [
+      "u-00387"
+    ],
+    "via_group_song_ids": []
+  },
   "Flo Rida": {
     "type": "person",
     "labels": [],
@@ -10258,10 +10603,12 @@
       "_trap"
     ],
     "song_ids": [
-      "u-02940"
+      "u-02940",
+      "u-03056"
     ],
     "primary_song_ids": [
-      "u-02940"
+      "u-02940",
+      "u-03056"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -13658,6 +14005,25 @@
     ],
     "via_group_song_ids": []
   },
+  "J Spades": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-02914"
+    ],
+    "primary_song_ids": [
+      "u-02914"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "J-Live": {
     "type": "person",
     "labels": [],
@@ -13824,7 +14190,8 @@
     "regions": [
       "Atlanta",
       "Louisiana",
-      "Toronto"
+      "Toronto",
+      "USA"
     ],
     "sources": [
       "_rap",
@@ -13836,6 +14203,7 @@
       "u-01554",
       "u-01569",
       "u-01570",
+      "u-03241",
       "u-04557",
       "u-04601",
       "u-05851",
@@ -13843,7 +14211,8 @@
     ],
     "primary_song_ids": [
       "u-01569",
-      "u-01570"
+      "u-01570",
+      "u-03241"
     ],
     "feature_song_ids": [
       "u-01552",
@@ -13902,6 +14271,7 @@
       "u-02235",
       "u-02541",
       "u-02871",
+      "u-02986",
       "u-03847",
       "u-06289",
       "u-06316",
@@ -13925,7 +14295,8 @@
       "u-02227",
       "u-02233",
       "u-02234",
-      "u-02235"
+      "u-02235",
+      "u-02986"
     ],
     "feature_song_ids": [
       "u-00058",
@@ -15900,10 +16271,12 @@
       "_trap"
     ],
     "song_ids": [
-      "u-02790"
+      "u-02790",
+      "u-03113"
     ],
     "primary_song_ids": [
-      "u-02790"
+      "u-02790",
+      "u-03113"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -16104,12 +16477,14 @@
     "regions": [
       "Atlanta",
       "Chicago",
-      "Memphis"
+      "Memphis",
+      "USA"
     ],
     "sources": [
       "_trap"
     ],
     "song_ids": [
+      "u-02791",
       "u-04097",
       "u-05096",
       "u-05903",
@@ -16138,6 +16513,7 @@
       "u-05926"
     ],
     "primary_song_ids": [
+      "u-02791",
       "u-05903",
       "u-05904",
       "u-05905",
@@ -16240,7 +16616,9 @@
       "u-02855",
       "u-02936",
       "u-02955",
+      "u-02975",
       "u-03026",
+      "u-03050",
       "u-03165",
       "u-03274",
       "u-04362",
@@ -16250,7 +16628,9 @@
       "u-02855",
       "u-02936",
       "u-02955",
+      "u-02975",
       "u-03026",
+      "u-03050",
       "u-04362"
     ],
     "feature_song_ids": [
@@ -16275,6 +16655,7 @@
       "_trap"
     ],
     "song_ids": [
+      "u-00352",
       "u-00635",
       "u-00636",
       "u-00637",
@@ -16305,6 +16686,7 @@
       "u-03162"
     ],
     "primary_song_ids": [
+      "u-00352",
       "u-00635",
       "u-00636",
       "u-00637",
@@ -16657,6 +17039,25 @@
       "u-05193",
       "u-05228"
     ],
+    "via_group_song_ids": []
+  },
+  "Kingpin Skinny Pimp": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Memphis"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-01790"
+    ],
+    "primary_song_ids": [
+      "u-01790"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": []
   },
   "Kirko Bangz": {
@@ -18897,10 +19298,12 @@
       "_rap"
     ],
     "song_ids": [
-      "u-02640"
+      "u-02640",
+      "u-02641"
     ],
     "primary_song_ids": [
-      "u-02640"
+      "u-02640",
+      "u-02641"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -19920,6 +20323,7 @@
       "u-02879",
       "u-02891",
       "u-02932",
+      "u-03023",
       "u-03067",
       "u-03288",
       "u-03844",
@@ -20069,6 +20473,7 @@
       "u-01731",
       "u-01732",
       "u-01733",
+      "u-03023",
       "u-04426",
       "u-04546"
     ],
@@ -20828,6 +21233,7 @@
       "_rap"
     ],
     "song_ids": [
+      "u-00070",
       "u-00183",
       "u-00701",
       "u-00702",
@@ -20836,6 +21242,7 @@
       "u-02473"
     ],
     "primary_song_ids": [
+      "u-00070",
       "u-00183",
       "u-00701",
       "u-00702",
@@ -20945,6 +21352,25 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Lyric": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00245"
+    ],
+    "primary_song_ids": [
+      "u-00245"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Lyrica": {
     "type": "person",
     "labels": [],
@@ -21008,6 +21434,27 @@
       "u-00460",
       "u-00461"
     ]
+  },
+  "M-Eighty & Terminal 3": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00220",
+      "u-00221"
+    ],
+    "primary_song_ids": [
+      "u-00220",
+      "u-00221"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
   },
   "M.O.P.": {
     "type": "person",
@@ -21268,6 +21715,29 @@
     ],
     "primary_song_ids": [
       "u-03548"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Maejor Ali": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA",
+      "USA Other"
+    ],
+    "sources": [
+      "_rap",
+      "_trap"
+    ],
+    "song_ids": [
+      "u-00068",
+      "u-03009"
+    ],
+    "primary_song_ids": [
+      "u-00068",
+      "u-03009"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -21666,6 +22136,25 @@
       "u-02539",
       "u-02540"
     ]
+  },
+  "Mateo Sun": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03621"
+    ],
+    "primary_song_ids": [
+      "u-03621"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
   },
   "Max B": {
     "type": "person",
@@ -22228,6 +22717,25 @@
     ],
     "via_group_song_ids": []
   },
+  "Mike Rob": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Atlanta"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03901"
+    ],
+    "primary_song_ids": [
+      "u-03901"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Mike WiLL": {
     "type": "person",
     "labels": [],
@@ -22271,15 +22779,20 @@
     "labels": [],
     "groups": [],
     "regions": [
-      "Atlanta"
+      "Atlanta",
+      "USA"
     ],
     "sources": [
       "_trap"
     ],
     "song_ids": [
+      "u-02948",
+      "u-03006",
       "u-03890"
     ],
     "primary_song_ids": [
+      "u-02948",
+      "u-03006",
       "u-03890"
     ],
     "feature_song_ids": [],
@@ -22943,6 +23456,30 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Mystikal": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Atlanta",
+      "Louisiana"
+    ],
+    "sources": [
+      "_rap",
+      "_trap"
+    ],
+    "song_ids": [
+      "u-01534",
+      "u-04577"
+    ],
+    "primary_song_ids": [
+      "u-01534"
+    ],
+    "feature_song_ids": [
+      "u-04577"
+    ],
+    "via_group_song_ids": []
+  },
   "N.e.N": {
     "type": "person",
     "labels": [],
@@ -22970,10 +23507,12 @@
     ],
     "regions": [
       "New York",
+      "USA",
       "USA Other"
     ],
     "sources": [
-      "_rap"
+      "_rap",
+      "_trap"
     ],
     "song_ids": [
       "u-00196",
@@ -23006,12 +23545,14 @@
       "u-01952",
       "u-01953",
       "u-01954",
-      "u-01955"
+      "u-01955",
+      "u-02937"
     ],
     "primary_song_ids": [
       "u-00196",
       "u-00330",
-      "u-01930"
+      "u-01930",
+      "u-02937"
     ],
     "feature_song_ids": [
       "u-01891"
@@ -23622,11 +24163,13 @@
     ],
     "song_ids": [
       "u-00996",
-      "u-00997"
+      "u-00997",
+      "u-00998"
     ],
     "primary_song_ids": [
       "u-00996",
-      "u-00997"
+      "u-00997",
+      "u-00998"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -23963,12 +24506,15 @@
     "groups": [],
     "regions": [
       "Atlanta",
-      "California"
+      "California",
+      "USA"
     ],
     "sources": [
       "_trap"
     ],
     "song_ids": [
+      "u-02952",
+      "u-03063",
       "u-04129",
       "u-04660",
       "u-04661",
@@ -23988,6 +24534,8 @@
       "u-04875"
     ],
     "primary_song_ids": [
+      "u-02952",
+      "u-03063",
       "u-04660",
       "u-04661",
       "u-04662",
@@ -24435,6 +24983,7 @@
     "song_ids": [
       "u-02857",
       "u-02861",
+      "u-02902",
       "u-02971",
       "u-02976",
       "u-03249",
@@ -24498,6 +25047,7 @@
     "via_group_song_ids": [
       "u-02857",
       "u-02861",
+      "u-02902",
       "u-02971",
       "u-02976",
       "u-03249",
@@ -24924,9 +25474,11 @@
       "_trap"
     ],
     "song_ids": [
+      "u-04976",
       "u-05235"
     ],
     "primary_song_ids": [
+      "u-04976",
       "u-05235"
     ],
     "feature_song_ids": [],
@@ -25856,7 +26408,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "PNB Rock": {
+  "PnB Rock": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -25872,6 +26424,7 @@
     "song_ids": [
       "u-03116",
       "u-03200",
+      "u-03586",
       "u-04508",
       "u-04512",
       "u-05510",
@@ -25881,7 +26434,8 @@
       "u-06334"
     ],
     "primary_song_ids": [
-      "u-03200"
+      "u-03200",
+      "u-03586"
     ],
     "feature_song_ids": [
       "u-03116",
@@ -26265,6 +26819,29 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Pro The Leader & Dopestyle": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03162",
+      "u-03163",
+      "u-03164"
+    ],
+    "primary_song_ids": [
+      "u-03162",
+      "u-03163",
+      "u-03164"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Problem": {
     "type": "person",
     "labels": [],
@@ -26286,6 +26863,25 @@
       "u-03001",
       "u-03036",
       "u-03252"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Prodigal Sunn": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00253"
+    ],
+    "primary_song_ids": [
+      "u-00253"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -26582,6 +27178,25 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Psych Ward": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00355"
+    ],
+    "primary_song_ids": [
+      "u-00355"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Public Enemy": {
     "type": "person",
     "labels": [],
@@ -26866,6 +27481,7 @@
       "u-02857",
       "u-02861",
       "u-02874",
+      "u-02902",
       "u-02971",
       "u-02976",
       "u-03249",
@@ -26927,6 +27543,7 @@
     "via_group_song_ids": [
       "u-02857",
       "u-02861",
+      "u-02902",
       "u-02971",
       "u-02976",
       "u-03249",
@@ -27517,6 +28134,25 @@
     ],
     "primary_song_ids": [
       "u-03194"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Regiments": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00144"
+    ],
+    "primary_song_ids": [
+      "u-00144"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -29270,6 +29906,25 @@
     ],
     "via_group_song_ids": []
   },
+  "Sasori 蠍": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03508"
+    ],
+    "primary_song_ids": [
+      "u-03508"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Sauce Walka": {
     "type": "person",
     "labels": [],
@@ -29865,6 +30520,25 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Sharon": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00354"
+    ],
+    "primary_song_ids": [
+      "u-00354"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Shaun White": {
     "type": "person",
     "labels": [],
@@ -30123,6 +30797,25 @@
     ],
     "primary_song_ids": [
       "u-03673"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Simon Roofless": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00287"
+    ],
+    "primary_song_ids": [
+      "u-00287"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -30507,10 +31200,12 @@
       "_rap"
     ],
     "song_ids": [
-      "u-00208"
+      "u-00208",
+      "u-00288"
     ],
     "primary_song_ids": [
-      "u-00208"
+      "u-00208",
+      "u-00288"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -30697,6 +31392,7 @@
     ],
     "song_ids": [
       "u-00065",
+      "u-00246",
       "u-00694",
       "u-00857",
       "u-00979",
@@ -30736,6 +31432,7 @@
       "u-05884"
     ],
     "primary_song_ids": [
+      "u-00246",
       "u-01084",
       "u-01085",
       "u-01086",
@@ -30853,6 +31550,32 @@
       "u-03708"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Son Of Saturn": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00236",
+      "u-00289",
+      "u-00290",
+      "u-00291"
+    ],
+    "primary_song_ids": [
+      "u-00289",
+      "u-00290",
+      "u-00291"
+    ],
+    "feature_song_ids": [
+      "u-00236"
+    ],
     "via_group_song_ids": []
   },
   "Sonny Digital": {
@@ -31861,6 +32584,28 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Sy Ari Da Kid": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-02999",
+      "u-03239"
+    ],
+    "primary_song_ids": [
+      "u-02999"
+    ],
+    "feature_song_ids": [
+      "u-03239"
+    ],
+    "via_group_song_ids": []
+  },
   "T-Pain": {
     "type": "person",
     "labels": [],
@@ -31958,6 +32703,7 @@
       "u-02185",
       "u-02966",
       "u-03030",
+      "u-03071",
       "u-03261",
       "u-03736",
       "u-04521",
@@ -31996,6 +32742,7 @@
       "u-00937",
       "u-00938",
       "u-00939",
+      "u-03071",
       "u-03261"
     ],
     "feature_song_ids": [
@@ -32085,6 +32832,7 @@
     "song_ids": [
       "u-02857",
       "u-02861",
+      "u-02902",
       "u-02971",
       "u-02976",
       "u-03249",
@@ -32130,6 +32878,7 @@
     "via_group_song_ids": [
       "u-02857",
       "u-02861",
+      "u-02902",
       "u-02971",
       "u-02976",
       "u-03249",
@@ -32330,6 +33079,7 @@
       "_rap"
     ],
     "song_ids": [
+      "u-00079",
       "u-00793",
       "u-00794",
       "u-00795",
@@ -32351,6 +33101,7 @@
       "u-00812"
     ],
     "primary_song_ids": [
+      "u-00079",
       "u-00793",
       "u-00794",
       "u-00795",
@@ -33101,6 +33852,7 @@
       "u-02393",
       "u-02943",
       "u-03028",
+      "u-03034",
       "u-03446",
       "u-03727",
       "u-03950",
@@ -33110,7 +33862,8 @@
     ],
     "primary_song_ids": [
       "u-02943",
-      "u-03028"
+      "u-03028",
+      "u-03034"
     ],
     "feature_song_ids": [
       "u-01606",
@@ -33524,7 +34277,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "TOO SHORT": {
+  "Too Short": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -33535,10 +34288,12 @@
       "_rap"
     ],
     "song_ids": [
+      "u-00369",
       "u-00370",
       "u-00762"
     ],
     "primary_song_ids": [
+      "u-00369",
       "u-00370"
     ],
     "feature_song_ids": [
@@ -34104,6 +34859,7 @@
       "_trap"
     ],
     "song_ids": [
+      "u-02859",
       "u-03423",
       "u-03478",
       "u-03744",
@@ -34137,6 +34893,7 @@
       "u-05786"
     ],
     "primary_song_ids": [
+      "u-02859",
       "u-03744",
       "u-03746",
       "u-03747",
@@ -34389,6 +35146,8 @@
       "_trap"
     ],
     "song_ids": [
+      "u-02964",
+      "u-03008",
       "u-03103",
       "u-03134",
       "u-03198",
@@ -34405,6 +35164,8 @@
       "u-06296"
     ],
     "primary_song_ids": [
+      "u-02964",
+      "u-03008",
       "u-03134",
       "u-03446",
       "u-03770"
@@ -34746,6 +35507,7 @@
     ],
     "song_ids": [
       "u-02868",
+      "u-02870",
       "u-02911",
       "u-02979",
       "u-03270",
@@ -34755,6 +35517,7 @@
     ],
     "primary_song_ids": [
       "u-02868",
+      "u-02870",
       "u-02979",
       "u-03270",
       "u-03271",
@@ -34941,6 +35704,32 @@
       "u-04678"
     ],
     "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Vendetta Kingz": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00083",
+      "u-00356",
+      "u-00357",
+      "u-00358"
+    ],
+    "primary_song_ids": [
+      "u-00356",
+      "u-00357",
+      "u-00358"
+    ],
+    "feature_song_ids": [
+      "u-00083"
+    ],
     "via_group_song_ids": []
   },
   "Verse Simmonds": {
@@ -35183,6 +35972,7 @@
       "u-02003",
       "u-02213",
       "u-02930",
+      "u-03203",
       "u-03204",
       "u-03205",
       "u-03206",
@@ -35190,6 +35980,7 @@
       "u-04362"
     ],
     "primary_song_ids": [
+      "u-03203",
       "u-03204",
       "u-03205",
       "u-03206"
@@ -35698,6 +36489,7 @@
       "u-02958",
       "u-02996",
       "u-03047",
+      "u-03057",
       "u-03165",
       "u-03198",
       "u-04896",
@@ -35727,6 +36519,7 @@
       "u-00862",
       "u-00863",
       "u-00864",
+      "u-03057",
       "u-05384"
     ],
     "feature_song_ids": [
@@ -36554,7 +37347,9 @@
       "_trap"
     ],
     "song_ids": [
+      "u-02925",
       "u-02962",
+      "u-02967",
       "u-02992",
       "u-03002",
       "u-03245",
@@ -36564,6 +37359,8 @@
       "u-04472",
       "u-04671",
       "u-04690",
+      "u-04691",
+      "u-04692",
       "u-04693",
       "u-04694",
       "u-04695",
@@ -36578,9 +37375,13 @@
       "u-06505"
     ],
     "primary_song_ids": [
+      "u-02925",
       "u-02962",
+      "u-02967",
       "u-02992",
       "u-04690",
+      "u-04691",
+      "u-04692",
       "u-04693",
       "u-04694",
       "u-04695",
@@ -38435,6 +39236,25 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Yung Simmie": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Florida"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-05348"
+    ],
+    "primary_song_ids": [
+      "u-05348"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Yungeen Ace": {
     "type": "person",
     "labels": [],
@@ -38663,6 +39483,27 @@
     ],
     "primary_song_ids": [
       "u-04639"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Ｅｓｓｅｎｃｅ": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03521",
+      "u-03528"
+    ],
+    "primary_song_ids": [
+      "u-03521",
+      "u-03528"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []

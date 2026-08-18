@@ -7,6 +7,7 @@ from pathlib import Path
 
 from common import (
     AUDIO_EXTS, DATA_ROOT, FEAT_RE, UNICODE_DASH_RE, ZENE,
+    load_file_artists,
     clean_artist_text, clean_title, extract_primary_and_features,
     folder_artist, is_junk_name, load_known_artists, load_mappings_file, normalize_key,
     split_artists, squashed_lookup,
@@ -463,6 +464,7 @@ def iter_scoped_audio_files():
 
 def build_graph() -> dict:
     mappings = load_mappings()
+    file_artists = load_file_artists()
     tracks = []
     persons: dict[str, dict] = {}
     groups_index: dict[str, dict] = {}
@@ -527,6 +529,19 @@ def build_graph() -> dict:
                 recovered = prefer_display_name(context_artist, mappings)
                 if normalize_key(recovered) not in {"unknown artist", "various artists"}:
                     primary_artist = recovered
+        if primary_artist == UNKNOWN_ARTIST:
+            # Every rule has now failed, including the retry above. `data/file_artists.md`
+            # is the last word: files whose folder is a compilation and whose filename is a
+            # bare title, read one by one. It has to sit here rather than earlier — a name
+            # like `Ludacris - Southern Hospitality` does yield a credit, which is then
+            # blocklisted, so an earlier hook never fires for the files that need it most.
+            hand = file_artists.get(rel_key.lower())
+            if hand:
+                # Deliberately not through `prefer_display_name`. Its blocklist exists to
+                # stop *folder names* becoming artists, and it rejects real acts that share
+                # one — `Swisha House`, `2 Pistols`, `5150`. A per-file attribution is an
+                # explicit decision about one file and outranks a heuristic about many.
+                primary_artist = canonicalize_artist(hand, mappings) or hand
         primary_key = normalize_key(primary_artist)
         primary_artist = display_name_by_key.setdefault(primary_key, primary_artist)
         featuring = [prefer_display_name(name, mappings) for name in featuring if name]

@@ -1,6 +1,7 @@
 """Shared constants and utilities for local-music-graph scripts."""
 from __future__ import annotations
 
+import functools
 import re
 from pathlib import Path  # noqa: F401  (re-exported for type hints in load_mappings_file)
 
@@ -454,3 +455,32 @@ def is_junk_name(name: str, key: str, blocklist: set[str]) -> bool:
     if any(ord(c) > 8000 for c in name):
         return True
     return False
+
+@functools.lru_cache(maxsize=1)
+def load_file_artists() -> dict[str, str]:
+    """`<collection-relative path> :: <artist>` from `data/file_artists.md`, lower-cased key.
+
+    The last fallback, and only that. A song reaches this file when its filename carries just
+    a title and its folder is a compilation or a one-off album — so neither the credit parser
+    nor the folder rule can say who recorded it. Every builder consults it *after* its own
+    rules, so improving a rule can never conflict with what is written here.
+    """
+    path = DATA_ROOT / "file_artists.md"
+    if not path.exists():
+        return {}
+    out: dict[str, str] = {}
+    inside = False
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        # Only the Attributions section. The prose above it documents the format, and that
+        # example line parsed as a real entry when the whole file was scanned.
+        if line.startswith("## "):
+            inside = line.lower().startswith("## attributions")
+            continue
+        if not inside or not line or line.startswith("#") or "::" not in line:
+            continue
+        key, _, value = line.partition("::")
+        value = value.split("#")[0].strip()
+        if key.strip() and value:
+            out[key.strip().replace("\\", "/").lower()] = value
+    return out

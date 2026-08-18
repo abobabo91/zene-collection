@@ -36,7 +36,7 @@ from pathlib import Path
 from build_other_graph import infer_credit_and_title, prefer_display
 from common import (
     AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE,
-    extract_primary_and_features, load_mappings_file, normalize_key,
+    extract_primary_and_features, load_file_artists, load_mappings_file, normalize_key,
 )
 
 AREA = "hungarian"
@@ -151,6 +151,12 @@ def attribute(rel: Path, mappings: dict) -> dict:
 
     primary = resolve(primary_raw)
     featuring = resolve(feat_raw)
+    if not primary:
+        # Last word, same as the US builder: `data/file_artists.md`, read one file at a time
+        # for the songs whose folder is a compilation and whose filename is a bare title.
+        hand = load_file_artists().get(str(rel).replace("\\", "/").lower())
+        if hand:
+            primary = [hand]
 
     primary_artists, primary_groups, featuring_artists, featuring_groups = [], [], [], []
     credits, artists = [], []

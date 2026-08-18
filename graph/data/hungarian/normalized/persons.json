@@ -10455,6 +10455,25 @@
       "h-01594"
     ]
   },
+  "Rimfarktush": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [],
+    "song_ids": [
+      "h-02259",
+      "h-02260",
+      "h-02261",
+      "h-02262"
+    ],
+    "primary_song_ids": [
+      "h-02259",
+      "h-02260",
+      "h-02261",
+      "h-02262"
+    ],
+    "feature_song_ids": []
+  },
   "Rizkay": {
     "type": "person",
     "labels": [

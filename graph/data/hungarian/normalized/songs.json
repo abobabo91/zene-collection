@@ -12061,7 +12061,9 @@
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Rimfarktush"
+    ],
     "primary_groups": [],
     "featuring_artists": [
       "Teoz",
@@ -12069,10 +12071,16 @@
     ],
     "featuring_groups": [],
     "artists": [
+      "Rimfarktush",
       "Teoz",
       "J-Boy"
     ],
     "credits": [
+      {
+        "entity": "Rimfarktush",
+        "entity_type": "person",
+        "role": "primary"
+      },
       {
         "entity": "Teoz",
         "entity_type": "person",
@@ -12093,12 +12101,22 @@
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Rimfarktush"
+    ],
     "primary_groups": [],
     "featuring_artists": [],
     "featuring_groups": [],
-    "artists": [],
-    "credits": []
+    "artists": [
+      "Rimfarktush"
+    ],
+    "credits": [
+      {
+        "entity": "Rimfarktush",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
   },
   {
     "song_id": "h-02261",
@@ -12108,12 +12126,22 @@
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Rimfarktush"
+    ],
     "primary_groups": [],
     "featuring_artists": [],
     "featuring_groups": [],
-    "artists": [],
-    "credits": []
+    "artists": [
+      "Rimfarktush"
+    ],
+    "credits": [
+      {
+        "entity": "Rimfarktush",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
   },
   {
     "song_id": "h-02262",
@@ -12123,12 +12151,22 @@
     "source_root": "_magyar rap",
     "folder_region": null,
     "regions": [],
-    "primary_artists": [],
+    "primary_artists": [
+      "Rimfarktush"
+    ],
     "primary_groups": [],
     "featuring_artists": [],
     "featuring_groups": [],
-    "artists": [],
-    "credits": []
+    "artists": [
+      "Rimfarktush"
+    ],
+    "credits": [
+      {
+        "entity": "Rimfarktush",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ]
   },
   {
     "song_id": "h-00447",
