@@ -1229,15 +1229,15 @@ Unattributed songs: `225`
 |---|--------|-------|---------|--------|--------|---------|
 | 1 | USA | 1052 | 487 | 4 | 9 | _trap |
 | 2 | New York | 1044 | 162 | 4 | 8 | _rap, _trap |
-| 3 | Atlanta | 932 | 153 | 3 | 11 | _rap, _trap |
+| 3 | Atlanta | 931 | 153 | 3 | 11 | _rap, _trap |
 | 4 | USA Other | 799 | 210 | 4 | 6 | _rap |
 | 5 | California | 552 | 119 | 3 | 4 | _rap, _trap |
 | 6 | Louisiana | 454 | 58 | 1 | 7 | _rap, _trap |
 | 7 | Florida | 436 | 56 | 0 | 4 | _rap, _trap |
 | 8 | Chicago | 356 | 66 | 0 | 4 | _trap |
 | 9 | Detroit | 304 | 21 | 2 | 3 | _rap, _trap |
-| 10 | Memphis | 273 | 53 | 1 | 6 | _rap, _trap |
+| 10 | Memphis | 275 | 53 | 1 | 6 | _rap, _trap |
 | 11 | Toronto | 203 | 27 | 0 | 2 | _trap |
 | 12 | Philadelphia | 158 | 14 | 0 | 3 | _rap, _trap |
 | 13 | Texas | 135 | 22 | 3 | 1 | _rap, _trap |
-| 14 | DC | 15 | 3 | 1 | 1 | _trap |
+| 14 | DC | 14 | 2 | 1 | 1 | _trap |
