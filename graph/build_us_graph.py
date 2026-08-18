@@ -6,7 +6,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 from common import (
-    AUDIO_EXTS, DATA_ROOT, UNICODE_DASH_RE, ZENE,
+    AUDIO_EXTS, DATA_ROOT, FEAT_RE, UNICODE_DASH_RE, ZENE,
     clean_artist_text, clean_title, extract_primary_and_features,
     folder_artist, is_junk_name, load_known_artists, load_mappings_file, normalize_key,
     split_artists, squashed_lookup,
@@ -479,6 +479,22 @@ def build_graph() -> dict:
 
         credit, title = infer_credit_and_title(rel_parts, file_path.name, mappings)
         primary_artists, featuring = extract_primary_and_features(credit or "")
+        if not featuring:
+            # An album rip has no credit half at all — `5. School Shooters (feat. Lil Wayne).mp3`
+            # is title the whole way — so the guest only ever appears in the title. The
+            # Hungarian and `_other` builders have always looked there; this one did not, and
+            # 1,363 US tracks named a guest in the filename and credited nobody.
+            #
+            # Unless a dash follows the guest. `Pistols ft. T-Pain Tay Dizm - She Got It` is
+            # an artist half that failed to split, and the song is called `She Got It` — take
+            # the guest there and the title becomes `Pistols`, which is the band. 48 files
+            # look like that, and leaving them untouched loses nothing that was ever right.
+            feat_match = FEAT_RE.search(title or "")
+            if feat_match and " - " not in title[feat_match.end():]:
+                _, feat_from_title = extract_primary_and_features(title)
+                if feat_from_title:
+                    featuring = feat_from_title
+                    title = FEAT_RE.split(title)[0].strip(" -,")
         primary_artists, featuring = normalize_primary_candidates(primary_artists, featuring)
         if is_yo_gotti_cmg_compilation(rel_parts):
             if "type beat" in file_path.stem.lower():

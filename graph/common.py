@@ -202,7 +202,16 @@ def split_artists(text: str) -> list[str]:
     return [clean_artist_text(p) for p in parts if clean_artist_text(p)]
 
 
+#: `(feat. X)` with the brackets still on. `clean_artist_text` deletes bracketed groups
+#: wholesale, so the guest was thrown away before `FEAT_RE` ever saw it — and the bracketed
+#: form is the common one: `Just Like Me (feat. Young Thug)`, `Break Em' Off (feat. Lil' Keke)`.
+#: The bare form (`Killaz Feat. 50 Cent`) always worked, which is why this hid for so long.
+BRACKETED_FEAT_RE = re.compile(
+    r"[(\[]\s*((?:feat|ft|featuring|with)\b\.?\s*[^)\]]*)[)\]]", re.IGNORECASE)
+
+
 def extract_primary_and_features(credit: str) -> tuple[list[str], list[str]]:
+    credit = BRACKETED_FEAT_RE.sub(r" \1", credit or "")
     credit = clean_artist_text(credit)
     if not credit:
         return [], []
