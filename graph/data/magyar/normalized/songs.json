@@ -1,6 +1,26 @@
 [
   {
     "song_id": "mg-00001",
+    "file": "_other\\_magyar\\_alternativ\\30Y - Best of\\11. 30y - Csönded vagyok.mp3",
+    "title": "Csönded vagyok",
+    "primary_artists": [
+      "30Y"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "30Y"
+    ],
+    "credits": [
+      {
+        "entity": "30Y",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "mg-00002",
     "file": "_other\\_magyar\\_alternativ\\30Y - Best of\\30y - azt hittem érdemes  [fan made].mp3",
     "title": "azt hittem érdemes [fan made]",
     "primary_artists": [
@@ -20,7 +40,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00002",
+    "song_id": "mg-00003",
     "file": "_other\\_magyar\\_alternativ\\30Y - Best of\\30Y - Öltöztetnéd Megint.mp3",
     "title": "Öltöztetnéd Megint",
     "primary_artists": [
@@ -40,7 +60,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00003",
+    "song_id": "mg-00004",
     "file": "_other\\_magyar\\_alternativ\\30Y - Best of\\bogozd ki 30y.mp3",
     "title": "bogozd ki 30y",
     "primary_artists": [
@@ -60,7 +80,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00004",
+    "song_id": "mg-00005",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Csukódj be.mp3",
     "title": "Csukódj be",
     "primary_artists": [
@@ -80,7 +100,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00005",
+    "song_id": "mg-00006",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - KARDHAL (OFFICIAL VIDEO).mp3",
     "title": "KARDHAL",
     "primary_artists": [
@@ -100,7 +120,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00006",
+    "song_id": "mg-00007",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Kedvenc Felhőmnek (hivatalos videoklip).mp3",
     "title": "Kedvenc Felhőmnek (hivatalos videoklip)",
     "primary_artists": [
@@ -120,7 +140,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00007",
+    "song_id": "mg-00008",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Madarak (OFFICIAL VIDEO).mp3",
     "title": "Madarak",
     "primary_artists": [
@@ -140,7 +160,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00008",
+    "song_id": "mg-00009",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Sokáig vártalak.mp3",
     "title": "Sokáig vártalak",
     "primary_artists": [
@@ -160,7 +180,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00009",
+    "song_id": "mg-00010",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Vacak feat. Miczura Mónika (vokál) & Vági Tamás (kürt).mp3",
     "title": "Vacak",
     "primary_artists": [
@@ -195,7 +215,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00010",
+    "song_id": "mg-00011",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Ég veled (OFFICIAL VIDEO).mp3",
     "title": "Ég veled",
     "primary_artists": [
@@ -215,7 +235,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00011",
+    "song_id": "mg-00012",
     "file": "_other\\_magyar\\_alternativ\\Elefánt zenekar\\Elefánt - Óra.mp3",
     "title": "Óra",
     "primary_artists": [
@@ -235,7 +255,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00012",
+    "song_id": "mg-00013",
     "file": "_other\\_magyar\\_alternativ\\Hiperkarma\\03. hiperkarma - rád talált (official music video).mp3",
     "title": "rád talált",
     "primary_artists": [
@@ -255,7 +275,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00013",
+    "song_id": "mg-00014",
     "file": "_other\\_magyar\\_alternativ\\Hiperkarma\\04. hiperkarma - bolond és forog (official audio).mp3",
     "title": "bolond és forog",
     "primary_artists": [
@@ -275,7 +295,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00014",
+    "song_id": "mg-00015",
     "file": "_other\\_magyar\\_alternativ\\Hiperkarma\\44. Hiperkarma -  Királyok, síelők.mp3",
     "title": "Királyok, síelők",
     "primary_artists": [
@@ -295,7 +315,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00015",
+    "song_id": "mg-00016",
     "file": "_other\\_magyar\\_alternativ\\Hiperkarma\\72. BéRCZeSi RóBeRT  eGY BaRáT MeLLeTT (2020).mp3",
     "title": "BéRCZeSi RóBeRT eGY BaRáT MeLLeTT (2020)",
     "primary_artists": [
@@ -315,7 +335,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00016",
+    "song_id": "mg-00017",
     "file": "_other\\_magyar\\_alternativ\\Hiperkarma\\73. hiperkarma a falon túl (2021).mp3",
     "title": "hiperkarma a falon túl (2021)",
     "primary_artists": [
@@ -335,7 +355,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "mg-00017",
+    "song_id": "mg-00018",
     "file": "_other\\_magyar\\_alternativ\\Hiperkarma\\76. hiperkarma – jószerencsét!.mp3",
     "title": "jószerencsét!",
     "primary_artists": [
@@ -348,26 +368,6 @@
     "credits": [
       {
         "entity": "Hiperkarma",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
-  },
-  {
-    "song_id": "mg-00018",
-    "file": "_other\\_magyar\\_alternativ\\Hiperkarma\\Biorobot\\11. 30y - Csönded vagyok.mp3",
-    "title": "Csönded vagyok",
-    "primary_artists": [
-      "30Y"
-    ],
-    "featuring_artists": [],
-    "artists": [
-      "30Y"
-    ],
-    "credits": [
-      {
-        "entity": "30Y",
         "entity_type": "person",
         "role": "primary"
       }

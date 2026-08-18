@@ -4,13 +4,13 @@
       "mg-00001",
       "mg-00002",
       "mg-00003",
-      "mg-00018"
+      "mg-00004"
     ],
     "primary_song_ids": [
       "mg-00001",
       "mg-00002",
       "mg-00003",
-      "mg-00018"
+      "mg-00004"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -18,24 +18,24 @@
   },
   "Elefánt": {
     "song_ids": [
-      "mg-00004",
       "mg-00005",
       "mg-00006",
       "mg-00007",
       "mg-00008",
       "mg-00009",
       "mg-00010",
-      "mg-00011"
+      "mg-00011",
+      "mg-00012"
     ],
     "primary_song_ids": [
-      "mg-00004",
       "mg-00005",
       "mg-00006",
       "mg-00007",
       "mg-00008",
       "mg-00009",
       "mg-00010",
-      "mg-00011"
+      "mg-00011",
+      "mg-00012"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -43,45 +43,45 @@
   },
   "Miczura Mónika": {
     "song_ids": [
-      "mg-00009"
+      "mg-00010"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "mg-00009"
+      "mg-00010"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Vági Tamás": {
     "song_ids": [
-      "mg-00009"
+      "mg-00010"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "mg-00009"
+      "mg-00010"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Hiperkarma": {
     "song_ids": [
-      "mg-00012",
       "mg-00013",
       "mg-00014",
       "mg-00015",
       "mg-00016",
       "mg-00017",
+      "mg-00018",
       "mg-00020",
       "mg-00021",
       "mg-00022"
     ],
     "primary_song_ids": [
-      "mg-00012",
       "mg-00013",
       "mg-00014",
       "mg-00015",
       "mg-00016",
       "mg-00017",
+      "mg-00018",
       "mg-00020",
       "mg-00021",
       "mg-00022"

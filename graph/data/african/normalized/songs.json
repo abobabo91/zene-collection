@@ -1,6 +1,34 @@
 [
   {
     "song_id": "af-00001",
+    "file": "_other\\_african music\\_afrobeats\\_random\\@Gladdest - If you’re done with your ex [ Official English Lyrics ].mp3",
+    "title": "If you’re done",
+    "primary_artists": [
+      "@Gladdest"
+    ],
+    "featuring_artists": [
+      "your ex"
+    ],
+    "artists": [
+      "@Gladdest",
+      "your ex"
+    ],
+    "credits": [
+      {
+        "entity": "@Gladdest",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "your ex",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "af-00002",
     "file": "_other\\_african music\\_afrobeats\\Afro B - Drogba (Joanna) Prod by Team Salut [Official Music Video].mp3",
     "title": "Drogba (Joanna)",
     "primary_artists": [
@@ -20,7 +48,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00002",
+    "song_id": "af-00003",
     "file": "_other\\_african music\\_afrobeats\\Afro Beat - African Scream [2014] [MDCProd].mp3",
     "title": "African Scream [2014] [MDCProd]",
     "primary_artists": [
@@ -40,7 +68,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00003",
+    "song_id": "af-00004",
     "file": "_other\\_african music\\_afrobeats\\Ajebutter22, BOJ - Tungba (Official Video).mp3",
     "title": "Tungba",
     "primary_artists": [
@@ -67,7 +95,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00004",
+    "song_id": "af-00005",
     "file": "_other\\_african music\\_afrobeats\\Alpha P, DJ Tunez, D3an - Paloma (Audio).mp3",
     "title": "Paloma (Audio)",
     "primary_artists": [
@@ -101,7 +129,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00005",
+    "song_id": "af-00006",
     "file": "_other\\_african music\\_afrobeats\\Amanda - Relocate (Prod By Mr V-Ntage).mp3",
     "title": "Relocate",
     "primary_artists": [
@@ -121,7 +149,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00006",
+    "song_id": "af-00007",
     "file": "_other\\_african music\\_afrobeats\\Anfa Rose - Tangier.mp3",
     "title": "Tangier",
     "primary_artists": [
@@ -141,7 +169,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00007",
+    "song_id": "af-00008",
     "file": "_other\\_african music\\_afrobeats\\Asake\\Joha.mp3",
     "title": "Joha",
     "primary_artists": [
@@ -161,7 +189,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00008",
+    "song_id": "af-00009",
     "file": "_other\\_african music\\_afrobeats\\Ayra Starr - Hot Body.mp3",
     "title": "Hot Body",
     "primary_artists": [
@@ -181,7 +209,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00009",
+    "song_id": "af-00010",
     "file": "_other\\_african music\\_afrobeats\\Burna Boy - Anybody [Official Music Video].mp3",
     "title": "Anybody",
     "primary_artists": [
@@ -201,7 +229,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00010",
+    "song_id": "af-00011",
     "file": "_other\\_african music\\_afrobeats\\Burna Boy - On The Low [Official Music Video].mp3",
     "title": "On The Low",
     "primary_artists": [
@@ -221,7 +249,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00011",
+    "song_id": "af-00012",
     "file": "_other\\_african music\\_afrobeats\\Call Back.mp3",
     "title": "Call Back",
     "primary_artists": [
@@ -241,7 +269,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00012",
+    "song_id": "af-00013",
     "file": "_other\\_african music\\_afrobeats\\CKay - BODY (danz) ft. Mavo.mp3",
     "title": "BODY (danz)",
     "primary_artists": [
@@ -269,7 +297,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00013",
+    "song_id": "af-00014",
     "file": "_other\\_african music\\_afrobeats\\CKay Official Music Videos\\CKay -  By Your Side (feat. Blxckie) [Official Audio].mp3",
     "title": "By Your Side (feat. Blxckie)",
     "primary_artists": [
@@ -289,7 +317,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00014",
+    "song_id": "af-00015",
     "file": "_other\\_african music\\_afrobeats\\CKay Official Music Videos\\CKay -  Emiliana [Official Lyric Video].mp3",
     "title": "Emiliana",
     "primary_artists": [
@@ -309,7 +337,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00015",
+    "song_id": "af-00016",
     "file": "_other\\_african music\\_afrobeats\\CKay Official Music Videos\\CKay - Love Nwantiti (ft. ElGrandeToto) [North African Remix] [Official Music Video].mp3",
     "title": "Love Nwantiti (ft. ElGrandeToto) [North African Remix]",
     "primary_artists": [
@@ -329,7 +357,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00016",
+    "song_id": "af-00017",
     "file": "_other\\_african music\\_afrobeats\\Davido\\Davido - Risky (Official Video) ft. Popcaan.mp3",
     "title": "Risky",
     "primary_artists": [
@@ -357,7 +385,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00017",
+    "song_id": "af-00018",
     "file": "_other\\_african music\\_afrobeats\\Davido\\Davido - Skelewu.mp3",
     "title": "Skelewu",
     "primary_artists": [
@@ -377,7 +405,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00018",
+    "song_id": "af-00019",
     "file": "_other\\_african music\\_afrobeats\\Davido\\Davido - With You (Official Video) ft. Omah Lay.mp3",
     "title": "",
     "primary_artists": [
@@ -405,7 +433,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00019",
+    "song_id": "af-00020",
     "file": "_other\\_african music\\_afrobeats\\December (feat. Culan Luke & Tay Iwar).mp3",
     "title": "December (feat. Culan Luke & Tay Iwar)",
     "primary_artists": [
@@ -425,7 +453,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00020",
+    "song_id": "af-00021",
     "file": "_other\\_african music\\_afrobeats\\DJ Akuaa - Sing For Me (Feat Bisa Kdei & Joey B) (Official Audio).mp3",
     "title": "Sing For Me (Feat Bisa Kdei & Joey B)",
     "primary_artists": [
@@ -445,7 +473,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00021",
+    "song_id": "af-00022",
     "file": "_other\\_african music\\_afrobeats\\DJ Mike One  Viens Wayner  - Video by MIDJ DEAL (CLIP OFFICIEL).mp3",
     "title": "Video by MIDJ DEAL",
     "primary_artists": [
@@ -465,7 +493,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00022",
+    "song_id": "af-00023",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez & D3an - Turn Me On Ft Siki.mp3",
     "title": "Turn Me On",
     "primary_artists": [
@@ -500,7 +528,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00023",
+    "song_id": "af-00024",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez & D3an - Undeniable Ft Efya.mp3",
     "title": "Undeniable",
     "primary_artists": [
@@ -535,7 +563,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00024",
+    "song_id": "af-00025",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez - Kelegbe Megbe Remix ft. Adekunle Gold (Official Audio).mp3",
     "title": "Kelegbe Megbe Remix",
     "primary_artists": [
@@ -563,7 +591,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00025",
+    "song_id": "af-00026",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez - Turn Up Ft. Wizkid x Reekado Banks (OFFICIAL AUDIO 2018).mp3",
     "title": "Turn Up",
     "primary_artists": [
@@ -598,7 +626,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00026",
+    "song_id": "af-00027",
     "file": "_other\\_african music\\_afrobeats\\DJ Tunez, Spax, Wizkid - Gbese 2.0 (Official Audio).mp3",
     "title": "Gbese 2.0",
     "primary_artists": [
@@ -632,7 +660,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00027",
+    "song_id": "af-00028",
     "file": "_other\\_african music\\_afrobeats\\Dumebi (Matoma Remix).mp3",
     "title": "Dumebi (Matoma Remix)",
     "primary_artists": [
@@ -652,7 +680,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00028",
+    "song_id": "af-00029",
     "file": "_other\\_african music\\_afrobeats\\Equipment.mp3",
     "title": "Equipment",
     "primary_artists": [
@@ -672,7 +700,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00029",
+    "song_id": "af-00030",
     "file": "_other\\_african music\\_afrobeats\\Fantasy.mp3",
     "title": "Fantasy",
     "primary_artists": [
@@ -692,7 +720,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00030",
+    "song_id": "af-00031",
     "file": "_other\\_african music\\_afrobeats\\Fireboy DML - Dopamine (Official Visualizer).mp3",
     "title": "Dopamine",
     "primary_artists": [
@@ -712,7 +740,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00031",
+    "song_id": "af-00032",
     "file": "_other\\_african music\\_afrobeats\\Fireboy DML - Scatter - SayRah class choreography.mp3",
     "title": "Scatter - SayRah class choreography",
     "primary_artists": [
@@ -732,7 +760,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00032",
+    "song_id": "af-00033",
     "file": "_other\\_african music\\_afrobeats\\Forever.mp3",
     "title": "Forever",
     "primary_artists": [
@@ -752,7 +780,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00033",
+    "song_id": "af-00034",
     "file": "_other\\_african music\\_afrobeats\\FreshL - Feeling You(Official Video).mp3",
     "title": "Feeling You",
     "primary_artists": [
@@ -772,7 +800,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00034",
+    "song_id": "af-00035",
     "file": "_other\\_african music\\_afrobeats\\Gabzy, Fireboy DML - So Much Sense (Official Visualiser).mp3",
     "title": "So Much Sense (Official Visualiser)",
     "primary_artists": [
@@ -799,7 +827,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00035",
+    "song_id": "af-00036",
     "file": "_other\\_african music\\_afrobeats\\Get Up.mp3",
     "title": "Get Up",
     "primary_artists": [
@@ -819,7 +847,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00036",
+    "song_id": "af-00037",
     "file": "_other\\_african music\\_afrobeats\\Ghetto Love.mp3",
     "title": "Ghetto Love",
     "primary_artists": [
@@ -839,7 +867,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00037",
+    "song_id": "af-00038",
     "file": "_other\\_african music\\_afrobeats\\Ginger You.mp3",
     "title": "Ginger You",
     "primary_artists": [
@@ -859,7 +887,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00038",
+    "song_id": "af-00039",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\Isma IP - 04 Niiki (Official Audio) (prod by khismillbeats).mp3",
     "title": "Niiki",
     "primary_artists": [
@@ -879,7 +907,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00039",
+    "song_id": "af-00040",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\Isma IP - 05 -sitiri sitiri gam - (Official Audio) ft. Ayman hanad.mp3",
     "title": "sitiri sitiri gam",
     "primary_artists": [
@@ -907,7 +935,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00040",
+    "song_id": "af-00041",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\ISMA IP - Booti 6 [Mr Jawi EP] (Prod. Emage & Tonic).mp3",
     "title": "Booti 6 [Mr Jawi EP] (Prod. Emage & Tonic)",
     "primary_artists": [
@@ -927,7 +955,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00041",
+    "song_id": "af-00042",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\ISMA IP - IYEYOW (Prod. Emage X Tonic)[Official Video].mp3",
     "title": "IYEYOW (Prod. Emage X Tonic)",
     "primary_artists": [
@@ -947,7 +975,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00042",
+    "song_id": "af-00043",
     "file": "_other\\_african music\\_afrobeats\\ISMA IP\\ISMA IP X ROOKS - Fine Face (Official Music Video) {prod by Emage & Tonic.mp3",
     "title": "Fine Face {",
     "primary_artists": [
@@ -974,7 +1002,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00043",
+    "song_id": "af-00044",
     "file": "_other\\_african music\\_afrobeats\\J Martins - Dance 4 Me (Official Audio).mp3",
     "title": "Dance 4 Me",
     "primary_artists": [
@@ -994,7 +1022,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00044",
+    "song_id": "af-00045",
     "file": "_other\\_african music\\_afrobeats\\JayO - Attendance (Official Video).mp3",
     "title": "Attendance",
     "primary_artists": [
@@ -1014,7 +1042,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00045",
+    "song_id": "af-00046",
     "file": "_other\\_african music\\_afrobeats\\Jorja Smith - Be Honest (feat. Burna Boy).mp3",
     "title": "Be Honest (feat. Burna Boy)",
     "primary_artists": [
@@ -1034,7 +1062,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00046",
+    "song_id": "af-00047",
     "file": "_other\\_african music\\_afrobeats\\Joro.mp3",
     "title": "Joro",
     "primary_artists": [
@@ -1054,7 +1082,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00047",
+    "song_id": "af-00048",
     "file": "_other\\_african music\\_afrobeats\\Juls\\Juls -  MMAYEWA  (featuring Twitch 4 EVA and Quamina MP) [Visualizer].mp3",
     "title": "MMAYEWA (featuring Twitch 4 EVA and Quamina MP) [Visualizer]",
     "primary_artists": [
@@ -1074,7 +1102,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00048",
+    "song_id": "af-00049",
     "file": "_other\\_african music\\_afrobeats\\Juls\\Juls - Agoro Featuring Adekunle Gold and Bisa Kdei.mp3",
     "title": "Agoro",
     "primary_artists": [
@@ -1109,7 +1137,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00049",
+    "song_id": "af-00050",
     "file": "_other\\_african music\\_afrobeats\\Juls\\Juls - Oshey featuring Moelogo, Siza and Dj Tunez.mp3",
     "title": "Oshey",
     "primary_artists": [
@@ -1151,7 +1179,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00050",
+    "song_id": "af-00051",
     "file": "_other\\_african music\\_afrobeats\\Juls\\Juls ft Wande Coal - Sister Girl (Dance Video).mp3",
     "title": "Sister Girl (Dance Video)",
     "primary_artists": [
@@ -1179,7 +1207,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00051",
+    "song_id": "af-00052",
     "file": "_other\\_african music\\_afrobeats\\Karun - Glow Up  (Official Video) #emPawa100 Artist.mp3",
     "title": "Glow Up #emPawa100 Artist",
     "primary_artists": [
@@ -1199,7 +1227,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00052",
+    "song_id": "af-00053",
     "file": "_other\\_african music\\_afrobeats\\Karun - Hit Me Up (A Visual).mp3",
     "title": "Hit Me Up (A Visual)",
     "primary_artists": [
@@ -1219,7 +1247,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00053",
+    "song_id": "af-00054",
     "file": "_other\\_african music\\_afrobeats\\Kcee - Psycho (Official Video) ft. WizKid.mp3",
     "title": "Psycho",
     "primary_artists": [
@@ -1247,7 +1275,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00054",
+    "song_id": "af-00055",
     "file": "_other\\_african music\\_afrobeats\\Kelegbe Megbe (Know your level).mp3",
     "title": "Kelegbe Megbe (Know your level)",
     "primary_artists": [
@@ -1267,7 +1295,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00055",
+    "song_id": "af-00056",
     "file": "_other\\_african music\\_afrobeats\\Kwamz & Flava - Takeover (Official Video).mp3",
     "title": "Takeover",
     "primary_artists": [
@@ -1294,7 +1322,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00056",
+    "song_id": "af-00057",
     "file": "_other\\_african music\\_afrobeats\\LOJAY X SARZ - MONALISA.mp3",
     "title": "MONALISA",
     "primary_artists": [
@@ -1321,7 +1349,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00057",
+    "song_id": "af-00058",
     "file": "_other\\_african music\\_afrobeats\\Luv.mp3",
     "title": "Luv",
     "primary_artists": [
@@ -1341,7 +1369,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "af-00058",
+    "song_id": "af-00059",
     "file": "_other\\_african music\\_afrobeats\\Mad Over You (Official Music Video) - Runtown.mp3",
     "title": "Runtown",
     "primary_artists": [
@@ -1361,7 +1389,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00059",
+    "song_id": "af-00060",
     "file": "_other\\_african music\\_afrobeats\\Maleek Berry - Doing U (Official Audio).mp3",
     "title": "Doing U",
     "primary_artists": [
@@ -1381,7 +1409,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00060",
+    "song_id": "af-00061",
     "file": "_other\\_african music\\_afrobeats\\Manny Norté, 6LACK, Rema, Tion Wayne - 4AM (Official Video) ft. Love Renaissance (LVRN).mp3",
     "title": "4AM",
     "primary_artists": [
@@ -1430,7 +1458,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00061",
+    "song_id": "af-00062",
     "file": "_other\\_african music\\_afrobeats\\Mbosso - Watakubali (Official Video).mp3",
     "title": "Watakubali",
     "primary_artists": [
@@ -1450,7 +1478,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "af-00062",
+    "song_id": "af-00063",
     "file": "_other\\_african music\\_afrobeats\\Metro Boomin - Borrowed Love (feat. Swae Lee & WizKid).mp3",
     "title": "Borrowed Love (feat. Swae Lee & WizKid)",
     "primary_artists": [
@@ -1465,34 +1493,6 @@
         "entity": "Metro Boomin",
         "entity_type": "person",
         "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
-  },
-  {
-    "song_id": "af-00063",
-    "file": "_other\\_african music\\_afrobeats\\Moliy\\@Gladdest - If you’re done with your ex [ Official English Lyrics ].mp3",
-    "title": "If you’re done",
-    "primary_artists": [
-      "@Gladdest"
-    ],
-    "featuring_artists": [
-      "your ex"
-    ],
-    "artists": [
-      "@Gladdest",
-      "your ex"
-    ],
-    "credits": [
-      {
-        "entity": "@Gladdest",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "your ex",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
