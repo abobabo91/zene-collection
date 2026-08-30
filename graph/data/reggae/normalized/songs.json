@@ -1433,26 +1433,46 @@
   },
   {
     "song_id": "rg-00068",
-    "file": "_other\\_reggea\\Richie Spice -The World Is A Cycle [ + lyrics ].mp3",
-    "title": "Richie Spice -The World Is A Cycle [ + ]",
+    "file": "_other\\_reggea\\Richie Spice - Earth A Run Red.mp3",
+    "title": "Earth A Run Red",
     "primary_artists": [
-      "N/A"
+      "Richie Spice"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Richie Spice"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Richie Spice",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "rg-00069",
+    "file": "_other\\_reggea\\Richie Spice - The World Is A Cycle.mp3",
+    "title": "The World Is A Cycle",
+    "primary_artists": [
+      "Richie Spice"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Richie Spice"
+    ],
+    "credits": [
+      {
+        "entity": "Richie Spice",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rg-00070",
     "file": "_other\\_reggea\\Richie Spice Earth A Run Red.mp3",
     "title": "Richie Spice Earth A Run Red",
     "primary_artists": [
@@ -1472,7 +1492,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rg-00070",
+    "song_id": "rg-00071",
     "file": "_other\\_reggea\\Shaggy\\Shaggy - It Wasn_t Me.mp3",
     "title": "It Wasn t Me",
     "primary_artists": [
@@ -1492,7 +1512,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00071",
+    "song_id": "rg-00072",
     "file": "_other\\_reggea\\Shaggy\\Shaggy - Ultimatum ft Natasha Watkins.mp3",
     "title": "Ultimatum",
     "primary_artists": [
@@ -1520,7 +1540,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00072",
+    "song_id": "rg-00073",
     "file": "_other\\_reggea\\Shaggy\\Shaggy Featuring Rayvon - Angel.mp3",
     "title": "Angel",
     "primary_artists": [
@@ -1548,7 +1568,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00073",
+    "song_id": "rg-00074",
     "file": "_other\\_reggea\\Shy FX feat Liam Bailey - Soon Come  (official video) (Out Now).mp3",
     "title": "Soon Come (Out Now)",
     "primary_artists": [
@@ -1576,7 +1596,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00074",
+    "song_id": "rg-00075",
     "file": "_other\\_reggea\\Sister Nancy - BAM BAM.mp3",
     "title": "BAM BAM",
     "primary_artists": [
@@ -1596,7 +1616,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00075",
+    "song_id": "rg-00076",
     "file": "_other\\_reggea\\Skinhead Reggae\\Alton Ellis - These Eyes - (Sunday Coming).mp3",
     "title": "These Eyes - (Sunday Coming)",
     "primary_artists": [
@@ -1616,7 +1636,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00076",
+    "song_id": "rg-00077",
     "file": "_other\\_reggea\\Skinhead Reggae\\Alton Ellis - Too Late To Turn Back Now.mp3",
     "title": "Too Late To Turn Back Now",
     "primary_artists": [
@@ -1636,7 +1656,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00077",
+    "song_id": "rg-00078",
     "file": "_other\\_reggea\\Skinhead Reggae\\Dreamlets - Gone Away.mp3",
     "title": "Gone Away",
     "primary_artists": [
@@ -1656,7 +1676,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00078",
+    "song_id": "rg-00079",
     "file": "_other\\_reggea\\Skinhead Reggae\\Glen Adams - Lonely Girl (Subtítulos Español).mp3",
     "title": "Lonely Girl (Subtítulos Español)",
     "primary_artists": [
@@ -1676,7 +1696,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00079",
+    "song_id": "rg-00080",
     "file": "_other\\_reggea\\Skinhead Reggae\\Horace Andy  Skylarking.mp3",
     "title": "Horace Andy Skylarking",
     "primary_artists": [
@@ -1696,7 +1716,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rg-00080",
+    "song_id": "rg-00081",
     "file": "_other\\_reggea\\Skinhead Reggae\\Keith & Ken - I won_t let you go.mp3",
     "title": "I won t let you go",
     "primary_artists": [
@@ -1723,7 +1743,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00081",
+    "song_id": "rg-00082",
     "file": "_other\\_reggea\\Skinhead Reggae\\Laurel Aitken - It_s Too Late (Subtítulos Español).mp3",
     "title": "It s Too Late (Subtítulos Español)",
     "primary_artists": [
@@ -1743,7 +1763,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00082",
+    "song_id": "rg-00083",
     "file": "_other\\_reggea\\Skinhead Reggae\\Stranger Cole - Now I know.mp3",
     "title": "Now I know",
     "primary_artists": [
@@ -1763,7 +1783,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00083",
+    "song_id": "rg-00084",
     "file": "_other\\_reggea\\Skinhead Reggae\\The Paragons -  The Tide Is High  (Official Audio).mp3",
     "title": "The Tide Is High",
     "primary_artists": [
@@ -1783,7 +1803,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00084",
+    "song_id": "rg-00085",
     "file": "_other\\_reggea\\Skinhead Reggae\\The Skatalites - Close to JAh.mp3",
     "title": "Close to JAh",
     "primary_artists": [
@@ -1803,7 +1823,27 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00085",
+    "song_id": "rg-00086",
+    "file": "_other\\_reggea\\Snow - Informer.mp3",
+    "title": "Informer",
+    "primary_artists": [
+      "Snow"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Snow"
+    ],
+    "credits": [
+      {
+        "entity": "Snow",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rg-00087",
     "file": "_other\\_reggea\\STAND HIGH PATROL  Along The River.mp3",
     "title": "STAND HIGH PATROL Along The River",
     "primary_artists": [
@@ -1823,7 +1863,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rg-00086",
+    "song_id": "rg-00088",
     "file": "_other\\_reggea\\STAND HIGH PATROL  Sleep On It.mp3",
     "title": "STAND HIGH PATROL Sleep On It",
     "primary_artists": [
@@ -1843,7 +1883,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rg-00087",
+    "song_id": "rg-00089",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Alright With Me   Reggae Dub.mp3",
     "title": "Alright",
     "primary_artists": [
@@ -1871,7 +1911,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00088",
+    "song_id": "rg-00090",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Coming Home.mp3",
     "title": "Coming Home",
     "primary_artists": [
@@ -1891,7 +1931,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00089",
+    "song_id": "rg-00091",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Fight the Feeling   Reggae Dub.mp3",
     "title": "Fight the Feeling Reggae Dub",
     "primary_artists": [
@@ -1911,7 +1951,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00090",
+    "song_id": "rg-00092",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Just Another Dream.mp3",
     "title": "Just Another Dream",
     "primary_artists": [
@@ -1931,7 +1971,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00091",
+    "song_id": "rg-00093",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Longtime   Reggae Dub.mp3",
     "title": "Longtime Reggae Dub",
     "primary_artists": [
@@ -1951,7 +1991,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00092",
+    "song_id": "rg-00094",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Smoking Love (feat. Collie Buddz).mp3",
     "title": "Smoking Love (",
     "primary_artists": [
@@ -1979,7 +2019,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00093",
+    "song_id": "rg-00095",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - So Good.mp3",
     "title": "So Good",
     "primary_artists": [
@@ -1999,7 +2039,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00094",
+    "song_id": "rg-00096",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure - Weight of Sound.mp3",
     "title": "Weight of Sound",
     "primary_artists": [
@@ -2019,7 +2059,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00095",
+    "song_id": "rg-00097",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure –  Choice is Yours  (feat. Slightly Stoopid) [Audio].mp3",
     "title": "Choice is Yours (",
     "primary_artists": [
@@ -2047,7 +2087,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00096",
+    "song_id": "rg-00098",
     "file": "_other\\_reggea\\Stick Figure Stoned Mix\\Stick Figure –  Out the Door.mp3",
     "title": "Out the Door",
     "primary_artists": [
@@ -2067,7 +2107,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00097",
+    "song_id": "rg-00099",
     "file": "_other\\_reggea\\The Melodians -  Rivers Of Babylon  (Official Audio).mp3",
     "title": "Rivers Of Babylon",
     "primary_artists": [
@@ -2087,7 +2127,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00098",
+    "song_id": "rg-00100",
     "file": "_other\\_reggea\\The Mouse Outfit feat. Fox - Step Steadier (HD).mp3",
     "title": "Step Steadier",
     "primary_artists": [
@@ -2115,7 +2155,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00099",
+    "song_id": "rg-00101",
     "file": "_other\\_reggea\\Thievery Corporation - State of the Union.mp3",
     "title": "State of the Union",
     "primary_artists": [
@@ -2135,7 +2175,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00100",
+    "song_id": "rg-00102",
     "file": "_other\\_reggea\\UB40 - Red Red Wine (Official Video).mp3",
     "title": "Red Red Wine",
     "primary_artists": [
@@ -2155,7 +2195,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00101",
+    "song_id": "rg-00103",
     "file": "_other\\_reggea\\Uptown Top Ranking (Remastered 2001).mp3",
     "title": "Uptown Top Ranking (Remastered 2001)",
     "primary_artists": [
@@ -2175,7 +2215,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rg-00102",
+    "song_id": "rg-00104",
     "file": "_other\\_reggea\\VYBZ KARTEL - LAST MAN STANDING OFFICIAL VIDEO  RAW AUDIO.mp3",
     "title": "LAST MAN STANDING RAW AUDIO",
     "primary_artists": [
@@ -2195,7 +2235,35 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00103",
+    "song_id": "rg-00105",
+    "file": "_other\\_reggea\\Vybz Kartel - Straight Jeans & Fitted (feat. Russian).mp3",
+    "title": "Straight Jeans & Fitted (",
+    "primary_artists": [
+      "Vybz Kartel"
+    ],
+    "featuring_artists": [
+      "Russian"
+    ],
+    "artists": [
+      "Vybz Kartel",
+      "Russian"
+    ],
+    "credits": [
+      {
+        "entity": "Vybz Kartel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Russian",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rg-00106",
     "file": "_other\\_reggea\\Vybz Kartel Feat. Rvssian - Jeans _ Fitted [Official Video].mp3",
     "title": "Jeans Fitted",
     "primary_artists": [
@@ -2223,7 +2291,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00104",
+    "song_id": "rg-00107",
     "file": "_other\\_reggea\\Wa-Do-Dem.mp3",
     "title": "Wa-Do-Dem",
     "primary_artists": [
@@ -2243,7 +2311,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "rg-00105",
+    "song_id": "rg-00108",
     "file": "_other\\_reggea\\Wyclef\\Wyclef Jean - Hendrix (2).mp3",
     "title": "Hendrix (2)",
     "primary_artists": [
@@ -2263,7 +2331,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00106",
+    "song_id": "rg-00109",
     "file": "_other\\_reggea\\Wyclef\\Wyclef Jean, Refugee All Stars - Guantanamera (2).mp3",
     "title": "Guantanamera (2)",
     "primary_artists": [
@@ -2290,7 +2358,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00107",
+    "song_id": "rg-00110",
     "file": "_other\\_reggea\\Zamunda - Forever Loving Jah [Think Twice Riddim].mp3",
     "title": "Forever Loving Jah [Think Twice Riddim]",
     "primary_artists": [
@@ -2310,7 +2378,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rg-00108",
+    "song_id": "rg-00111",
     "file": "_other\\_reggea\\Zamunda - Two Grand [Official Video 2016].mp3",
     "title": "Two Grand [ 2016]",
     "primary_artists": [

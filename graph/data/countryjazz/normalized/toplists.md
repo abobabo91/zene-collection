@@ -1,7 +1,7 @@
 # Country & Jazz Local Music Toplists
 
 Songs: `42`
-Persons: `12`
+Persons: `13`
 Unattributed songs: `7`
 
 ## Persons
@@ -17,6 +17,7 @@ Unattributed songs: `7`
 | 7 | Nina Simone | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 8 | Shania Twain | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 9 | Wild Cherry | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 10 | Earth | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
-| 11 | Fire | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
-| 12 | Wind | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
+| 10 | Bill Withers | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 11 | Earth | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
+| 12 | Fire | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |
+| 13 | Wind | 1 | 0.3 | 0.3 | 1 | 0 | 0 | - | - | - |

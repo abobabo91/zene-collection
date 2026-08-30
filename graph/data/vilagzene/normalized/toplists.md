@@ -1,7 +1,7 @@
 # World Local Music Toplists
 
 Songs: `40`
-Persons: `23`
+Persons: `24`
 Unattributed songs: `4`
 
 ## Persons
@@ -16,7 +16,7 @@ Unattributed songs: `4`
 | 6 | Bebe | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 7 | Bubamara | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 8 | Buena Vista Social Club | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 9 | BÖ Serhat Durmus | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
+| 9 | BÖ Serhat Durmus | 1 | 0.5 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 10 | Elissa | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 11 | Esma Redzepova | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 12 | Gabors szabo | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
@@ -29,5 +29,6 @@ Unattributed songs: `4`
 | 19 | Tony Gatlif | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 20 | Ya Lili | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
 | 21 | Zapp Mama | 1 | 1.0 | 1.0 | 1 | 0 | 0 | - | - | - |
-| 22 | Flowering Inferno | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
-| 23 | Quantic | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
+| 22 | Ecem Telli | 1 | 0.5 | 0.5 | 0 | 1 | 0 | - | - | - |
+| 23 | Flowering Inferno | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |
+| 24 | Quantic | 1 | 0.5 | 0.5 | 1 | 0 | 0 | - | - | - |

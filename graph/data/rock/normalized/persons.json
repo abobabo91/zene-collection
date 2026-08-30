@@ -2,15 +2,21 @@
   "Muse": {
     "song_ids": [
       "rk-00002",
-      "rk-00175",
-      "rk-00176",
-      "rk-00177"
+      "rk-00177",
+      "rk-00178",
+      "rk-00179",
+      "rk-00180",
+      "rk-00181",
+      "rk-00182"
     ],
     "primary_song_ids": [
       "rk-00002",
-      "rk-00175",
-      "rk-00176",
-      "rk-00177"
+      "rk-00177",
+      "rk-00178",
+      "rk-00179",
+      "rk-00180",
+      "rk-00181",
+      "rk-00182"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -91,13 +97,13 @@
   "The Doors": {
     "song_ids": [
       "rk-00013",
-      "rk-00253",
-      "rk-00254"
+      "rk-00263",
+      "rk-00264"
     ],
     "primary_song_ids": [
       "rk-00013",
-      "rk-00253",
-      "rk-00254"
+      "rk-00263",
+      "rk-00264"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -552,14 +558,36 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Coldplay": {
+  "Cage the Elephant": {
     "song_ids": [
-      "rk-00111",
-      "rk-00112"
+      "rk-00110"
     ],
     "primary_song_ids": [
-      "rk-00111",
-      "rk-00112"
+      "rk-00110"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alison Mosshart": {
+    "song_ids": [
+      "rk-00110"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00110"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Coldplay": {
+    "song_ids": [
+      "rk-00112",
+      "rk-00113"
+    ],
+    "primary_song_ids": [
+      "rk-00112",
+      "rk-00113"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -567,10 +595,10 @@
   },
   "Creed": {
     "song_ids": [
-      "rk-00113"
+      "rk-00114"
     ],
     "primary_song_ids": [
-      "rk-00113"
+      "rk-00114"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -578,10 +606,10 @@
   },
   "Deafheaven": {
     "song_ids": [
-      "rk-00114"
+      "rk-00115"
     ],
     "primary_song_ids": [
-      "rk-00114"
+      "rk-00115"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -589,1558 +617,12 @@
   },
   "Deep Purple": {
     "song_ids": [
-      "rk-00115",
-      "rk-00116"
+      "rk-00116",
+      "rk-00117"
     ],
     "primary_song_ids": [
-      "rk-00115",
-      "rk-00116"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Depeche Mode": {
-    "song_ids": [
-      "rk-00117",
-      "rk-00118",
-      "rk-00119",
-      "rk-00120",
-      "rk-00121"
-    ],
-    "primary_song_ids": [
-      "rk-00117",
-      "rk-00118",
-      "rk-00119",
-      "rk-00120",
-      "rk-00121"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Cutting Crew": {
-    "song_ids": [
-      "rk-00122"
-    ],
-    "primary_song_ids": [
-      "rk-00122"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Journey": {
-    "song_ids": [
-      "rk-00123"
-    ],
-    "primary_song_ids": [
-      "rk-00123"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Dusty Springfield": {
-    "song_ids": [
-      "rk-00124"
-    ],
-    "primary_song_ids": [
-      "rk-00124"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Evanescence": {
-    "song_ids": [
-      "rk-00125",
-      "rk-00126",
-      "rk-00127",
-      "rk-00128",
-      "rk-00129"
-    ],
-    "primary_song_ids": [
-      "rk-00125",
-      "rk-00126",
-      "rk-00127",
-      "rk-00128",
-      "rk-00129"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Fall Out Boy": {
-    "song_ids": [
-      "rk-00130",
-      "rk-00131",
-      "rk-00132",
-      "rk-00133",
-      "rk-00408"
-    ],
-    "primary_song_ids": [
-      "rk-00130",
-      "rk-00131",
-      "rk-00132",
-      "rk-00133",
-      "rk-00408"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "FFS": {
-    "song_ids": [
-      "rk-00134"
-    ],
-    "primary_song_ids": [
-      "rk-00134"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Franz Ferdinand Sparks": {
-    "song_ids": [
-      "rk-00135"
-    ],
-    "primary_song_ids": [
-      "rk-00135"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "TURNSTILE": {
-    "song_ids": [
-      "rk-00138",
-      "rk-00139",
-      "rk-00140"
-    ],
-    "primary_song_ids": [
-      "rk-00138",
-      "rk-00139",
-      "rk-00140"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Good Charlotte": {
-    "song_ids": [
-      "rk-00142",
-      "rk-00143",
-      "rk-00144",
-      "rk-00145",
-      "rk-00146"
-    ],
-    "primary_song_ids": [
-      "rk-00142",
-      "rk-00143",
-      "rk-00144",
-      "rk-00145",
-      "rk-00146"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "M. Shadows": {
-    "song_ids": [
-      "rk-00146"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00146"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Synyster Gates": {
-    "song_ids": [
-      "rk-00146"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00146"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Guns N' Roses": {
-    "song_ids": [
-      "rk-00147"
-    ],
-    "primary_song_ids": [
-      "rk-00147"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Hall & Oates": {
-    "song_ids": [
-      "rk-00148",
-      "rk-00149",
-      "rk-00150"
-    ],
-    "primary_song_ids": [
-      "rk-00148",
-      "rk-00149",
-      "rk-00150"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Daryl Hall & John Oates": {
-    "song_ids": [
-      "rk-00148",
-      "rk-00149",
-      "rk-00150"
-    ],
-    "primary_song_ids": [
-      "rk-00148",
-      "rk-00149",
-      "rk-00150"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "HIM": {
-    "song_ids": [
-      "rk-00151"
-    ],
-    "primary_song_ids": [
-      "rk-00151"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Iggy Pop": {
-    "song_ids": [
-      "rk-00152"
-    ],
-    "primary_song_ids": [
-      "rk-00152"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Jimi Hendrix": {
-    "song_ids": [
-      "rk-00153"
-    ],
-    "primary_song_ids": [
-      "rk-00153"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "AC/DC": {
-    "song_ids": [
-      "rk-00154"
-    ],
-    "primary_song_ids": [
-      "rk-00154"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Eagles": {
-    "song_ids": [
-      "rk-00155"
-    ],
-    "primary_song_ids": [
-      "rk-00155"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Eurythmics": {
-    "song_ids": [
-      "rk-00156"
-    ],
-    "primary_song_ids": [
-      "rk-00156"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Joan Jett": {
-    "song_ids": [
-      "rk-00157",
-      "rk-00158",
-      "rk-00159",
-      "rk-00160",
-      "rk-00161"
-    ],
-    "primary_song_ids": [
-      "rk-00157",
-      "rk-00158",
-      "rk-00159",
-      "rk-00160",
-      "rk-00161"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Ram Jam": {
-    "song_ids": [
-      "rk-00162"
-    ],
-    "primary_song_ids": [
-      "rk-00162"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Led Zeppelin": {
-    "song_ids": [
-      "rk-00163"
-    ],
-    "primary_song_ids": [
-      "rk-00163"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Lou Reed": {
-    "song_ids": [
-      "rk-00164"
-    ],
-    "primary_song_ids": [
-      "rk-00164"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Marilyn Manson": {
-    "song_ids": [
-      "rk-00165",
-      "rk-00166",
-      "rk-00466"
-    ],
-    "primary_song_ids": [
-      "rk-00165",
-      "rk-00166",
-      "rk-00466"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Massive Attack": {
-    "song_ids": [
-      "rk-00167"
-    ],
-    "primary_song_ids": [
-      "rk-00167"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Maybeshewill": {
-    "song_ids": [
-      "rk-00168",
-      "rk-00169",
-      "rk-00170",
-      "rk-00171",
-      "rk-00172"
-    ],
-    "primary_song_ids": [
-      "rk-00168",
-      "rk-00169",
-      "rk-00170",
-      "rk-00171",
-      "rk-00172"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Metallica": {
-    "song_ids": [
-      "rk-00173"
-    ],
-    "primary_song_ids": [
-      "rk-00173"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Millencolin": {
-    "song_ids": [
-      "rk-00174"
-    ],
-    "primary_song_ids": [
-      "rk-00174"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "My Chemical Romance": {
-    "song_ids": [
-      "rk-00178",
-      "rk-00277"
-    ],
-    "primary_song_ids": [
-      "rk-00178",
-      "rk-00277"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Nightwish": {
-    "song_ids": [
-      "rk-00179"
-    ],
-    "primary_song_ids": [
-      "rk-00179"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Nirvana": {
-    "song_ids": [
-      "rk-00180",
-      "rk-00181"
-    ],
-    "primary_song_ids": [
-      "rk-00180",
-      "rk-00181"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Nothing But Thieves": {
-    "song_ids": [
-      "rk-00182",
-      "rk-00183",
-      "rk-00184",
-      "rk-00185"
-    ],
-    "primary_song_ids": [
-      "rk-00182",
-      "rk-00183",
-      "rk-00184",
-      "rk-00185"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Oasis": {
-    "song_ids": [
-      "rk-00186",
-      "rk-00187",
-      "rk-00188",
-      "rk-00189",
-      "rk-00486",
-      "rk-00487",
-      "rk-00488",
-      "rk-00489",
-      "rk-00490"
-    ],
-    "primary_song_ids": [
-      "rk-00186",
-      "rk-00187",
-      "rk-00188",
-      "rk-00189",
-      "rk-00486",
-      "rk-00487",
-      "rk-00488",
-      "rk-00489",
-      "rk-00490"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Chevelle": {
-    "song_ids": [
-      "rk-00190"
-    ],
-    "primary_song_ids": [
-      "rk-00190"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "dishwalla": {
-    "song_ids": [
-      "rk-00191"
-    ],
-    "primary_song_ids": [
-      "rk-00191"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Mandy Moore": {
-    "song_ids": [
-      "rk-00192"
-    ],
-    "primary_song_ids": [
-      "rk-00192"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Onesidezero": {
-    "song_ids": [
-      "rk-00193",
-      "rk-00194"
-    ],
-    "primary_song_ids": [
-      "rk-00193",
-      "rk-00194"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "P!nk": {
-    "song_ids": [
-      "rk-00195",
-      "rk-00196",
-      "rk-00197",
-      "rk-00198",
-      "rk-00199",
-      "rk-00200",
-      "rk-00201"
-    ],
-    "primary_song_ids": [
-      "rk-00195",
-      "rk-00196",
-      "rk-00197",
-      "rk-00198",
-      "rk-00199",
-      "rk-00200",
-      "rk-00201"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Paramore": {
-    "song_ids": [
-      "rk-00202",
-      "rk-00203"
-    ],
-    "primary_song_ids": [
-      "rk-00202",
-      "rk-00203"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Player": {
-    "song_ids": [
-      "rk-00204"
-    ],
-    "primary_song_ids": [
-      "rk-00204"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Rise Against": {
-    "song_ids": [
-      "rk-00205",
-      "rk-00206",
-      "rk-00207",
-      "rk-00208",
-      "rk-00551"
-    ],
-    "primary_song_ids": [
-      "rk-00205",
-      "rk-00206",
-      "rk-00207",
-      "rk-00208",
-      "rk-00551"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Rush": {
-    "song_ids": [
-      "rk-00209"
-    ],
-    "primary_song_ids": [
-      "rk-00209"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Seether": {
-    "song_ids": [
-      "rk-00210",
-      "rk-00211",
-      "rk-00212",
-      "rk-00213",
-      "rk-00214",
-      "rk-00215",
-      "rk-00216",
-      "rk-00217"
-    ],
-    "primary_song_ids": [
-      "rk-00210",
-      "rk-00211",
-      "rk-00212",
-      "rk-00213",
-      "rk-00214",
-      "rk-00215",
-      "rk-00216",
-      "rk-00217"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Sergio Mendes": {
-    "song_ids": [
-      "rk-00218"
-    ],
-    "primary_song_ids": [
-      "rk-00218"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Brasil 66": {
-    "song_ids": [
-      "rk-00218"
-    ],
-    "primary_song_ids": [
-      "rk-00218"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Sex Pistols": {
-    "song_ids": [
-      "rk-00219",
-      "rk-00220"
-    ],
-    "primary_song_ids": [
-      "rk-00219",
-      "rk-00220"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Shinedown": {
-    "song_ids": [
-      "rk-00221"
-    ],
-    "primary_song_ids": [
-      "rk-00221"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Slipknot": {
-    "song_ids": [
-      "rk-00231",
-      "rk-00232"
-    ],
-    "primary_song_ids": [
-      "rk-00231",
-      "rk-00232"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "SOAD": {
-    "song_ids": [
-      "rk-00233",
-      "rk-00234",
-      "rk-00235"
-    ],
-    "primary_song_ids": [
-      "rk-00233",
-      "rk-00234",
-      "rk-00235"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Sting": {
-    "song_ids": [
-      "rk-00236",
-      "rk-00237",
-      "rk-00238",
-      "rk-00239",
-      "rk-00240",
-      "rk-00241",
-      "rk-00242",
-      "rk-00243"
-    ],
-    "primary_song_ids": [
-      "rk-00236",
-      "rk-00237",
-      "rk-00238",
-      "rk-00239",
-      "rk-00240",
-      "rk-00241",
-      "rk-00242",
-      "rk-00243"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Strung Out": {
-    "song_ids": [
-      "rk-00244",
-      "rk-00245"
-    ],
-    "primary_song_ids": [
-      "rk-00244",
-      "rk-00245"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Sum 41": {
-    "song_ids": [
-      "rk-00246",
-      "rk-00247",
-      "rk-00248",
-      "rk-00249",
-      "rk-00250",
-      "rk-00251",
-      "rk-00252"
-    ],
-    "primary_song_ids": [
-      "rk-00246",
-      "rk-00247",
-      "rk-00248",
-      "rk-00249",
-      "rk-00250",
-      "rk-00251",
-      "rk-00252"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Exploited": {
-    "song_ids": [
-      "rk-00255",
-      "rk-00256",
-      "rk-00257",
-      "rk-00258",
-      "rk-00259",
-      "rk-00260",
-      "rk-00261",
-      "rk-00264"
-    ],
-    "primary_song_ids": [
-      "rk-00255",
-      "rk-00256",
-      "rk-00257",
-      "rk-00258",
-      "rk-00259",
-      "rk-00260",
-      "rk-00261",
-      "rk-00264"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Misfits": {
-    "song_ids": [
-      "rk-00262"
-    ],
-    "primary_song_ids": [
-      "rk-00262"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Casualties": {
-    "song_ids": [
-      "rk-00263"
-    ],
-    "primary_song_ids": [
-      "rk-00263"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Offspring": {
-    "song_ids": [
-      "rk-00265",
-      "rk-00266",
-      "rk-00267"
-    ],
-    "primary_song_ids": [
-      "rk-00265",
-      "rk-00266",
-      "rk-00267"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Ramones": {
-    "song_ids": [
-      "rk-00268"
-    ],
-    "primary_song_ids": [
-      "rk-00268"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Rolling Stones": {
-    "song_ids": [
-      "rk-00269"
-    ],
-    "primary_song_ids": [
-      "rk-00269"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "All Time Low": {
-    "song_ids": [
-      "rk-00270"
-    ],
-    "primary_song_ids": [
-      "rk-00270"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bloodhound Gang": {
-    "song_ids": [
-      "rk-00271"
-    ],
-    "primary_song_ids": [
-      "rk-00271"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Boys Like Girls": {
-    "song_ids": [
-      "rk-00272"
-    ],
-    "primary_song_ids": [
-      "rk-00272"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Fountains of Wayne": {
-    "song_ids": [
-      "rk-00274"
-    ],
-    "primary_song_ids": [
-      "rk-00274"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Harvey Danger": {
-    "song_ids": [
-      "rk-00275"
-    ],
-    "primary_song_ids": [
-      "rk-00275"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Hoobastank": {
-    "song_ids": [
-      "rk-00276"
-    ],
-    "primary_song_ids": [
-      "rk-00276"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "New Radicals": {
-    "song_ids": [
-      "rk-00278"
-    ],
-    "primary_song_ids": [
-      "rk-00278"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Papa Roach": {
-    "song_ids": [
-      "rk-00279",
-      "rk-00280"
-    ],
-    "primary_song_ids": [
-      "rk-00279",
-      "rk-00280"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Simple Plan": {
-    "song_ids": [
-      "rk-00281"
-    ],
-    "primary_song_ids": [
-      "rk-00281"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Smash Mouth": {
-    "song_ids": [
-      "rk-00282"
-    ],
-    "primary_song_ids": [
-      "rk-00282"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "sodistilled": {
-    "song_ids": [
-      "rk-00283",
-      "rk-00284"
-    ],
-    "primary_song_ids": [
-      "rk-00283",
-      "rk-00284"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Spiderbait": {
-    "song_ids": [
-      "rk-00285"
-    ],
-    "primary_song_ids": [
-      "rk-00285"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Rasmus": {
-    "song_ids": [
-      "rk-00286",
-      "rk-00297",
-      "rk-00298"
-    ],
-    "primary_song_ids": [
-      "rk-00286",
-      "rk-00297",
-      "rk-00298"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Three Days Grace": {
-    "song_ids": [
-      "rk-00287",
-      "rk-00299",
-      "rk-00300"
-    ],
-    "primary_song_ids": [
-      "rk-00287",
-      "rk-00299",
-      "rk-00300"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Uncle Kracker": {
-    "song_ids": [
-      "rk-00288"
-    ],
-    "primary_song_ids": [
-      "rk-00288"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Wheatus": {
-    "song_ids": [
-      "rk-00289"
-    ],
-    "primary_song_ids": [
-      "rk-00289"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Veronicas": {
-    "song_ids": [
-      "rk-00290",
-      "rk-00291",
-      "rk-00292",
-      "rk-00293",
-      "rk-00294",
-      "rk-00295"
-    ],
-    "primary_song_ids": [
-      "rk-00290",
-      "rk-00291",
-      "rk-00292",
-      "rk-00293",
-      "rk-00294",
-      "rk-00295"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Who": {
-    "song_ids": [
-      "rk-00296"
-    ],
-    "primary_song_ids": [
-      "rk-00296"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "TOOL": {
-    "song_ids": [
-      "rk-00301",
-      "rk-00302"
-    ],
-    "primary_song_ids": [
-      "rk-00301",
-      "rk-00302"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Lambrettas": {
-    "song_ids": [
-      "rk-00303"
-    ],
-    "primary_song_ids": [
-      "rk-00303"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Selecter": {
-    "song_ids": [
-      "rk-00304"
-    ],
-    "primary_song_ids": [
-      "rk-00304"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Besomorph": {
-    "song_ids": [
-      "rk-00305"
-    ],
-    "primary_song_ids": [
-      "rk-00305"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Melis": {
-    "song_ids": [
-      "rk-00306"
-    ],
-    "primary_song_ids": [
-      "rk-00306"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "SVEA": {
-    "song_ids": [
-      "rk-00307"
-    ],
-    "primary_song_ids": [
-      "rk-00307"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Two Feet": {
-    "song_ids": [
-      "rk-00308",
-      "rk-00309",
-      "rk-00310",
-      "rk-00311",
-      "rk-00312",
-      "rk-00313",
-      "rk-00314",
-      "rk-00315",
-      "rk-00316",
-      "rk-00317",
-      "rk-00318",
-      "rk-00319",
-      "rk-00320",
-      "rk-00321",
-      "rk-00322"
-    ],
-    "primary_song_ids": [
-      "rk-00308",
-      "rk-00309",
-      "rk-00310",
-      "rk-00311",
-      "rk-00312",
-      "rk-00313",
-      "rk-00314",
-      "rk-00315",
-      "rk-00316",
-      "rk-00317",
-      "rk-00318",
-      "rk-00319",
-      "rk-00320",
-      "rk-00321",
-      "rk-00322"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Madison Love": {
-    "song_ids": [
-      "rk-00313"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00313"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "U2": {
-    "song_ids": [
-      "rk-00323",
-      "rk-00324"
-    ],
-    "primary_song_ids": [
-      "rk-00323",
-      "rk-00324"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Warpaint": {
-    "song_ids": [
-      "rk-00325",
-      "rk-00326"
-    ],
-    "primary_song_ids": [
-      "rk-00325",
-      "rk-00326"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Apocalyptica": {
-    "song_ids": [
-      "rk-00328",
-      "rk-00329",
-      "rk-00330",
-      "rk-00331",
-      "rk-00332"
-    ],
-    "primary_song_ids": [
-      "rk-00328",
-      "rk-00329",
-      "rk-00330",
-      "rk-00331",
-      "rk-00332"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Apocalyptica TOP TRACKS": {
-    "song_ids": [
-      "rk-00333",
-      "rk-00334",
-      "rk-00335",
-      "rk-00336"
-    ],
-    "primary_song_ids": [
-      "rk-00333",
-      "rk-00334",
-      "rk-00335",
-      "rk-00336"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Hotei Tomoyasu": {
-    "song_ids": [
-      "rk-00333"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00333"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Blink 182": {
-    "song_ids": [
-      "rk-00337"
-    ],
-    "primary_song_ids": [
-      "rk-00337"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Blur": {
-    "song_ids": [
-      "rk-00338"
-    ],
-    "primary_song_ids": [
-      "rk-00338"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bring Me the Horizon": {
-    "song_ids": [
-      "rk-00339",
-      "rk-00340",
-      "rk-00341",
-      "rk-00342",
-      "rk-00343",
-      "rk-00344",
-      "rk-00345",
-      "rk-00346",
-      "rk-00347",
-      "rk-00348",
-      "rk-00349",
-      "rk-00350",
-      "rk-00351",
-      "rk-00352",
-      "rk-00353",
-      "rk-00354",
-      "rk-00355",
-      "rk-00356",
-      "rk-00357",
-      "rk-00358",
-      "rk-00359",
-      "rk-00360",
-      "rk-00361",
-      "rk-00362",
-      "rk-00363",
-      "rk-00364",
-      "rk-00365",
-      "rk-00366",
-      "rk-00367",
-      "rk-00368",
-      "rk-00369",
-      "rk-00370",
-      "rk-00371",
-      "rk-00372",
-      "rk-00373",
-      "rk-00374",
-      "rk-00375",
-      "rk-00376",
-      "rk-00377",
-      "rk-00378",
-      "rk-00379",
-      "rk-00380",
-      "rk-00381",
-      "rk-00382",
-      "rk-00383",
-      "rk-00384",
-      "rk-00385",
-      "rk-00386",
-      "rk-00387",
-      "rk-00388",
-      "rk-00389",
-      "rk-00390"
-    ],
-    "primary_song_ids": [
-      "rk-00339",
-      "rk-00340",
-      "rk-00341",
-      "rk-00342",
-      "rk-00343",
-      "rk-00344",
-      "rk-00345",
-      "rk-00346",
-      "rk-00347",
-      "rk-00348",
-      "rk-00349",
-      "rk-00350",
-      "rk-00351",
-      "rk-00352",
-      "rk-00353",
-      "rk-00354",
-      "rk-00355",
-      "rk-00356",
-      "rk-00357",
-      "rk-00358",
-      "rk-00359",
-      "rk-00360",
-      "rk-00361",
-      "rk-00362",
-      "rk-00363",
-      "rk-00364",
-      "rk-00365",
-      "rk-00366",
-      "rk-00367",
-      "rk-00368",
-      "rk-00369",
-      "rk-00370",
-      "rk-00371",
-      "rk-00372",
-      "rk-00373",
-      "rk-00374",
-      "rk-00375",
-      "rk-00376",
-      "rk-00377",
-      "rk-00378",
-      "rk-00379",
-      "rk-00380",
-      "rk-00381",
-      "rk-00382",
-      "rk-00383",
-      "rk-00384",
-      "rk-00385",
-      "rk-00386",
-      "rk-00387",
-      "rk-00388",
-      "rk-00389",
-      "rk-00390"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Rahzel": {
-    "song_ids": [
-      "rk-00340"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00340"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Dani Filth": {
-    "song_ids": [
-      "rk-00346"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00346"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Draper": {
-    "song_ids": [
-      "rk-00350",
-      "rk-00351",
-      "rk-00352"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00350",
-      "rk-00351",
-      "rk-00352"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Nova Twins": {
-    "song_ids": [
-      "rk-00357"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00357"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Amy Lee": {
-    "song_ids": [
-      "rk-00359"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00359"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Grimes": {
-    "song_ids": [
-      "rk-00377"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00377"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Underoath": {
-    "song_ids": [
-      "rk-00385"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00385"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Lil Uzi Vert": {
-    "song_ids": [
-      "rk-00386"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00386"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Daryl Palumbo": {
-    "song_ids": [
-      "rk-00386"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00386"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Glassjaw": {
-    "song_ids": [
-      "rk-00386"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00386"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "AURORA": {
-    "song_ids": [
-      "rk-00390"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00390"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Chumbawamba": {
-    "song_ids": [
-      "rk-00391"
-    ],
-    "primary_song_ids": [
-      "rk-00391"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Crazy Town": {
-    "song_ids": [
-      "rk-00392"
-    ],
-    "primary_song_ids": [
-      "rk-00392"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Daughtry": {
-    "song_ids": [
-      "rk-00393"
-    ],
-    "primary_song_ids": [
-      "rk-00393"
+      "rk-00116",
+      "rk-00117"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2148,32 +630,1626 @@
   },
   "Deftones": {
     "song_ids": [
-      "rk-00394",
-      "rk-00395",
-      "rk-00396",
-      "rk-00397",
-      "rk-00398",
-      "rk-00399",
-      "rk-00400",
-      "rk-00401",
-      "rk-00402",
-      "rk-00403",
+      "rk-00118",
       "rk-00404",
-      "rk-00405"
+      "rk-00405",
+      "rk-00406",
+      "rk-00407",
+      "rk-00408",
+      "rk-00409",
+      "rk-00410",
+      "rk-00411",
+      "rk-00412",
+      "rk-00413",
+      "rk-00414",
+      "rk-00415"
     ],
     "primary_song_ids": [
+      "rk-00118",
+      "rk-00404",
+      "rk-00405",
+      "rk-00406",
+      "rk-00407",
+      "rk-00408",
+      "rk-00409",
+      "rk-00410",
+      "rk-00411",
+      "rk-00412",
+      "rk-00413",
+      "rk-00414",
+      "rk-00415"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Depeche Mode": {
+    "song_ids": [
+      "rk-00119",
+      "rk-00120",
+      "rk-00121",
+      "rk-00122",
+      "rk-00123"
+    ],
+    "primary_song_ids": [
+      "rk-00119",
+      "rk-00120",
+      "rk-00121",
+      "rk-00122",
+      "rk-00123"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cutting Crew": {
+    "song_ids": [
+      "rk-00124"
+    ],
+    "primary_song_ids": [
+      "rk-00124"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Journey": {
+    "song_ids": [
+      "rk-00125"
+    ],
+    "primary_song_ids": [
+      "rk-00125"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dusty Springfield": {
+    "song_ids": [
+      "rk-00126"
+    ],
+    "primary_song_ids": [
+      "rk-00126"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Evanescence": {
+    "song_ids": [
+      "rk-00127",
+      "rk-00128",
+      "rk-00129",
+      "rk-00130",
+      "rk-00131"
+    ],
+    "primary_song_ids": [
+      "rk-00127",
+      "rk-00128",
+      "rk-00129",
+      "rk-00130",
+      "rk-00131"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fall Out Boy": {
+    "song_ids": [
+      "rk-00132",
+      "rk-00133",
+      "rk-00134",
+      "rk-00135",
+      "rk-00418"
+    ],
+    "primary_song_ids": [
+      "rk-00132",
+      "rk-00133",
+      "rk-00134",
+      "rk-00135",
+      "rk-00418"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "FFS": {
+    "song_ids": [
+      "rk-00136"
+    ],
+    "primary_song_ids": [
+      "rk-00136"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Franz Ferdinand Sparks": {
+    "song_ids": [
+      "rk-00137"
+    ],
+    "primary_song_ids": [
+      "rk-00137"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "TURNSTILE": {
+    "song_ids": [
+      "rk-00140",
+      "rk-00141",
+      "rk-00142"
+    ],
+    "primary_song_ids": [
+      "rk-00140",
+      "rk-00141",
+      "rk-00142"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Good Charlotte": {
+    "song_ids": [
+      "rk-00144",
+      "rk-00145",
+      "rk-00146",
+      "rk-00147",
+      "rk-00148"
+    ],
+    "primary_song_ids": [
+      "rk-00144",
+      "rk-00145",
+      "rk-00146",
+      "rk-00147",
+      "rk-00148"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "M. Shadows": {
+    "song_ids": [
+      "rk-00148"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00148"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Synyster Gates": {
+    "song_ids": [
+      "rk-00148"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00148"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Guns N' Roses": {
+    "song_ids": [
+      "rk-00149"
+    ],
+    "primary_song_ids": [
+      "rk-00149"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hall & Oates": {
+    "song_ids": [
+      "rk-00150",
+      "rk-00151",
+      "rk-00152"
+    ],
+    "primary_song_ids": [
+      "rk-00150",
+      "rk-00151",
+      "rk-00152"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daryl Hall & John Oates": {
+    "song_ids": [
+      "rk-00150",
+      "rk-00151",
+      "rk-00152"
+    ],
+    "primary_song_ids": [
+      "rk-00150",
+      "rk-00151",
+      "rk-00152"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "HIM": {
+    "song_ids": [
+      "rk-00153"
+    ],
+    "primary_song_ids": [
+      "rk-00153"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Iggy Pop": {
+    "song_ids": [
+      "rk-00154"
+    ],
+    "primary_song_ids": [
+      "rk-00154"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jimi Hendrix": {
+    "song_ids": [
+      "rk-00155"
+    ],
+    "primary_song_ids": [
+      "rk-00155"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AC/DC": {
+    "song_ids": [
+      "rk-00156"
+    ],
+    "primary_song_ids": [
+      "rk-00156"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eagles": {
+    "song_ids": [
+      "rk-00157"
+    ],
+    "primary_song_ids": [
+      "rk-00157"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eurythmics": {
+    "song_ids": [
+      "rk-00158"
+    ],
+    "primary_song_ids": [
+      "rk-00158"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Joan Jett": {
+    "song_ids": [
+      "rk-00159",
+      "rk-00160",
+      "rk-00161",
+      "rk-00162",
+      "rk-00163"
+    ],
+    "primary_song_ids": [
+      "rk-00159",
+      "rk-00160",
+      "rk-00161",
+      "rk-00162",
+      "rk-00163"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ram Jam": {
+    "song_ids": [
+      "rk-00164"
+    ],
+    "primary_song_ids": [
+      "rk-00164"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Led Zeppelin": {
+    "song_ids": [
+      "rk-00165"
+    ],
+    "primary_song_ids": [
+      "rk-00165"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lou Reed": {
+    "song_ids": [
+      "rk-00166"
+    ],
+    "primary_song_ids": [
+      "rk-00166"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Marilyn Manson": {
+    "song_ids": [
+      "rk-00167",
+      "rk-00168",
+      "rk-00476"
+    ],
+    "primary_song_ids": [
+      "rk-00167",
+      "rk-00168",
+      "rk-00476"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Massive Attack": {
+    "song_ids": [
+      "rk-00169"
+    ],
+    "primary_song_ids": [
+      "rk-00169"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Maybeshewill": {
+    "song_ids": [
+      "rk-00170",
+      "rk-00171",
+      "rk-00172",
+      "rk-00173",
+      "rk-00174"
+    ],
+    "primary_song_ids": [
+      "rk-00170",
+      "rk-00171",
+      "rk-00172",
+      "rk-00173",
+      "rk-00174"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Metallica": {
+    "song_ids": [
+      "rk-00175"
+    ],
+    "primary_song_ids": [
+      "rk-00175"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Millencolin": {
+    "song_ids": [
+      "rk-00176"
+    ],
+    "primary_song_ids": [
+      "rk-00176"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "My Chemical Romance": {
+    "song_ids": [
+      "rk-00183",
+      "rk-00287"
+    ],
+    "primary_song_ids": [
+      "rk-00183",
+      "rk-00287"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nightwish": {
+    "song_ids": [
+      "rk-00184"
+    ],
+    "primary_song_ids": [
+      "rk-00184"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nine Inch Nails": {
+    "song_ids": [
+      "rk-00185"
+    ],
+    "primary_song_ids": [
+      "rk-00185"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nirvana": {
+    "song_ids": [
+      "rk-00186",
+      "rk-00187",
+      "rk-00188",
+      "rk-00189"
+    ],
+    "primary_song_ids": [
+      "rk-00186",
+      "rk-00187",
+      "rk-00188",
+      "rk-00189"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nothing But Thieves": {
+    "song_ids": [
+      "rk-00190",
+      "rk-00191",
+      "rk-00192",
+      "rk-00193"
+    ],
+    "primary_song_ids": [
+      "rk-00190",
+      "rk-00191",
+      "rk-00192",
+      "rk-00193"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oasis": {
+    "song_ids": [
+      "rk-00194",
+      "rk-00195",
+      "rk-00196",
+      "rk-00197",
+      "rk-00496",
+      "rk-00497",
+      "rk-00498",
+      "rk-00499",
+      "rk-00500"
+    ],
+    "primary_song_ids": [
+      "rk-00194",
+      "rk-00195",
+      "rk-00196",
+      "rk-00197",
+      "rk-00496",
+      "rk-00497",
+      "rk-00498",
+      "rk-00499",
+      "rk-00500"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chevelle": {
+    "song_ids": [
+      "rk-00198"
+    ],
+    "primary_song_ids": [
+      "rk-00198"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "dishwalla": {
+    "song_ids": [
+      "rk-00199"
+    ],
+    "primary_song_ids": [
+      "rk-00199"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mandy Moore": {
+    "song_ids": [
+      "rk-00200"
+    ],
+    "primary_song_ids": [
+      "rk-00200"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Onesidezero": {
+    "song_ids": [
+      "rk-00201",
+      "rk-00202"
+    ],
+    "primary_song_ids": [
+      "rk-00201",
+      "rk-00202"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "P!nk": {
+    "song_ids": [
+      "rk-00203",
+      "rk-00204",
+      "rk-00205",
+      "rk-00206",
+      "rk-00207",
+      "rk-00208",
+      "rk-00209"
+    ],
+    "primary_song_ids": [
+      "rk-00203",
+      "rk-00204",
+      "rk-00205",
+      "rk-00206",
+      "rk-00207",
+      "rk-00208",
+      "rk-00209"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Paramore": {
+    "song_ids": [
+      "rk-00210",
+      "rk-00211"
+    ],
+    "primary_song_ids": [
+      "rk-00210",
+      "rk-00211"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pixies": {
+    "song_ids": [
+      "rk-00212"
+    ],
+    "primary_song_ids": [
+      "rk-00212"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Player": {
+    "song_ids": [
+      "rk-00213"
+    ],
+    "primary_song_ids": [
+      "rk-00213"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rise Against": {
+    "song_ids": [
+      "rk-00214",
+      "rk-00215",
+      "rk-00216",
+      "rk-00217",
+      "rk-00561"
+    ],
+    "primary_song_ids": [
+      "rk-00214",
+      "rk-00215",
+      "rk-00216",
+      "rk-00217",
+      "rk-00561"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rush": {
+    "song_ids": [
+      "rk-00218"
+    ],
+    "primary_song_ids": [
+      "rk-00218"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Seether": {
+    "song_ids": [
+      "rk-00219",
+      "rk-00220",
+      "rk-00221",
+      "rk-00222",
+      "rk-00223",
+      "rk-00224",
+      "rk-00225",
+      "rk-00226"
+    ],
+    "primary_song_ids": [
+      "rk-00219",
+      "rk-00220",
+      "rk-00221",
+      "rk-00222",
+      "rk-00223",
+      "rk-00224",
+      "rk-00225",
+      "rk-00226"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sergio Mendes": {
+    "song_ids": [
+      "rk-00227"
+    ],
+    "primary_song_ids": [
+      "rk-00227"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Brasil 66": {
+    "song_ids": [
+      "rk-00227"
+    ],
+    "primary_song_ids": [
+      "rk-00227"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sex Pistols": {
+    "song_ids": [
+      "rk-00228",
+      "rk-00229"
+    ],
+    "primary_song_ids": [
+      "rk-00228",
+      "rk-00229"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shinedown": {
+    "song_ids": [
+      "rk-00230"
+    ],
+    "primary_song_ids": [
+      "rk-00230"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Slipknot": {
+    "song_ids": [
+      "rk-00240",
+      "rk-00241"
+    ],
+    "primary_song_ids": [
+      "rk-00240",
+      "rk-00241"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "SOAD": {
+    "song_ids": [
+      "rk-00242",
+      "rk-00243"
+    ],
+    "primary_song_ids": [
+      "rk-00242",
+      "rk-00243"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "System Of A Down": {
+    "song_ids": [
+      "rk-00244"
+    ],
+    "primary_song_ids": [
+      "rk-00244"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sting": {
+    "song_ids": [
+      "rk-00245",
+      "rk-00246",
+      "rk-00247",
+      "rk-00248",
+      "rk-00249",
+      "rk-00250",
+      "rk-00251",
+      "rk-00252"
+    ],
+    "primary_song_ids": [
+      "rk-00245",
+      "rk-00246",
+      "rk-00247",
+      "rk-00248",
+      "rk-00249",
+      "rk-00250",
+      "rk-00251",
+      "rk-00252"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Strung Out": {
+    "song_ids": [
+      "rk-00253",
+      "rk-00254"
+    ],
+    "primary_song_ids": [
+      "rk-00253",
+      "rk-00254"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sum 41": {
+    "song_ids": [
+      "rk-00255",
+      "rk-00256",
+      "rk-00257",
+      "rk-00258",
+      "rk-00259",
+      "rk-00260",
+      "rk-00261"
+    ],
+    "primary_song_ids": [
+      "rk-00255",
+      "rk-00256",
+      "rk-00257",
+      "rk-00258",
+      "rk-00259",
+      "rk-00260",
+      "rk-00261"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Clash": {
+    "song_ids": [
+      "rk-00262"
+    ],
+    "primary_song_ids": [
+      "rk-00262"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Exploited": {
+    "song_ids": [
+      "rk-00265",
+      "rk-00266",
+      "rk-00267",
+      "rk-00268",
+      "rk-00269",
+      "rk-00270",
+      "rk-00271",
+      "rk-00274"
+    ],
+    "primary_song_ids": [
+      "rk-00265",
+      "rk-00266",
+      "rk-00267",
+      "rk-00268",
+      "rk-00269",
+      "rk-00270",
+      "rk-00271",
+      "rk-00274"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Misfits": {
+    "song_ids": [
+      "rk-00272"
+    ],
+    "primary_song_ids": [
+      "rk-00272"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Casualties": {
+    "song_ids": [
+      "rk-00273"
+    ],
+    "primary_song_ids": [
+      "rk-00273"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Offspring": {
+    "song_ids": [
+      "rk-00275",
+      "rk-00276",
+      "rk-00277"
+    ],
+    "primary_song_ids": [
+      "rk-00275",
+      "rk-00276",
+      "rk-00277"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Ramones": {
+    "song_ids": [
+      "rk-00278"
+    ],
+    "primary_song_ids": [
+      "rk-00278"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Rolling Stones": {
+    "song_ids": [
+      "rk-00279"
+    ],
+    "primary_song_ids": [
+      "rk-00279"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "All Time Low": {
+    "song_ids": [
+      "rk-00280"
+    ],
+    "primary_song_ids": [
+      "rk-00280"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bloodhound Gang": {
+    "song_ids": [
+      "rk-00281"
+    ],
+    "primary_song_ids": [
+      "rk-00281"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Boys Like Girls": {
+    "song_ids": [
+      "rk-00282"
+    ],
+    "primary_song_ids": [
+      "rk-00282"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fountains of Wayne": {
+    "song_ids": [
+      "rk-00284"
+    ],
+    "primary_song_ids": [
+      "rk-00284"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Harvey Danger": {
+    "song_ids": [
+      "rk-00285"
+    ],
+    "primary_song_ids": [
+      "rk-00285"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hoobastank": {
+    "song_ids": [
+      "rk-00286"
+    ],
+    "primary_song_ids": [
+      "rk-00286"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "New Radicals": {
+    "song_ids": [
+      "rk-00288"
+    ],
+    "primary_song_ids": [
+      "rk-00288"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Papa Roach": {
+    "song_ids": [
+      "rk-00289",
+      "rk-00290"
+    ],
+    "primary_song_ids": [
+      "rk-00289",
+      "rk-00290"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Simple Plan": {
+    "song_ids": [
+      "rk-00291"
+    ],
+    "primary_song_ids": [
+      "rk-00291"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Smash Mouth": {
+    "song_ids": [
+      "rk-00292"
+    ],
+    "primary_song_ids": [
+      "rk-00292"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "sodistilled": {
+    "song_ids": [
+      "rk-00293",
+      "rk-00294"
+    ],
+    "primary_song_ids": [
+      "rk-00293",
+      "rk-00294"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Spiderbait": {
+    "song_ids": [
+      "rk-00295"
+    ],
+    "primary_song_ids": [
+      "rk-00295"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Rasmus": {
+    "song_ids": [
+      "rk-00296",
+      "rk-00307",
+      "rk-00308"
+    ],
+    "primary_song_ids": [
+      "rk-00296",
+      "rk-00307",
+      "rk-00308"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Three Days Grace": {
+    "song_ids": [
+      "rk-00297",
+      "rk-00309",
+      "rk-00310"
+    ],
+    "primary_song_ids": [
+      "rk-00297",
+      "rk-00309",
+      "rk-00310"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Uncle Kracker": {
+    "song_ids": [
+      "rk-00298"
+    ],
+    "primary_song_ids": [
+      "rk-00298"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wheatus": {
+    "song_ids": [
+      "rk-00299"
+    ],
+    "primary_song_ids": [
+      "rk-00299"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Veronicas": {
+    "song_ids": [
+      "rk-00300",
+      "rk-00301",
+      "rk-00302",
+      "rk-00303",
+      "rk-00304",
+      "rk-00305"
+    ],
+    "primary_song_ids": [
+      "rk-00300",
+      "rk-00301",
+      "rk-00302",
+      "rk-00303",
+      "rk-00304",
+      "rk-00305"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Who": {
+    "song_ids": [
+      "rk-00306"
+    ],
+    "primary_song_ids": [
+      "rk-00306"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "TOOL": {
+    "song_ids": [
+      "rk-00311",
+      "rk-00312"
+    ],
+    "primary_song_ids": [
+      "rk-00311",
+      "rk-00312"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Lambrettas": {
+    "song_ids": [
+      "rk-00313"
+    ],
+    "primary_song_ids": [
+      "rk-00313"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Selecter": {
+    "song_ids": [
+      "rk-00314"
+    ],
+    "primary_song_ids": [
+      "rk-00314"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Besomorph": {
+    "song_ids": [
+      "rk-00315"
+    ],
+    "primary_song_ids": [
+      "rk-00315"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Melis": {
+    "song_ids": [
+      "rk-00316"
+    ],
+    "primary_song_ids": [
+      "rk-00316"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "SVEA": {
+    "song_ids": [
+      "rk-00317"
+    ],
+    "primary_song_ids": [
+      "rk-00317"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Two Feet": {
+    "song_ids": [
+      "rk-00318",
+      "rk-00319",
+      "rk-00320",
+      "rk-00321",
+      "rk-00322",
+      "rk-00323",
+      "rk-00324",
+      "rk-00325",
+      "rk-00326",
+      "rk-00327",
+      "rk-00328",
+      "rk-00329",
+      "rk-00330",
+      "rk-00331",
+      "rk-00332"
+    ],
+    "primary_song_ids": [
+      "rk-00318",
+      "rk-00319",
+      "rk-00320",
+      "rk-00321",
+      "rk-00322",
+      "rk-00323",
+      "rk-00324",
+      "rk-00325",
+      "rk-00326",
+      "rk-00327",
+      "rk-00328",
+      "rk-00329",
+      "rk-00330",
+      "rk-00331",
+      "rk-00332"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Madison Love": {
+    "song_ids": [
+      "rk-00323"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00323"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "U2": {
+    "song_ids": [
+      "rk-00333",
+      "rk-00334"
+    ],
+    "primary_song_ids": [
+      "rk-00333",
+      "rk-00334"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Warpaint": {
+    "song_ids": [
+      "rk-00335",
+      "rk-00336"
+    ],
+    "primary_song_ids": [
+      "rk-00335",
+      "rk-00336"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Apocalyptica": {
+    "song_ids": [
+      "rk-00338",
+      "rk-00339",
+      "rk-00340",
+      "rk-00341",
+      "rk-00342"
+    ],
+    "primary_song_ids": [
+      "rk-00338",
+      "rk-00339",
+      "rk-00340",
+      "rk-00341",
+      "rk-00342"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Apocalyptica TOP TRACKS": {
+    "song_ids": [
+      "rk-00343",
+      "rk-00344",
+      "rk-00345",
+      "rk-00346"
+    ],
+    "primary_song_ids": [
+      "rk-00343",
+      "rk-00344",
+      "rk-00345",
+      "rk-00346"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hotei Tomoyasu": {
+    "song_ids": [
+      "rk-00343"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00343"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Blink 182": {
+    "song_ids": [
+      "rk-00347"
+    ],
+    "primary_song_ids": [
+      "rk-00347"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Blur": {
+    "song_ids": [
+      "rk-00348"
+    ],
+    "primary_song_ids": [
+      "rk-00348"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bring Me the Horizon": {
+    "song_ids": [
+      "rk-00349",
+      "rk-00350",
+      "rk-00351",
+      "rk-00352",
+      "rk-00353",
+      "rk-00354",
+      "rk-00355",
+      "rk-00356",
+      "rk-00357",
+      "rk-00358",
+      "rk-00359",
+      "rk-00360",
+      "rk-00361",
+      "rk-00362",
+      "rk-00363",
+      "rk-00364",
+      "rk-00365",
+      "rk-00366",
+      "rk-00367",
+      "rk-00368",
+      "rk-00369",
+      "rk-00370",
+      "rk-00371",
+      "rk-00372",
+      "rk-00373",
+      "rk-00374",
+      "rk-00375",
+      "rk-00376",
+      "rk-00377",
+      "rk-00378",
+      "rk-00379",
+      "rk-00380",
+      "rk-00381",
+      "rk-00382",
+      "rk-00383",
+      "rk-00384",
+      "rk-00385",
+      "rk-00386",
+      "rk-00387",
+      "rk-00388",
+      "rk-00389",
+      "rk-00390",
+      "rk-00391",
+      "rk-00392",
+      "rk-00393",
       "rk-00394",
       "rk-00395",
       "rk-00396",
       "rk-00397",
       "rk-00398",
       "rk-00399",
-      "rk-00400",
-      "rk-00401",
-      "rk-00402",
-      "rk-00403",
-      "rk-00404",
-      "rk-00405"
+      "rk-00400"
+    ],
+    "primary_song_ids": [
+      "rk-00349",
+      "rk-00350",
+      "rk-00351",
+      "rk-00352",
+      "rk-00353",
+      "rk-00354",
+      "rk-00355",
+      "rk-00356",
+      "rk-00357",
+      "rk-00358",
+      "rk-00359",
+      "rk-00360",
+      "rk-00361",
+      "rk-00362",
+      "rk-00363",
+      "rk-00364",
+      "rk-00365",
+      "rk-00366",
+      "rk-00367",
+      "rk-00368",
+      "rk-00369",
+      "rk-00370",
+      "rk-00371",
+      "rk-00372",
+      "rk-00373",
+      "rk-00374",
+      "rk-00375",
+      "rk-00376",
+      "rk-00377",
+      "rk-00378",
+      "rk-00379",
+      "rk-00380",
+      "rk-00381",
+      "rk-00382",
+      "rk-00383",
+      "rk-00384",
+      "rk-00385",
+      "rk-00386",
+      "rk-00387",
+      "rk-00388",
+      "rk-00389",
+      "rk-00390",
+      "rk-00391",
+      "rk-00392",
+      "rk-00393",
+      "rk-00394",
+      "rk-00395",
+      "rk-00396",
+      "rk-00397",
+      "rk-00398",
+      "rk-00399",
+      "rk-00400"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rahzel": {
+    "song_ids": [
+      "rk-00350"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00350"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dani Filth": {
+    "song_ids": [
+      "rk-00356"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00356"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Draper": {
+    "song_ids": [
+      "rk-00360",
+      "rk-00361",
+      "rk-00362"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00360",
+      "rk-00361",
+      "rk-00362"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nova Twins": {
+    "song_ids": [
+      "rk-00367"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00367"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Amy Lee": {
+    "song_ids": [
+      "rk-00369"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00369"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Grimes": {
+    "song_ids": [
+      "rk-00387"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00387"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Underoath": {
+    "song_ids": [
+      "rk-00395"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00395"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lil Uzi Vert": {
+    "song_ids": [
+      "rk-00396"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00396"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daryl Palumbo": {
+    "song_ids": [
+      "rk-00396"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00396"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Glassjaw": {
+    "song_ids": [
+      "rk-00396"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00396"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AURORA": {
+    "song_ids": [
+      "rk-00400"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "rk-00400"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chumbawamba": {
+    "song_ids": [
+      "rk-00401"
+    ],
+    "primary_song_ids": [
+      "rk-00401"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Crazy Town": {
+    "song_ids": [
+      "rk-00402"
+    ],
+    "primary_song_ids": [
+      "rk-00402"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daughtry": {
+    "song_ids": [
+      "rk-00403"
+    ],
+    "primary_song_ids": [
+      "rk-00403"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2181,10 +2257,10 @@
   },
   "Elle King": {
     "song_ids": [
-      "rk-00406"
+      "rk-00416"
     ],
     "primary_song_ids": [
-      "rk-00406"
+      "rk-00416"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2192,10 +2268,10 @@
   },
   "EMF": {
     "song_ids": [
-      "rk-00407"
+      "rk-00417"
     ],
     "primary_song_ids": [
-      "rk-00407"
+      "rk-00417"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2203,34 +2279,34 @@
   },
   "Green Day": {
     "song_ids": [
-      "rk-00409",
-      "rk-00410",
-      "rk-00411",
-      "rk-00412",
-      "rk-00413",
-      "rk-00414",
-      "rk-00415",
-      "rk-00416",
-      "rk-00417",
-      "rk-00418",
       "rk-00419",
       "rk-00420",
-      "rk-00421"
+      "rk-00421",
+      "rk-00422",
+      "rk-00423",
+      "rk-00424",
+      "rk-00425",
+      "rk-00426",
+      "rk-00427",
+      "rk-00428",
+      "rk-00429",
+      "rk-00430",
+      "rk-00431"
     ],
     "primary_song_ids": [
-      "rk-00409",
-      "rk-00410",
-      "rk-00411",
-      "rk-00412",
-      "rk-00413",
-      "rk-00414",
-      "rk-00415",
-      "rk-00416",
-      "rk-00417",
-      "rk-00418",
       "rk-00419",
       "rk-00420",
-      "rk-00421"
+      "rk-00421",
+      "rk-00422",
+      "rk-00423",
+      "rk-00424",
+      "rk-00425",
+      "rk-00426",
+      "rk-00427",
+      "rk-00428",
+      "rk-00429",
+      "rk-00430",
+      "rk-00431"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2238,10 +2314,10 @@
   },
   "Jet": {
     "song_ids": [
-      "rk-00422"
+      "rk-00432"
     ],
     "primary_song_ids": [
-      "rk-00422"
+      "rk-00432"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2249,10 +2325,10 @@
   },
   "Jimmy Eat World": {
     "song_ids": [
-      "rk-00423"
+      "rk-00433"
     ],
     "primary_song_ids": [
-      "rk-00423"
+      "rk-00433"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2260,10 +2336,10 @@
   },
   "kid rock": {
     "song_ids": [
-      "rk-00424"
+      "rk-00434"
     ],
     "primary_song_ids": [
-      "rk-00424"
+      "rk-00434"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2271,16 +2347,16 @@
   },
   "Kings of Leon": {
     "song_ids": [
-      "rk-00425",
-      "rk-00426",
-      "rk-00427",
-      "rk-00428"
+      "rk-00435",
+      "rk-00436",
+      "rk-00437",
+      "rk-00438"
     ],
     "primary_song_ids": [
-      "rk-00425",
-      "rk-00426",
-      "rk-00427",
-      "rk-00428"
+      "rk-00435",
+      "rk-00436",
+      "rk-00437",
+      "rk-00438"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2288,10 +2364,10 @@
   },
   "KoRn": {
     "song_ids": [
-      "rk-00429"
+      "rk-00439"
     ],
     "primary_song_ids": [
-      "rk-00429"
+      "rk-00439"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2299,38 +2375,38 @@
   },
   "Limp Bizkit": {
     "song_ids": [
-      "rk-00430",
-      "rk-00431",
-      "rk-00432",
-      "rk-00433",
-      "rk-00434",
-      "rk-00435",
-      "rk-00436",
-      "rk-00437",
-      "rk-00438",
-      "rk-00439",
       "rk-00440",
       "rk-00441",
       "rk-00442",
       "rk-00443",
-      "rk-00444"
+      "rk-00444",
+      "rk-00445",
+      "rk-00446",
+      "rk-00447",
+      "rk-00448",
+      "rk-00449",
+      "rk-00450",
+      "rk-00451",
+      "rk-00452",
+      "rk-00453",
+      "rk-00454"
     ],
     "primary_song_ids": [
-      "rk-00430",
-      "rk-00431",
-      "rk-00432",
-      "rk-00433",
-      "rk-00434",
-      "rk-00435",
-      "rk-00436",
-      "rk-00437",
-      "rk-00438",
-      "rk-00439",
       "rk-00440",
       "rk-00441",
       "rk-00442",
       "rk-00443",
-      "rk-00444"
+      "rk-00444",
+      "rk-00445",
+      "rk-00446",
+      "rk-00447",
+      "rk-00448",
+      "rk-00449",
+      "rk-00450",
+      "rk-00451",
+      "rk-00452",
+      "rk-00453",
+      "rk-00454"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2338,16 +2414,6 @@
   },
   "Linkin Park": {
     "song_ids": [
-      "rk-00445",
-      "rk-00446",
-      "rk-00447",
-      "rk-00448",
-      "rk-00449",
-      "rk-00450",
-      "rk-00451",
-      "rk-00452",
-      "rk-00453",
-      "rk-00454",
       "rk-00455",
       "rk-00456",
       "rk-00457",
@@ -2358,19 +2424,19 @@
       "rk-00462",
       "rk-00463",
       "rk-00464",
-      "rk-00465"
+      "rk-00465",
+      "rk-00466",
+      "rk-00467",
+      "rk-00468",
+      "rk-00469",
+      "rk-00470",
+      "rk-00471",
+      "rk-00472",
+      "rk-00473",
+      "rk-00474",
+      "rk-00475"
     ],
     "primary_song_ids": [
-      "rk-00445",
-      "rk-00446",
-      "rk-00447",
-      "rk-00448",
-      "rk-00449",
-      "rk-00450",
-      "rk-00451",
-      "rk-00452",
-      "rk-00453",
-      "rk-00454",
       "rk-00455",
       "rk-00456",
       "rk-00457",
@@ -2381,7 +2447,17 @@
       "rk-00462",
       "rk-00463",
       "rk-00464",
-      "rk-00465"
+      "rk-00465",
+      "rk-00466",
+      "rk-00467",
+      "rk-00468",
+      "rk-00469",
+      "rk-00470",
+      "rk-00471",
+      "rk-00472",
+      "rk-00473",
+      "rk-00474",
+      "rk-00475"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2389,10 +2465,10 @@
   },
   "Tainted Love": {
     "song_ids": [
-      "rk-00467"
+      "rk-00477"
     ],
     "primary_song_ids": [
-      "rk-00467"
+      "rk-00477"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2400,10 +2476,10 @@
   },
   "Maroon 5": {
     "song_ids": [
-      "rk-00468"
+      "rk-00478"
     ],
     "primary_song_ids": [
-      "rk-00468"
+      "rk-00478"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2411,48 +2487,48 @@
   },
   "Nick Cave and the Bad Seeds": {
     "song_ids": [
-      "rk-00469",
-      "rk-00470",
-      "rk-00471",
-      "rk-00472",
-      "rk-00473",
-      "rk-00474",
-      "rk-00475",
-      "rk-00476",
-      "rk-00477",
-      "rk-00478",
       "rk-00479",
       "rk-00480",
-      "rk-00481",
-      "rk-00482",
-      "rk-00483"
-    ],
-    "primary_song_ids": [
-      "rk-00469",
-      "rk-00469",
-      "rk-00470",
-      "rk-00471",
-      "rk-00472",
-      "rk-00473",
-      "rk-00474",
-      "rk-00474",
-      "rk-00475",
-      "rk-00475",
-      "rk-00476",
-      "rk-00476",
-      "rk-00477",
-      "rk-00477",
-      "rk-00478",
-      "rk-00478",
-      "rk-00479",
-      "rk-00479",
-      "rk-00480",
-      "rk-00480",
-      "rk-00481",
       "rk-00481",
       "rk-00482",
       "rk-00483",
-      "rk-00483"
+      "rk-00484",
+      "rk-00485",
+      "rk-00486",
+      "rk-00487",
+      "rk-00488",
+      "rk-00489",
+      "rk-00490",
+      "rk-00491",
+      "rk-00492",
+      "rk-00493"
+    ],
+    "primary_song_ids": [
+      "rk-00479",
+      "rk-00479",
+      "rk-00480",
+      "rk-00481",
+      "rk-00482",
+      "rk-00483",
+      "rk-00484",
+      "rk-00484",
+      "rk-00485",
+      "rk-00485",
+      "rk-00486",
+      "rk-00486",
+      "rk-00487",
+      "rk-00487",
+      "rk-00488",
+      "rk-00488",
+      "rk-00489",
+      "rk-00489",
+      "rk-00490",
+      "rk-00490",
+      "rk-00491",
+      "rk-00491",
+      "rk-00492",
+      "rk-00493",
+      "rk-00493"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2460,12 +2536,12 @@
   },
   "NickelBack": {
     "song_ids": [
-      "rk-00484",
-      "rk-00485"
+      "rk-00494",
+      "rk-00495"
     ],
     "primary_song_ids": [
-      "rk-00484",
-      "rk-00485"
+      "rk-00494",
+      "rk-00495"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2473,22 +2549,22 @@
   },
   "Placebo": {
     "song_ids": [
-      "rk-00491",
-      "rk-00492",
-      "rk-00493",
-      "rk-00494",
-      "rk-00495",
-      "rk-00496",
-      "rk-00497"
+      "rk-00501",
+      "rk-00502",
+      "rk-00503",
+      "rk-00504",
+      "rk-00505",
+      "rk-00506",
+      "rk-00507"
     ],
     "primary_song_ids": [
-      "rk-00491",
-      "rk-00492",
-      "rk-00493",
-      "rk-00494",
-      "rk-00495",
-      "rk-00496",
-      "rk-00497"
+      "rk-00501",
+      "rk-00502",
+      "rk-00503",
+      "rk-00504",
+      "rk-00505",
+      "rk-00506",
+      "rk-00507"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2496,26 +2572,26 @@
   },
   "Queen": {
     "song_ids": [
-      "rk-00498",
-      "rk-00499",
-      "rk-00500",
-      "rk-00501",
-      "rk-00502",
-      "rk-00503",
-      "rk-00504",
-      "rk-00505",
-      "rk-00506"
+      "rk-00508",
+      "rk-00509",
+      "rk-00510",
+      "rk-00511",
+      "rk-00512",
+      "rk-00513",
+      "rk-00514",
+      "rk-00515",
+      "rk-00516"
     ],
     "primary_song_ids": [
-      "rk-00498",
-      "rk-00499",
-      "rk-00500",
-      "rk-00501",
-      "rk-00502",
-      "rk-00503",
-      "rk-00504",
-      "rk-00505",
-      "rk-00506"
+      "rk-00508",
+      "rk-00509",
+      "rk-00510",
+      "rk-00511",
+      "rk-00512",
+      "rk-00513",
+      "rk-00514",
+      "rk-00515",
+      "rk-00516"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2523,16 +2599,6 @@
   },
   "Rammstein": {
     "song_ids": [
-      "rk-00507",
-      "rk-00508",
-      "rk-00509",
-      "rk-00510",
-      "rk-00511",
-      "rk-00512",
-      "rk-00513",
-      "rk-00514",
-      "rk-00515",
-      "rk-00516",
       "rk-00517",
       "rk-00518",
       "rk-00519",
@@ -2555,19 +2621,19 @@
       "rk-00536",
       "rk-00537",
       "rk-00538",
-      "rk-00539"
+      "rk-00539",
+      "rk-00540",
+      "rk-00541",
+      "rk-00542",
+      "rk-00543",
+      "rk-00544",
+      "rk-00545",
+      "rk-00546",
+      "rk-00547",
+      "rk-00548",
+      "rk-00549"
     ],
     "primary_song_ids": [
-      "rk-00507",
-      "rk-00508",
-      "rk-00509",
-      "rk-00510",
-      "rk-00511",
-      "rk-00512",
-      "rk-00513",
-      "rk-00514",
-      "rk-00515",
-      "rk-00516",
       "rk-00517",
       "rk-00518",
       "rk-00519",
@@ -2590,7 +2656,17 @@
       "rk-00536",
       "rk-00537",
       "rk-00538",
-      "rk-00539"
+      "rk-00539",
+      "rk-00540",
+      "rk-00541",
+      "rk-00542",
+      "rk-00543",
+      "rk-00544",
+      "rk-00545",
+      "rk-00546",
+      "rk-00547",
+      "rk-00548",
+      "rk-00549"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2598,30 +2674,30 @@
   },
   "Red Hot Chili Peppers": {
     "song_ids": [
-      "rk-00540",
-      "rk-00541",
-      "rk-00542",
-      "rk-00543",
-      "rk-00544",
-      "rk-00545",
-      "rk-00546",
-      "rk-00547",
-      "rk-00548",
-      "rk-00549",
-      "rk-00550"
+      "rk-00550",
+      "rk-00551",
+      "rk-00552",
+      "rk-00553",
+      "rk-00554",
+      "rk-00555",
+      "rk-00556",
+      "rk-00557",
+      "rk-00558",
+      "rk-00559",
+      "rk-00560"
     ],
     "primary_song_ids": [
-      "rk-00540",
-      "rk-00541",
-      "rk-00542",
-      "rk-00543",
-      "rk-00544",
-      "rk-00545",
-      "rk-00546",
-      "rk-00547",
-      "rk-00548",
-      "rk-00549",
-      "rk-00550"
+      "rk-00550",
+      "rk-00551",
+      "rk-00552",
+      "rk-00553",
+      "rk-00554",
+      "rk-00555",
+      "rk-00556",
+      "rk-00557",
+      "rk-00558",
+      "rk-00559",
+      "rk-00560"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2629,38 +2705,38 @@
   },
   "Rob Thomas": {
     "song_ids": [
-      "rk-00552",
-      "rk-00562"
+      "rk-00562",
+      "rk-00572"
     ],
     "primary_song_ids": [
-      "rk-00552"
+      "rk-00562"
     ],
     "feature_song_ids": [
-      "rk-00562"
+      "rk-00572"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Roxette": {
     "song_ids": [
-      "rk-00553",
-      "rk-00554",
-      "rk-00555",
-      "rk-00556",
-      "rk-00557",
-      "rk-00558",
-      "rk-00559",
-      "rk-00560"
+      "rk-00563",
+      "rk-00564",
+      "rk-00565",
+      "rk-00566",
+      "rk-00567",
+      "rk-00568",
+      "rk-00569",
+      "rk-00570"
     ],
     "primary_song_ids": [
-      "rk-00553",
-      "rk-00554",
-      "rk-00555",
-      "rk-00556",
-      "rk-00557",
-      "rk-00558",
-      "rk-00559",
-      "rk-00560"
+      "rk-00563",
+      "rk-00564",
+      "rk-00565",
+      "rk-00566",
+      "rk-00567",
+      "rk-00568",
+      "rk-00569",
+      "rk-00570"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2668,12 +2744,12 @@
   },
   "Santana": {
     "song_ids": [
-      "rk-00561",
-      "rk-00562"
+      "rk-00571",
+      "rk-00572"
     ],
     "primary_song_ids": [
-      "rk-00561",
-      "rk-00562"
+      "rk-00571",
+      "rk-00572"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2681,10 +2757,10 @@
   },
   "Smashmouth": {
     "song_ids": [
-      "rk-00563"
+      "rk-00573"
     ],
     "primary_song_ids": [
-      "rk-00563"
+      "rk-00573"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2692,10 +2768,10 @@
   },
   "The Calling": {
     "song_ids": [
-      "rk-00564"
+      "rk-00574"
     ],
     "primary_song_ids": [
-      "rk-00564"
+      "rk-00574"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2703,16 +2779,6 @@
   },
   "The Cranberries": {
     "song_ids": [
-      "rk-00565",
-      "rk-00566",
-      "rk-00567",
-      "rk-00568",
-      "rk-00569",
-      "rk-00570",
-      "rk-00571",
-      "rk-00572",
-      "rk-00573",
-      "rk-00574",
       "rk-00575",
       "rk-00576",
       "rk-00577",
@@ -2747,20 +2813,20 @@
       "rk-00606",
       "rk-00607",
       "rk-00608",
+      "rk-00609",
+      "rk-00610",
+      "rk-00611",
+      "rk-00612",
       "rk-00613",
-      "rk-00614"
+      "rk-00614",
+      "rk-00615",
+      "rk-00616",
+      "rk-00617",
+      "rk-00618",
+      "rk-00623",
+      "rk-00624"
     ],
     "primary_song_ids": [
-      "rk-00565",
-      "rk-00566",
-      "rk-00567",
-      "rk-00568",
-      "rk-00569",
-      "rk-00570",
-      "rk-00571",
-      "rk-00572",
-      "rk-00573",
-      "rk-00574",
       "rk-00575",
       "rk-00576",
       "rk-00577",
@@ -2795,8 +2861,18 @@
       "rk-00606",
       "rk-00607",
       "rk-00608",
+      "rk-00609",
+      "rk-00610",
+      "rk-00611",
+      "rk-00612",
       "rk-00613",
-      "rk-00614"
+      "rk-00614",
+      "rk-00615",
+      "rk-00616",
+      "rk-00617",
+      "rk-00618",
+      "rk-00623",
+      "rk-00624"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2804,16 +2880,16 @@
   },
   "Dolores O Riordan": {
     "song_ids": [
-      "rk-00609",
-      "rk-00610",
-      "rk-00611",
-      "rk-00612"
+      "rk-00619",
+      "rk-00620",
+      "rk-00621",
+      "rk-00622"
     ],
     "primary_song_ids": [
-      "rk-00609",
-      "rk-00610",
-      "rk-00611",
-      "rk-00612"
+      "rk-00619",
+      "rk-00620",
+      "rk-00621",
+      "rk-00622"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2821,20 +2897,20 @@
   },
   "The Pretty Reckless": {
     "song_ids": [
-      "rk-00615",
-      "rk-00616",
-      "rk-00617",
-      "rk-00618",
-      "rk-00619",
-      "rk-00620"
+      "rk-00625",
+      "rk-00626",
+      "rk-00627",
+      "rk-00628",
+      "rk-00629",
+      "rk-00630"
     ],
     "primary_song_ids": [
-      "rk-00615",
-      "rk-00616",
-      "rk-00617",
-      "rk-00618",
-      "rk-00619",
-      "rk-00620"
+      "rk-00625",
+      "rk-00626",
+      "rk-00627",
+      "rk-00628",
+      "rk-00629",
+      "rk-00630"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2842,16 +2918,6 @@
   },
   "Tokio Hotel": {
     "song_ids": [
-      "rk-00621",
-      "rk-00622",
-      "rk-00623",
-      "rk-00624",
-      "rk-00625",
-      "rk-00626",
-      "rk-00627",
-      "rk-00628",
-      "rk-00629",
-      "rk-00630",
       "rk-00631",
       "rk-00632",
       "rk-00633",
@@ -2867,19 +2933,19 @@
       "rk-00643",
       "rk-00644",
       "rk-00645",
-      "rk-00646"
+      "rk-00646",
+      "rk-00647",
+      "rk-00648",
+      "rk-00649",
+      "rk-00650",
+      "rk-00651",
+      "rk-00652",
+      "rk-00653",
+      "rk-00654",
+      "rk-00655",
+      "rk-00656"
     ],
     "primary_song_ids": [
-      "rk-00621",
-      "rk-00622",
-      "rk-00623",
-      "rk-00624",
-      "rk-00625",
-      "rk-00626",
-      "rk-00627",
-      "rk-00628",
-      "rk-00629",
-      "rk-00630",
       "rk-00631",
       "rk-00632",
       "rk-00633",
@@ -2895,7 +2961,17 @@
       "rk-00643",
       "rk-00644",
       "rk-00645",
-      "rk-00646"
+      "rk-00646",
+      "rk-00647",
+      "rk-00648",
+      "rk-00649",
+      "rk-00650",
+      "rk-00651",
+      "rk-00652",
+      "rk-00653",
+      "rk-00654",
+      "rk-00655",
+      "rk-00656"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2903,10 +2979,10 @@
   },
   "Train": {
     "song_ids": [
-      "rk-00647"
+      "rk-00657"
     ],
     "primary_song_ids": [
-      "rk-00647"
+      "rk-00657"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2914,10 +2990,10 @@
   },
   "Trapt": {
     "song_ids": [
-      "rk-00648"
+      "rk-00658"
     ],
     "primary_song_ids": [
-      "rk-00648"
+      "rk-00658"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
