@@ -680,12 +680,29 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Eric Prydz": {
+  "vonamour": {
     "song_ids": [
+      "ru-00082",
+      "ru-00083",
+      "ru-00084",
       "ru-00085"
     ],
     "primary_song_ids": [
+      "ru-00082",
+      "ru-00083",
+      "ru-00084",
       "ru-00085"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eric Prydz": {
+    "song_ids": [
+      "ru-00089"
+    ],
+    "primary_song_ids": [
+      "ru-00089"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -693,10 +710,10 @@
   },
   "Euro Status Quo": {
     "song_ids": [
-      "ru-00086"
+      "ru-00090"
     ],
     "primary_song_ids": [
-      "ru-00086"
+      "ru-00090"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -704,10 +721,10 @@
   },
   "Komodo": {
     "song_ids": [
-      "ru-00087"
+      "ru-00091"
     ],
     "primary_song_ids": [
-      "ru-00087"
+      "ru-00091"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -715,10 +732,10 @@
   },
   "Mr.Da-Nos": {
     "song_ids": [
-      "ru-00088"
+      "ru-00092"
     ],
     "primary_song_ids": [
-      "ru-00088"
+      "ru-00092"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -726,10 +743,10 @@
   },
   "Looking Glass": {
     "song_ids": [
-      "ru-00091"
+      "ru-00095"
     ],
     "primary_song_ids": [
-      "ru-00091"
+      "ru-00095"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -737,10 +754,10 @@
   },
   "Narcotic Thrust": {
     "song_ids": [
-      "ru-00092"
+      "ru-00096"
     ],
     "primary_song_ids": [
-      "ru-00092"
+      "ru-00096"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -748,10 +765,10 @@
   },
   "Darci": {
     "song_ids": [
-      "ru-00093"
+      "ru-00097"
     ],
     "primary_song_ids": [
-      "ru-00093"
+      "ru-00097"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -759,10 +776,10 @@
   },
   "FEDUK": {
     "song_ids": [
-      "ru-00094"
+      "ru-00098"
     ],
     "primary_song_ids": [
-      "ru-00094"
+      "ru-00098"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -770,10 +787,10 @@
   },
   "Jah Khalib": {
     "song_ids": [
-      "ru-00095"
+      "ru-00099"
     ],
     "primary_song_ids": [
-      "ru-00095"
+      "ru-00099"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -781,10 +798,10 @@
   },
   "KAZKA": {
     "song_ids": [
-      "ru-00096"
+      "ru-00100"
     ],
     "primary_song_ids": [
-      "ru-00096"
+      "ru-00100"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -792,10 +809,10 @@
   },
   "Madeintyo": {
     "song_ids": [
-      "ru-00097"
+      "ru-00101"
     ],
     "primary_song_ids": [
-      "ru-00097"
+      "ru-00101"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -803,12 +820,12 @@
   },
   "SEREBRO": {
     "song_ids": [
-      "ru-00098",
-      "ru-00099"
+      "ru-00102",
+      "ru-00103"
     ],
     "primary_song_ids": [
-      "ru-00098",
-      "ru-00099"
+      "ru-00102",
+      "ru-00103"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

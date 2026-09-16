@@ -1790,6 +1790,86 @@
   },
   {
     "song_id": "ru-00082",
+    "file": "_other\\_russian\\vonamour\\vonamour - Insatiable.mp3",
+    "title": "Insatiable",
+    "primary_artists": [
+      "vonamour"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "vonamour"
+    ],
+    "credits": [
+      {
+        "entity": "vonamour",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "ru-00083",
+    "file": "_other\\_russian\\vonamour\\vonamour - Jameela.mp3",
+    "title": "Jameela",
+    "primary_artists": [
+      "vonamour"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "vonamour"
+    ],
+    "credits": [
+      {
+        "entity": "vonamour",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "ru-00084",
+    "file": "_other\\_russian\\vonamour\\vonamour - POLCHASA.mp3",
+    "title": "POLCHASA",
+    "primary_artists": [
+      "vonamour"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "vonamour"
+    ],
+    "credits": [
+      {
+        "entity": "vonamour",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "ru-00085",
+    "file": "_other\\_russian\\vonamour\\vonamour - ПОД ИСПАНСКИМ НЕБОМ.mp3",
+    "title": "ПОД ИСПАНСКИМ НЕБОМ",
+    "primary_artists": [
+      "vonamour"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "vonamour"
+    ],
+    "credits": [
+      {
+        "entity": "vonamour",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "ru-00086",
     "file": "_other\\_russian\\Без фокусов (artist unidentified).mp3",
     "title": "Без фокусов (artist unidentified)",
     "primary_artists": [
@@ -1809,7 +1889,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "ru-00083",
+    "song_id": "ru-00087",
     "file": "_other\\_russian\\Кометы.mp3",
     "title": "Кометы",
     "primary_artists": [
@@ -1829,7 +1909,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "ru-00084",
+    "song_id": "ru-00088",
     "file": "_other\\_russian\\ЛУНА - Бутылочка.mp3",
     "title": "Бутылочка",
     "primary_artists": [
@@ -1849,7 +1929,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "ru-00085",
+    "song_id": "ru-00089",
     "file": "_other\\_russian\\Музыка - YouTube\\Eric Prydz - Pjanoo.mp3",
     "title": "Pjanoo",
     "primary_artists": [
@@ -1869,7 +1949,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00086",
+    "song_id": "ru-00090",
     "file": "_other\\_russian\\Музыка - YouTube\\Euro _ Status Quo - In The Army Now (Remix).mp3",
     "title": "In The Army Now (Remix)",
     "primary_artists": [
@@ -1889,7 +1969,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00087",
+    "song_id": "ru-00091",
     "file": "_other\\_russian\\Музыка - YouTube\\Komodo - (I Just) Died In Your Arms.mp3",
     "title": "(I Just) Died In Your Arms",
     "primary_artists": [
@@ -1909,7 +1989,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00088",
+    "song_id": "ru-00092",
     "file": "_other\\_russian\\Музыка - YouTube\\Mr.Da-Nos - Ohlala (Official Circus Theme).mp3",
     "title": "Ohlala (Official Circus Theme)",
     "primary_artists": [
@@ -1929,7 +2009,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00089",
+    "song_id": "ru-00093",
     "file": "_other\\_russian\\не расслабляйся.mp3",
     "title": "не расслабляйся",
     "primary_artists": [
@@ -1949,7 +2029,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "ru-00090",
+    "song_id": "ru-00094",
     "file": "_other\\_russian\\покажи - YouTube\\FUN∃RᐃL ‡ FLØW∃RS - V OGNΞ ΔGONIİ.mp3",
     "title": "V OGNΞ ΔGONIİ",
     "primary_artists": [
@@ -1969,7 +2049,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "ru-00091",
+    "song_id": "ru-00095",
     "file": "_other\\_russian\\покажи - YouTube\\Looking Glass - The Birthday Massacre.mp3",
     "title": "The Birthday Massacre",
     "primary_artists": [
@@ -1989,7 +2069,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00092",
+    "song_id": "ru-00096",
     "file": "_other\\_russian\\покажи - YouTube\\Narcotic Thrust - I Like It (Official Video).mp3",
     "title": "I Like It",
     "primary_artists": [
@@ -2009,7 +2089,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00093",
+    "song_id": "ru-00097",
     "file": "_other\\_russian\\русский ряд\\Darci - On My Own.mp3",
     "title": "On My Own",
     "primary_artists": [
@@ -2029,7 +2109,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00094",
+    "song_id": "ru-00098",
     "file": "_other\\_russian\\русский ряд\\FEDUK - Моряк.mp3",
     "title": "Моряк",
     "primary_artists": [
@@ -2049,7 +2129,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00095",
+    "song_id": "ru-00099",
     "file": "_other\\_russian\\русский ряд\\Jah Khalib - Лейла   Official video.mp3",
     "title": "Лейла",
     "primary_artists": [
@@ -2069,7 +2149,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00096",
+    "song_id": "ru-00100",
     "file": "_other\\_russian\\русский ряд\\KAZKA — ПЛАКАЛА [OFFICIAL VIDEO].mp3",
     "title": "ПЛАКАЛА",
     "primary_artists": [
@@ -2089,7 +2169,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00097",
+    "song_id": "ru-00101",
     "file": "_other\\_russian\\русский ряд\\Madeintyo - I Want ft. 2 Chainz [Official Video].mp3",
     "title": "I Want",
     "primary_artists": [
@@ -2109,7 +2189,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00098",
+    "song_id": "ru-00102",
     "file": "_other\\_russian\\русский ряд\\SEREBRO - В КОСМОСЕ 🌏 (Премьера клипа 2017).mp3",
     "title": "В КОСМОСЕ 🌏 (Премьера клипа 2017)",
     "primary_artists": [
@@ -2129,7 +2209,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00099",
+    "song_id": "ru-00103",
     "file": "_other\\_russian\\русский ряд\\SEREBRO - Я ТЕБЯ НЕ ОТДАМ.mp3",
     "title": "Я ТЕБЯ НЕ ОТДАМ",
     "primary_artists": [
@@ -2149,7 +2229,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "ru-00100",
+    "song_id": "ru-00104",
     "file": "_other\\_russian\\русский ряд\\Миша Марвин - Ненавижу (премьера клипа, 2016).mp3",
     "title": "Ненавижу (премьера клипа, 2016)",
     "primary_artists": [
@@ -2169,7 +2249,7 @@
     "attribution_status": "unattributed"
   },
   {
-    "song_id": "ru-00101",
+    "song_id": "ru-00105",
     "file": "_other\\_russian\\русский ряд\\Мот — Шаманы (премьера трека, 2018).mp3",
     "title": "Шаманы (премьера трека, 2018)",
     "primary_artists": [
