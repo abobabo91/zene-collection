@@ -1,6 +1,6 @@
 # Hungarian Local Music Toplists
 
-Songs: `2198`
+Songs: `2197`
 Persons: `491`
 Groups: `38`
 Labels: `9`
@@ -16,7 +16,7 @@ Unattributed songs: `0`
 | 3 | 2arc | 65 | 61.7 | 63.2 | 62 | 3 | 0 | - | - | - |
 | 4 | Ketioz | 106 | 45.2 | 62.9 | 91 | 15 | 44 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
 | 5 | Mr.Busta | 63 | 48.3 | 60.0 | 60 | 3 | 0 | - | RTM | - |
-| 6 | Tkyd | 71 | 51.9 | 52.6 | 63 | 7 | 17 | Pápa | Bloose Broavaz | Dreamerz, Rydu |
+| 6 | Tkyd | 70 | 51.4 | 52.1 | 62 | 7 | 17 | Pápa | Bloose Broavaz | Dreamerz, Rydu |
 | 7 | Azahriah | 45 | 37.8 | 37.8 | 44 | 1 | 0 | Budapest | - | - |
 | 8 | Tibbah | 74 | 36.0 | 37.5 | 69 | 5 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
 | 9 | Deego | 60 | 33.8 | 34.4 | 52 | 8 | 43 | Győr | Bloose Broavaz | Barbárfivérek |
@@ -28,7 +28,7 @@ Unattributed songs: `0`
 | 15 | Turha | 28 | 22.8 | 25.5 | 26 | 2 | 0 | Tatabánya | SCBP | - |
 | 16 | Riddler | 29 | 21.2 | 25.3 | 26 | 3 | 0 | - | - | - |
 | 17 | Filo | 37 | 24.7 | 25.2 | 28 | 5 | 19 | Szeged | IFS | IFS |
-| 18 | Eckü | 47 | 23.4 | 24.0 | 38 | 8 | 34 | Veszprém | Bloose Broavaz | Gruppen Family, Hősök |
+| 18 | Eckü | 46 | 22.9 | 23.5 | 37 | 8 | 34 | Veszprém | Bloose Broavaz | Gruppen Family, Hősök |
 | 19 | Rambo | 71 | 23.4 | 23.4 | 59 | 12 | 44 | Győr | Vicc Beatz | Egyenlők, Jam Balaya |
 | 20 | Day | 29 | 21.8 | 23.3 | 19 | 10 | 0 | Eger | - | - |
 | 21 | Fura Csé | 56 | 20.9 | 22.1 | 50 | 6 | 44 | Tatabánya | Garage | Furakor, Káva |
@@ -550,7 +550,7 @@ Unattributed songs: `0`
 
 | # | Label | Songs | Persons | Groups | Regions |
 |---|-------|-------|---------|--------|---------|
-| 1 | Bloose Broavaz | 296 | 14 | 7 | - |
+| 1 | Bloose Broavaz | 295 | 14 | 7 | - |
 | 2 | Garage | 164 | 8 | 4 | - |
 | 3 | RTM | 124 | 7 | 1 | - |
 | 4 | Vicc Beatz | 108 | 8 | 2 | - |
