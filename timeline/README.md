@@ -50,6 +50,14 @@ Genres and sub-genres are derived purely from the folder structure:
 
 1. **Folder scanner** (`build_catalog.py`) walks the entire music folder tree, classifies each mp3 into main_genre + sub_genre based on the folder path, and writes `genre_catalog.json` with file path, genre, sub-genre, and modification timestamp
 
+   **The timestamp is UTC**, in both `genre_catalog.json` and `mp3_sorted_filtered.csv`.
+   A local-time stamp moves with the laptop: the move to US Eastern on 2026-09-22 shifted
+   all 15,296 rows by six hours and produced a 46,081-line diff in which no song had
+   changed, and a stamp near midnight walks a song into the previous day, quarter or year.
+   `build_catalog.py` passes `timezone.utc` to `fromtimestamp` and `rebuild.py` reads
+   `LastWriteTimeUtc`; keep both that way. The dashboard slices the string for its dates,
+   so it needs no change — it just needs the string to stay put.
+
 2. **Dashboard** (`index.html`) is a single self-contained HTML file using Chart.js. It fetches the JSON catalog and renders all charts client-side. Dark theme, responsive layout.
 
 3. **Custom Chart.js interaction mode** (`stackedArea`) — built a custom interaction handler that detects which stacked area strip the cursor is inside (by checking cumulative band boundaries), instead of the default "nearest line" detection which picks the wrong genre when hovering between strips
@@ -92,7 +100,7 @@ Rebuilds the catalog from disk and opens the dashboard at http://localhost:8765.
 | `build_catalog.py` | Genre classifier — scans disk, writes `genre_catalog.json` |
 | `index.html` | Dashboard — Chart.js, vanilla JS, dark theme |
 | `serve.py` | Rebuild catalog + serve locally |
-| `genre_catalog.json` | Generated catalog (14,831 entries as of 2026-08-11) |
+| `genre_catalog.json` | Generated catalog (15,296 entries as of 2026-09-22) |
 | `build_mp3_timeline.py` | Generates `mp3_sorted_filtered.csv` (all mp3s sorted by date) |
 | `rebuild.py` | Rebuild catalog + CSV if anything changed — **commits and pushes on its own** |
 
