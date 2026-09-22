@@ -88,7 +88,10 @@ def rebuild_csv():
         f"Get-ChildItem -Path '{ZENE}' -Filter *.mp3 -Recurse -File | "
         f"Where-Object {{ {clauses} }} | "
         "Sort-Object LastWriteTime -Descending | "
-        "Select-Object FullName, @{Name='LastWriteTime';Expression={$_.LastWriteTime.ToString('yyyy. MM. dd. H:mm:ss')}} | "
+        # `LastWriteTimeUtc`, so the CSV does not move when the laptop does - the same
+        # reason `build_catalog.py` stamps UTC. Sorting stays on the local value because
+        # the two order identically; only the rendered string has to be machine-independent.
+        "Select-Object FullName, @{Name='LastWriteTime';Expression={$_.LastWriteTimeUtc.ToString('yyyy. MM. dd. H:mm:ss')}} | "
         "Export-Csv -Path '" + str(HERE / "mp3_sorted_filtered_raw.csv") + "' -NoTypeInformation -Encoding UTF8"
     )
     subprocess.run(["powershell.exe", "-Command", ps_cmd], capture_output=True)

@@ -10,7 +10,7 @@ land in `main_genre: other`, since it matches no genre rule.
 
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from collections import Counter
 from pathlib import Path
 
@@ -193,7 +193,12 @@ def main():
                 "file": str(rel),
                 "main_genre": main_genre,
                 "sub_genre": sub_genre,
-                "modified": datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M:%S"),
+                # UTC, not local time. `fromtimestamp` without a tz renders in whatever
+                # zone the machine is set to, so moving the laptop rewrites all 15,296 rows
+                # by the offset: the move to US Eastern on 2026-09-22 shifted every one by
+                # six hours, produced a 46,081-line diff in which no song had changed, and
+                # walks anything near midnight into the previous day, quarter or year.
+                "modified": datetime.fromtimestamp(mtime, timezone.utc).strftime("%Y-%m-%d %H:%M:%S"),
             })
 
     entries.sort(key=lambda e: e["modified"], reverse=True)
