@@ -13229,6 +13229,46 @@
   },
   {
     "song_id": "rk-00648",
+    "file": "_other\\_rock\\tokio hotel\\tokio hotel Kings Of Suburbia\\Dancing In The Dark.mp3",
+    "title": "Dancing In The Dark",
+    "primary_artists": [
+      "Tokio Hotel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Tokio Hotel"
+    ],
+    "credits": [
+      {
+        "entity": "Tokio Hotel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rk-00649",
+    "file": "_other\\_rock\\tokio hotel\\tokio hotel Kings Of Suburbia\\We Found Us.mp3",
+    "title": "We Found Us",
+    "primary_artists": [
+      "Tokio Hotel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Tokio Hotel"
+    ],
+    "credits": [
+      {
+        "entity": "Tokio Hotel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "rk-00650",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - An deiner Seite (Ich bin da) Lyrics.mp3",
     "title": "An deiner Seite (Ich bin da)",
     "primary_artists": [
@@ -13248,7 +13288,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00649",
+    "song_id": "rk-00651",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Heilig Lyrics.mp3",
     "title": "Heilig",
     "primary_artists": [
@@ -13268,7 +13308,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00650",
+    "song_id": "rk-00652",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Spring nicht lyrics.mp3",
     "title": "Spring nicht",
     "primary_artists": [
@@ -13288,7 +13328,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00651",
+    "song_id": "rk-00653",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Totgeliebt lyrics.mp3",
     "title": "Totgeliebt",
     "primary_artists": [
@@ -13308,7 +13348,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00652",
+    "song_id": "rk-00654",
     "file": "_other\\_rock\\tokio hotel\\tokio hotel Zimmer 483 Album\\Tokio Hotel - Über Ende der Welt Lyrics.mp3",
     "title": "Über Ende der Welt",
     "primary_artists": [
@@ -13328,7 +13368,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00653",
+    "song_id": "rk-00655",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  BY YOUR SIDE  12.mp3",
     "title": "Tokio Hotel BY YOUR SIDE 12",
     "primary_artists": [
@@ -13348,7 +13388,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00654",
+    "song_id": "rk-00656",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  FORGOTTEN CHILDREN  11.mp3",
     "title": "Tokio Hotel FORGOTTEN CHILDREN 11",
     "primary_artists": [
@@ -13368,7 +13408,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00655",
+    "song_id": "rk-00657",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  MONSOON  03.mp3",
     "title": "Tokio Hotel MONSOON 03",
     "primary_artists": [
@@ -13388,7 +13428,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00656",
+    "song_id": "rk-00658",
     "file": "_other\\_rock\\tokio hotel\\TOKIO HOTEL-Scream album\\Tokio Hotel  SACRED  07.mp3",
     "title": "Tokio Hotel SACRED 07",
     "primary_artists": [
@@ -13408,7 +13448,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00657",
+    "song_id": "rk-00659",
     "file": "_other\\_rock\\Train - Drive By.mp3",
     "title": "Drive By",
     "primary_artists": [
@@ -13428,7 +13468,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "rk-00658",
+    "song_id": "rk-00660",
     "file": "_other\\_rock\\Trapt - Headstrong.mp3",
     "title": "Headstrong",
     "primary_artists": [

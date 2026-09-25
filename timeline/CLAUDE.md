@@ -13,7 +13,6 @@ together and commit them as one change.
 - `build_catalog.py` — scans the full music library, classifies each mp3 by folder structure into main_genre + sub_genre, outputs `genre_catalog.json`
 - `index.html` — interactive dashboard (Chart.js): cumulative stacked area, donut, sub-genre bars, file list modal
 - `serve.py` — rebuilds catalog and serves the dashboard at localhost:8765
-- `build_mp3_timeline.py` — separate utility: generates `mp3_sorted_filtered.csv` (all mp3s sorted by date, excluding `new/`)
 
 ## How to run
 

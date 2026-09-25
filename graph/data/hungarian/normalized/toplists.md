@@ -1,6 +1,6 @@
 # Hungarian Local Music Toplists
 
-Songs: `2197`
+Songs: `2198`
 Persons: `491`
 Groups: `38`
 Labels: `9`
@@ -85,10 +85,10 @@ Unattributed songs: `0`
 | 72 | BigMek | 10 | 7.9 | 9.3 | 10 | 0 | 0 | - | - | - |
 | 73 | Pixa | 12 | 8.1 | 9.1 | 10 | 2 | 0 | - | - | - |
 | 74 | Illegalvoice | 10 | 8.5 | 9.0 | 9 | 1 | 0 | - | - | New Fhészek |
-| 75 | Zenk | 24 | 8.5 | 8.5 | 16 | 8 | 22 | - | Criminal | Az Idő Urai, NKS |
-| 76 | Fiatal Veterán | 10 | 8.5 | 8.5 | 10 | 0 | 3 | - | - | Teswér |
-| 77 | FILO | 9 | 8.5 | 8.5 | 9 | 0 | 0 | - | - | - |
-| 78 | Szalai | 16 | 8.5 | 8.5 | 4 | 1 | 14 | - | - | ibbigang |
+| 75 | Szalai | 17 | 8.8 | 8.8 | 4 | 2 | 14 | - | - | ibbigang |
+| 76 | Zenk | 24 | 8.5 | 8.5 | 16 | 8 | 22 | - | Criminal | Az Idő Urai, NKS |
+| 77 | Fiatal Veterán | 10 | 8.5 | 8.5 | 10 | 0 | 3 | - | - | Teswér |
+| 78 | FILO | 9 | 8.5 | 8.5 | 9 | 0 | 0 | - | - | - |
 | 79 | Utcakultúra | 9 | 8.5 | 8.5 | 8 | 1 | 0 | - | - | - |
 | 80 | Flemm | 9 | 7.3 | 8.3 | 8 | 1 | 0 | - | - | - |
 | 81 | Ra | 18 | 8.3 | 8.3 | 10 | 7 | 9 | - | Garage | BeatMarket |
@@ -96,14 +96,14 @@ Unattributed songs: `0`
 | 83 | Artoscsaba | 14 | 6.4 | 8.1 | 10 | 4 | 3 | - | - | Alakváltók |
 | 84 | Barhx | 11 | 8.1 | 8.1 | 7 | 4 | 0 | - | - | - |
 | 85 | Nos'chez | 23 | 8.0 | 8.0 | 16 | 7 | 22 | - | Criminal | Az Idő Urai, NKS |
-| 86 | Máté | 16 | 8.0 | 8.0 | 16 | 0 | 16 | Pécs | - | Punnany Massif |
-| 87 | RatB | 13 | 8.0 | 8.0 | 13 | 0 | 0 | - | - | - |
-| 88 | Wolfie | 16 | 8.0 | 8.0 | 16 | 0 | 16 | Pécs | - | Punnany Massif |
-| 89 | Curtis | 12 | 7.4 | 7.9 | 8 | 4 | 0 | Budapest | - | - |
-| 90 | SzóSzólók | 8 | 6.0 | 7.5 | 7 | 1 | 0 | - | - | - |
-| 91 | Dopeman | 8 | 7.3 | 7.3 | 7 | 1 | 0 | - | - | - |
-| 92 | gyuris | 8 | 7.3 | 7.3 | 7 | 1 | 0 | - | - | - |
-| 93 | Figura | 7 | 5.8 | 7.0 | 7 | 0 | 0 | - | - | - |
+| 86 | Figura | 8 | 6.1 | 8.0 | 8 | 0 | 0 | - | - | - |
+| 87 | Máté | 16 | 8.0 | 8.0 | 16 | 0 | 16 | Pécs | - | Punnany Massif |
+| 88 | RatB | 13 | 8.0 | 8.0 | 13 | 0 | 0 | - | - | - |
+| 89 | Wolfie | 16 | 8.0 | 8.0 | 16 | 0 | 16 | Pécs | - | Punnany Massif |
+| 90 | Curtis | 12 | 7.4 | 7.9 | 8 | 4 | 0 | Budapest | - | - |
+| 91 | gyuris | 9 | 7.7 | 7.7 | 7 | 2 | 0 | - | - | - |
+| 92 | SzóSzólók | 8 | 6.0 | 7.5 | 7 | 1 | 0 | - | - | - |
+| 93 | Dopeman | 8 | 7.3 | 7.3 | 7 | 1 | 0 | - | - | - |
 | 94 | Különvélemény | 7 | 5.5 | 7.0 | 7 | 0 | 0 | - | - | - |
 | 95 | Potyautas/Bothee | 7 | 4.2 | 7.0 | 7 | 0 | 0 | - | - | - |
 | 96 | Susa | 7 | 7.0 | 7.0 | 7 | 0 | 0 | - | - | - |

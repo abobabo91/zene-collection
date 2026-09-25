@@ -101,7 +101,6 @@ Rebuilds the catalog from disk and opens the dashboard at http://localhost:8765.
 | `index.html` | Dashboard — Chart.js, vanilla JS, dark theme |
 | `serve.py` | Rebuild catalog + serve locally |
 | `genre_catalog.json` | Generated catalog (15,296 entries as of 2026-09-22) |
-| `build_mp3_timeline.py` | Generates `mp3_sorted_filtered.csv` (all mp3s sorted by date) |
 | `rebuild.py` | Rebuild catalog + CSV if anything changed — **commits and pushes on its own** |
 
 `rebuild.py` takes no arguments and always ends in `git add -A && commit && push`. To

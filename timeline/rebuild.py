@@ -9,26 +9,22 @@ commit them as one change.
 """
 import argparse
 import csv
+import json
 import os
 import subprocess
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
 
-HERE = Path(__file__).parent
-ZENE = Path(r"C:\Users\abele\Desktop\zene")
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE.parent))
+from buildkit import SKIP_ROOTS, ZENE, last_rebuild, run_script, save_rebuild  # noqa: E402
+
 STATE_FILE = HERE / ".last_rebuild"
-SKIP = {"new", "new good", "_music_scripts", "_playlists", "_dupes_removed"}
-
-
-def get_last_rebuild() -> float:
-    if STATE_FILE.exists():
-        return float(STATE_FILE.read_text().strip())
-    return 0.0
 
 
 def has_changes(since: float) -> bool:
-    import json
     catalog_path = HERE / "genre_catalog.json"
     cataloged = set()
     if catalog_path.exists():
@@ -41,7 +37,7 @@ def has_changes(since: float) -> bool:
 
     for dirpath, dirs, files in os.walk(ZENE):
         rel = Path(dirpath).relative_to(ZENE)
-        if rel.parts and rel.parts[0] in SKIP:
+        if rel.parts and rel.parts[0] in SKIP_ROOTS:
             continue
         for f in files:
             if not f.lower().endswith(".mp3"):
@@ -60,12 +56,8 @@ def has_changes(since: float) -> bool:
 
 
 def rebuild_catalog():
-    """`encoding="utf-8"` is required: `text=True` alone decodes with the Windows locale
-    codepage (cp1250), which cannot represent the accented artist names the catalog prints,
-    and the resulting UnicodeDecodeError aborts the rebuild partway."""
     print("  Rebuilding genre catalog...")
-    r = subprocess.run([sys.executable, "build_catalog.py"], cwd=str(HERE), capture_output=True,
-                       text=True, encoding="utf-8", errors="replace")
+    r = run_script(["build_catalog.py"], HERE)
     if r.returncode != 0:
         print(f"    ERROR: {(r.stderr or '')[:300]}")
         return False
@@ -76,11 +68,10 @@ def rebuild_catalog():
 
 def rebuild_csv():
     print("  Rebuilding mp3_sorted_filtered.csv...")
-    # The exclusion list is derived from SKIP rather than repeated. It used to be spelled
-    # out here and had already drifted - `_playlists` was excluded from the catalog but
-    # counted in the CSV, so the two views of the same collection disagreed.
+    # The exclusion list is derived from SKIP_ROOTS so the CSV and the catalog cannot
+    # disagree about what the collection is.
     clauses = " -and ".join(
-        f"$_.FullName -notlike '{ZENE}\\{name}\\*'" for name in sorted(SKIP)
+        f"$_.FullName -notlike '{ZENE}\\{name}\\*'" for name in sorted(SKIP_ROOTS)
     )
     # `-File` matters: `_magyar rap/el bago/ultimohombre/ultimohombre.mp3` is a directory
     # whose name ends in .mp3, so `-Filter *.mp3` alone returns it as if it were a track.
@@ -115,17 +106,14 @@ def rebuild_csv():
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0],
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    # --no-push is accepted and ignored: git lives in the root rebuild.py now.
-    ap.add_argument("--no-push", action="store_true", help=argparse.SUPPRESS)
     ap.add_argument("--dry-run", action="store_true",
                     help="say whether a rebuild is needed, write nothing")
     args = ap.parse_args()
 
-    last = get_last_rebuild()
+    last = last_rebuild(STATE_FILE)
     now = time.time()
 
     if last > 0:
-        from datetime import datetime
         print(f"Last rebuild: {datetime.fromtimestamp(last).strftime('%Y-%m-%d %H:%M')}")
     else:
         print("First run — rebuilding everything.")
@@ -146,7 +134,7 @@ def main():
         return 1
     rebuild_csv()
 
-    STATE_FILE.write_text(str(now))
+    save_rebuild(STATE_FILE, now)
     print("\ncatalog and CSV rebuilt")
     return 0
 

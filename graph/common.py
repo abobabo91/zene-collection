@@ -3,12 +3,14 @@ from __future__ import annotations
 
 import functools
 import re
+import sys
 from pathlib import Path  # noqa: F401  (re-exported for type hints in load_mappings_file)
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_ROOT = PROJECT_ROOT / "data"
-ZENE = Path(r"C:\Users\abele\Desktop\zene")
+sys.path.insert(0, str(PROJECT_ROOT.parent))
+from buildkit import ZENE  # noqa: E402,F401  (re-exported: every graph builder imports it from here)
 
 # ── Constants ──────────────────────────────────────────────────────────────────
 AUDIO_EXTS = {".mp3", ".wma", ".wav", ".m4a", ".flac"}

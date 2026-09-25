@@ -1,6 +1,6 @@
 # Rock Local Music Toplists
 
-Songs: `658`
+Songs: `660`
 Persons: `190`
 Unattributed songs: `48`
 
@@ -11,7 +11,7 @@ Unattributed songs: `48`
 | 1 | Bring Me the Horizon | 52 | 46.2 | 52.0 | 52 | 0 | 0 | - | - | - |
 | 2 | The Cranberries | 46 | 46.0 | 46.0 | 46 | 0 | 0 | - | - | - |
 | 3 | Rammstein | 33 | 33.0 | 33.0 | 33 | 0 | 0 | - | - | - |
-| 4 | Tokio Hotel | 26 | 26.0 | 26.0 | 26 | 0 | 0 | - | - | - |
+| 4 | Tokio Hotel | 28 | 28.0 | 28.0 | 28 | 0 | 0 | - | - | - |
 | 5 | Linkin Park | 21 | 21.0 | 21.0 | 21 | 0 | 0 | - | - | - |
 | 6 | Limp Bizkit | 15 | 15.0 | 15.0 | 15 | 0 | 0 | - | - | - |
 | 7 | Nick Cave and the Bad Seeds | 15 | 15.0 | 15.0 | 25 | 0 | 0 | - | - | - |

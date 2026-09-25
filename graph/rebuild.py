@@ -7,26 +7,21 @@
 not touch git. Run `../rebuild.py` to rebuild the graph, timeline and dashboard together and
 commit them as one change - they are one repo and one logical unit.
 
-The argument parsing matters: the script used to ignore argv entirely, so
-`python rebuild.py --help` - the obvious way to find out what it does - ran a full rebuild
-and pushed to GitHub instead of printing usage.
 """
 import argparse
 import json
 import os
-import subprocess
-import sys
+import time
+from datetime import datetime
 from pathlib import Path
 
 from common import AUDIO_EXTS, DATA_ROOT, PROJECT_ROOT, ZENE
+from buildkit import last_rebuild, run_script, save_rebuild
 
 STATE_FILE = PROJECT_ROOT / ".last_rebuild"
 
 SCAN_ROOTS = {
     "us": [ZENE / "_rap", ZENE / "_trap"],
-    # Added 2026-08-11. Hungarian had no scanner at all: its normalized JSONs were curated
-    # by hand, so every re-sort of the folders left the graph pointing at paths that no
-    # longer existed and blind to anything new, with nothing reporting it.
     # `build_hungarian_graph.py` is incremental rather than from-scratch because
     # groups.json and labels.json reference songs by song_id.
     "hungarian": [ZENE / "_magyar rap", ZENE / "_magyar trap"],
@@ -37,9 +32,8 @@ SCAN_ROOTS = {
     "pop": [ZENE / "_other" / "_pop"],
     "alternate": [ZENE / "_other" / "_alternate"],
     "latino": [ZENE / "_other" / "_latino"],
-    # Added 2026-08-03. Missing from this list meant missing from the graph entirely -
-    # 653 files, whole genres, never scanned rather than badly attributed. A folder that
-    # is not here is invisible, and nothing reports it.
+    # A folder that is not in this list is invisible to the graph, and nothing reports it:
+    # 653 files, whole genres, were never scanned before these entries existed.
     "african": [ZENE / "_other" / "_african music"],
     "roman": [ZENE / "_other" / "_roman"],
     "reggae": [ZENE / "_other" / "_reggea"],
@@ -53,16 +47,6 @@ SCAN_ROOTS = {
     "intlrap": [ZENE / "_rap" / "_other"],
     "intltrap": [ZENE / "_trap" / "_other country random"],
 }
-
-
-def get_last_rebuild() -> float:
-    if STATE_FILE.exists():
-        return float(STATE_FILE.read_text().strip())
-    return 0.0
-
-
-def save_rebuild_time(t: float):
-    STATE_FILE.write_text(str(t))
 
 
 def has_changes(roots: list[Path], since: float, area: str) -> bool:
@@ -90,13 +74,8 @@ def has_changes(roots: list[Path], since: float, area: str) -> bool:
 
 
 def run(cmd: list[str], desc: str):
-    """Always decode as UTF-8. `text=True` alone decodes with the Windows locale codepage,
-    cp1250 here, which cannot represent what the builders print - artist names carry Hungarian
-    and Spanish accents. That raised UnicodeDecodeError inside subprocess's reader thread and
-    aborted the whole rebuild partway through `magyar` on 2026-08-12."""
     print(f"  {desc}...")
-    r = subprocess.run([sys.executable] + cmd, cwd=str(PROJECT_ROOT), capture_output=True,
-                       text=True, encoding="utf-8", errors="replace")
+    r = run_script(cmd, PROJECT_ROOT)
     if r.returncode != 0:
         print(f"    ERROR: {(r.stderr or '')[:300]}")
         return False
@@ -108,19 +87,14 @@ def run(cmd: list[str], desc: str):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0],
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    # --no-push is accepted and ignored: this is a pure builder now, git lives in the root
-    # rebuild.py. Kept so older invocations and notes do not fail on an unknown flag.
-    ap.add_argument("--no-push", action="store_true", help=argparse.SUPPRESS)
     ap.add_argument("--dry-run", action="store_true",
                     help="report which areas changed and exit")
     args = ap.parse_args()
 
-    last = get_last_rebuild()
-    import time
+    last = last_rebuild(STATE_FILE)
     now = time.time()
 
     if last > 0:
-        from datetime import datetime
         print(f"Last rebuild: {datetime.fromtimestamp(last).strftime('%Y-%m-%d %H:%M')}")
     else:
         print("First run — rebuilding everything.")
@@ -166,7 +140,7 @@ def main():
               "are picked up again.")
         return 1
 
-    save_rebuild_time(now)
+    save_rebuild(STATE_FILE, now)
     print(f"\nrebuilt: {', '.join(changed)}")
     return 0
 

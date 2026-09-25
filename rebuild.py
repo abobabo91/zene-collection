@@ -5,19 +5,13 @@
     python rebuild.py --dry-run      # say what would rebuild, write nothing
     python rebuild.py --only graph   # one stage (graph | timeline | dashboard)
 
-## Why this exists
+## Why one entry point
 
-The three used to be separate repos with a `rebuild.py` each. They were never independent:
-`dashboard/build.py` reads the other two's output straight off disk, and every collection
-change needs all three rebuilt in this order. Two consequences made the split actively
-expensive - one logical change took three commits and three pushes, and the two rebuild
-scripts drifted into near-copies of one another. The same two bugs had to be found and
-fixed twice on 2026-08-12: output decoded with the Windows locale codepage instead of
-UTF-8, which died on accented artist names, and an unconditional `git push` that fired as a
-side effect of any run.
-
-So the stages are now plain builders that write files and return an exit code, and **this
-script is the only thing that touches git.**
+`dashboard/build.py` reads the graph's and the timeline's output straight off disk, and every
+collection change needs all three rebuilt in this order, so one logical change is one commit
+and one push. The stages are plain builders that write files and return an exit code;
+**this script is the only thing that touches git.** An unconditional `git push` as a side
+effect of any run is the failure that rule exists to prevent.
 
 ## Order
 
@@ -37,6 +31,9 @@ import time
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+from buildkit import run_script  # noqa: E402
+
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 #: (name, working dir, command). Order matters - see the module docstring.
@@ -48,13 +45,8 @@ STAGES = [
 
 
 def run(name: str, cwd: Path, cmd: list[str], dry: bool) -> bool:
-    """`encoding="utf-8"` is not optional: `text=True` alone decodes with the Windows locale
-    codepage (cp1250 here), which cannot represent the accented artist names the builders
-    print, and the UnicodeDecodeError lands in subprocess's reader thread mid-rebuild."""
-    argv = [sys.executable, "-u"] + cmd + (["--dry-run"] if dry else [])
     t0 = time.time()
-    proc = subprocess.run(argv, cwd=str(cwd), capture_output=True, text=True,
-                          encoding="utf-8", errors="replace")
+    proc = run_script(cmd + (["--dry-run"] if dry else []), cwd)
     lines = [l.rstrip() for l in (proc.stdout or "").splitlines() if l.strip()]
     ok = proc.returncode == 0
     print(f"  [{'OK ' if ok else 'FAIL'}] {name:<10} {time.time() - t0:6.1f}s  "
@@ -97,8 +89,12 @@ def main() -> int:
 
     changed = len((status.stdout or "").strip().splitlines())
     subprocess.run(["git", "add", "-A"], cwd=str(HERE))
-    subprocess.run(["git", "commit", "-m", f"Rebuild: {', '.join(s[0] for s in stages)}"],
-                   cwd=str(HERE), capture_output=True)
+    commit = subprocess.run(["git", "commit", "-m", f"Rebuild: {', '.join(s[0] for s in stages)}"],
+                            cwd=str(HERE), capture_output=True, text=True, encoding="utf-8",
+                            errors="replace")
+    if commit.returncode != 0:
+        print(f"\ncommit FAILED: {(commit.stderr or commit.stdout or '')[:200]}")
+        return 1
     print(f"\ncommitted {changed} changed file(s)")
     if a.no_push:
         print("--no-push: the caller owns the push")

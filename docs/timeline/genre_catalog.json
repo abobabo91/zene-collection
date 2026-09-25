@@ -1,5 +1,263 @@
 [
   {
+    "file": "_other\\_alternate\\_random\\Gabriel Jacoby - brother and sister (Official Visualizer).mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_alternate\\_random\\Gabriel Jacoby - dirty south baby (Official Visualizer).mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Artmann - Only Us (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Sade - Smooth Operator (C.I.S.C.O Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\ChixUnighted - Words and Dreams (Addex Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\edm_electronic_pop\\Mark Alow — Quasar (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "edm",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\Aldebaran - Hraach, Armen Miran.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\Bonga - Mona Ki Ngi Xica.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\BuVu, Sercan Peşan, Cafe De Anatolia - Organic Makam feat. Hasan Kiriş (feat. Hasan Kiriş).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\Hraach - Deep strings(Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\Kora - Fragile (Original Mix) [Official Video].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\Majnoon - Zamane (feat. Mtu & Eren Erdogan).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\Moderat - More Love (Rampa &ME Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\YannaY, Cafe De Anatolia - Romantica.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_afro_organic\\Yeahman, Hajna, Mina Shankha - Miniyamba.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "afro & organic house",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\BICEP   GLUE (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\pop_house\\Miss You (Bonus Track).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\_random\\Get Lost.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_other\\_elektro\\house_techno\\_random\\Marsellus.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "house & techno",
+    "modified": "2026-09-25 19:00:33"
+  },
+  {
+    "file": "_magyar trap\\_random\\Figura\\LiFE (prt  II )\\Figura feat. gyuris, Szalai - sziamia.mp3",
+    "main_genre": "hungarian trap",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_alternate\\Noah Kahan\\Mix - Noah Kahan\\Strawberry Wine.mp3",
+    "main_genre": "alternative",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_pop\\_modern\\marseaux\\Best Of Marseaux\\An To Les Agapi Auto.mp3",
+    "main_genre": "pop",
+    "sub_genre": "modern",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_pop\\_modern\\marseaux\\Best Of Marseaux\\To Megalytero Mou Lathos.mp3",
+    "main_genre": "pop",
+    "sub_genre": "modern",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_rnb\\D_Angelo\\Greatdayndamornin'Booty.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_rnb\\D_Angelo\\Send It On.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_rnb\\D_Angelo\\Shit, Damn, Motherfucker.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_rnb\\D_Angelo\\Unshaken.mp3",
+    "main_genre": "r&b",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_rock\\tokio hotel\\tokio hotel Kings Of Suburbia\\Dancing In The Dark.mp3",
+    "main_genre": "rock",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_other\\_rock\\tokio hotel\\tokio hotel Kings Of Suburbia\\We Found Us.mp3",
+    "main_genre": "rock",
+    "sub_genre": null,
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_rap\\new york\\Stack Bundles\\I Can't Go On.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_rap\\new york\\Stack Bundles\\NY Minute (feat. Jim Jones).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_rap\\new york\\Stack Bundles\\Tha Problem (feat. Ransom).mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_rap\\new york\\Stack Bundles\\Weatherman.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_rap\\new york\\Stack Bundles\\What's Goin' on in the Hood.mp3",
+    "main_genre": "rap",
+    "sub_genre": "new york",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\atlanta\\Gucci Mane\\Gucci Mane - So Icy Boyz (Deluxe)\\How.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\atlanta\\Gucci Mane\\Gucci Mane - So Icy Boyz (Deluxe)\\Poppin.mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\atlanta\\Gucci Mane\\So Icy Boyz The Finale\\Gucci Mane - Hot Winter (feat. Lil Tjay) [Official Audio].mp3",
+    "main_genre": "trap",
+    "sub_genre": "atlanta",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\detroit\\DDG Songs\\DDG - don't overthink it\\DDG - Man On the Cross (Music Video).mp3",
+    "main_genre": "trap",
+    "sub_genre": "detroit",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\detroit\\DDG Songs\\DDG - don't overthink it\\DDG - Yea I Kno (Music Video).mp3",
+    "main_genre": "trap",
+    "sub_genre": "detroit",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\_usa random\\Brennan Savage\\Brennan Savage - Singles\\ALIVE!.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\_usa random\\Brennan Savage\\Brennan Savage - Singles\\Let It Burn.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\_usa random\\Brennan Savage\\Brennan Savage - Tragedy II\\Better Without Me.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
+    "file": "_trap\\_usa random\\Brennan Savage\\Brennan Savage - Tragedy II\\Kiss Me On My Neck.mp3",
+    "main_genre": "trap",
+    "sub_genre": "usa",
+    "modified": "2026-09-25 19:00:21"
+  },
+  {
     "file": "_other\\_alternate\\_chill\\Fred again  - Actual Life 3 (January 1 - September 9 2022)\\Fred again.. - Bleu (better with time).mp3",
     "main_genre": "alternative",
     "sub_genre": null,
@@ -1723,12 +1981,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\pop_house\\Lost Frequencies ft. Calum Scott - Where Are You Now (Official video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-16 09:17:31"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Miss You (Bonus Track).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-16 09:17:31"
@@ -13011,18 +13263,6 @@
     "file": "_rap\\new york\\Bahamadia - Kollage (Full Album) (1996)\\Uknowhowwedu.mp3",
     "main_genre": "rap",
     "sub_genre": "new york",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_trap\\atlanta\\Gucci Mane\\Gucci Mane -  So Icy Summer  (Mixtape)\\Gucci Mane -  Still Remember  Ft. Pooh Shiesty (So Icy Summer).mp3",
-    "main_genre": "trap",
-    "sub_genre": "atlanta",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_trap\\atlanta\\Gucci Mane\\Gucci Mane -  So Icy Summer  (Mixtape)\\Pooh Shiesty -  Main Slime  [Remix] Ft. Moneybagg Yo & Tay Keith (So Icy Summer).mp3",
-    "main_genre": "trap",
-    "sub_genre": "atlanta",
     "modified": "2026-07-08 08:52:01"
   },
   {

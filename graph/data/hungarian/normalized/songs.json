@@ -61203,6 +61203,46 @@
     ]
   },
   {
+    "song_id": "h-02283",
+    "file": "_magyar trap\\_random\\Figura\\LiFE (prt  II )\\Figura feat. gyuris, Szalai - sziamia.mp3",
+    "title": "sziamia",
+    "title_variants": [],
+    "source_root": "_magyar trap",
+    "folder_region": null,
+    "regions": [],
+    "primary_artists": [
+      "Figura"
+    ],
+    "primary_groups": [],
+    "featuring_artists": [
+      "gyuris",
+      "Szalai"
+    ],
+    "featuring_groups": [],
+    "artists": [
+      "Figura",
+      "gyuris",
+      "Szalai"
+    ],
+    "credits": [
+      {
+        "entity": "Figura",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "gyuris",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Szalai",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ]
+  },
+  {
     "song_id": "h-01969",
     "file": "_magyar trap\\_random\\hazetomika\\BIGBET.mp3",
     "title": "BIGBET",
