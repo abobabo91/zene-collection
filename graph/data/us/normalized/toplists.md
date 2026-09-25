@@ -1,6 +1,6 @@
 # US Local Music Toplists
 
-Songs: `6667`
+Songs: `6669`
 Persons: `1184`
 Groups: `18`
 Labels: `29`
@@ -22,7 +22,7 @@ Unattributed songs: `126`
 | 9 | XXXTentacion | 95 | 83.8 | 93.0 | 90 | 5 | 0 | Florida | - | - |
 | 10 | Drake | 110 | 78.8 | 92.9 | 78 | 32 | 0 | Toronto | Young Money | - |
 | 11 | Lil Peep | 84 | 74.5 | 82.0 | 80 | 4 | 0 | California | - | - |
-| 12 | Gucci Mane | 87 | 62.5 | 78.2 | 72 | 16 | 0 | Atlanta | - | - |
+| 12 | Gucci Mane | 88 | 63.0 | 79.2 | 73 | 16 | 0 | Atlanta | - | - |
 | 13 | Jedi Mind Tricks / Vinnie Paz | 78 | 58.6 | 76.5 | 75 | 51 | 0 | Philadelphia | - | - |
 | 14 | 2Pac | 74 | 60.8 | 68.9 | 65 | 9 | 0 | California | - | - |
 | 15 | Lil Durk | 86 | 56.7 | 68.8 | 55 | 31 | 0 | Chicago | OTF | - |
@@ -87,25 +87,25 @@ Unattributed songs: `126`
 | 74 | DJ Khaled | 21 | 9.4 | 21.0 | 21 | 3 | 0 | Florida | - | - |
 | 75 | Pop Smoke | 21 | 15.5 | 21.0 | 21 | 0 | 0 | New York | - | - |
 | 76 | Xzibit | 24 | 18.7 | 20.9 | 19 | 5 | 0 | California | - | - |
-| 77 | Havoc | 40 | 19.1 | 20.6 | 5 | 1 | 34 | New York | - | Mobb Deep |
-| 78 | YG | 26 | 17.4 | 20.4 | 16 | 10 | 0 | California | - | - |
-| 79 | G-Eazy | 21 | 12.3 | 20.3 | 20 | 1 | 0 | USA | - | - |
-| 80 | DMX | 23 | 16.0 | 20.3 | 19 | 4 | 0 | New York | - | - |
-| 81 | Tech N9ne | 20 | 19.5 | 20.0 | 20 | 0 | 0 | USA Other | - | - |
-| 82 | Talib Kweli | 22 | 18.8 | 19.8 | 18 | 4 | 0 | USA Other | - | - |
-| 83 | Prodigy | 40 | 19.7 | 19.7 | 4 | 3 | 34 | New York | - | Mobb Deep |
-| 84 | Kool G Rap | 20 | 18.5 | 19.5 | 19 | 1 | 0 | USA Other | - | - |
-| 85 | Raekwon | 51 | 17.3 | 19.3 | 14 | 5 | 32 | New York | - | Wu-Tang Clan |
-| 86 | Pooh Shiesty | 21 | 15.2 | 19.1 | 18 | 3 | 0 | Memphis | - | - |
+| 77 | Pooh Shiesty | 23 | 16.1 | 20.6 | 19 | 4 | 0 | Memphis | - | - |
+| 78 | Havoc | 40 | 19.1 | 20.6 | 5 | 1 | 34 | New York | - | Mobb Deep |
+| 79 | YG | 26 | 17.4 | 20.4 | 16 | 10 | 0 | California | - | - |
+| 80 | G-Eazy | 21 | 12.3 | 20.3 | 20 | 1 | 0 | USA | - | - |
+| 81 | DMX | 23 | 16.0 | 20.3 | 19 | 4 | 0 | New York | - | - |
+| 82 | Tech N9ne | 20 | 19.5 | 20.0 | 20 | 0 | 0 | USA Other | - | - |
+| 83 | Talib Kweli | 22 | 18.8 | 19.8 | 18 | 4 | 0 | USA Other | - | - |
+| 84 | Prodigy | 40 | 19.7 | 19.7 | 4 | 3 | 34 | New York | - | Mobb Deep |
+| 85 | Kool G Rap | 20 | 18.5 | 19.5 | 19 | 1 | 0 | USA Other | - | - |
+| 86 | Raekwon | 51 | 17.3 | 19.3 | 14 | 5 | 32 | New York | - | Wu-Tang Clan |
 | 87 | Offset | 43 | 18.1 | 19.1 | 9 | 3 | 31 | Atlanta | - | Migos |
 | 88 | Eminem | 55 | 10.4 | 19.0 | 0 | 0 | 55 | Detroit | - | Bad Meets Evil, D12 |
 | 89 | The Notorious B.I.G. | 20 | 13.4 | 18.8 | 18 | 2 | 0 | New York | - | - |
 | 90 | Tory Lanez | 21 | 18.3 | 18.8 | 17 | 4 | 0 | Toronto | - | - |
-| 91 | Lupe Fiasco | 19 | 14.8 | 18.5 | 18 | 1 | 0 | USA | - | - |
-| 92 | Fetty Wap | 22 | 14.5 | 18.5 | 16 | 6 | 0 | New York | - | - |
-| 93 | Nipsey Hussle | 19 | 15.8 | 18.3 | 18 | 1 | 0 | California | - | - |
-| 94 | Beanie Sigel | 20 | 15.7 | 18.3 | 17 | 3 | 0 | Philadelphia | - | - |
-| 95 | Moneybagg Yo | 20 | 13.8 | 18.2 | 17 | 3 | 0 | Memphis | CMG | - |
+| 91 | Moneybagg Yo | 21 | 14.1 | 18.6 | 17 | 4 | 0 | Memphis | CMG | - |
+| 92 | Lupe Fiasco | 19 | 14.8 | 18.5 | 18 | 1 | 0 | USA | - | - |
+| 93 | Fetty Wap | 22 | 14.5 | 18.5 | 16 | 6 | 0 | New York | - | - |
+| 94 | Nipsey Hussle | 19 | 15.8 | 18.3 | 18 | 1 | 0 | California | - | - |
+| 95 | Beanie Sigel | 20 | 15.7 | 18.3 | 17 | 3 | 0 | Philadelphia | - | - |
 | 96 | Big Sean | 22 | 14.5 | 18.2 | 16 | 6 | 0 | USA | - | - |
 | 97 | roy woods | 18 | 17.0 | 18.0 | 18 | 0 | 0 | Toronto | - | - |
 | 98 | Fredo Bang | 18 | 15.0 | 17.5 | 17 | 1 | 0 | Louisiana | - | - |
@@ -1228,7 +1228,7 @@ Unattributed songs: `126`
 | 3 | QC | 110 | 2 | 1 | Atlanta, California, Chicago, Detroit, Florida, Louisiana, Memphis, New York, Philadelphia, Toronto, USA |
 | 4 | OTF | 109 | 2 | 0 | Atlanta, California, Chicago, Detroit, Florida, Louisiana, Memphis, New York, Philadelphia, Toronto, USA |
 | 5 | MMG | 89 | 3 | 0 | Atlanta, California, Chicago, Florida, Louisiana, Memphis, New York, Philadelphia, USA, USA Other |
-| 6 | CMG | 69 | 4 | 0 | Atlanta, Chicago, DC, Detroit, Florida, Louisiana, Memphis, Philadelphia, USA |
+| 6 | CMG | 70 | 4 | 0 | Atlanta, Chicago, DC, Detroit, Florida, Louisiana, Memphis, Philadelphia, USA |
 | 7 | Dipset | 46 | 3 | 0 | Atlanta, Louisiana, New York, USA, USA Other |
 | 8 | TDE | 42 | 3 | 0 | Atlanta, California, Chicago, New York, USA |
 | 9 | Opium | 26 | 1 | 0 | Atlanta, Philadelphia, Toronto, USA |
@@ -1259,7 +1259,7 @@ Unattributed songs: `126`
 |---|--------|-------|---------|--------|--------|---------|
 | 1 | New York | 1040 | 206 | 4 | 13 | _rap, _trap |
 | 2 | USA | 1037 | 521 | 4 | 10 | _trap |
-| 3 | Atlanta | 926 | 191 | 3 | 12 | _rap, _trap |
+| 3 | Atlanta | 928 | 191 | 3 | 12 | _rap, _trap |
 | 4 | USA Other | 797 | 250 | 4 | 6 | _rap |
 | 5 | California | 540 | 137 | 3 | 6 | _rap, _trap |
 | 6 | Louisiana | 453 | 86 | 1 | 8 | _rap, _trap |
