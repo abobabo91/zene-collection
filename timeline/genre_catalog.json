@@ -1,80 +1,1244 @@
 [
   {
+    "file": "_other\\_elektro\\deep_house\\ZHU\\house_techno\\ZHU - Faded.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Adana Twins - Strange (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Armin van Buuren feat. Sharon den Adel - In And Out Of Love (Lost Frequencies Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Chaim Feat. Meital De Razon - Love Rehab (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Fritz _ Paul Kalkbrenner - Sky and Sand (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Kollektiv Turmstrasse - Luchtoorn (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Lost Frequencies - Are You with Me - Radio Edit.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Lost Frequencies feat. Janieck Devy - Reality (Official Music Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Lost Frequencies ft. Calum Scott - Where Are You Now (Official video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\M.A.N.D.Y. vs Booka Shade - Body Language.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Mahmut Orhan - Feel feat. Sena Sener (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Pascal Letoublon - Friendships (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Peer Kusiv - Someone Told Me.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Reflekt Feat. Delline Bass - Need To Feel Loved (Adam K & Soha Vocal Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Regard, RAYE - Secrets (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Rompasso - Angetenar (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\RÜFÜS DU SOL ●● Innerbloom (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Solomun - Somebody_s Story (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Sonnentanz (Sun Don_t Shine ft. Will Heard).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Spada - Red Velvet Dress.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Stavroz - The Finishing (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Stay With Me (Rainer + Grimm Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Ten Walls - Walking with Elephants (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\The Police - Every Breath You Take (Deep Chills Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\The XX - Sunset (Mick Benjamins_#39_ Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Topic ft. Lili Pistorius - Fly Away (Official Music Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Tube _ Berger - Imprint Of Pleasure (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\USB Players - Must Have Been (ft. I AM L).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Von Paul Kalkbrenner - Aaron.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Wamdue Project - King of My Castle (Official HD Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:38"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\AndréFalk\\AndreFalk - After Things v2.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\AndréFalk\\AndréFalk - After Things.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\AndréFalk\\AndréFalk - Between Things.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\AndréFalk\\AndréFalk - Late Shadows.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\AndréFalk\\AndréFalk - Pale Tension.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\AndréFalk\\AndréFalk - Slow Rupture.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\AndréFalk\\[SEED] AndréFalk - Silent Remnants.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Bakermat_s Official Music Videos\\Bakermat - One Day (Vandaag) (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Bob Moses\\Bob Moses - Far From The Tree (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Bob Moses\\Bob Moses - Hands To Hold (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Bob Moses\\Bob Moses Feat. Francis Harris - It_s Gone.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\disclosure\\Disclosure - Magnets ft. Lorde.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\disclosure\\2013 - Remixes Vol. 1 (Vinyl, 12) - (320 kbps)\\05. B1 - Disclosure _ Sam Smith - Latch (Jamie Jones Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\03. Disclosure - Latch (Feat. Sam Smith - Album Version).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\05. Disclosure - White Noise (Feat. AlunaGeorge - Album Version).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\14. Disclosure - Help Me Lose My Mind (Feat. London Grammar).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\16. Disclosure - What_s In Your Head.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Kiasmos\\Kiasmos - Bent.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Kiasmos\\Kiasmos - Jarred.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Kiasmos\\Kiasmos - Swayed.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Kiasmos\\Tale of Us - Notte Senza Fine (Kiasmos Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Kiasmos\\Kiasmos - 2014 - Kiasmos (digital)\\03 - Looped.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Klangkarussell Official Music\\Klangkarussell - Good To Go (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Klangkarussell Official Music\\Klangkarussell - Sonnentanz.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Klangkarussell Official Music\\Klangkarussell - Time (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Oliver Koletzki\\A Tribe Called Kotori.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Oliver Koletzki\\Love Song.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Oliver Koletzki\\Oliver Koletzki & Township Rebellion - The Arctic Voice [Stil vor Talent].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Oliver Koletzki\\Oliver Koletzki feat. HVOB - Bones.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Oliver Koletzki\\Oliver Koletzki feat. Township Rebellion - The Arctic Voice (RDNK Remix) [Stil vor Talent].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Robin Schulz\\gnash Olivia O_Brien Robin Schulz - i hate u, i love u (feat. olivia o_brien) - Robin Schulz Remix.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Robin Schulz\\Lilly Wood _ The Prick and Robin Schulz - Prayer In C (Robin Schulz Remix) (Official).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Robin Schulz\\Robin Schulz - Prayer in C (Robin Schulz Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Robin Schulz\\Robin Schulz - Sun Goes Down feat. Jasmine Thompson (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Robin Schulz\\Robin Schulz - Sunset (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Robin Schulz\\Robin Schulz - Willst du (Bootleg) v2.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Robin Schulz\\Robin Schulz – OK (feat. James Blunt) (Official Music Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\ZHU\\edm_electronic_pop\\ZHU - Faded.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\01-coldplay-midnight_(kygo_remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\07 I Remember.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\15 Kiesza - Hideaway.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\16 Route 94 - My Love (Feat.Jess Glyne).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\22 Lilly Wood _ Robin Schulz - Prayer In C (Robin Schulz Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\26 Duke Dumont - I Got You (Feat.Jax Jones).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\3LAU ft. Bright Lights - How You Love Me (Suprafive Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\68 Klingande - Jubel.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\76 FAUL _ Wad AD VS Pnau - Changes.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\80 Wankelmut _ Emma Louise - My Head Is A Jungle.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\A - Ha - Take On Me (Kygo Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Aaron Smith - Dancin (KRONO Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Alef - Sol.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Alek Human - A-MAR.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Alex Adair - Make Me Feel Better.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Alex Cruz - All I Knew (ft. Jasmine Thompson).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Alex Cruz - Formidable.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Alex Q - Last Song (Nico Pusch Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Amy Capilari _ Burex - Mister Moon _ Miss Sun (LowRiot Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Anna Naklab feat. Alle Farben _ YOUNOTUS - Supergirl (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Asaf Avidan - One day _ Reckoning Song (Wankelmut Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Avicii - Hey Brother (TEEMID x Tessa Rose Jackson Cover).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Bastille - No Scrubs (Freddy Verano edit)    FREE DOWNLOAD   .mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Bedouin feat. Discern - Real Lies (Original Version).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Besso - Miracle Nights (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Big Tales.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Black Coffee _ David Guetta - Drive feat. Delilah Montagu [Ultra Music].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\BLR x Rave _ Crave - Taj (Official Music Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Bound To Divide & Lewyn - Coming Home (Piece Wise Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Burak Yeter - Tuesday ft. Danelle Sandoval.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Calvin Harris Disciples - How Deep Is Your Love.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Calvin Harris _ Disciples - How Deep Is Your Love.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Celeda   Music Is The Answer Danny Tenaglia).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Cheat Codes, Kris Kross Amsterdam - Sex (Cheat Codes X Kris Kross Amsterdam).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Childish Gambino - Heartbeat (Bentley Grey Nu Disco Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\ChixUnighted - Words and Dreams (Addex Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Chris Isaac - Wicked Game (ft. Seren) (Chillion Re.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Chris Isaak - Wicked Game (Adriatique _ Thyladomid Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Christian Löffler - Haul (feat. Mohna).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Christian Löffler - York.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Coldplay, Seeb - Hymn For The Weekend - Seeb Remix.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Danny Darko - Mad World (Deep House Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Daughter - Landfill (Dennis Dohl Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\De Hofnar - Hier Zonder Jou.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Deep Violin Vibes - Scarlet.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\DENNIS FERRER HEY HEY (ORIGINAL MIX).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Dillon - Thirteen Thirtyfive (LCAW Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Duke Dumont - Ocean Drive (Official Music Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Dust & Paradise - Still Here.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Eliphino - More Than Me.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Empire Of The Sun - We Are The People (FlicFlac Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Eurythmics - Sweet Dreams (Ibiza Deep Summer Remix 2015).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Felix Jaehn - Ain’t Nobody (Loves Me Better) ft. Jasmine Thompson.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Felon - Isla (Sebastian Carter Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Flight of Birds.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Fred again.. - Marea (we’ve lost dancing).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Fred again.. feat. The Blessed Madonna - Marea (We’ve Lost Dancing).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Freddy Verano - Platja (De Hofnar Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Futago - Californication (feat. Amy Kirkpatrick).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Groove Insane - Broken Heart (Original Mix)   013.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Hayden James - Something About You (Official Music Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Henry Krinkle - Stay.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Henry Land _ Samuel - Demons (Ft. Jasmine Thompson _ Hilman).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Holly Henry - Seven Nation Army (TEEMID Cover).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Infinity Ink - Infinity (HQ).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Ivan Gough _ Feenixpawl ft. Georgi Kay - In My Mind (Billy Marlais Bootleg).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Jack Rush - Take You Home.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\James Hersey - What I ve Done (Feast. Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Jamie Woon - Shoulda (Samy Chelly Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Joachim Pastor - Reykjavik.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\John Legend - All of Me (De Hofnar Bootleg) (2).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Jonas Blue & Malive - Edge Of Desire (Extended Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Jonas Blue, JP Cooper - Perfect Strangers.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Kings Of Leon - Closer (Presets Remix - Jose Espeland Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Klangkarussell - Circuits (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Klangkarussell - Hey Maria (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Klaves - Return.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Kungs Cookin_ On 3 Burners - This Girl (Kungs Vs. Cookin_ On 3 Burners).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Kungs _ Cookin_ On 3 Burners - This Girl (HQ+Sound).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Kygo - Firestone ft. Conrad Sewell (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Kygo - Stole The Show feat. Parson James [Official Music Video - YTMAs].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Kygo, Selena Gomez - It Ain t Me.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Lastlings - Visions (Audio).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Lilly Wood _ The Prick - Prayer In C (Jean Blanc Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Lily Kershaw - As It Seems (De Hofnar Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Logic1000 – What You Like (feat. Yunè Pinku) (Official Visualiser).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Lonely in the Rain - Chasing My Dreams (feat. SOMOH).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Love Tonight (Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Luca & Nina Carr - Fever.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Madonna - Frozen (Boral Kibil Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\MAISON ROYALE - Let Your Body Fly.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Mano Le Tough - Weather Master [PLAYRJC083].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Marit Larsen - I Don t Want To Talk About It (Nelsaan _ Matoma Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Mark Alow — Quasar (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Martin Roth - An Analog Guy In A Digital World.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Mattafix - Big City Life (LEEX Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\MEDUZA, James Carter - Bad Memories ft. Elley Duhé, FAST BOY.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Milky Chance  - Stolen Dance (FlicFlac Edit) 4clubbers.pl.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Milky Chance - Down By The River (FlicFlac Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Miss Jane - It s A Fine Day (Lukas Grinys Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Miza & Namté - Lonely Nights (Visual).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Mree - Lift Me Up (FlyBoy Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Nikos Diamantopoulos feat. Toshi - Broken (MIDH Premiere).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Noir Désir - Le vent nous portera (Niklas Ibach _ Markus Spitta Edit) [HD].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Nomad - Devotion - (1991).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Noyade - Underwater (Official Lyric Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\No_4mat - Laura_s anthem.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\No_4mat - Quick Pay.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Nu - MAN O TO (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\N_to - Every Wall Is A Door.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\N_to - La Clé Des Champs.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Ofenbach - Be Mine (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Oh Wonder - Technicolour Beat (DNKR Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Ornette -  Crazy  (Nôze remix) [Official].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Parov Stelar - The Sun feat. Graham Candy (LCAW Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Pas Sages - Nuit d'Azur.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Peggy Gou - (It Goes Like) Nanana (Lyrics).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\PETIT BISCUIT - Sunset Lover (Masquerade _ Mahama Bootleg).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Riccardo - Afternoon.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Robin S - Show Me Love.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Robin Schulz - Headlights [feat. Ilsey] [Official Video].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Rolipso & Thandi - Afterhours.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Route 94 - My Love (Official Video) ft. Jess Glynne.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\RÜFÜS DU SOL ●● Underwater [Official Audio].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Shouse - Love Tonight (Radio Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Sonnentanz (Sun Don't Shine).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Swanky Tunes Going Deeper - Till The End.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\The Weeknd - Devil May Cry (Fabich _ Ferdinand Weber Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\THYLACINE - Alda (Official Video).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\To the Sea (Einmusik Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Tom Odell - Another Love (Zwette Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\TRINIX - She Said (Big Jet Plane).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\VALNTN - Never Be Alone (LU2VYK Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Vance Joy - Riptide (FlicFlac Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\Won't Forget You (Edit).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\X Ambassadors - Renegades - Stash Konig Remix.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\ZHU - Faded (Vanilla Ace _ Dharkfunkh Remix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:14:37"
+  },
+  {
     "file": "_other\\_alternate\\_random\\Blood Orange - Cupid Deluxe 2013 320kbps CBR MP3 [VX] [P2PDL]\\Blood Orange - devonté_hynes\\Blood Orange - Benzo (Official Video).mp3",
     "main_genre": "alternative",
     "sub_genre": null,
     "modified": "2026-10-03 23:50:45"
   },
   {
-    "file": "_other\\_elektro\\experimental_chill\\AndréFalk\\AndreFalk - After Things v2.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\AndréFalk\\AndréFalk - After Things.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\AndréFalk\\AndréFalk - Between Things.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\AndréFalk\\AndréFalk - Late Shadows.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\AndréFalk\\AndréFalk - Pale Tension.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\AndréFalk\\AndréFalk - Slow Rupture.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\AndréFalk\\[SEED] AndréFalk - Silent Remnants.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Alek Human - A-MAR.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Dust & Paradise - Still Here.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
     "file": "_other\\_elektro\\experimental_chill\\_random\\Nomyn - Quietude.mp3",
     "main_genre": "electronic",
     "sub_genre": "experimental chill",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\_random\\Deep Violin Vibes - Scarlet.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-10-03 23:50:45"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\_random\\MAISON ROYALE - Let Your Body Fly.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
     "modified": "2026-10-03 23:50:45"
   },
   {
@@ -225,18 +1389,6 @@
     "file": "_other\\_elektro\\deep_house\\_random\\Sade - Smooth Operator (C.I.S.C.O Edit).mp3",
     "main_genre": "electronic",
     "sub_genre": "deep house",
-    "modified": "2026-09-25 19:00:33"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\ChixUnighted - Words and Dreams (Addex Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-09-25 19:00:33"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\Mark Alow — Quasar (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
     "modified": "2026-09-25 19:00:33"
   },
   {
@@ -501,12 +1653,6 @@
     "file": "_other\\_elektro\\deep_house\\Nando Fortunato - I Wanna Change (Housenick Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "deep house",
-    "modified": "2026-09-16 09:32:50"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Fred again.. - Marea (we’ve lost dancing).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
     "modified": "2026-09-16 09:32:50"
   },
   {
@@ -2130,12 +3276,6 @@
     "modified": "2026-08-16 09:17:31"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Jonas Blue & Malive - Edge Of Desire (Extended Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-16 09:17:31"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\Swedish House Mafia - Until One\\Supermode - Tell Me Why (Original Mix).mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -2148,12 +3288,6 @@
     "modified": "2026-08-16 09:17:31"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Fred again.. feat. The Blessed Madonna - Marea (We’ve Lost Dancing).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-16 09:17:31"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Tom Santa - We Don't Ever Stop (Official Visualiser).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -2161,30 +3295,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\house\\Duke Dumont - Red Light Green Light (Audio) ft. Shaun Ross.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-16 09:17:31"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\MEDUZA, James Carter - Bad Memories ft. Elley Duhé, FAST BOY.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-16 09:17:31"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Peggy Gou - (It Goes Like) Nanana (Lyrics).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-16 09:17:31"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Won't Forget You (Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-16 09:17:31"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Lost Frequencies ft. Calum Scott - Where Are You Now (Official video).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-16 09:17:31"
@@ -2506,12 +3616,6 @@
     "main_genre": "trap",
     "sub_genre": "memphis",
     "modified": "2026-08-16 09:13:42"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Kungs Cookin_ On 3 Burners - This Girl (Kungs Vs. Cookin_ On 3 Burners).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-15 10:07:03"
   },
   {
     "file": "_rap\\texas\\Geto Boys\\10 - Fuck Faces - SacrfaceTela Devin the Dude  Too Short.mp3",
@@ -4458,18 +5562,6 @@
     "modified": "2026-08-11 10:01:25"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\15 Kiesza - Hideaway.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\16 Route 94 - My Love (Feat.Jess Glyne).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\17 Sigma - Nobody To Love.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -4477,18 +5569,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\19 Calvin Harris - Summer.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\22 Lilly Wood _ Robin Schulz - Prayer In C (Robin Schulz Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\26 Duke Dumont - I Got You (Feat.Jax Jones).mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-11 10:01:25"
@@ -4506,25 +5586,7 @@
     "modified": "2026-08-11 10:01:25"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\68 Klingande - Jubel.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\70 Avicii - Wake Me Up.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\76 FAUL _ Wad AD VS Pnau - Changes.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\80 Wankelmut _ Emma Louise - My Head Is A Jungle.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-11 10:01:25"
@@ -4579,12 +5641,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\Far East Movement - Like A G6.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\Kygo, Selena Gomez - It Ain t Me.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-11 10:01:25"
@@ -4651,12 +5707,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\ZEDD - The Middle.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:25"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\ZHU - Faded.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-11 10:01:25"
@@ -6234,12 +7284,6 @@
     "modified": "2026-08-11 10:01:24"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\Robin S - Show Me Love.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-11 10:01:24"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\Snap - Rhythm Is A Dancer.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -6612,12 +7656,6 @@
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Coldplay, Seeb - Hymn For The Weekend - Seeb Remix.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Desiigner - Panda.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -6696,12 +7734,6 @@
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\X Ambassadors - Renegades - Stash Konig Remix.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Alan Walker - Faded.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -6739,12 +7771,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Calvin Harris, Ellie Goulding - Miracle (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Cheat Codes, Kris Kross Amsterdam - Sex (Cheat Codes X Kris Kross Amsterdam).mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-08 16:45:56"
@@ -6792,12 +7818,6 @@
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Jonas Blue, JP Cooper - Perfect Strangers.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Martin Garrix, Bebe Rexha - In the Name of Love.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -6823,12 +7843,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Steve Aoki Wynter Gordon - Ladi Dadi - Tommy Trash Remix.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Swanky Tunes Going Deeper - Till The End.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-08 16:45:56"
@@ -6876,30 +7890,6 @@
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Celeda   Music Is The Answer Danny Tenaglia).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Infinity Ink - Infinity (HQ).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Nomad - Devotion - (1991).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Route 94 - My Love (Official Video) ft. Jess Glynne.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\[Armand Van Helden] You Don_t Know Me.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -6907,12 +7897,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\house\\Black Coffee\\DeMajor Feat. Lizwi - Traveller (Kususa _ QueTornik Official Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Remixes Vol. 1 (Vinyl, 12) - (320 kbps)\\05. B1 - Disclosure _ Sam Smith - Latch (Jamie Jones Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:45:56"
@@ -6936,12 +7920,6 @@
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Alex Adair - Make Me Feel Better.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\pop_house\\Alle Farben - She Moves feat. Graham Candy (Hippie Sabotage Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -6960,42 +7938,6 @@
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Felix Jaehn - Ain’t Nobody (Loves Me Better) ft. Jasmine Thompson.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Felon - Isla (Sebastian Carter Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Freddy Verano - Platja (De Hofnar Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Kungs _ Cookin_ On 3 Burners - This Girl (HQ+Sound).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Kygo - Stole The Show feat. Parson James [Official Music Video - YTMAs].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Lost Frequencies - Are You with Me - Radio Edit.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\pop_house\\Mark Höffen - An Elephant on Acid.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -7008,43 +7950,13 @@
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Pascal Letoublon - Friendships (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Peer Kusiv - Someone Told Me.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Regard, RAYE - Secrets (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\pop_house\\Rudenko - Everybody.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:45:56"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Spada - Red Velvet Dress.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\pop_house\\Tom Santa - Rainfall (Praise You)   Official Lyric Video.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:45:56"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\gnash Olivia O_Brien Robin Schulz - i hate u, i love u (feat. olivia o_brien) - Robin Schulz Remix.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:45:56"
@@ -7224,12 +8136,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Milky Chance - Down By The River (FlicFlac Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Milky Chance - Stolen Dance (Album Version).mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -7243,12 +8149,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\PSY - GANGNAM STYLE(강남스타일) M V.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\Robin Schulz - Headlights [feat. Ilsey] [Official Video].mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-08 16:43:08"
@@ -7273,12 +8173,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\The Chainsmokers - New York City (ft. Victoria Zaro).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\electronic_pop\\VALNTN - Never Be Alone (LU2VYK Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-08 16:43:08"
@@ -7428,12 +8322,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Calvin Harris _ Disciples - How Deep Is Your Love.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Calvin Harris _ Ellie Goulding - I Need Your Love[HD].mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -7494,12 +8382,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Kygo - Firestone ft. Conrad Sewell (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Laurent Wolf - No Stress.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -7537,12 +8419,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\New World Sound _ Thomas Newson - Flute (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\Ofenbach - Be Mine (Official Video).mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-08 16:43:08"
@@ -7908,12 +8784,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\01-coldplay-midnight_(kygo_remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\02 Here Comes the Sun (feat. Soundmouse).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -7921,12 +8791,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\03 - Lies (Tourist Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\07 I Remember.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -7944,18 +8808,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\A - Ha - Take On Me (Kygo Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Aaron Smith - Dancin (KRONO Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Akcent - How deep is your love.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -7963,42 +8815,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\Akcent - That_s My Name (Ultra Music).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Alex Cruz - Formidable.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Alex Q - Last Song (Nico Pusch Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Amy Capilari _ Burex - Mister Moon _ Miss Sun (LowRiot Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Anna Naklab feat. Alle Farben _ YOUNOTUS - Supergirl (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Asaf Avidan - One day _ Reckoning Song (Wankelmut Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Avicii - Hey Brother (TEEMID x Tessa Rose Jackson Cover).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8022,12 +8838,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Bastille - No Scrubs (Freddy Verano edit)    FREE DOWNLOAD   .mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\BASTILLE feat. Ella - No Angels.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -8035,18 +8845,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\Beshken - Right Time (feat. Soraya).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Calvin Harris Disciples - How Deep Is Your Love.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Chris Isaak - Wicked Game (Adriatique _ Thyladomid Edit).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8077,12 +8875,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\David Zowie - House Every Weekend.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Dillon - Thirteen Thirtyfive (LCAW Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8119,12 +8911,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\Ellie Goulding _Your Song_.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Empire Of The Sun - We Are The People (FlicFlac Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8184,12 +8970,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Hayden James - Something About You (Official Music Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Hayden James - Something About You - ODESZA Remix.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -8197,12 +8977,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\Healing.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Henry Land _ Samuel - Demons (Ft. Jasmine Thompson _ Hilman).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8232,25 +9006,7 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Jack Rush - Take You Home.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\James Hersey - What I ve Done (Feast. Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Jason Mraz - I_m Yours (Live On Earth Single Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\John Legend - All of Me (De Hofnar Bootleg) (2).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8262,31 +9018,7 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Lily Kershaw - As It Seems (De Hofnar Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Lisa May - Another Love (Cover).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Madonna - Frozen (Boral Kibil Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Mattafix - Big City Life (LEEX Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Milky Chance  - Stolen Dance (FlicFlac Edit) 4clubbers.pl.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8316,25 +9048,7 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Noir Désir - Le vent nous portera (Niklas Ibach _ Markus Spitta Edit) [HD].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\N_to - La Clé Des Champs.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Olly Murs feat. Rizzle Kicks - Heart Skips a Beat.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Parov Stelar - The Sun feat. Graham Candy (LCAW Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8370,12 +9084,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\RÜFÜS DU SOL ●● Innerbloom (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Sahara_-_Tyalee__Club_Version____DStrikT___www.muzicafree.net__.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -8400,19 +9108,7 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Sonnentanz (Sun Don_t Shine ft. Will Heard).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Stay (Branchez Bootleg).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Stay With Me (Rainer + Grimm Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8430,19 +9126,7 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\The Police - Every Breath You Take (Deep Chills Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\The Underdog Project - Summer Jam (Official Video HD).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\The XX - Sunset (Mick Benjamins_#39_ Edit).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8454,19 +9138,7 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Topic ft. Lili Pistorius - Fly Away (Official Music Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Y2K, bbno$ - Lalala (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\ZHU - Faded.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8490,12 +9162,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Duke Dumont - Ocean Drive (Official Music Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\Fisher - Losing It (Extended Mix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -8514,12 +9180,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Shouse - Love Tonight (Radio Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\AXWELL\\Axwell - I Found U (Official Video).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -8532,12 +9192,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Bakermat_s Official Music Videos\\Bakermat - One Day (Vandaag) (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\Black Coffee\\Drive (Edit).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -8545,24 +9199,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\house\\Black Coffee\\LaLaLa.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Bob Moses\\Bob Moses - Far From The Tree (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Bob Moses\\Bob Moses - Hands To Hold (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Bob Moses\\Bob Moses Feat. Francis Harris - It_s Gone.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8622,138 +9258,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\disclosure\\Disclosure - Magnets ft. Lorde.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\03. Disclosure - Latch (Feat. Sam Smith - Album Version).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\05. Disclosure - White Noise (Feat. AlunaGeorge - Album Version).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\14. Disclosure - Help Me Lose My Mind (Feat. London Grammar).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\disclosure\\2013 - Settle (Deluxe Edition) - (320 kbps)\\16. Disclosure - What_s In Your Head.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Burak Yeter - Tuesday ft. Danelle Sandoval.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Klangkarussell - Circuits (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Klangkarussell - Hey Maria (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Lost Frequencies feat. Janieck Devy - Reality (Official Music Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Mahmut Orhan - Feel feat. Sena Sener (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Rompasso - Angetenar (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Tube _ Berger - Imprint Of Pleasure (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Klangkarussell Official Music\\Klangkarussell - Good To Go (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Klangkarussell Official Music\\Klangkarussell - Sonnentanz.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Klangkarussell Official Music\\Klangkarussell - Time (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Lilly Wood _ The Prick and Robin Schulz - Prayer In C (Robin Schulz Remix) (Official).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz - Prayer in C (Robin Schulz Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz - Sun Goes Down feat. Jasmine Thompson (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz - Sunset (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz - Willst du (Bootleg) v2.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\pop_house\\Robin Schulz\\Robin Schulz – OK (feat. James Blunt) (Official Music Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Adana Twins - Strange (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\techno\\Ben Klock - Subzero.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -8761,12 +9265,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\techno\\Bjarki - I Wanna Go Bang [TRIP003].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Chaim Feat. Meital De Razon - Love Rehab (Original Mix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8790,19 +9288,7 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\techno\\Fritz _ Paul Kalkbrenner - Sky and Sand (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\techno\\John Summit & Hayla - Shiver (Cassian Remix) [Official Visualizer].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Kollektiv Turmstrasse - Luchtoorn (Original Mix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8814,37 +9300,13 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\techno\\M.A.N.D.Y. vs Booka Shade - Body Language.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\techno\\Paul Kalkbrenner - Aaron (Original Mix).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\techno\\Solomun - Somebody_s Story (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\techno\\Stephan Bodzin - Wir (Official).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Ten Walls - Walking with Elephants (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Von Paul Kalkbrenner - Aaron.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -8857,36 +9319,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\techno\\Acid\\Karen Gwyer - Prophase Metaphase Anaphase Telophase.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Oliver Koletzki\\A Tribe Called Kotori.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Oliver Koletzki\\Love Song.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Oliver Koletzki\\Oliver Koletzki & Township Rebellion - The Arctic Voice [Stil vor Talent].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Oliver Koletzki\\Oliver Koletzki feat. HVOB - Bones.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\techno\\Oliver Koletzki\\Oliver Koletzki feat. Township Rebellion - The Arctic Voice (RDNK Remix) [Stil vor Talent].mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 16:43:08"
@@ -9342,12 +9774,6 @@
     "modified": "2026-08-08 16:43:08"
   },
   {
-    "file": "_other\\_elektro\\trance_dance_rave\\house_classics\\Wamdue Project - King of My Castle (Official HD Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "trance & rave",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
     "file": "_other\\_elektro\\trance_dance_rave\\house_classics\\Zombie Nation - Kernkraft 400.mp3",
     "main_genre": "electronic",
     "sub_genre": "trance & rave",
@@ -9505,12 +9931,6 @@
   },
   {
     "file": "_other\\_elektro\\trance_dance_rave\\trance\\Paul van Dyk feat. Rea - Let Go.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "trance & rave",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\trance_dance_rave\\trance\\Reflekt Feat. Delline Bass - Need To Feel Loved (Adam K & Soha Vocal Mix).mp3",
     "main_genre": "electronic",
     "sub_genre": "trance & rave",
     "modified": "2026-08-08 16:43:08"
@@ -10188,12 +10608,6 @@
     "modified": "2026-08-08 15:51:29"
   },
   {
-    "file": "_other\\_elektro\\edm_electronic_pop\\Futago - Californication (feat. Amy Kirkpatrick).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
     "file": "_other\\_elektro\\edm_electronic_pop\\In the Middle.mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
@@ -10255,18 +10669,6 @@
   },
   {
     "file": "_other\\_elektro\\experimental_chill\\Apollo 11.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\Flight of Birds.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\Sonnentanz (Sun Don't Shine).mp3",
     "main_genre": "electronic",
     "sub_genre": "experimental chill",
     "modified": "2026-08-08 15:51:29"
@@ -10410,60 +10812,6 @@
     "modified": "2026-08-08 15:51:29"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Black Coffee _ David Guetta - Drive feat. Delilah Montagu [Ultra Music].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\BLR x Rave _ Crave - Taj (Official Music Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\DENNIS FERRER HEY HEY (ORIGINAL MIX).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Eliphino - More Than Me.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Eurythmics - Sweet Dreams (Ibiza Deep Summer Remix 2015).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Holly Henry - Seven Nation Army (TEEMID Cover).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Ivan Gough _ Feenixpawl ft. Georgi Kay - In My Mind (Billy Marlais Bootleg).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Jamie Woon - Shoulda (Samy Chelly Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Lilly Wood _ The Prick - Prayer In C (Jean Blanc Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\Move.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -10495,12 +10843,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\Stromae - Alors On Danse (Dubdogz Remix) (Bass Boosted).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2026-08-08 15:51:29"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\USB Players - Must Have Been (ft. I AM L).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2026-08-08 15:51:29"
@@ -13140,24 +13482,6 @@
     "modified": "2026-07-08 08:52:01"
   },
   {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Bound To Divide & Lewyn - Coming Home (Piece Wise Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Lonely in the Rain - Chasing My Dreams (feat. SOMOH).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Luca & Nina Carr - Fever.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
     "file": "_other\\_elektro\\experimental_chill\\_random\\Memories.mp3",
     "main_genre": "electronic",
     "sub_genre": "experimental chill",
@@ -13165,36 +13489,6 @@
   },
   {
     "file": "_other\\_elektro\\experimental_chill\\_random\\Midnight Sleep - Douceur.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Miza & Namté - Lonely Nights (Visual).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Noyade - Underwater (Official Lyric Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Pas Sages - Nuit d'Azur.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\Rolipso & Thandi - Afterhours.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-07-08 08:52:01"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\_random\\TRINIX - She Said (Big Jet Plane).mp3",
     "main_genre": "electronic",
     "sub_genre": "experimental chill",
     "modified": "2026-07-08 08:52:01"
@@ -14205,36 +14499,6 @@
     "file": "_other\\_alternate\\_random\\Wildfires.mp3",
     "main_genre": "alternative",
     "sub_genre": null,
-    "modified": "2026-05-24 20:40:24"
-  },
-  {
-    "file": "_other\\_elektro\\experimental\\You are Liquid\\Christian Löffler - York.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental",
-    "modified": "2026-05-24 20:40:24"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\Kiasmos\\Kiasmos - Bent.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-05-24 20:40:24"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\Kiasmos\\Kiasmos - Jarred.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-05-24 20:40:24"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\Kiasmos\\Kiasmos - Swayed.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2026-05-24 20:40:24"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\Kiasmos\\Tale of Us - Notte Senza Fine (Kiasmos Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
     "modified": "2026-05-24 20:40:24"
   },
   {
@@ -17088,12 +17352,6 @@
     "modified": "2025-08-03 16:11:59"
   },
   {
-    "file": "_other\\_elektro\\house_afro_organic\\Keinemusik - The Party is Over\\Logic1000 – What You Like (feat. Yunè Pinku) (Official Visualiser).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "afro & organic house",
-    "modified": "2025-08-03 16:11:44"
-  },
-  {
     "file": "_other\\_elektro\\house_afro_organic\\Keinemusik - The Party is Over\\André Hommen - Pantone (Manuel Tur Remix) MIDH Premiere.mp3",
     "main_genre": "electronic",
     "sub_genre": "afro & organic house",
@@ -17110,12 +17368,6 @@
     "main_genre": "electronic",
     "sub_genre": "afro & organic house",
     "modified": "2025-08-03 16:06:54"
-  },
-  {
-    "file": "_other\\_elektro\\house_afro_organic\\Keinemusik - The Party is Over\\Mano Le Tough - Weather Master [PLAYRJC083].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "afro & organic house",
-    "modified": "2025-08-03 16:05:55"
   },
   {
     "file": "_other\\_elektro\\house_afro_organic\\Keinemusik - The Party is Over\\Rampa -- Les Gout feat. Chuala.mp3",
@@ -22722,18 +22974,6 @@
     "modified": "2024-08-28 14:40:38"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Riccardo - Afternoon.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2024-08-28 03:56:02"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\No_4mat - Quick Pay.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2024-08-28 03:52:42"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\Agents Of Time -  Lost Dreams.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -22750,18 +22990,6 @@
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2024-08-28 03:48:51"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\chill\\No_4mat - Laura_s anthem.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2024-08-28 02:58:50"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\chill\\Bedouin feat. Discern - Real Lies (Original Version).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2024-08-28 02:57:12"
   },
   {
     "file": "_other\\_pop\\Nelly Furtado\\Nelly Furtado - Big Hoops (Bigger The Better).mp3",
@@ -33612,12 +33840,6 @@
     "modified": "2022-11-03 12:11:09"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\never ends\\Big Tales.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2022-11-03 12:06:21"
-  },
-  {
     "file": "_other\\_vilagzene\\Tranquilidad\\Atahualpa Yupanqui   La Pastorcita Perdida.mp3",
     "main_genre": "world music",
     "sub_genre": null,
@@ -33640,12 +33862,6 @@
     "main_genre": "world music",
     "sub_genre": null,
     "modified": "2022-11-03 11:56:51"
-  },
-  {
-    "file": "_other\\_elektro\\experimental\\You are Liquid\\Christian Löffler - Haul (feat. Mohna).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental",
-    "modified": "2022-11-03 11:55:27"
   },
   {
     "file": "_other\\_elektro\\experimental\\You are Liquid\\Caleb Belkin - Lost Samurai.mp3",
@@ -33718,12 +33934,6 @@
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2022-04-22 14:17:33"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Love Tonight (Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2022-02-21 17:40:59"
   },
   {
     "file": "_trap\\_usa random\\_random\\Staff Picks   ELEVATOR\\IAMSU! - I Love My Squad (Official Music Video).mp3",
@@ -34066,12 +34276,6 @@
     "main_genre": "classical",
     "sub_genre": null,
     "modified": "2022-02-19 14:55:01"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Carmen\\RÜFÜS DU SOL ●● Underwater [Official Audio].mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2022-02-19 14:55:00"
   },
   {
     "file": "_other\\_elektro\\house_techno\\house_chill\\Carmen\\Etherwood - Begin By Letting Go - Official Video.mp3",
@@ -38010,12 +38214,6 @@
     "modified": "2021-05-13 10:21:24"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Dj rolando jaguar\\Tom Odell - Another Love (Zwette Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2021-05-07 12:12:32"
-  },
-  {
     "file": "_other\\_alternate\\Sade\\Sade (1992) - Love Deluxe\\04 - Sade - Like A Tattoo.mp3",
     "main_genre": "alternative",
     "sub_genre": null,
@@ -39588,12 +39786,6 @@
     "modified": "2021-02-09 23:19:24"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\THYLACINE - Alda (Official Video).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2021-02-09 23:19:11"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house_chill\\Sticks.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -39610,12 +39802,6 @@
     "main_genre": "electronic",
     "sub_genre": "deep house",
     "modified": "2021-02-09 23:18:50"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Lastlings - Visions (Audio).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2021-02-09 23:18:42"
   },
   {
     "file": "_other\\_elektro\\house_techno\\house_chill\\Karma.mp3",
@@ -43512,12 +43698,6 @@
     "modified": "2020-11-22 01:31:02"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Nikos Diamantopoulos feat. Toshi - Broken (MIDH Premiere).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2020-11-22 01:31:02"
-  },
-  {
     "file": "_trap\\chicago\\fredo santana\\Fredo Santana - Its A Scary Site (DatPiff.com)\\11 - War Feat Sd Gino Marley Prod By C Sick J Hill (DatPiff Exclusive).mp3",
     "main_genre": "trap",
     "sub_genre": "chicago",
@@ -43986,12 +44166,6 @@
     "modified": "2020-11-07 11:50:26"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\To the Sea (Einmusik Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2020-11-07 11:50:24"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\Within You.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -44002,18 +44176,6 @@
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2020-11-07 11:50:22"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Groove Insane - Broken Heart (Original Mix)   013.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2020-11-07 11:50:20"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Besso - Miracle Nights (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2020-11-07 11:50:18"
   },
   {
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Köszönöm Nektek (2002)\\05. LL Junior - ÁLLok Az Esőben.mp3",
@@ -48672,12 +48834,6 @@
     "modified": "2020-06-04 10:11:40"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\Stavroz - The Finishing (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2020-06-04 10:11:38"
-  },
-  {
     "file": "_trap\\louisiana\\NBA Youngboy\\NBA Youngboy - Mind Of A Menace 3 (DatPiff.com)\\01 - Watchu Sayin.mp3",
     "main_genre": "trap",
     "sub_genre": "louisiana",
@@ -48691,18 +48847,6 @@
   },
   {
     "file": "_other\\_elektro\\house_techno\\Moderat - Bad Kingdom.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2020-06-04 10:11:36"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Nu - MAN O TO (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2020-06-04 10:11:36"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\Ornette -  Crazy  (Nôze remix) [Official].mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2020-06-04 10:11:36"
@@ -55530,30 +55674,6 @@
     "modified": "2019-02-25 11:48:04"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\N_to - Every Wall Is A Door.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2019-02-19 05:09:14"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Martin Roth - An Analog Guy In A Digital World.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2019-02-19 05:08:16"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Chris Isaac - Wicked Game (ft. Seren) (Chillion Re.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2019-02-19 05:06:52"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Joachim Pastor - Reykjavik.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2019-02-19 05:04:24"
-  },
-  {
     "file": "_other\\_mantra\\Namaste Devi Prayer, Hindu, Spiritual music, gentl.mp3",
     "main_genre": "mantra",
     "sub_genre": null,
@@ -57990,12 +58110,6 @@
     "modified": "2018-05-25 00:25:18"
   },
   {
-    "file": "_other\\_elektro\\experimental_chill\\Alef - Sol.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2018-05-25 00:24:16"
-  },
-  {
     "file": "_other\\_rock\\_random\\Arctic Monkeys - Do I Wanna Know (Official Video).mp3",
     "main_genre": "rock",
     "sub_genre": null,
@@ -58366,12 +58480,6 @@
     "main_genre": "hungarian rap",
     "sub_genre": null,
     "modified": "2018-05-24 04:07:48"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Henry Krinkle - Stay.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2018-05-24 00:30:52"
   },
   {
     "file": "_other\\_elektro\\deep_house\\Hans Zimmer - Time (Pen Perry Remix).mp3",
@@ -59908,12 +60016,6 @@
     "main_genre": "trap",
     "sub_genre": "atlanta",
     "modified": "2017-05-03 00:19:12"
-  },
-  {
-    "file": "_other\\_elektro\\trance_dance_rave\\Armin van Buuren feat. Sharon den Adel - In And Out Of Love (Lost Frequencies Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "trance & rave",
-    "modified": "2017-05-02 23:18:34"
   },
   {
     "file": "_trap\\_usa random\\_random\\Daddy Mikey\\Daddy Mikey - Street Wars (Official Video).mp3",
@@ -62460,22 +62562,10 @@
     "modified": "2016-09-12 07:16:36"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Kings Of Leon - Closer (Presets Remix - Jose Espeland Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2016-09-12 07:13:10"
-  },
-  {
     "file": "_other\\_elektro\\deep_house\\Calvin Harris ft. Ellie Goulding - Outside (Siren Gene and Laibert Refix).mp3",
     "main_genre": "electronic",
     "sub_genre": "deep house",
     "modified": "2016-09-12 07:10:44"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\3LAU ft. Bright Lights - How You Love Me (Suprafive Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2016-09-12 07:10:24"
   },
   {
     "file": "_other\\_elektro\\deep_house\\Jay Sean - Maybe (Deepjack _ Mr Nu Radio Edit).mp3",
@@ -62496,12 +62586,6 @@
     "modified": "2016-09-12 07:08:54"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Childish Gambino - Heartbeat (Bentley Grey Nu Disco Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2016-09-12 07:08:40"
-  },
-  {
     "file": "_other\\_elektro\\deep_house\\George Whyman feat. Laura Lebensfroh - Lovers On The Sun (Radio Edit).mp3",
     "main_genre": "electronic",
     "sub_genre": "deep house",
@@ -62514,22 +62598,10 @@
     "modified": "2016-09-12 07:08:02"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\ZHU - Faded (Vanilla Ace _ Dharkfunkh Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2016-09-12 07:06:54"
-  },
-  {
     "file": "_other\\_elektro\\deep_house\\Nico _ Vinz - Am I Wrong ft. RUNAGROUND (Dj Dark _ Dj Vianu Remix).mp3",
     "main_genre": "electronic",
     "sub_genre": "deep house",
     "modified": "2016-09-12 07:05:40"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Danny Darko - Mad World (Deep House Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2016-09-12 07:04:46"
   },
   {
     "file": "_other\\_elektro\\deep_house\\Danny Darko ft Jova Radevska - Time Will Tell (Deep House Mix).mp3",
@@ -62542,12 +62614,6 @@
     "main_genre": "electronic",
     "sub_genre": "deep house",
     "modified": "2016-09-12 07:01:42"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Daughter - Landfill (Dennis Dohl Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2016-09-12 06:58:18"
   },
   {
     "file": "_other\\_elektro\\deep_house\\Indila - Dernière Danse (Paul Damixie`s Private Remix).mp3",
@@ -66144,12 +66210,6 @@
     "modified": "2016-02-10 06:59:00"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\The Weeknd - Devil May Cry (Fabich _ Ferdinand Weber Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2016-02-10 06:57:34"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\STWO - You ft. Sanna Hartfield.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -66918,12 +66978,6 @@
     "modified": "2015-11-17 06:55:04"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Marit Larsen - I Don t Want To Talk About It (Nelsaan _ Matoma Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2015-11-17 06:51:24"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house_chill\\Babel - Incredibly Close (feat. Wrenn).mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -66940,12 +66994,6 @@
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2015-11-17 06:32:00"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Mree - Lift Me Up (FlyBoy Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2015-11-17 06:10:34"
   },
   {
     "file": "_magyar rap\\Vicc Beatz\\FARKASKUTYASZAR [320]\\FARKASKUTYASZAR [320]\\FARKASKUTYASZAR - KETIOZ ALL IN ONE.mp3",
@@ -66976,12 +67024,6 @@
     "main_genre": "hungarian rap",
     "sub_genre": null,
     "modified": "2015-11-17 03:44:18"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Vance Joy - Riptide (FlicFlac Edit).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2015-11-17 03:32:20"
   },
   {
     "file": "_rap\\_other\\_uk rap grime\\Benny Mails - Western.mp3",
@@ -67074,12 +67116,6 @@
     "modified": "2015-11-17 01:08:02"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\Miss Jane - It s A Fine Day (Lukas Grinys Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2015-11-17 01:07:20"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\xSDTRK - powDer.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
@@ -67098,34 +67134,10 @@
     "modified": "2015-11-16 05:54:52"
   },
   {
-    "file": "_other\\_elektro\\house_techno\\house\\PETIT BISCUIT - Sunset Lover (Masquerade _ Mahama Bootleg).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2015-11-16 05:53:22"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house\\Oh Wonder - Technicolour Beat (DNKR Remix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2015-11-16 05:51:52"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\Alex Cruz - All I Knew (ft. Jasmine Thompson).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2015-11-16 05:37:44"
-  },
-  {
     "file": "_other\\_elektro\\house_techno\\house\\Paris Blohm - Miracle.mp3",
     "main_genre": "electronic",
     "sub_genre": "house & techno",
     "modified": "2015-11-16 05:32:12"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\Klaves - Return.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2015-11-16 05:25:42"
   },
   {
     "file": "_other\\_elektro\\deep_house\\Sting - Shape Of My Heart (Robin Schulz Bootleg).mp3",
@@ -67810,12 +67822,6 @@
     "main_genre": "rap",
     "sub_genre": "new york",
     "modified": "2015-10-09 12:25:40"
-  },
-  {
-    "file": "_other\\_elektro\\experimental_chill\\Kiasmos\\Kiasmos - 2014 - Kiasmos (digital)\\03 - Looped.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "experimental chill",
-    "modified": "2015-10-09 10:11:14"
   },
   {
     "file": "_magyar rap\\_random\\ask-hm- hit, haza, szeretet\\ASK-HM - Tápláléklánc.mp3",
@@ -72238,12 +72244,6 @@
     "main_genre": "rap",
     "sub_genre": "usa",
     "modified": "2014-03-11 07:44:12"
-  },
-  {
-    "file": "_other\\_elektro\\house_techno\\house_chill\\De Hofnar - Hier Zonder Jou.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "house & techno",
-    "modified": "2014-03-09 02:51:58"
   },
   {
     "file": "_magyar rap\\Bloose Broavaz\\tibbah, barbar, deego\\BARBARFIVEREK-NAPALM[128][www.theraptunes.com]\\05. Barbárfivérek km. Brigád - Vágatlan Verzió.mp3",
