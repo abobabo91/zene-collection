@@ -1,5 +1,59 @@
 [
   {
+    "file": "_other\\_elektro\\deep_house\\KASKADE\\Kaskade - Be Still.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\KASKADE\\Kaskade - Never Sleep Alone (Official Audio).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\KASKADE\\Kaskade VS. Swedish House Mafia - Fire In Your New Shoes   One (Your Name) - MashUp.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\KASKADE\\Kaskade with Tiësto feat. Haley - Only You.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\KASKADE\\Kaskade _ Adam K. - Raining (Dance.Love Edit) [feat. Sunsun].mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Nu & Jo Ke - Who Loves The Sun (Original Mix)\\Dole & Kom - Phara Oh (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Nu & Jo Ke - Who Loves The Sun (Original Mix)\\Monolink & Acid Pauli - The End.mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\Nu & Jo Ke - Who Loves The Sun (Original Mix)\\Nu & Jo Ke - Who Loves The Sun (Original Mix).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
+    "file": "_other\\_elektro\\deep_house\\_random\\deadmau5 _ Kaskade - I Remember (HQ).mp3",
+    "main_genre": "electronic",
+    "sub_genre": "deep house",
+    "modified": "2026-10-04 02:25:48"
+  },
+  {
     "file": "_other\\_elektro\\deep_house\\ZHU\\house_techno\\ZHU - Faded.mp3",
     "main_genre": "electronic",
     "sub_genre": "deep house",
@@ -8515,36 +8569,6 @@
   },
   {
     "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\David Guetta\\David Guetta Ft. Sia - She Wolf ( Radio Edit ).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\KASKADE\\Kaskade - Be Still.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\KASKADE\\Kaskade - Never Sleep Alone (Official Audio).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\KASKADE\\Kaskade VS. Swedish House Mafia - Fire In Your New Shoes   One (Your Name) - MashUp.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\KASKADE\\Kaskade with Tiësto feat. Haley - Only You.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "edm",
-    "modified": "2026-08-08 16:43:08"
-  },
-  {
-    "file": "_other\\_elektro\\edm_electronic_pop\\festival_edm\\KASKADE\\Kaskade _ Adam K. - Raining (Dance.Love Edit) [feat. Sunsun].mp3",
     "main_genre": "electronic",
     "sub_genre": "edm",
     "modified": "2026-08-08 16:43:08"
@@ -18358,24 +18382,6 @@
     "main_genre": "hungarian trap",
     "sub_genre": null,
     "modified": "2025-07-05 15:40:18"
-  },
-  {
-    "file": "_other\\_elektro\\goa_psytrance\\Nu & Jo Ke - Who Loves The Sun (Original Mix)\\Monolink & Acid Pauli - The End.mp3",
-    "main_genre": "electronic",
-    "sub_genre": "psytrance",
-    "modified": "2025-07-05 08:42:09"
-  },
-  {
-    "file": "_other\\_elektro\\goa_psytrance\\Nu & Jo Ke - Who Loves The Sun (Original Mix)\\Dole & Kom - Phara Oh (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "psytrance",
-    "modified": "2025-07-05 08:40:58"
-  },
-  {
-    "file": "_other\\_elektro\\goa_psytrance\\Nu & Jo Ke - Who Loves The Sun (Original Mix)\\Nu & Jo Ke - Who Loves The Sun (Original Mix).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "psytrance",
-    "modified": "2025-07-05 08:40:18"
   },
   {
     "file": "_other\\_elektro\\house_techno\\house_chill\\chill organic house\\JEME - Ygol AlShaer (Official Visualizer Video).mp3",
@@ -66544,12 +66550,6 @@
     "main_genre": "alternative",
     "sub_genre": null,
     "modified": "2016-01-11 07:45:52"
-  },
-  {
-    "file": "_other\\_elektro\\dnb_dubstep\\deadmau5 _ Kaskade - I Remember (HQ).mp3",
-    "main_genre": "electronic",
-    "sub_genre": "dnb & dubstep",
-    "modified": "2016-01-11 07:38:46"
   },
   {
     "file": "_other\\_alternate\\_random\\alt j\\alt-J (∆) - Intro.mp3",
