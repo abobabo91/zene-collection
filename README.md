@@ -17,7 +17,8 @@ python rebuild.py --only graph   # one stage (graph | timeline | dashboard)
 |---|---|---|
 | `graph/` | Artist rankings and credits across 19 areas, scanned from disk. Click an artist for their folder tree. | `graph/rebuild.py` |
 | `timeline/` | When each track entered the collection, by genre, cumulative. | `timeline/rebuild.py` |
-| `dashboard/` | Collects the other two into one site and injects the shared nav. | `dashboard/build.py` |
+| `dashboard/` | Collects the other two into one site, builds the landing page and injects the shared nav. | `dashboard/build.py` |
+| `theme.css`, `theme.js` | Shared light/dark tokens, page frame and theme toggle; every page links them. | — |
 | `docs/` | **Generated.** The published site — this is what GitHub Pages serves. | — |
 
 ## Why these are one repo

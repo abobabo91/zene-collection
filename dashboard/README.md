@@ -1,6 +1,6 @@
 # zene-dashboard
 
-A gyűjtemény három nézete egy helyen, egymásra hivatkozva.
+A gyűjtemény két nézete (idővonal, előadó-gráf) és egy nyitólap egy helyen, egymásra hivatkozva. Az oldal angol nyelvű, világos és sötét témával.
 
 ```
 python serve.py      # begyűjt + kiszolgál a http://localhost:8766 címen
@@ -16,7 +16,6 @@ Http kell hozzá, nem elég `file://` megnyitni: az idővonal `fetch()`-csel tö
 |---|---|---|
 | **Idővonal** | `genre_timeline` | mikor került be mi, műfajonként, kumulált nézetben — 14 831 bejegyzés, 2004-2026 |
 | **Előadó-gráf** | `_local_music_graph` | ki kivel szerepel, 19 terület fülenként, előadóra kattintva a mappafája — 15 154 szám |
-| **Audio profilok** | `_elektro_classifier` | az audióból kinyert metrikák: trackenkénti profil, stílusok, változó-referencia, térkép |
 
 A nyitólap kártyáin lévő számokat a `build.py` a forrásokból olvassa ki, nem beégetve —
 korábban `15,465 bejegyzés` állt rajta, miközben a katalógusban már csak 14 831 sor volt.
@@ -24,25 +23,24 @@ Amit nem tud kiolvasni, azt elhagyja, nem találja ki.
 
 ## Amit ez a repó **nem** csinál
 
-Nem írja át a három dashboardot. Mindegyik pontosan úgy néz ki és úgy működik, ahogy a
-saját repójában — az egyetlen beavatkozás egy `position:fixed` navigációs pirula a jobb
-felső sarokban, ami nem nyúl bele a lap elrendezésébe. Az idővonal teljes szélességű
-grafikonja és a gráf 21 füle érintetlen.
+Nem írja át a két dashboardot. Mindegyik pontosan úgy néz ki és úgy működik, ahogy a
+saját forrásában — az egyetlen beavatkozás egy `position:fixed` navigációs pirula a jobb
+felső sarokban (Home / Timeline / Artist graph / Light-Dark kapcsoló), ami nem nyúl bele a lap
+elrendezésébe.
 
-A tartalom **generált**: a `build.py` mindig a másik két repó aktuális kimenetét másolja
+## Közös téma
+
+A színek, a lapkeret és a navigációs pirula a repó gyökerében lévő `theme.css`-ből jönnek, a
+téma betöltését és a kapcsolót a `theme.js` adja. Mindhárom oldal (nyitólap, idővonal,
+gráf) ezeket köti be (`../theme.css`, `../theme.js`), a `build.py` pedig a `docs/` gyökerébe
+másolja őket, így a hivatkozás a forrásmappákból és a publikált másolatból is érvényes.
+A választás `localStorage`-ban él (`zene-theme`), a három oldal közös; ha nincs mentett
+választás, a rendszerbeállítás dönt. Az idővonal grafikonjai a `zene-theme` eseményre
+újrarajzolódnak.
+
+A tartalom **generált**: a `build.py` mindig a `timeline/` és a `graph/` aktuális kimenetét másolja
 be. Ha ott újraépül valami, itt elég egy `python build.py`. Kézzel ezekben a mappákban
 semmit nem érdemes szerkeszteni, mert a következő build felülírja.
-
-## Lefedettség
-
-Az idővonal és a gráf a **teljes gyűjteményt** fedi. Az audio profilok egyelőre csak az
-`_other/_elektro` fát (**1 216 track a 15 154-ből**) — a többi műfajra még nem futott le a
-feature-kinyerés, tehát ez a fül messze nem egyenrangú a másik kettővel. A
-`_elektro_classifier/extract_features.py` képes rá, mérve 0.45 track/s a 120 másodperces
-mintával 6 workerrel, tehát a maradék ~14 100 fájl nagyjából 9 óra.
-
-Ez a fájl korábban hibázott az elemzőn: `trance_dance_rave/house_classics/Duck Sauce -
-Barbra Streisand (Original Mix).mp3` — 0 bájtos volt, a 2026-08-11-i deduplikálás vitte el.
 
 ## Miért 14 831 az egyik és 15 154 a másik
 
@@ -70,4 +68,3 @@ A gráfban **egyetlen szám sincs kétszer** (15 154 sor, 15 154 különböző �
 
 - `zene-genre-timeline` — `genre_timeline/`
 - `zene-local-music-graph` — `_local_music_graph/`
-- audio elemzés — `_elektro_classifier/` (a `zene` munkakönyvtárban, még nincs saját repója)

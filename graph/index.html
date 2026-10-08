@@ -4,46 +4,46 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>My Music Collection</title>
+<link rel="stylesheet" href="../theme.css">
+<script src="../theme.js"></script>
 <style>
-  :root {
-    --bg: #fafafa; --card: #fff; --border: #e0e0e0; --text: #1a1a1a;
-    --muted: #666; --accent: #2563eb; --accent-light: #dbeafe;
-    --hover: #f5f5f5; --bar: #3b82f6; --bar-hu: #dc2626;
-  }
+  :root { --bar: #3b82f6; --bar-hu: #dc2626; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background: var(--bg); color: var(--text); line-height: 1.5; padding: 20px; }
-  h1 { font-size: 1.5rem; margin-bottom: 4px; }
-  .subtitle { color: var(--muted); font-size: 0.85rem; margin-bottom: 20px; }
+  body { padding: 0; }
+  .page { max-width: 1440px; margin: 0 auto; padding: 32px 24px; }
+  h1 { font-size: 26px; font-weight: 700; margin-bottom: 6px; letter-spacing: -.3px; }
+  .subtitle { color: var(--muted); font-size: 14px; margin-bottom: 28px; }
 
-  .tabs { display: flex; gap: 2px; margin-bottom: 16px; }
-  .tab { padding: 8px 20px; border: 1px solid var(--border); background: var(--card);
-    cursor: pointer; font-size: 0.9rem; border-radius: 6px 6px 0 0; color: var(--muted); }
-  .tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+  .tab { padding: 5px 12px; border: 1px solid var(--border); background: transparent;
+    cursor: pointer; font-size: 12px; border-radius: 7px; color: var(--muted);
+    white-space: nowrap; user-select: none; transition: all .15s; }
+  .tab:hover:not(.active) { border-color: var(--muted); }
+  .tab.active { background: var(--text); color: var(--bg); border-color: var(--text); }
 
   .controls { display: flex; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; align-items: center; }
   .controls input[type=text] { padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px;
-    font-size: 0.85rem; width: 220px; }
+    font-size: 0.85rem; width: 220px; background: var(--card); color: var(--text); font-family: inherit; }
   .controls select { padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px;
-    font-size: 0.85rem; background: var(--card); }
+    font-size: 0.85rem; background: var(--card); color: var(--text); font-family: inherit; }
   .controls label { font-size: 0.8rem; color: var(--muted); }
 
-  .stats { display: flex; gap: 24px; margin-bottom: 16px; flex-wrap: wrap; }
-  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 8px;
-    padding: 10px 16px; min-width: 100px; }
-  .stat .val { font-size: 1.3rem; font-weight: 700; color: var(--accent); }
-  .stat .lbl { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; }
+  .stats { display: flex; gap: 14px; margin-bottom: 20px; flex-wrap: wrap; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    padding: 18px 20px; min-width: 160px; }
+  .stat .val { font-size: 26px; font-weight: 700; line-height: 1; }
+  .stat .lbl { font-size: 12px; color: var(--muted); margin-top: 5px; }
 
   .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px;
     background: var(--card); }
   table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
-  th { position: sticky; top: 0; background: #f8f9fa; border-bottom: 2px solid var(--border);
+  th { position: sticky; top: 0; background: var(--head-bg); border-bottom: 2px solid var(--border);
     padding: 8px 10px; text-align: left; cursor: pointer; user-select: none;
     white-space: nowrap; font-weight: 600; font-size: 0.78rem; text-transform: uppercase;
     color: var(--muted); }
   th:hover { color: var(--accent); }
   th .arrow { font-size: 0.7rem; margin-left: 3px; }
-  td { padding: 6px 10px; border-bottom: 1px solid #f0f0f0; white-space: nowrap; }
+  td { padding: 6px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; }
   tr:hover td { background: var(--hover); }
   td.num { text-align: right; font-variant-numeric: tabular-nums; }
   td.rank { color: var(--muted); width: 40px; text-align: right; }
@@ -63,7 +63,7 @@
   .map-label { font-size: 10px; fill: var(--text); pointer-events: none; font-weight: 600; }
   .map-tooltip { position: absolute; background: var(--card); border: 1px solid var(--border);
     border-radius: 6px; padding: 8px 12px; font-size: 0.8rem; pointer-events: none;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: none; z-index: 10; max-width: 280px; }
+    box-shadow: var(--shadow); display: none; z-index: 10; max-width: 280px; }
   .map-tooltip .tt-region { font-weight: 700; margin-bottom: 4px; }
   .map-tooltip .tt-stat { color: var(--muted); }
 
@@ -73,9 +73,9 @@
   .name-cell:hover { color: var(--accent); text-decoration: underline; }
 
   /* folder modal */
-  .fm-bg { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:100; justify-content:center; align-items:center; }
+  .fm-bg { display:none; position:fixed; inset:0; background:var(--scrim); z-index:100; justify-content:center; align-items:center; }
   .fm-bg.open { display:flex; }
-  .fm { background:var(--card); border:1px solid var(--border); border-radius:12px; width:640px; max-width:92vw; max-height:80vh; display:flex; flex-direction:column; box-shadow:0 8px 32px rgba(0,0,0,.15); }
+  .fm { background:var(--card); border:1px solid var(--border); border-radius:12px; width:640px; max-width:92vw; max-height:80vh; display:flex; flex-direction:column; box-shadow:var(--shadow); }
   .fm-head { display:flex; justify-content:space-between; align-items:center; padding:14px 18px; border-bottom:1px solid var(--border); }
   .fm-head h3 { font-size:1rem; }
   .fm-close { background:none; border:none; font-size:1.3rem; cursor:pointer; color:var(--muted); line-height:1; }
@@ -95,6 +95,7 @@
 </style>
 </head>
 <body>
+<div class="page">
 
 <h1>My Music Collection</h1>
 <p class="subtitle">Artist rankings across 15,000+ songs with normalized and adjusted credits</p>
@@ -484,7 +485,7 @@ function buildMap(containerId, tooltipId, regionSelectId, data, regionStats, coo
   const maxPersons = Math.max(...Object.values(regionStats).map(r => r.persons), 1);
 
   let svg = `<svg class="map-svg" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">`;
-  svg += `<rect width="${W}" height="${H}" fill="#f8fafc" rx="8"/>`;
+  svg += `<rect width="${W}" height="${H}" style="fill:var(--map-bg)" rx="8"/>`;
   svg += outlinePath;
 
   Object.entries(coords).forEach(([name, pos]) => {
@@ -511,7 +512,7 @@ function buildMap(containerId, tooltipId, regionSelectId, data, regionStats, coo
       tooltip.innerHTML = `
         <div class="tt-region">${name}</div>
         <div class="tt-stat">${dot.dataset.persons} artists / ${dot.dataset.songs} songs</div>
-        ${top.length ? '<div style="margin-top:4px;font-size:0.75rem;color:#666">Top: ' + top.join(', ') + '</div>' : ''}
+        ${top.length ? '<div style="margin-top:4px;font-size:0.75rem;color:var(--muted)">Top: ' + top.join(', ') + '</div>' : ''}
       `;
       tooltip.style.display = 'block';
     });
@@ -529,8 +530,8 @@ function buildMap(containerId, tooltipId, regionSelectId, data, regionStats, coo
 }
 
 // ─── Map outlines (from GeoJSON, projected) ───
-const US_OUTLINE = `<path d="M464.7,30.0 L467.3,39.9 L471.8,43.0 L481.9,44.1 L496.8,47.0 L510.9,52.6 L522.7,50.3 L540.6,55.0 L545.4,54.8 L558.4,49.7 L572.0,56.2 L586.3,63.2 L598.0,69.3 L609.3,75.1 L610.8,79.8 L614.2,81.6 L613.3,83.4 L617.2,83.9 L620.0,82.1 L620.8,86.4 L623.7,89.2 L627.7,89.2 L629.8,91.4 L628.0,94.7 L643.2,103.2 L646.3,119.6 L649.2,135.3 L644.9,146.0 L638.1,156.0 L634.9,162.3 L634.6,164.2 L636.2,166.8 L641.2,169.6 L644.8,169.6 L661.7,160.0 L676.7,157.1 L695.7,148.1 L696.0,146.3 L694.7,140.8 L692.4,137.2 L698.9,134.3 L713.2,134.3 L726.6,134.3 L731.2,127.2 L733.1,125.8 L748.4,112.8 L755.0,109.4 L777.1,109.3 L803.9,109.3 L805.4,104.8 L810.0,103.9 L816.2,101.1 L821.4,92.9 L825.8,78.8 L836.9,65.1 L841.8,69.9 L851.5,66.8 L858.0,72.0 L858.0,96.7 L867.5,107.0 L870.0,112.9 L854.5,121.7 L839.5,127.9 L824.1,133.3 L816.4,144.0 L814.0,148.1 L813.8,157.7 L818.6,167.3 L824.7,167.7 L823.1,161.1 L827.5,165.1 L826.3,170.3 L816.5,173.2 L809.5,172.9 L798.8,176.1 L792.4,177.0 L784.0,177.9 L771.8,183.1 L793.2,179.7 L797.5,183.1 L777.2,188.5 L767.9,188.6 L768.3,186.4 L763.9,191.4 L768.2,192.2 L765.0,205.2 L754.4,219.1 L753.4,214.5 L750.2,213.5 L745.4,209.0 L748.4,218.8 L752.0,222.0 L752.2,228.8 L747.6,235.9 L739.4,250.3 L738.1,249.6 L742.6,237.3 L735.1,230.4 L733.4,215.3 L730.6,223.2 L733.7,234.6 L724.1,231.8 L734.1,237.6 L734.7,254.9 L738.9,256.1 L740.4,262.4 L742.5,280.5 L733.2,293.9 L718.2,299.3 L708.6,309.9 L701.3,311.1 L694.0,317.7 L691.9,323.8 L675.9,335.5 L667.7,344.1 L660.9,354.9 L658.6,367.7 L661.2,380.3 L666.0,395.8 L672.5,408.6 L672.6,416.4 L679.5,437.4 L679.0,449.6 L678.4,456.7 L674.8,467.7 L670.4,470.0 L663.2,467.8 L661.0,459.9 L655.4,455.7 L647.7,440.1 L640.9,426.3 L638.8,419.2 L641.7,407.2 L637.7,397.2 L626.3,382.1 L620.6,379.3 L606.0,387.5 L603.4,386.6 L596.3,378.2 L587.2,373.7 L570.7,376.0 L557.8,374.0 L546.7,375.2 L540.7,378.1 L543.3,382.9 L543.1,390.2 L546.2,393.8 L543.4,396.2 L538.0,393.5 L532.5,396.9 L522.0,396.4 L511.1,386.8 L498.4,389.1 L487.8,384.9 L478.8,386.1 L466.5,390.4 L453.3,403.8 L438.8,411.6 L430.9,420.2 L427.5,428.4 L427.4,440.9 L428.1,449.5 L430.9,455.7 L425.2,456.2 L414.9,452.3 L403.5,446.7 L399.4,438.1 L396.2,425.5 L387.7,415.2 L382.6,404.5 L375.3,392.2 L365.1,384.9 L353.2,385.3 L344.0,399.6 L331.9,394.2 L324.4,388.7 L320.8,378.7 L316.0,369.3 L307.3,361.3 L299.9,355.6 L294.6,349.2 L269.3,349.2 L269.3,356.7 L257.8,356.7 L228.8,356.8 L195.6,344.0 L173.7,335.2 L175.0,331.7 L156.5,333.7 L140.0,335.1 L137.6,325.8 L128.1,315.4 L121.3,313.2 L119.7,308.0 L111.6,307.1 L106.4,302.2 L92.9,300.5 L89.1,297.5 L87.4,287.6 L73.3,269.4 L61.1,244.3 L61.7,240.1 L55.2,234.1 L44.0,218.9 L42.0,204.2 L34.2,194.3 L37.4,179.3 L36.9,163.8 L32.2,149.9 L37.9,132.8 L39.7,116.4 L41.5,100.0 L38.8,75.7 L34.2,60.2 L30.0,51.8 L31.8,48.3 L52.8,54.4 L60.6,71.5 L64.2,66.7 L61.8,51.9 L56.9,37.0 L98.2,37.0 L141.4,37.0 L155.7,37.0 L200.1,37.0 L243.0,37.0 L286.7,37.0 L330.3,37.0 L379.8,37.0 L429.6,37.0 L459.7,37.0 L459.7,30.1 L464.7,30.0 Z" fill="#e8ecf0" stroke="#cbd5e1" stroke-width="1.5"/>`;
-const HU_OUTLINE = `<path d="M30.0,190.8 L62.6,132.4 L43.6,112.7 L99.0,112.5 L106.4,75.4 L156.5,98.7 L192.7,108.6 L275.3,97.4 L283.2,79.2 L322.3,76.5 L370.2,62.4 L380.8,68.2 L427.0,56.9 L450.0,35.5 L482.3,30.0 L587.6,57.6 L608.5,48.3 L663.1,73.0 L670.0,97.3 L609.9,116.4 L563.4,177.9 L504.0,239.5 L425.1,256.6 L363.7,252.6 L288.4,276.4 L251.6,290.0 L170.4,272.5 L96.9,233.6 L65.6,222.4 L46.5,191.8 L30.0,190.8 Z" fill="#e8ecf0" stroke="#cbd5e1" stroke-width="1.5"/>`;
+const US_OUTLINE = `<path d="M464.7,30.0 L467.3,39.9 L471.8,43.0 L481.9,44.1 L496.8,47.0 L510.9,52.6 L522.7,50.3 L540.6,55.0 L545.4,54.8 L558.4,49.7 L572.0,56.2 L586.3,63.2 L598.0,69.3 L609.3,75.1 L610.8,79.8 L614.2,81.6 L613.3,83.4 L617.2,83.9 L620.0,82.1 L620.8,86.4 L623.7,89.2 L627.7,89.2 L629.8,91.4 L628.0,94.7 L643.2,103.2 L646.3,119.6 L649.2,135.3 L644.9,146.0 L638.1,156.0 L634.9,162.3 L634.6,164.2 L636.2,166.8 L641.2,169.6 L644.8,169.6 L661.7,160.0 L676.7,157.1 L695.7,148.1 L696.0,146.3 L694.7,140.8 L692.4,137.2 L698.9,134.3 L713.2,134.3 L726.6,134.3 L731.2,127.2 L733.1,125.8 L748.4,112.8 L755.0,109.4 L777.1,109.3 L803.9,109.3 L805.4,104.8 L810.0,103.9 L816.2,101.1 L821.4,92.9 L825.8,78.8 L836.9,65.1 L841.8,69.9 L851.5,66.8 L858.0,72.0 L858.0,96.7 L867.5,107.0 L870.0,112.9 L854.5,121.7 L839.5,127.9 L824.1,133.3 L816.4,144.0 L814.0,148.1 L813.8,157.7 L818.6,167.3 L824.7,167.7 L823.1,161.1 L827.5,165.1 L826.3,170.3 L816.5,173.2 L809.5,172.9 L798.8,176.1 L792.4,177.0 L784.0,177.9 L771.8,183.1 L793.2,179.7 L797.5,183.1 L777.2,188.5 L767.9,188.6 L768.3,186.4 L763.9,191.4 L768.2,192.2 L765.0,205.2 L754.4,219.1 L753.4,214.5 L750.2,213.5 L745.4,209.0 L748.4,218.8 L752.0,222.0 L752.2,228.8 L747.6,235.9 L739.4,250.3 L738.1,249.6 L742.6,237.3 L735.1,230.4 L733.4,215.3 L730.6,223.2 L733.7,234.6 L724.1,231.8 L734.1,237.6 L734.7,254.9 L738.9,256.1 L740.4,262.4 L742.5,280.5 L733.2,293.9 L718.2,299.3 L708.6,309.9 L701.3,311.1 L694.0,317.7 L691.9,323.8 L675.9,335.5 L667.7,344.1 L660.9,354.9 L658.6,367.7 L661.2,380.3 L666.0,395.8 L672.5,408.6 L672.6,416.4 L679.5,437.4 L679.0,449.6 L678.4,456.7 L674.8,467.7 L670.4,470.0 L663.2,467.8 L661.0,459.9 L655.4,455.7 L647.7,440.1 L640.9,426.3 L638.8,419.2 L641.7,407.2 L637.7,397.2 L626.3,382.1 L620.6,379.3 L606.0,387.5 L603.4,386.6 L596.3,378.2 L587.2,373.7 L570.7,376.0 L557.8,374.0 L546.7,375.2 L540.7,378.1 L543.3,382.9 L543.1,390.2 L546.2,393.8 L543.4,396.2 L538.0,393.5 L532.5,396.9 L522.0,396.4 L511.1,386.8 L498.4,389.1 L487.8,384.9 L478.8,386.1 L466.5,390.4 L453.3,403.8 L438.8,411.6 L430.9,420.2 L427.5,428.4 L427.4,440.9 L428.1,449.5 L430.9,455.7 L425.2,456.2 L414.9,452.3 L403.5,446.7 L399.4,438.1 L396.2,425.5 L387.7,415.2 L382.6,404.5 L375.3,392.2 L365.1,384.9 L353.2,385.3 L344.0,399.6 L331.9,394.2 L324.4,388.7 L320.8,378.7 L316.0,369.3 L307.3,361.3 L299.9,355.6 L294.6,349.2 L269.3,349.2 L269.3,356.7 L257.8,356.7 L228.8,356.8 L195.6,344.0 L173.7,335.2 L175.0,331.7 L156.5,333.7 L140.0,335.1 L137.6,325.8 L128.1,315.4 L121.3,313.2 L119.7,308.0 L111.6,307.1 L106.4,302.2 L92.9,300.5 L89.1,297.5 L87.4,287.6 L73.3,269.4 L61.1,244.3 L61.7,240.1 L55.2,234.1 L44.0,218.9 L42.0,204.2 L34.2,194.3 L37.4,179.3 L36.9,163.8 L32.2,149.9 L37.9,132.8 L39.7,116.4 L41.5,100.0 L38.8,75.7 L34.2,60.2 L30.0,51.8 L31.8,48.3 L52.8,54.4 L60.6,71.5 L64.2,66.7 L61.8,51.9 L56.9,37.0 L98.2,37.0 L141.4,37.0 L155.7,37.0 L200.1,37.0 L243.0,37.0 L286.7,37.0 L330.3,37.0 L379.8,37.0 L429.6,37.0 L459.7,37.0 L459.7,30.1 L464.7,30.0 Z" style="fill:var(--map-land);stroke:var(--map-edge)" stroke-width="1.5"/>`;
+const HU_OUTLINE = `<path d="M30.0,190.8 L62.6,132.4 L43.6,112.7 L99.0,112.5 L106.4,75.4 L156.5,98.7 L192.7,108.6 L275.3,97.4 L283.2,79.2 L322.3,76.5 L370.2,62.4 L380.8,68.2 L427.0,56.9 L450.0,35.5 L482.3,30.0 L587.6,57.6 L608.5,48.3 L663.1,73.0 L670.0,97.3 L609.9,116.4 L563.4,177.9 L504.0,239.5 L425.1,256.6 L363.7,252.6 L288.4,276.4 L251.6,290.0 L170.4,272.5 L96.9,233.6 L65.6,222.4 L46.5,191.8 L30.0,190.8 Z" style="fill:var(--map-land);stroke:var(--map-edge)" stroke-width="1.5"/>`;
 
 // ─── FOLDER MODAL ───
 function countFiles(node) {
@@ -646,5 +647,6 @@ setupPanel('mantra', [{"name": "Curawaka", "songs": 1, "norm": 1.0, "adj": 1.0, 
 buildMap('map-us-container', 'map-us-tooltip', 'region-us', US_DATA, US_REGIONS, US_COORDS, US_OUTLINE, [900, 560], '#3b82f6');
 buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS, HU_COORDS, HU_OUTLINE, [620, 260], '#dc2626');
 </script>
+</div>
 </body>
 </html>

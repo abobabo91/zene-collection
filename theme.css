@@ -1,0 +1,41 @@
+/* Shared look of the landing page, the timeline and the artist graph.
+   One set of tokens, light by default, dark when the viewer's system asks for it or when
+   `data-theme="dark"` is set by theme.js (the toggle in the nav stores the choice). */
+:root {
+  --bg: #fafafa; --card: #ffffff; --border: #e0e0e0; --text: #1a1a1a; --muted: #666666;
+  --faint: #b5b5b5; --accent: #2563eb; --accent-light: #dbeafe; --hover: #f5f5f5;
+  --head-bg: #f8f9fa; --line: #f0f0f0; --map-bg: #f8fafc; --map-land: #e8ecf0; --map-edge: #cbd5e1;
+  --shadow: 0 2px 8px rgba(0,0,0,.10); --scrim: rgba(0,0,0,.45); color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1116; --card: #151a21; --border: #262d36; --text: #e6edf3; --muted: #8b949e;
+    --faint: #4a525c; --accent: #5aa9e6; --accent-light: #1b2b3d; --hover: #1b222b;
+    --head-bg: #1a2029; --line: #1f262e; --map-bg: #11161d; --map-land: #1f2730; --map-edge: #34404d;
+    --shadow: 0 2px 10px rgba(0,0,0,.5); --scrim: rgba(0,0,0,.7); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1116; --card: #151a21; --border: #262d36; --text: #e6edf3; --muted: #8b949e;
+  --faint: #4a525c; --accent: #5aa9e6; --accent-light: #1b2b3d; --hover: #1b222b;
+  --head-bg: #1a2029; --line: #1f262e; --map-bg: #11161d; --map-land: #1f2730; --map-edge: #34404d;
+  --shadow: 0 2px 10px rgba(0,0,0,.5); --scrim: rgba(0,0,0,.7); color-scheme: dark;
+}
+
+/* Same page frame everywhere. */
+body { background: var(--bg); color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; line-height: 1.5; }
+.zd-page { max-width: 1440px; margin: 0 auto; padding: 32px 24px; }
+.zd-page h1 { font-size: 26px; font-weight: 700; margin: 0 0 6px; letter-spacing: -.3px; }
+.zd-page .zd-sub { color: var(--muted); font-size: 14px; margin: 0 0 28px; }
+
+/* Nav pill, injected by dashboard/build.py. position:fixed so it never moves the page's own layout. */
+#zdnav { position: fixed; top: 8px; right: 10px; z-index: 2147483000; display: flex; gap: 2px;
+  align-items: center; background: var(--card); border: 1px solid var(--border); border-radius: 999px;
+  padding: 3px; font: 12px/1.4 -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  box-shadow: var(--shadow); }
+#zdnav a, #zdnav button { color: var(--muted); text-decoration: none; padding: 4px 11px;
+  border-radius: 999px; border: 0; background: transparent; font: inherit; cursor: pointer; }
+#zdnav a:hover, #zdnav button:hover { color: var(--text); }
+#zdnav a.here { color: var(--text); background: var(--hover); }
+#zdnav .sep { width: 1px; height: 14px; background: var(--border); margin: 0 3px; }

@@ -168,46 +168,46 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>My Music Collection</title>
+<link rel="stylesheet" href="../theme.css">
+<script src="../theme.js"></script>
 <style>
-  :root {
-    --bg: #fafafa; --card: #fff; --border: #e0e0e0; --text: #1a1a1a;
-    --muted: #666; --accent: #2563eb; --accent-light: #dbeafe;
-    --hover: #f5f5f5; --bar: #3b82f6; --bar-hu: #dc2626;
-  }
+  :root { --bar: #3b82f6; --bar-hu: #dc2626; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background: var(--bg); color: var(--text); line-height: 1.5; padding: 20px; }
-  h1 { font-size: 1.5rem; margin-bottom: 4px; }
-  .subtitle { color: var(--muted); font-size: 0.85rem; margin-bottom: 20px; }
+  body { padding: 0; }
+  .page { max-width: 1440px; margin: 0 auto; padding: 32px 24px; }
+  h1 { font-size: 26px; font-weight: 700; margin-bottom: 6px; letter-spacing: -.3px; }
+  .subtitle { color: var(--muted); font-size: 14px; margin-bottom: 28px; }
 
-  .tabs { display: flex; gap: 2px; margin-bottom: 16px; }
-  .tab { padding: 8px 20px; border: 1px solid var(--border); background: var(--card);
-    cursor: pointer; font-size: 0.9rem; border-radius: 6px 6px 0 0; color: var(--muted); }
-  .tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+  .tab { padding: 5px 12px; border: 1px solid var(--border); background: transparent;
+    cursor: pointer; font-size: 12px; border-radius: 7px; color: var(--muted);
+    white-space: nowrap; user-select: none; transition: all .15s; }
+  .tab:hover:not(.active) { border-color: var(--muted); }
+  .tab.active { background: var(--text); color: var(--bg); border-color: var(--text); }
 
   .controls { display: flex; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; align-items: center; }
   .controls input[type=text] { padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px;
-    font-size: 0.85rem; width: 220px; }
+    font-size: 0.85rem; width: 220px; background: var(--card); color: var(--text); font-family: inherit; }
   .controls select { padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px;
-    font-size: 0.85rem; background: var(--card); }
+    font-size: 0.85rem; background: var(--card); color: var(--text); font-family: inherit; }
   .controls label { font-size: 0.8rem; color: var(--muted); }
 
-  .stats { display: flex; gap: 24px; margin-bottom: 16px; flex-wrap: wrap; }
-  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 8px;
-    padding: 10px 16px; min-width: 100px; }
-  .stat .val { font-size: 1.3rem; font-weight: 700; color: var(--accent); }
-  .stat .lbl { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; }
+  .stats { display: flex; gap: 14px; margin-bottom: 20px; flex-wrap: wrap; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+    padding: 18px 20px; min-width: 160px; }
+  .stat .val { font-size: 26px; font-weight: 700; line-height: 1; }
+  .stat .lbl { font-size: 12px; color: var(--muted); margin-top: 5px; }
 
   .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px;
     background: var(--card); }
   table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
-  th { position: sticky; top: 0; background: #f8f9fa; border-bottom: 2px solid var(--border);
+  th { position: sticky; top: 0; background: var(--head-bg); border-bottom: 2px solid var(--border);
     padding: 8px 10px; text-align: left; cursor: pointer; user-select: none;
     white-space: nowrap; font-weight: 600; font-size: 0.78rem; text-transform: uppercase;
     color: var(--muted); }
   th:hover { color: var(--accent); }
   th .arrow { font-size: 0.7rem; margin-left: 3px; }
-  td { padding: 6px 10px; border-bottom: 1px solid #f0f0f0; white-space: nowrap; }
+  td { padding: 6px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; }
   tr:hover td { background: var(--hover); }
   td.num { text-align: right; font-variant-numeric: tabular-nums; }
   td.rank { color: var(--muted); width: 40px; text-align: right; }
@@ -227,7 +227,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   .map-label { font-size: 10px; fill: var(--text); pointer-events: none; font-weight: 600; }
   .map-tooltip { position: absolute; background: var(--card); border: 1px solid var(--border);
     border-radius: 6px; padding: 8px 12px; font-size: 0.8rem; pointer-events: none;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: none; z-index: 10; max-width: 280px; }
+    box-shadow: var(--shadow); display: none; z-index: 10; max-width: 280px; }
   .map-tooltip .tt-region { font-weight: 700; margin-bottom: 4px; }
   .map-tooltip .tt-stat { color: var(--muted); }
 
@@ -237,9 +237,9 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   .name-cell:hover { color: var(--accent); text-decoration: underline; }
 
   /* folder modal */
-  .fm-bg { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:100; justify-content:center; align-items:center; }
+  .fm-bg { display:none; position:fixed; inset:0; background:var(--scrim); z-index:100; justify-content:center; align-items:center; }
   .fm-bg.open { display:flex; }
-  .fm { background:var(--card); border:1px solid var(--border); border-radius:12px; width:640px; max-width:92vw; max-height:80vh; display:flex; flex-direction:column; box-shadow:0 8px 32px rgba(0,0,0,.15); }
+  .fm { background:var(--card); border:1px solid var(--border); border-radius:12px; width:640px; max-width:92vw; max-height:80vh; display:flex; flex-direction:column; box-shadow:var(--shadow); }
   .fm-head { display:flex; justify-content:space-between; align-items:center; padding:14px 18px; border-bottom:1px solid var(--border); }
   .fm-head h3 { font-size:1rem; }
   .fm-close { background:none; border:none; font-size:1.3rem; cursor:pointer; color:var(--muted); line-height:1; }
@@ -259,6 +259,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 </style>
 </head>
 <body>
+<div class="page">
 
 <h1>My Music Collection</h1>
 <p class="subtitle">Artist rankings across 15,000+ songs with normalized and adjusted credits</p>
@@ -560,7 +561,7 @@ function buildMap(containerId, tooltipId, regionSelectId, data, regionStats, coo
   const maxPersons = Math.max(...Object.values(regionStats).map(r => r.persons), 1);
 
   let svg = `<svg class="map-svg" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">`;
-  svg += `<rect width="${W}" height="${H}" fill="#f8fafc" rx="8"/>`;
+  svg += `<rect width="${W}" height="${H}" style="fill:var(--map-bg)" rx="8"/>`;
   svg += outlinePath;
 
   Object.entries(coords).forEach(([name, pos]) => {
@@ -587,7 +588,7 @@ function buildMap(containerId, tooltipId, regionSelectId, data, regionStats, coo
       tooltip.innerHTML = `
         <div class="tt-region">${name}</div>
         <div class="tt-stat">${dot.dataset.persons} artists / ${dot.dataset.songs} songs</div>
-        ${top.length ? '<div style="margin-top:4px;font-size:0.75rem;color:#666">Top: ' + top.join(', ') + '</div>' : ''}
+        ${top.length ? '<div style="margin-top:4px;font-size:0.75rem;color:var(--muted)">Top: ' + top.join(', ') + '</div>' : ''}
       `;
       tooltip.style.display = 'block';
     });
@@ -605,8 +606,8 @@ function buildMap(containerId, tooltipId, regionSelectId, data, regionStats, coo
 }
 
 // ─── Map outlines (from GeoJSON, projected) ───
-const US_OUTLINE = `<path d="__US_PATH__" fill="#e8ecf0" stroke="#cbd5e1" stroke-width="1.5"/>`;
-const HU_OUTLINE = `<path d="__HU_PATH__" fill="#e8ecf0" stroke="#cbd5e1" stroke-width="1.5"/>`;
+const US_OUTLINE = `<path d="__US_PATH__" style="fill:var(--map-land);stroke:var(--map-edge)" stroke-width="1.5"/>`;
+const HU_OUTLINE = `<path d="__HU_PATH__" style="fill:var(--map-land);stroke:var(--map-edge)" stroke-width="1.5"/>`;
 
 // ─── FOLDER MODAL ───
 function countFiles(node) {
@@ -713,6 +714,7 @@ __EXTRA_JS__
 buildMap('map-us-container', 'map-us-tooltip', 'region-us', US_DATA, US_REGIONS, US_COORDS, US_OUTLINE, [900, 560], '#3b82f6');
 buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS, HU_COORDS, HU_OUTLINE, [620, 260], '#dc2626');
 </script>
+</div>
 </body>
 </html>"""
 
