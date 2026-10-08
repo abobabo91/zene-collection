@@ -12,7 +12,7 @@ from pathlib import Path
 import re
 
 from common import (
-    AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE,
+    AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE, is_blocked,
     clean_artist_text, clean_title, extract_primary_and_features,
     folder_artist, is_junk_name, load_known_artists, normalize_key,
     parse_mapping_block, split_artists, squashed_lookup,
@@ -596,6 +596,8 @@ def scan_area(config: dict, mappings: dict) -> list[dict]:
         if not audio_file.is_file() or audio_file.suffix.lower() not in AUDIO_EXTS:
             continue
         rel = audio_file.relative_to(ZENE)
+        if is_blocked(rel):
+            continue
         parts = list(rel.parts)
 
         credit_str, title = infer_credit_and_title(parts, audio_file.name, mappings, config)

@@ -35,7 +35,7 @@ from pathlib import Path
 
 from build_other_graph import infer_credit_and_title, prefer_display
 from common import (
-    AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE,
+    AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE, is_blocked,
     extract_primary_and_features, load_file_artists, load_mappings_file, normalize_key,
 )
 
@@ -102,7 +102,7 @@ def scan_disk() -> dict[str, Path]:
         for p in root.rglob("*"):
             # `is_file()` is not redundant with the suffix test: `_magyar rap/el bago/
             # ultimohombre/ultimohombre.mp3` is a *directory* holding four real tracks.
-            if p.is_file() and p.suffix.lower() in AUDIO_EXTS:
+            if p.is_file() and p.suffix.lower() in AUDIO_EXTS and not is_blocked(p.relative_to(ZENE)):
                 found[norm_path(p.relative_to(ZENE))] = p.relative_to(ZENE)
     return found
 

@@ -10,7 +10,7 @@ from pathlib import Path  # noqa: F401  (re-exported for type hints in load_mapp
 PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_ROOT = PROJECT_ROOT / "data"
 sys.path.insert(0, str(PROJECT_ROOT.parent))
-from buildkit import ZENE  # noqa: E402,F401  (re-exported: every graph builder imports it from here)
+from buildkit import ZENE, is_blocked  # noqa: E402,F401  (re-exported: every graph builder imports them from here)
 
 # ── Constants ──────────────────────────────────────────────────────────────────
 AUDIO_EXTS = {".mp3", ".wma", ".wav", ".m4a", ".flac"}

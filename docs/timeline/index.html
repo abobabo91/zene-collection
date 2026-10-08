@@ -108,7 +108,7 @@
   <div class="sub">Your collection by genre over time &mdash; click a single genre to drill into sub-genres.</div>
 
   <div class="stats">
-    <div class="st"><b id="s-total">-</b><span>Total songs</span></div>
+    <div class="st"><b id="s-total">-</b><span id="s-total-l">Total songs</span></div>
     <div class="st"><b id="s-genres">-</b><span>Genres</span></div>
     <div class="st"><b id="s-span">-</b><span>Collection span</span></div>
     <div class="st"><b id="s-peak">-</b><span id="s-peak-l">Peak year</span></div>
@@ -390,6 +390,8 @@ function drillGenre(){return [...sel][0]}
 /* ── stats ── */
 function stats(){
   $('s-total').textContent=fil.length.toLocaleString();
+  const hid=raw.length-fil.length;
+  $('s-total-l').textContent=hid&&!sel.size?'Songs in range ('+hid.toLocaleString()+' outside)':'Total songs';
   const genres=new Set(fil.map(d=>isDrill()?(d.sub_genre||'general'):d.main_genre));
   $('s-genres').textContent=genres.size;
   if(!fil.length){['s-span','s-peak','s-latest'].forEach(id=>$(id).textContent='-');return}

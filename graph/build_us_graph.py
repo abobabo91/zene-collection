@@ -6,7 +6,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 from common import (
-    AUDIO_EXTS, DATA_ROOT, FEAT_RE, UNICODE_DASH_RE, ZENE,
+    AUDIO_EXTS, DATA_ROOT, FEAT_RE, UNICODE_DASH_RE, ZENE, is_blocked,
     load_file_artists,
     clean_artist_text, clean_title, extract_primary_and_features,
     folder_artist, is_junk_name, load_known_artists, load_mappings_file, normalize_key,
@@ -458,7 +458,7 @@ def iter_scoped_audio_files():
             if region_dir.name in config["exclude_regions"]:
                 continue
             for file_path in region_dir.rglob("*"):
-                if file_path.is_file() and file_path.suffix.lower() in AUDIO_EXTS:
+                if file_path.is_file() and file_path.suffix.lower() in AUDIO_EXTS \n                        and not is_blocked(file_path.relative_to(ZENE)):
                     yield root_name, region_dir.name, file_path
 
 

@@ -13,11 +13,8 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from buildkit import SKIP_ROOTS, ZENE  # noqa: E402
+from buildkit import SKIP_ROOTS, ZENE, is_blocked  # noqa: E402
 OUTPUT = Path(__file__).parent / "genre_catalog.json"
-
-# Keywords in file paths to exclude (case-insensitive)
-BLOCKLIST_KEYWORDS = {"bizarring"}
 
 REGION_NORM = {
     "_usa other": "usa",
@@ -180,7 +177,7 @@ def main():
             rel = full.relative_to(ZENE)
             if rel.parts[0] in SKIP_ROOTS:
                 continue
-            if any(kw in str(rel).lower() for kw in BLOCKLIST_KEYWORDS):
+            if is_blocked(rel):
                 continue
 
             main_genre, sub_genre = classify(str(rel))

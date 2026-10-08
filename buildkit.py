@@ -19,6 +19,17 @@ ZENE = Path.home() / "Desktop" / "zene"
 #: `main_genre: other` because it matches no genre rule.
 SKIP_ROOTS = {"new", "new good", "_music_scripts", "_playlists", "_dupes_removed"}
 
+#: Path fragments (lower case) of files that are on disk but left out of every published view.
+#: One list for the graph, the timeline and the CSV: when each kept its own, the graph counted
+#: the file and the timeline did not, and the two totals differed by one for weeks.
+BLOCKLIST_KEYWORDS = {"bizarring"}
+
+
+def is_blocked(path) -> bool:
+    """True if `path` (relative or absolute, any separator) contains a blocklisted fragment."""
+    text = str(path).lower()
+    return any(kw in text for kw in BLOCKLIST_KEYWORDS)
+
 
 def last_rebuild(state_file: Path) -> float:
     """Unix time of the last finished rebuild, 0.0 if there never was one."""

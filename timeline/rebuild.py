@@ -19,7 +19,8 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
-from buildkit import SKIP_ROOTS, ZENE, last_rebuild, run_script, save_rebuild  # noqa: E402
+from buildkit import (BLOCKLIST_KEYWORDS, SKIP_ROOTS, ZENE, is_blocked,  # noqa: E402
+                      last_rebuild, run_script, save_rebuild)
 
 STATE_FILE = HERE / ".last_rebuild"
 
@@ -43,6 +44,8 @@ def has_changes(since: float) -> bool:
             if not f.lower().endswith(".mp3"):
                 continue
             full = Path(dirpath) / f
+            if is_blocked(full.relative_to(ZENE)):
+                continue
             try:
                 if full.stat().st_mtime > since:
                     return True
@@ -71,7 +74,8 @@ def rebuild_csv():
     # The exclusion list is derived from SKIP_ROOTS so the CSV and the catalog cannot
     # disagree about what the collection is.
     clauses = " -and ".join(
-        f"$_.FullName -notlike '{ZENE}\\{name}\\*'" for name in sorted(SKIP_ROOTS)
+        [f"$_.FullName -notlike '{ZENE}\\{name}\\*'" for name in sorted(SKIP_ROOTS)]
+        + [f"$_.FullName -notlike '*{kw}*'" for kw in sorted(BLOCKLIST_KEYWORDS)]
     )
     # `-File` matters: `_magyar rap/el bago/ultimohombre/ultimohombre.mp3` is a directory
     # whose name ends in .mp3, so `-Filter *.mp3` alone returns it as if it were a track.
