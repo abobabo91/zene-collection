@@ -100,14 +100,13 @@ Rebuilds the catalog from disk and opens the dashboard at http://localhost:8765.
 | `build_catalog.py` | Genre classifier — scans disk, writes `genre_catalog.json` |
 | `index.html` | Dashboard — Chart.js, vanilla JS, dark theme |
 | `serve.py` | Rebuild catalog + serve locally |
-| `genre_catalog.json` | Generated catalog (15,296 entries as of 2026-09-22) |
+| `genre_catalog.json` | Generated catalog (15,369 entries, measured 2026-10-08) |
 | `rebuild.py` | Rebuild catalog + CSV if anything changed — **commits and pushes on its own** |
 
 `rebuild.py` takes no arguments and always ends in `git add -A && commit && push`. To
 rebuild without publishing, call `build_catalog.py` and `rebuild.rebuild_csv()` directly.
 
-The catalog holds **14,831** entries and the CSV **14,832**; the one extra row is the
-`bizarring` keyword-blocklist file, which the CSV scan does not filter.
+The catalog and the CSV both hold 15,369 rows; both skip the paths on `buildkit.BLOCKLIST_KEYWORDS`, the same list the graph uses.
 
 ## Tech
 

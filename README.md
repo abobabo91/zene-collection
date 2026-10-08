@@ -58,9 +58,16 @@ subtree merges kept every commit reachable, so `git log` here reaches back throu
 
 ## Where the collection numbers come from
 
-As of 2026-08-12 the collection is 15,147 mp3s and nothing else — 323 `.m4a`/`.wma`/`.wav`
-files were transcoded that day. The graph indexes all 15,147; the timeline catalog holds
-15,146, the one difference being a `bizarring` blocklist entry the graph does not carry.
+Measured 2026-10-08: the collection is 15,369 mp3s (every file under `zene\` except the
+folders in `buildkit.SKIP_ROOTS` and the paths on `buildkit.BLOCKLIST_KEYWORDS`). The graph
+(sum of `graph/data/*/normalized/songs.json`), the timeline catalog (`genre_catalog.json`)
+and the CSV (`timeline/mp3_sorted_filtered.csv`) all hold exactly 15,369, with no duplicate.
+The three share one filter: `buildkit.is_blocked` / `BLOCKLIST_KEYWORDS`, so a file left out
+of one view is left out of all of them (when each kept its own list, the graph counted a file
+the timeline skipped and the totals differed by one).
+
+The timeline's "Total songs" card shows fewer (15,363) while the date range starts at
+2004-01: six files date from 1999-2002. The card then reads "Songs in range (6 outside)".
 
 The scanners are the source of truth for those numbers. Re-derive from
 `graph/data/*/normalized/songs.json` rather than trusting a figure written down anywhere,

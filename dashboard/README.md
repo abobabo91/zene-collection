@@ -42,27 +42,13 @@ A tartalom **generált**: a `build.py` mindig a `timeline/` és a `graph/` aktu�
 be. Ha ott újraépül valami, itt elég egy `python build.py`. Kézzel ezekben a mappákban
 semmit nem érdemes szerkeszteni, mert a következő build felülírja.
 
-## Miért 14 831 az egyik és 15 154 a másik
+## A számok egyeznek
 
-A két szám nem ugyanazt a halmazt írja le, és a különbség teljesen elszámolható
-(ellenőrizve 2026-08-11):
-
-```
-14 831  idővonal (genre_catalog.json)
-  +325  a gráfban van, az idővonalban nincs
-        262 .m4a, 47 .wma, 15 .wav — az idővonal csak .mp3-at katalogizál
-        1 .mp3 — a `bizarring` kulcsszavas tiltólista, amit a gráf nem ismer
-    -1  az idővonalban van, a gráfban nincs
-        `_other/call of duty 2 hunidegbeteg.mp3` — közvetlenül az `_other/` alatt ül,
-        nem esik egyetlen gráf-terület alá sem (ez a katalógus `other: 1` sora)
--------
-15 154  gráf (data/*/normalized/songs.json összege)
-```
-
-A gráfban **egyetlen szám sincs kétszer** (15 154 sor, 15 154 különböző útvonal). Korábban
-14 igen: a `hungarian` és a `magyar` terület ugyanarra a 14 fájlra tartott igényt az
-`_other/_magyar/_cigany` fában. 2026-08-11-én átkerültek a `_magyar rap/G.w.M/` és
-`_magyar rap/Teswér/` mappákba — egy előadó, egy hely.
+Mérve 2026-10-08: gráf, idővonal-katalógus és CSV egyaránt **15 369** (nincs duplikált sor).
+A három ugyanazt a szűrést használja: `buildkit.is_blocked` / `BLOCKLIST_KEYWORDS`. Régebben
+mindegyik a saját listáját vezette, így a gráf 15 370-et, a katalógus 15 369-et mutatott.
+Az idővonal "Total songs" kártyája 15 363, amíg a tartomány 2004-01-től indul (6 fájl 1999 és
+2002 közötti); ilyenkor a címke "Songs in range (6 outside)".
 
 ## Források
 
