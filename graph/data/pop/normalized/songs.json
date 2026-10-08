@@ -19852,26 +19852,6 @@
   },
   {
     "song_id": "pp-00922",
-    "file": "_other\\_pop\\Pharrell Williams\\Swedish House Mafia - One (Radio Edit).mp3",
-    "title": "One",
-    "primary_artists": [
-      "Swedish House Mafia"
-    ],
-    "featuring_artists": [],
-    "artists": [
-      "Swedish House Mafia"
-    ],
-    "credits": [
-      {
-        "entity": "Swedish House Mafia",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
-  },
-  {
-    "song_id": "pp-00923",
     "file": "_other\\_pop\\Pharrell Williams\\You Know What - N.E.R.D.mp3",
     "title": "N.E.R.D",
     "primary_artists": [
@@ -19891,7 +19871,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00924",
+    "song_id": "pp-00923",
     "file": "_other\\_pop\\Pink\\Pink - Don_t Let Me Get Me.mp3",
     "title": "Don t Let Me Get Me",
     "primary_artists": [
@@ -19911,7 +19891,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00925",
+    "song_id": "pp-00924",
     "file": "_other\\_pop\\Pink\\Pink - Just Like A Pill.mp3",
     "title": "Just Like A Pill",
     "primary_artists": [
@@ -19931,7 +19911,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00926",
+    "song_id": "pp-00925",
     "file": "_other\\_pop\\Pink\\Pink - Perfect.mp3",
     "title": "Perfect",
     "primary_artists": [
@@ -19951,7 +19931,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00927",
+    "song_id": "pp-00926",
     "file": "_other\\_pop\\Pink\\Pink - So What.mp3",
     "title": "So What",
     "primary_artists": [
@@ -19971,7 +19951,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00928",
+    "song_id": "pp-00927",
     "file": "_other\\_pop\\Pink\\Pink - Sober.mp3",
     "title": "Sober",
     "primary_artists": [
@@ -19991,7 +19971,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00929",
+    "song_id": "pp-00928",
     "file": "_other\\_pop\\Pink\\Pink - U + Ur Hand.mp3",
     "title": "U + Ur Hand",
     "primary_artists": [
@@ -20011,7 +19991,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00930",
+    "song_id": "pp-00929",
     "file": "_other\\_pop\\Pitbull\\09 Pitbull - Timber (Feat.Ke$ha).mp3",
     "title": "Timber (",
     "primary_artists": [
@@ -20039,7 +20019,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00931",
+    "song_id": "pp-00930",
     "file": "_other\\_pop\\Pitbull\\Pitbull - Feel This Moment.mp3",
     "title": "Feel This Moment",
     "primary_artists": [
@@ -20059,7 +20039,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00932",
+    "song_id": "pp-00931",
     "file": "_other\\_pop\\Pitbull\\Pitbull - Give Me Everything.mp3",
     "title": "Give Me Everything",
     "primary_artists": [
@@ -20079,7 +20059,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00933",
+    "song_id": "pp-00932",
     "file": "_other\\_pop\\Pitbull\\Pitbull - I Know You Want Me (Calle Ocho).mp3",
     "title": "I Know You Want Me (Calle Ocho)",
     "primary_artists": [
@@ -20099,7 +20079,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00934",
+    "song_id": "pp-00933",
     "file": "_other\\_pop\\Rihanna\\01  Rihanna - Umbrella [Feat. Jay-Z].mp3",
     "title": "Umbrella [",
     "primary_artists": [
@@ -20127,7 +20107,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00935",
+    "song_id": "pp-00934",
     "file": "_other\\_pop\\Rihanna\\01 - S_M.mp3",
     "title": "S M",
     "primary_artists": [
@@ -20147,7 +20127,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00936",
+    "song_id": "pp-00935",
     "file": "_other\\_pop\\Rihanna\\03  Rihanna - Don_t Stop The Music.mp3",
     "title": "Don t Stop The Music",
     "primary_artists": [
@@ -20167,7 +20147,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00937",
+    "song_id": "pp-00936",
     "file": "_other\\_pop\\Rihanna\\03-rihanna-hard_(featuring_jeezy).mp3",
     "title": "rihanna-hard (",
     "primary_artists": [
@@ -20195,7 +20175,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00938",
+    "song_id": "pp-00937",
     "file": "_other\\_pop\\Rihanna\\05  Rihanna - Shut Up And Drive.mp3",
     "title": "Shut Up And Drive",
     "primary_artists": [
@@ -20215,7 +20195,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00939",
+    "song_id": "pp-00938",
     "file": "_other\\_pop\\Rihanna\\05_18 Rihanna - Pon De Replay.mp3",
     "title": "Pon De Replay",
     "primary_artists": [
@@ -20235,7 +20215,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00940",
+    "song_id": "pp-00939",
     "file": "_other\\_pop\\Rihanna\\10  Rihanna - Rehab.mp3",
     "title": "Rehab",
     "primary_artists": [
@@ -20255,7 +20235,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00941",
+    "song_id": "pp-00940",
     "file": "_other\\_pop\\Rihanna\\13  Rihanna - Cry [UK Bonus Track].mp3",
     "title": "Cry [UK Bonus Track]",
     "primary_artists": [
@@ -20275,7 +20255,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00942",
+    "song_id": "pp-00941",
     "file": "_other\\_pop\\Rihanna\\13. Rihanna - Stay (Feat. Mikky Ekko).mp3",
     "title": "Stay (",
     "primary_artists": [
@@ -20303,7 +20283,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00943",
+    "song_id": "pp-00942",
     "file": "_other\\_pop\\Rihanna\\2006-019 Rihanna - SOS.mp3",
     "title": "SOS",
     "primary_artists": [
@@ -20323,7 +20303,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00944",
+    "song_id": "pp-00943",
     "file": "_other\\_pop\\Rihanna\\2006-028 Rihanna - Unfaithful.mp3",
     "title": "Unfaithful",
     "primary_artists": [
@@ -20343,7 +20323,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00945",
+    "song_id": "pp-00944",
     "file": "_other\\_pop\\Rihanna\\48. Rihanna - Bitch Better Have My Money[www.musicbolt.com].mp3",
     "title": "Bitch Better Have My Money",
     "primary_artists": [
@@ -20363,7 +20343,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00946",
+    "song_id": "pp-00945",
     "file": "_other\\_pop\\Rihanna\\70. Rihanna - Pour It Up.mp3",
     "title": "Pour It Up",
     "primary_artists": [
@@ -20383,7 +20363,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00947",
+    "song_id": "pp-00946",
     "file": "_other\\_pop\\Rihanna\\Rihanna - ANTI (2016)\\03. Kiss It Better.mp3",
     "title": "Kiss It Better",
     "primary_artists": [
@@ -20403,7 +20383,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00948",
+    "song_id": "pp-00947",
     "file": "_other\\_pop\\Rihanna\\Rihanna - ANTI (2016)\\04. Work (feat. Drake).mp3",
     "title": "Work (",
     "primary_artists": [
@@ -20431,7 +20411,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00949",
+    "song_id": "pp-00948",
     "file": "_other\\_pop\\Rihanna\\Rihanna - ANTI (2016)\\07. Needed Me.mp3",
     "title": "Needed Me",
     "primary_artists": [
@@ -20451,7 +20431,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00950",
+    "song_id": "pp-00949",
     "file": "_other\\_pop\\Rihanna\\Rihanna - ANTI (2016)\\08. Yeah, I Said It.mp3",
     "title": "Yeah, I Said It",
     "primary_artists": [
@@ -20471,7 +20451,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00951",
+    "song_id": "pp-00950",
     "file": "_other\\_pop\\Rihanna\\Rihanna - ANTI (2016)\\10. Never Ending.mp3",
     "title": "Never Ending",
     "primary_artists": [
@@ -20491,7 +20471,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00952",
+    "song_id": "pp-00951",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Cockiness (Love It) (Audio).mp3",
     "title": "Cockiness (Love It) (Audio)",
     "primary_artists": [
@@ -20511,7 +20491,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00953",
+    "song_id": "pp-00952",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Diamonds.mp3",
     "title": "Diamonds",
     "primary_artists": [
@@ -20531,7 +20511,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00954",
+    "song_id": "pp-00953",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Disturbia.mp3",
     "title": "Disturbia",
     "primary_artists": [
@@ -20551,7 +20531,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00955",
+    "song_id": "pp-00954",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Love On The Brain (lyrics).mp3",
     "title": "Love On The Brain",
     "primary_artists": [
@@ -20571,7 +20551,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00956",
+    "song_id": "pp-00955",
     "file": "_other\\_pop\\Rihanna\\Rihanna - No Love Allowed (Audio).mp3",
     "title": "No Love Allowed (Audio)",
     "primary_artists": [
@@ -20591,7 +20571,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00957",
+    "song_id": "pp-00956",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Only Girl (In The World).mp3",
     "title": "Only Girl (In The World)",
     "primary_artists": [
@@ -20611,7 +20591,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00958",
+    "song_id": "pp-00957",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Right Now Feat. David Guetta.mp3",
     "title": "Right Now",
     "primary_artists": [
@@ -20639,7 +20619,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00959",
+    "song_id": "pp-00958",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Rude Boy.mp3",
     "title": "Rude Boy",
     "primary_artists": [
@@ -20659,7 +20639,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00960",
+    "song_id": "pp-00959",
     "file": "_other\\_pop\\Rihanna\\Rihanna - S&M.mp3",
     "title": "S&M",
     "primary_artists": [
@@ -20679,7 +20659,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00961",
+    "song_id": "pp-00960",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Sex With Me.mp3",
     "title": "Sex",
     "primary_artists": [
@@ -20699,7 +20679,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00962",
+    "song_id": "pp-00961",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Skin (Official Video).mp3",
     "title": "Skin",
     "primary_artists": [
@@ -20719,7 +20699,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00963",
+    "song_id": "pp-00962",
     "file": "_other\\_pop\\Rihanna\\Rihanna - take a bow.mp3",
     "title": "take a bow",
     "primary_artists": [
@@ -20739,7 +20719,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00964",
+    "song_id": "pp-00963",
     "file": "_other\\_pop\\Rihanna\\Rihanna - We Found Love ft. Calvin Harris.mp3",
     "title": "We Found Love",
     "primary_artists": [
@@ -20767,7 +20747,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00965",
+    "song_id": "pp-00964",
     "file": "_other\\_pop\\Rihanna\\Rihanna - We Found Love__1.mp3",
     "title": "We Found Love 1",
     "primary_artists": [
@@ -20787,7 +20767,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00966",
+    "song_id": "pp-00965",
     "file": "_other\\_pop\\Rihanna\\Rihanna - What Now (Official).mp3",
     "title": "What Now (Official)",
     "primary_artists": [
@@ -20807,7 +20787,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00967",
+    "song_id": "pp-00966",
     "file": "_other\\_pop\\Rihanna\\Rihanna - What's My Name.mp3",
     "title": "What's My Name",
     "primary_artists": [
@@ -20827,7 +20807,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00968",
+    "song_id": "pp-00967",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Where Have You Been.mp3",
     "title": "Where Have You Been",
     "primary_artists": [
@@ -20847,7 +20827,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00969",
+    "song_id": "pp-00968",
     "file": "_other\\_pop\\Rihanna\\Rihanna - yo-hate that i love you.mp3",
     "title": "yo-hate that i love you",
     "primary_artists": [
@@ -20867,7 +20847,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00970",
+    "song_id": "pp-00969",
     "file": "_other\\_pop\\Rihanna\\Rihanna - You Da One.mp3",
     "title": "You Da One",
     "primary_artists": [
@@ -20887,7 +20867,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00971",
+    "song_id": "pp-00970",
     "file": "_other\\_pop\\Rihanna\\Rihanna Featuring Jeezy - Hard.mp3",
     "title": "Hard",
     "primary_artists": [
@@ -20915,7 +20895,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00972",
+    "song_id": "pp-00971",
     "file": "_other\\_pop\\Sam Smith\\18 Sam Smith - Money On My Mind.mp3",
     "title": "Money On My Mind",
     "primary_artists": [
@@ -20935,7 +20915,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00973",
+    "song_id": "pp-00972",
     "file": "_other\\_pop\\Sam Smith\\Sam Smith - Dancing With A Stranger.mp3",
     "title": "Dancing",
     "primary_artists": [
@@ -20963,7 +20943,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00974",
+    "song_id": "pp-00973",
     "file": "_other\\_pop\\Sam Smith\\Sam Smith - I_m Not The Only One.mp3",
     "title": "I m Not The Only One",
     "primary_artists": [
@@ -20983,7 +20963,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00975",
+    "song_id": "pp-00974",
     "file": "_other\\_pop\\Sam Smith\\Sam Smith - Stay With Me.mp3",
     "title": "Stay",
     "primary_artists": [
@@ -21003,7 +20983,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00976",
+    "song_id": "pp-00975",
     "file": "_other\\_pop\\Sean Kingston\\Sean Kingston - Beautiful Girls (Official Music Video).mp3",
     "title": "Beautiful Girls",
     "primary_artists": [
@@ -21023,7 +21003,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00977",
+    "song_id": "pp-00976",
     "file": "_other\\_pop\\Sean Kingston\\Sean Kingston - Fire Burning.mp3",
     "title": "Fire Burning",
     "primary_artists": [
@@ -21043,7 +21023,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00978",
+    "song_id": "pp-00977",
     "file": "_other\\_pop\\Sean Kingston\\Sean Kingston - take you there.mp3",
     "title": "take you there",
     "primary_artists": [
@@ -21063,7 +21043,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00979",
+    "song_id": "pp-00978",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul - Get Busy.mp3",
     "title": "Get Busy",
     "primary_artists": [
@@ -21083,7 +21063,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00980",
+    "song_id": "pp-00979",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul - Got 2 Luv U (Feat. Alexis Jordan).mp3",
     "title": "Got 2 Luv U (",
     "primary_artists": [
@@ -21111,7 +21091,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00981",
+    "song_id": "pp-00980",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul - Like Glue.mp3",
     "title": "Like Glue",
     "primary_artists": [
@@ -21131,7 +21111,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00982",
+    "song_id": "pp-00981",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul - She Doesn_t Mind (Final).mp3",
     "title": "She Doesn t Mind (Final)",
     "primary_artists": [
@@ -21151,7 +21131,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00983",
+    "song_id": "pp-00982",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul - Temperature.mp3",
     "title": "Temperature",
     "primary_artists": [
@@ -21171,7 +21151,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00984",
+    "song_id": "pp-00983",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul - We Be Burnin.mp3",
     "title": "We Be Burnin",
     "primary_artists": [
@@ -21191,7 +21171,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00985",
+    "song_id": "pp-00984",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul Featuring Keyshia Cole - (When You Gonna) Give It Up To Me.mp3",
     "title": "(When You Gonna) Give It Up To Me",
     "primary_artists": [
@@ -21219,7 +21199,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00986",
+    "song_id": "pp-00985",
     "file": "_other\\_pop\\Sean Paul\\Sean Paul Featuring Sasha - I_m Still In Love With You.mp3",
     "title": "I m Still In Love With You",
     "primary_artists": [
@@ -21247,7 +21227,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00987",
+    "song_id": "pp-00986",
     "file": "_other\\_pop\\Selena Gomez\\Selena Gomez - Come _ Get It.mp3",
     "title": "Come Get It",
     "primary_artists": [
@@ -21267,7 +21247,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00988",
+    "song_id": "pp-00987",
     "file": "_other\\_pop\\Selena Gomez\\Selena Gomez - Good For You.mp3",
     "title": "Good For You",
     "primary_artists": [
@@ -21287,7 +21267,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00989",
+    "song_id": "pp-00988",
     "file": "_other\\_pop\\Selena Gomez\\Selena Gomez - Hands To Myself.mp3",
     "title": "Hands To Myself",
     "primary_artists": [
@@ -21307,7 +21287,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00990",
+    "song_id": "pp-00989",
     "file": "_other\\_pop\\Selena Gomez\\Selena Gomez - Kill Em With Kindness.mp3",
     "title": "Kill Em",
     "primary_artists": [
@@ -21335,7 +21315,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00991",
+    "song_id": "pp-00990",
     "file": "_other\\_pop\\Selena Gomez\\Selena Gomez - Same Old Love.mp3",
     "title": "Same Old Love",
     "primary_artists": [
@@ -21355,7 +21335,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00992",
+    "song_id": "pp-00991",
     "file": "_other\\_pop\\Selena Gomez\\Selena Gomez - Wolves.mp3",
     "title": "Wolves",
     "primary_artists": [
@@ -21375,7 +21355,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00993",
+    "song_id": "pp-00992",
     "file": "_other\\_pop\\Shawn Mendes\\Shawn Mendes - I Know What You Did Last Summer.mp3",
     "title": "I Know What You Did Last Summer",
     "primary_artists": [
@@ -21395,7 +21375,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00994",
+    "song_id": "pp-00993",
     "file": "_other\\_pop\\Shawn Mendes\\Shawn Mendes - If I Can_t Have You.mp3",
     "title": "If I Can t Have You",
     "primary_artists": [
@@ -21415,7 +21395,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00995",
+    "song_id": "pp-00994",
     "file": "_other\\_pop\\Shawn Mendes\\Shawn Mendes - Señorita.mp3",
     "title": "Señorita",
     "primary_artists": [
@@ -21435,7 +21415,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00996",
+    "song_id": "pp-00995",
     "file": "_other\\_pop\\Shawn Mendes\\Shawn Mendes - Stitches.mp3",
     "title": "Stitches",
     "primary_artists": [
@@ -21455,7 +21435,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00997",
+    "song_id": "pp-00996",
     "file": "_other\\_pop\\Shawn Mendes\\Shawn Mendes - There_s Nothing Holdin_ Me Back.mp3",
     "title": "There s Nothing Holdin Me Back",
     "primary_artists": [
@@ -21475,7 +21455,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00998",
+    "song_id": "pp-00997",
     "file": "_other\\_pop\\Shawn Mendes\\Shawn Mendes - Treat You Better.mp3",
     "title": "Treat You Better",
     "primary_artists": [
@@ -21495,7 +21475,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-00999",
+    "song_id": "pp-00998",
     "file": "_other\\_pop\\Sia\\32 Sia - Chandelier.mp3",
     "title": "Chandelier",
     "primary_artists": [
@@ -21515,7 +21495,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01000",
+    "song_id": "pp-00999",
     "file": "_other\\_pop\\Sia\\Sia - Cheap Thrills (Lyric Video) ft. Sean Paul.mp3",
     "title": "Cheap Thrills",
     "primary_artists": [
@@ -21543,7 +21523,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01001",
+    "song_id": "pp-01000",
     "file": "_other\\_pop\\Sia\\Sia - Cheap Thrills.mp3",
     "title": "Cheap Thrills",
     "primary_artists": [
@@ -21563,7 +21543,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01002",
+    "song_id": "pp-01001",
     "file": "_other\\_pop\\Sia\\Sia - Elastic Heart feat. Shia LaBeouf _ Maddie Ziegler (Official Video).mp3",
     "title": "Elastic Heart",
     "primary_artists": [
@@ -21591,7 +21571,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01003",
+    "song_id": "pp-01002",
     "file": "_other\\_pop\\Sia\\Sia - Elastic Heart.mp3",
     "title": "Elastic Heart",
     "primary_artists": [
@@ -21611,7 +21591,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01004",
+    "song_id": "pp-01003",
     "file": "_other\\_pop\\Sugababes\\About You Now.mp3",
     "title": "About You Now",
     "primary_artists": [
@@ -21631,7 +21611,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01005",
+    "song_id": "pp-01004",
     "file": "_other\\_pop\\Sugababes\\Get Sexy.mp3",
     "title": "Get Sexy",
     "primary_artists": [
@@ -21651,7 +21631,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01006",
+    "song_id": "pp-01005",
     "file": "_other\\_pop\\Sugababes\\Hole In The Head.mp3",
     "title": "Hole In The Head",
     "primary_artists": [
@@ -21671,7 +21651,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01007",
+    "song_id": "pp-01006",
     "file": "_other\\_pop\\Sugababes\\One Foot In.mp3",
     "title": "One Foot In",
     "primary_artists": [
@@ -21691,7 +21671,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01008",
+    "song_id": "pp-01007",
     "file": "_other\\_pop\\Sugababes\\Push The Button.mp3",
     "title": "Push The Button",
     "primary_artists": [
@@ -21711,7 +21691,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01009",
+    "song_id": "pp-01008",
     "file": "_other\\_pop\\Sugababes\\Round Round.mp3",
     "title": "Round Round",
     "primary_artists": [
@@ -21731,7 +21711,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01010",
+    "song_id": "pp-01009",
     "file": "_other\\_pop\\Sugababes\\Round.mp3",
     "title": "Round",
     "primary_artists": [
@@ -21751,7 +21731,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01011",
+    "song_id": "pp-01010",
     "file": "_other\\_pop\\Taylor Swift\\011-Taylor Swift-You Belong With Me.mp3",
     "title": "Taylor Swift-You Belong",
     "primary_artists": [
@@ -21771,7 +21751,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01012",
+    "song_id": "pp-01011",
     "file": "_other\\_pop\\Taylor Swift\\074 Back To December.mp3",
     "title": "074 Back To December",
     "primary_artists": [
@@ -21791,7 +21771,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01013",
+    "song_id": "pp-01012",
     "file": "_other\\_pop\\Taylor Swift\\076-Taylor Swift-White Horse.mp3",
     "title": "Taylor Swift-White Horse",
     "primary_artists": [
@@ -21811,7 +21791,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01014",
+    "song_id": "pp-01013",
     "file": "_other\\_pop\\Taylor Swift\\10 illicit affairs.mp3",
     "title": "illicit affairs",
     "primary_artists": [
@@ -21831,7 +21811,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01015",
+    "song_id": "pp-01014",
     "file": "_other\\_pop\\Taylor Swift\\14 Taylor Swift - Shake It Off.mp3",
     "title": "Shake It Off",
     "primary_artists": [
@@ -21851,7 +21831,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01016",
+    "song_id": "pp-01015",
     "file": "_other\\_pop\\Taylor Swift\\16. Taylor Swift - I Knew You Were Trouble.mp3",
     "title": "I Knew You Were Trouble",
     "primary_artists": [
@@ -21871,7 +21851,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01017",
+    "song_id": "pp-01016",
     "file": "_other\\_pop\\Taylor Swift\\64 Taylor Swift - Blank Space.mp3",
     "title": "Blank Space",
     "primary_artists": [
@@ -21891,7 +21871,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01018",
+    "song_id": "pp-01017",
     "file": "_other\\_pop\\Taylor Swift\\I Don_t Wanna Live Forever-ZAYN Taylor Swift Lyrics+Pictures.mp3",
     "title": "I Don t Wanna Live Forever-ZAYN Taylor Swift +Pictures",
     "primary_artists": [
@@ -21911,7 +21891,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01019",
+    "song_id": "pp-01018",
     "file": "_other\\_pop\\Taylor Swift\\Taylor Swift - Wildest Dreams.mp3",
     "title": "Wildest Dreams",
     "primary_artists": [
@@ -21931,7 +21911,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01020",
+    "song_id": "pp-01019",
     "file": "_other\\_pop\\Taylor Swift\\ZAYN, Taylor Swift - I Don’t Wanna Live Forever (Fifty Shades Darker).mp3",
     "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
     "primary_artists": [
@@ -21958,7 +21938,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01021",
+    "song_id": "pp-01020",
     "file": "_other\\_pop\\The Black Eyed Peas\\Black Eyed Peas - Hey Mama.mp3",
     "title": "Hey Mama",
     "primary_artists": [
@@ -21978,7 +21958,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01022",
+    "song_id": "pp-01021",
     "file": "_other\\_pop\\The Black Eyed Peas\\Black Eyed Peas - Let_s Get It Started.mp3",
     "title": "Let s Get It Started",
     "primary_artists": [
@@ -21998,7 +21978,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01023",
+    "song_id": "pp-01022",
     "file": "_other\\_pop\\The Black Eyed Peas\\The Black Eyed Peas - Just Can't Get Enough.mp3",
     "title": "Just Can't Get Enough",
     "primary_artists": [
@@ -22018,7 +21998,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01024",
+    "song_id": "pp-01023",
     "file": "_other\\_pop\\The Black Eyed Peas\\The Black Eyed Peas - Meet Me Halfway.mp3",
     "title": "Meet Me Halfway",
     "primary_artists": [
@@ -22038,7 +22018,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01025",
+    "song_id": "pp-01024",
     "file": "_other\\_pop\\The Black Eyed Peas\\The Black Eyed Peas - My Humps.mp3",
     "title": "My Humps",
     "primary_artists": [
@@ -22058,7 +22038,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01026",
+    "song_id": "pp-01025",
     "file": "_other\\_pop\\The Black Eyed Peas\\The Black Eyed Peas - Pump It.mp3",
     "title": "Pump It",
     "primary_artists": [
@@ -22078,7 +22058,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01027",
+    "song_id": "pp-01026",
     "file": "_other\\_pop\\The Black Eyed Peas\\The Black Eyed Peas - The Time (Dirty Bit).mp3",
     "title": "The Time (Dirty Bit)",
     "primary_artists": [
@@ -22098,7 +22078,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01028",
+    "song_id": "pp-01027",
     "file": "_other\\_pop\\The Neighbourhood - Sweater Weather (Official Video).mp3",
     "title": "Sweater Weather",
     "primary_artists": [
@@ -22118,7 +22098,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01029",
+    "song_id": "pp-01028",
     "file": "_other\\_pop\\The Pussycat Dolls\\A.R. Rahman, The Pussycat Dolls - Jai Ho (You Are My Destiny) ft. Nicole Scherzinger.mp3",
     "title": "Jai Ho (You Are My Destiny)",
     "primary_artists": [
@@ -22153,7 +22133,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01030",
+    "song_id": "pp-01029",
     "file": "_other\\_pop\\The Pussycat Dolls\\Halo.mp3",
     "title": "Halo",
     "primary_artists": [
@@ -22173,7 +22153,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01031",
+    "song_id": "pp-01030",
     "file": "_other\\_pop\\The Pussycat Dolls\\Pussycat Dolls - Sway.mp3",
     "title": "Sway",
     "primary_artists": [
@@ -22193,7 +22173,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01032",
+    "song_id": "pp-01031",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls - Beep ft_ will_i_am.mp3",
     "title": "Beep",
     "primary_artists": [
@@ -22221,7 +22201,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01033",
+    "song_id": "pp-01032",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls - Don_t Cha.mp3",
     "title": "Don t Cha",
     "primary_artists": [
@@ -22241,7 +22221,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01034",
+    "song_id": "pp-01033",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls - Hush Hush_ Hush Hush (Official Music Video).mp3",
     "title": "Hush Hush Hush Hush",
     "primary_artists": [
@@ -22261,7 +22241,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01035",
+    "song_id": "pp-01034",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls - I Hate This Part.mp3",
     "title": "I Hate This Part",
     "primary_artists": [
@@ -22281,7 +22261,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01036",
+    "song_id": "pp-01035",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls - I Hate This Part__1.mp3",
     "title": "I Hate This Part 1",
     "primary_artists": [
@@ -22301,7 +22281,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01037",
+    "song_id": "pp-01036",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls - Out Of This Club Ft. R.mp3",
     "title": "Out Of This Club",
     "primary_artists": [
@@ -22321,7 +22301,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01038",
+    "song_id": "pp-01037",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls Featuring Snoop Dogg - Buttons.mp3",
     "title": "Buttons",
     "primary_artists": [
@@ -22349,7 +22329,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01039",
+    "song_id": "pp-01038",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls Featuring will.i.am - Beep.mp3",
     "title": "Beep",
     "primary_artists": [
@@ -22377,7 +22357,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01040",
+    "song_id": "pp-01039",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls ft. Avant - Stickwitu (Official Video).mp3",
     "title": "Stickwitu",
     "primary_artists": [
@@ -22405,7 +22385,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01041",
+    "song_id": "pp-01040",
     "file": "_other\\_pop\\The Pussycat Dolls\\The Pussycat Dolls ft. Timbaland - Wait A Minute.mp3",
     "title": "Wait A Minute",
     "primary_artists": [
@@ -22433,7 +22413,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01042",
+    "song_id": "pp-01041",
     "file": "_other\\_pop\\Tove Lo\\56 Tove Lo - Habits (Stay High).mp3",
     "title": "Habits (Stay High)",
     "primary_artists": [
@@ -22453,7 +22433,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01043",
+    "song_id": "pp-01042",
     "file": "_other\\_pop\\Tove Lo\\Tove Lo - Cool Girl (Part of Fairy Dust).mp3",
     "title": "Cool Girl (Part of Fairy Dust)",
     "primary_artists": [
@@ -22473,7 +22453,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01044",
+    "song_id": "pp-01043",
     "file": "_other\\_pop\\Tove Lo\\Tove Lo - Talking Body.mp3",
     "title": "Talking Body",
     "primary_artists": [
@@ -22493,7 +22473,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01045",
+    "song_id": "pp-01044",
     "file": "_other\\_pop\\Yeah Yeah Yeahs - Heads Will Roll (Official Music Video).mp3",
     "title": "Heads Will Roll",
     "primary_artists": [
@@ -22513,7 +22493,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01046",
+    "song_id": "pp-01045",
     "file": "_other\\_pop\\Zayn\\09. Wrong (Feat. Kehlani).mp3",
     "title": "Wrong (",
     "primary_artists": [
@@ -22541,7 +22521,7 @@
     "attribution_status": "attributed"
   },
   {
-    "song_id": "pp-01047",
+    "song_id": "pp-01046",
     "file": "_other\\_pop\\Zayn\\Zayn - Pillowtalk (Official Video).mp3",
     "title": "Pillowtalk",
     "primary_artists": [
